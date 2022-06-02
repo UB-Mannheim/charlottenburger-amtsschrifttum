@@ -1,0 +1,867 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2022-05-06T13:44:10.861+02:00</Created>
+        <LastChange>2022-05-31T14:25:49.584+02:00</LastChange>
+        <Comments>
+                Measurement unit: pixel
+                PrimaryLanguage: 
+                Producer: Transkribus
+            </Comments>
+        <TranskribusMetadata docId="988838" pageId="38236864" pageNr="1" tsid="87252172" status="GT" userId="48446" imgUrl="https://files.transkribus.eu/Get?id=HPGVSCMRUTNMZTAONKIZZHIB&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=QDKJWBJHETGNGDOZASZIMQGG" imageId="30799948"/>
+    </Metadata>
+    <Page imageFilename="00000029.png" imageWidth="2278" imageHeight="3614">
+        <PrintSpace>
+            <Coords points="0,1 2278,1 2278,3613 0,3613"/>
+        </PrintSpace>
+        <ReadingOrder>
+            <OrderedGroup id="ro_1654038770491" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r_1_1"/>
+                <RegionRefIndexed index="1" regionRef="r_2_1"/>
+                <RegionRefIndexed index="2" regionRef="r_3_1"/>
+                <RegionRefIndexed index="3" regionRef="r_4_1"/>
+                <RegionRefIndexed index="4" regionRef="r_5_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion type="page-number" id="r_1_1" custom="readingOrder {index:0;} structure {type:page-number;}">
+            <Coords points="1117,85 1167,85 1167,133 1117,133"/>
+            <TextLine id="r_1_1l0" custom="readingOrder {index:0;}">
+                <Coords points="1123,95 1144,91 1144,91 1162,91 1162,128 1144,128 1123,127"/>
+                <Baseline points="1123,127 1162,128"/>
+                <TextEquiv>
+                    <Unicode>17</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>17</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r_2_1" custom="readingOrder {index:1;} structure {type:paragraph;}">
+            <Coords points="215,342 2067,342 2067,776 215,776"/>
+            <TextLine id="r_2_1l0" custom="readingOrder {index:0;}">
+                <Coords points="850,353 979,351 979,351 1133,351 1446,375 1446,441 1288,462 979,462 850,445"/>
+                <Baseline points="850,445 1446,441"/>
+                <TextEquiv>
+                    <Unicode>Vorlagen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l1" custom="readingOrder {index:1;}">
+                <Coords points="1086,505 1120,505 1192,506 1210,516 1210,541 1120,545 1086,545"/>
+                <Baseline points="1086,539 1137,540 1162,540 1210,541"/>
+                <TextEquiv>
+                    <Unicode>für die</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l2" custom="readingOrder {index:2;}">
+                <Coords points="221,593 837,592 837,592 1083,592 1941,594 2061,614 2061,681 1083,682 221,682"/>
+                <Baseline points="221,663 1343,662 1391,662 1461,662 1507,663 2061,662"/>
+                <TextEquiv>
+                    <Unicode>Stadtverordneten⸗Verſammlung zu Charlottenburg.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l3" custom="readingOrder {index:3;}">
+                <Coords points="849,724 878,724 1216,725 1343,726 1412,735 1429,750 1429,760 1412,768 1216,769 1101,769 926,767 849,764"/>
+                <Baseline points="849,757 901,758 926,758 1012,759 1035,759 1251,760 1274,760 1429,760"/>
+                <TextEquiv>
+                    <Unicode>In nicht öffentlicher Sitzung.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Vorlagen
+für die
+Stadtverordneten⸗Verſammlung zu Charlottenburg.
+In nicht öffentlicher Sitzung.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r_3_1" custom="readingOrder {index:2;} structure {type:paragraph;}">
+            <Coords points="156,970 1139,970 1139,3277 156,3277"/>
+            <TextLine id="r_3_1l0" custom="readingOrder {index:0;}">
+                <Coords points="477,978 653,978 742,979 787,980 809,982 822,1004 822,1014 653,1020 495,1020 477,1012"/>
+                <Baseline points="477,1012 667,1012 689,1012 754,1013 769,1013 822,1014"/>
+                <TextEquiv>
+                    <Unicode>Druckſache Nr. 15.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l1" custom="readingOrder {index:1;}">
+                <Coords points="168,1040 826,1036 826,1036 1027,1036 1125,1044 1125,1077 1027,1088 826,1088 189,1081 168,1074"/>
+                <Baseline points="168,1073 324,1074 343,1074 430,1074 448,1074 698,1074 718,1075 780,1075 805,1075 901,1076 917,1076 1027,1077 1041,1077 1125,1077"/>
+                <TextEquiv>
+                    <Unicode>Vorlage betr. Veräußerung des Grundſtücks Bis⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l2" custom="readingOrder {index:2;}">
+                <Coords points="503,1093 524,1086 524,1086 697,1086 794,1088 794,1120 697,1126 658,1127 524,1127 503,1118"/>
+                <Baseline points="503,1118 717,1119 742,1119 794,1120"/>
+                <TextEquiv>
+                    <Unicode>marckſtraße 94.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l3" custom="readingOrder {index:3;}">
+                <Coords points="174,1146 502,1146 602,1147 667,1148 683,1150 726,1158 726,1180 502,1187 259,1187 245,1186 174,1178"/>
+                <Baseline points="174,1178 230,1178 245,1178 502,1179 539,1179 602,1180 625,1180 726,1180"/>
+                <TextEquiv>
+                    <Unicode>Urſchriftlich mit Akten</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l4" custom="readingOrder {index:4;}">
+                <Coords points="291,1199 359,1190 359,1190 868,1190 938,1192 1006,1203 1006,1234 460,1234 291,1222"/>
+                <Baseline points="291,1222 335,1222 359,1222 410,1223 438,1223 1006,1225"/>
+                <TextEquiv>
+                    <Unicode>an die Stadtverordnetenverſammlung</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l5" custom="readingOrder {index:5;}">
+                <Coords points="173,1243 211,1233 211,1233 221,1233 688,1235 755,1236 813,1247 813,1269 755,1276 359,1276 173,1267"/>
+                <Baseline points="173,1266 237,1267 259,1267 336,1267 359,1267 516,1267 542,1268 582,1268 604,1268 813,1269"/>
+                <TextEquiv>
+                    <Unicode>mit dem Antrage, zu beſchließen:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l6" custom="readingOrder {index:6;}">
+                <Coords points="228,1279 283,1278 283,1278 581,1278 1107,1281 1126,1285 1126,1314 1091,1321 564,1321 487,1320 228,1310"/>
+                <Baseline points="228,1310 256,1310 283,1311 348,1311 371,1311 612,1312 633,1312 691,1312 711,1312 895,1313 917,1313 1126,1314"/>
+                <TextEquiv>
+                    <Unicode>1. Die Veräußerung des ſtädtiſchen Grundſtücks</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l7" custom="readingOrder {index:7;}">
+                <Coords points="284,1323 316,1322 316,1322 367,1322 848,1324 1086,1325 1108,1328 1127,1335 1127,1358 1086,1366 760,1366 344,1364 284,1357"/>
+                <Baseline points="284,1356 551,1356 571,1356 613,1356 631,1356 708,1357 728,1357 898,1358 917,1358 973,1358 996,1358 1127,1352"/>
+                <TextEquiv>
+                    <Unicode>Bismarckſtraße 94 nach Maßgabe der Offerte</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l8" custom="readingOrder {index:8;}">
+                <Coords points="281,1368 366,1367 366,1367 394,1367 1004,1369 1104,1370 1126,1371 1126,1402 885,1409 442,1409 281,1401"/>
+                <Baseline points="281,1401 339,1401 366,1401 580,1401 607,1401 716,1402 734,1402 885,1402 905,1402 948,1402 964,1402 1024,1402 1043,1402 1126,1402"/>
+                <TextEquiv>
+                    <Unicode>des Kaufmanns Franz Eheſtädt — Nr. 1700</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l9" custom="readingOrder {index:9;}">
+                <Coords points="281,1412 618,1412 1016,1413 1127,1417 1127,1446 1055,1454 968,1454 381,1453 281,1443"/>
+                <Baseline points="281,1443 339,1443 357,1443 683,1445 700,1445 754,1445 773,1445 857,1445 875,1445 933,1445 949,1445 1127,1446"/>
+                <TextEquiv>
+                    <Unicode>des Notariatsregiſters für 1909 des Juſtizrats</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l10" custom="readingOrder {index:10;}">
+                <Coords points="283,1454 370,1454 765,1456 812,1458 812,1488 785,1497 611,1497 396,1495 283,1487"/>
+                <Baseline points="283,1486 415,1487 439,1487 483,1487 506,1487 586,1488 611,1488 812,1488"/>
+                <TextEquiv>
+                    <Unicode>Bading — wird genehmigt.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l11" custom="readingOrder {index:11;}">
+                <Coords points="226,1498 282,1497 282,1497 314,1497 757,1499 1128,1501 1128,1542 1092,1542 566,1541 248,1529 226,1528"/>
+                <Baseline points="226,1520 255,1529 282,1529 351,1530 376,1530 439,1530 463,1531 520,1531 548,1531 788,1533 816,1533 945,1533 971,1534 1068,1534 1092,1534 1128,1534"/>
+                <TextEquiv>
+                    <Unicode>2. Der aus der Veräußerung erzielte Erlös iſt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l12" custom="readingOrder {index:12;}">
+                <Coords points="281,1540 300,1540 592,1541 957,1545 978,1554 978,1578 957,1586 849,1586 439,1584 281,1573"/>
+                <Baseline points="281,1573 357,1574 381,1574 744,1577 765,1577 978,1578"/>
+                <TextEquiv>
+                    <Unicode>dem Bismarckſtraßenetat zuzuführen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l13" custom="readingOrder {index:13;}">
+                <Coords points="262,1594 294,1594 888,1597 1089,1599 1128,1609 1128,1632 1035,1640 825,1640 371,1637 262,1627"/>
+                <Baseline points="262,1626 336,1627 371,1627 641,1629 676,1629 769,1630 808,1630 1035,1631 1071,1632 1128,1632"/>
+                <TextEquiv>
+                    <Unicode>Das vertragsgemäß durch Vermittlung der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l14" custom="readingOrder {index:14;}">
+                <Coords points="176,1638 396,1638 746,1639 974,1642 1034,1644 1113,1653 1127,1658 1127,1670 1113,1676 1034,1684 892,1684 455,1681 194,1679 176,1672"/>
+                <Baseline points="176,1672 396,1672 433,1672 746,1674 779,1674 856,1674 892,1675 1034,1676 1070,1676 1127,1667"/>
+                <TextEquiv>
+                    <Unicode>Berliniſchen Bodengeſellſchaft zum Verkauf an⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l15" custom="readingOrder {index:15;}">
+                <Coords points="174,1691 187,1681 187,1681 316,1681 714,1684 1080,1687 1110,1688 1127,1702 1127,1714 1102,1720 917,1726 842,1726 174,1723"/>
+                <Baseline points="174,1713 316,1714 336,1714 528,1716 544,1716 580,1716 597,1716 654,1717 673,1717 748,1717 766,1717 824,1718 842,1718 954,1719 975,1719 1127,1711"/>
+                <TextEquiv>
+                    <Unicode>geſtellte Grundſtück iſt der Reſt des früher Gellert'⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l16" custom="readingOrder {index:16;}">
+                <Coords points="175,1725 218,1725 483,1726 726,1727 1114,1730 1128,1745 1128,1757 1114,1763 791,1769 703,1769 175,1765"/>
+                <Baseline points="175,1757 263,1758 292,1758 501,1759 528,1759 572,1760 597,1760 654,1760 683,1760 838,1762 863,1762 920,1762 950,1763 1128,1754"/>
+                <TextEquiv>
+                    <Unicode>ſchen Grundſtücks an der Südſeite der Bismarck⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l17" custom="readingOrder {index:17;}">
+                <Coords points="176,1769 463,1769 1027,1774 1128,1785 1128,1807 1103,1808 463,1811 388,1811 176,1809"/>
+                <Baseline points="176,1801 288,1801 312,1802 463,1803 485,1803 541,1803 565,1803 748,1805 769,1805 837,1806 861,1806 918,1806 943,1807 1128,1801"/>
+                <TextEquiv>
+                    <Unicode>ſtraße, zwiſchen der Weimarer und der Krummen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l18" custom="readingOrder {index:18;}">
+                <Coords points="179,1813 396,1813 741,1815 1070,1819 1091,1820 1127,1830 1127,1850 1046,1859 1039,1859 458,1855 265,1853 179,1847"/>
+                <Baseline points="179,1847 314,1846 351,1846 425,1847 439,1847 631,1848 642,1848 698,1849 711,1849 783,1849 797,1849 904,1850 916,1850 982,1851 996,1851 1127,1845"/>
+                <TextEquiv>
+                    <Unicode>Straße. Das Grundſtück hat eine Front von 16,92m</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l19" custom="readingOrder {index:19;}">
+                <Coords points="176,1866 238,1857 238,1857 396,1857 713,1860 1010,1863 1052,1864 1127,1874 1127,1894 1092,1906 1068,1906 333,1900 176,1890"/>
+                <Baseline points="176,1890 220,1890 238,1890 294,1891 313,1891 580,1892 596,1892 663,1893 683,1893 755,1894 776,1894 887,1894 906,1895 972,1895 989,1895 1052,1896 1068,1896 1127,1894"/>
+                <TextEquiv>
+                    <Unicode>an der Bismarckſtraße und eine Größe von 930 qm</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l20" custom="readingOrder {index:20;}">
+                <Coords points="177,1911 199,1902 199,1902 662,1902 1104,1907 1128,1910 1128,1949 1085,1949 814,1948 319,1944 177,1934"/>
+                <Baseline points="177,1934 254,1934 275,1934 372,1935 400,1935 662,1937 707,1938 776,1938 798,1938 978,1940 998,1940 1128,1941"/>
+                <TextEquiv>
+                    <Unicode>oder 65,56 Quadratruten. Der Kaufpreis beträgt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l21" custom="readingOrder {index:21;}">
+                <Coords points="180,1947 456,1947 1086,1951 1125,1961 1125,1984 738,1990 727,1990 373,1988 180,1977"/>
+                <Baseline points="180,1977 238,1978 255,1978 318,1978 331,1978 380,1979 394,1979 424,1979 437,1979 468,1980 481,1980 565,1981 580,1981 663,1981 690,1981 708,1981 727,1982 780,1982 793,1982 865,1983 885,1983 1125,1978"/>
+                <TextEquiv>
+                    <Unicode>121 280 ℳ, d. h. rund 1850 ℳ für eine Quadratrute.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l22" custom="readingOrder {index:22;}">
+                <Coords points="178,1989 248,1989 785,1992 1105,1994 1127,1996 1127,2035 1105,2036 838,2036 224,2030 178,2021"/>
+                <Baseline points="178,2013 263,2022 291,2022 366,2023 393,2023 456,2023 482,2023 538,2024 568,2025 785,2026 815,2027 1127,2027"/>
+                <TextEquiv>
+                    <Unicode>Nach dem mit der Berliniſchen Bodengeſellſchaft</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l23" custom="readingOrder {index:23;}">
+                <Coords points="177,2042 217,2033 246,2032 246,2032 406,2032 1032,2039 1128,2049 1128,2071 899,2079 881,2079 457,2077 246,2074 177,2073"/>
+                <Baseline points="177,2065 406,2067 437,2067 597,2069 624,2069 660,2069 688,2069 744,2070 776,2070 1054,2071 1084,2072 1128,2065"/>
+                <TextEquiv>
+                    <Unicode>geſchloſſenen Vertrage iſt der Stadtgemeinde an</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l24" custom="readingOrder {index:24;}">
+                <Coords points="178,2077 546,2077 1019,2081 1129,2093 1129,2115 1019,2123 705,2123 295,2120 178,2109"/>
+                <Baseline points="178,2109 234,2110 279,2110 546,2112 590,2113 644,2113 688,2113 1019,2115 1063,2115 1129,2115"/>
+                <TextEquiv>
+                    <Unicode>der Bismarckſtraße ein Durchſchnittspreis von</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l25" custom="readingOrder {index:25;}">
+                <Coords points="181,2121 201,2120 201,2120 220,2120 943,2126 982,2128 1128,2137 1128,2160 1067,2168 1052,2168 858,2167 356,2163 181,2152"/>
+                <Baseline points="181,2152 262,2153 290,2153 327,2154 356,2154 410,2155 435,2156 486,2156 521,2157 749,2158 776,2158 832,2159 858,2159 1026,2160 1052,2160 1128,2160"/>
+                <TextEquiv>
+                    <Unicode>1925 ℳ für die Quadratrute der geſamten zum</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l26" custom="readingOrder {index:26;}">
+                <Coords points="180,2164 295,2164 751,2168 960,2171 1021,2173 1021,2204 860,2213 829,2213 551,2211 199,2207 180,2198"/>
+                <Baseline points="180,2197 320,2199 343,2199 508,2201 531,2202 806,2203 829,2204 1021,2204"/>
+                <TextEquiv>
+                    <Unicode>Verkauf geſtellten Reſtgrundſtücke garantiert.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l27" custom="readingOrder {index:27;}">
+                <Coords points="264,2210 296,2210 1110,2217 1127,2227 1127,2250 990,2257 892,2257 392,2254 264,2244"/>
+                <Baseline points="264,2244 338,2244 376,2244 529,2246 565,2246 736,2247 772,2247 847,2248 884,2248 1035,2249 1071,2249 1127,2250"/>
+                <TextEquiv>
+                    <Unicode>Das Angebot entſpricht dem zwiſchen der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l28" custom="readingOrder {index:28;}">
+                <Coords points="180,2253 210,2253 824,2258 1031,2260 1086,2263 1128,2271 1128,2293 856,2299 667,2299 285,2296 180,2287"/>
+                <Baseline points="180,2286 456,2289 483,2289 552,2289 581,2290 637,2290 667,2291 872,2292 899,2292 1128,2293"/>
+                <TextEquiv>
+                    <Unicode>Stadtgemeinde und der Geſellſchaft vereinbarten</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l29" custom="readingOrder {index:29;}">
+                <Coords points="179,2296 386,2296 1126,2304 1126,2337 1049,2343 1014,2343 608,2342 197,2339 179,2330"/>
+                <Baseline points="179,2330 460,2331 478,2331 536,2332 562,2332 620,2332 645,2332 726,2334 755,2334 893,2335 927,2336 989,2336 1014,2336 1049,2336 1075,2337 1126,2337"/>
+                <TextEquiv>
+                    <Unicode>Vertragsmuſter bis auf zwei Punkte. Es iſt die</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l30" custom="readingOrder {index:30;}">
+                <Coords points="176,2340 187,2340 875,2345 1045,2348 1126,2358 1126,2389 727,2389 234,2382 176,2381"/>
+                <Baseline points="176,2373 257,2374 274,2374 461,2375 481,2375 686,2377 707,2378 955,2380 973,2380 1009,2380 1026,2380 1126,2381"/>
+                <TextEquiv>
+                    <Unicode>ſonſt vertraglich vereinbarte Verpflichtung in bezug</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l31" custom="readingOrder {index:31;}">
+                <Coords points="177,2394 221,2386 554,2386 925,2389 1133,2393 1133,2425 1060,2433 901,2433 392,2428 221,2426 177,2417"/>
+                <Baseline points="177,2411 234,2419 253,2419 303,2419 320,2419 431,2420 444,2420 500,2420 515,2420 735,2421 747,2421 791,2422 805,2422 1126,2418"/>
+                <TextEquiv>
+                    <Unicode>auf die Größe der Wohnungen — Zimmeranzahl —</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l32" custom="readingOrder {index:32;}">
+                <Coords points="175,2438 201,2430 201,2430 309,2430 640,2431 944,2433 1106,2436 1126,2446 1126,2469 1106,2470 944,2475 807,2475 497,2474 201,2463 175,2461"/>
+                <Baseline points="175,2461 243,2463 277,2464 328,2464 363,2464 640,2465 671,2465 730,2466 765,2466 976,2468 1008,2469 1044,2469 1076,2469 1126,2463"/>
+                <TextEquiv>
+                    <Unicode>und die Bebauungsfriſt des Grundſtücks in die</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l33" custom="readingOrder {index:33;}">
+                <Coords points="179,2474 238,2474 733,2476 1100,2481 1127,2490 1127,2513 1054,2522 900,2522 525,2519 198,2516 179,2508"/>
+                <Baseline points="179,2508 308,2509 344,2509 428,2509 464,2509 733,2510 794,2511 865,2511 900,2512 1054,2513 1091,2514 1127,2507"/>
+                <TextEquiv>
+                    <Unicode>Offerte nicht aufgenommen. Wir glauben, in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l34" custom="readingOrder {index:34;}">
+                <Coords points="176,2518 295,2518 1139,2523 1139,2557 1088,2558 806,2562 453,2562 328,2561 210,2560 176,2551"/>
+                <Baseline points="176,2551 295,2552 328,2552 421,2553 453,2553 590,2554 621,2554 759,2554 790,2555 829,2555 862,2555 999,2557 1056,2557 1139,2557"/>
+                <TextEquiv>
+                    <Unicode>dieſem Falle hiervon abſehen zu können. Der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l35" custom="readingOrder {index:35;}">
+                <Coords points="176,2561 222,2561 769,2564 1095,2569 1122,2572 1122,2600 1095,2601 868,2607 849,2607 505,2605 199,2597 176,2595"/>
+                <Baseline points="176,2595 347,2598 386,2598 445,2598 487,2598 695,2598 733,2598 769,2598 808,2598 1024,2600 1064,2600 1122,2593"/>
+                <TextEquiv>
+                    <Unicode>Erwerber des Grundſtücks iſt Eigentümer des</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l36" custom="readingOrder {index:36;}">
+                <Coords points="176,2605 514,2605 784,2608 1073,2612 1125,2621 1125,2644 1073,2645 795,2649 199,2649 176,2638"/>
+                <Baseline points="176,2638 523,2642 550,2642 815,2641 841,2641 892,2642 941,2643 1016,2644 1043,2644 1125,2638"/>
+                <TextEquiv>
+                    <Unicode>Nachbargrundſtücks Bismarckſtraße 93. Das Ver⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l37" custom="readingOrder {index:37;}">
+                <Coords points="177,2648 450,2648 962,2652 1081,2655 1124,2665 1124,2688 995,2695 749,2695 485,2694 328,2693 271,2692 237,2691 177,2681"/>
+                <Baseline points="177,2681 450,2687 485,2685 542,2686 577,2686 620,2686 655,2686 711,2686 749,2686 1015,2687 1051,2687 1124,2687"/>
+                <TextEquiv>
+                    <Unicode>kaufsgrundſtück hat an der Bismarckſtraße eine</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l38" custom="readingOrder {index:38;}">
+                <Coords points="179,2692 206,2692 995,2697 1076,2700 1123,2708 1123,2740 446,2740 179,2733"/>
+                <Baseline points="179,2726 284,2727 311,2728 377,2729 405,2730 499,2730 525,2730 570,2730 598,2730 649,2730 676,2730 759,2730 785,2730 995,2732 1024,2732 1123,2732"/>
+                <TextEquiv>
+                    <Unicode>Front von 16,92 m, die nicht ausreichend wäre,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l39" custom="readingOrder {index:39;}">
+                <Coords points="177,2746 289,2742 363,2741 363,2741 757,2741 978,2742 1104,2743 1124,2753 1124,2777 1104,2784 757,2785 463,2785 363,2783 177,2774"/>
+                <Baseline points="177,2774 236,2772 271,2772 307,2773 343,2773 427,2775 463,2775 757,2775 792,2775 847,2775 883,2775 1124,2777"/>
+                <TextEquiv>
+                    <Unicode>um es ohne Hofgemeinſchaft der Flächengröße</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l40" custom="readingOrder {index:40;}">
+                <Coords points="176,2790 218,2783 218,2783 400,2783 894,2786 1046,2787 1058,2788 1124,2797 1124,2820 1079,2829 997,2829 456,2828 305,2826 244,2824 232,2823 176,2814"/>
+                <Baseline points="176,2814 400,2820 415,2820 494,2820 508,2820 564,2820 577,2820 927,2819 949,2819 1124,2820"/>
+                <TextEquiv>
+                    <Unicode>entſprechend nach der bauordnungsmäßig zuläſſigen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l41" custom="readingOrder {index:41;}">
+                <Coords points="174,2825 301,2825 856,2830 1070,2833 1112,2841 1123,2857 1123,2863 1112,2864 892,2871 652,2873 397,2873 208,2868 174,2866"/>
+                <Baseline points="174,2859 318,2862 330,2862 715,2864 733,2864 856,2863 877,2863 916,2863 929,2863 1123,2861"/>
+                <TextEquiv>
+                    <Unicode>höchſten Ausnutzungsfähigkeit baulich zu verwerten.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l42" custom="readingOrder {index:42;}">
+                <Coords points="176,2870 219,2870 1040,2874 1068,2875 1105,2877 1124,2884 1124,2908 1089,2916 587,2916 284,2915 176,2903"/>
+                <Baseline points="176,2903 245,2904 264,2905 406,2907 423,2907 467,2908 481,2908 546,2908 561,2908 733,2909 747,2907 814,2907 832,2907 882,2907 898,2907 1124,2907"/>
+                <TextEquiv>
+                    <Unicode>Der Verkauf an den Nachbarn und die beabſichtigte</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l43" custom="readingOrder {index:43;}">
+                <Coords points="175,2923 271,2916 271,2916 353,2916 940,2918 1091,2919 1123,2929 1123,2952 1091,2959 1059,2960 602,2961 546,2961 307,2958 175,2955"/>
+                <Baseline points="175,2946 395,2952 414,2953 602,2952 619,2952 730,2952 749,2952 958,2951 975,2951 1123,2952"/>
+                <TextEquiv>
+                    <Unicode>gemeinſame Bebauung beider Grundſtücke gewähr⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l44" custom="readingOrder {index:44;}">
+                <Coords points="173,2957 274,2957 1083,2963 1123,2966 1123,2996 1020,3004 701,3005 689,3005 351,3003 218,3000 173,2991"/>
+                <Baseline points="173,2982 274,2995 298,2995 406,2996 430,2997 571,2997 595,2997 663,2997 689,2997 780,2996 803,2996 850,2996 873,2996 1039,2996 1065,2996 1123,2996"/>
+                <TextEquiv>
+                    <Unicode>leiſtet dieſen Ausbau und führt im Intereſſe des</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l45" custom="readingOrder {index:45;}">
+                <Coords points="175,3002 263,3002 1104,3007 1124,3008 1124,3049 1104,3050 476,3050 392,3049 175,3040"/>
+                <Baseline points="175,3037 366,3041 392,3041 450,3041 476,3041 712,3042 742,3042 798,3041 824,3041 906,3041 935,3041 1124,3041"/>
+                <TextEquiv>
+                    <Unicode>Erwerbers zur Innehaltung der ſonſt vertraglich</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l46" custom="readingOrder {index:46;}">
+                <Coords points="175,3053 251,3048 251,3048 406,3048 1025,3052 1112,3062 1125,3067 1125,3079 1112,3086 1025,3093 724,3094 446,3094 196,3082 175,3080"/>
+                <Baseline points="175,3073 406,3085 446,3086 724,3086 787,3087 833,3085 872,3085 909,3086 948,3086 1025,3086 1067,3086 1125,3076"/>
+                <TextEquiv>
+                    <Unicode>vereinbarten Zimmeranzahl. Es iſt auch an⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l47" custom="readingOrder {index:47;}">
+                <Coords points="173,3100 257,3094 257,3094 278,3094 967,3096 1123,3097 1123,3138 747,3139 590,3139 439,3138 361,3137 257,3135 173,3133"/>
+                <Baseline points="173,3126 369,3130 395,3130 458,3130 482,3130 544,3131 570,3131 762,3130 785,3130 858,3130 883,3130 1007,3130 1031,3130 1123,3130"/>
+                <TextEquiv>
+                    <Unicode>zunehmen, daß das Grundſtück bald bebaut wird,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l48" custom="readingOrder {index:48;}">
+                <Coords points="174,3137 284,3137 892,3140 1084,3141 1124,3144 1124,3174 1030,3182 732,3183 628,3183 579,3182 195,3170 174,3169"/>
+                <Baseline points="174,3169 217,3170 250,3170 302,3171 337,3172 544,3174 579,3174 732,3174 767,3174 825,3174 860,3174 1124,3174"/>
+                <TextEquiv>
+                    <Unicode>da die vereinbarte Zahlung des Reſtkaufgeldes</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l49" custom="readingOrder {index:49;}">
+                <Coords points="173,3179 207,3179 1092,3184 1113,3185 1124,3210 1124,3217 1113,3218 954,3226 500,3226 288,3224 173,3214"/>
+                <Baseline points="173,3213 226,3214 244,3214 273,3214 288,3215 384,3216 401,3216 485,3217 500,3217 611,3218 627,3218 711,3218 728,3218 880,3218 895,3218 1016,3218 1031,3218 1124,3215"/>
+                <TextEquiv>
+                    <Unicode>bis 1. April 1913 hierzu ohne weiteres führen wird.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l50" custom="readingOrder {index:50;}">
+                <Coords points="174,3223 208,3223 1083,3228 1126,3237 1126,3262 937,3271 454,3271 275,3269 174,3258"/>
+                <Baseline points="174,3258 241,3260 275,3260 398,3260 435,3262 834,3262 869,3262 937,3262 975,3262 1017,3262 1053,3262 1126,3262"/>
+                <TextEquiv>
+                    <Unicode>Die übliche Faſſadenverpflichtung ſoll, da eine</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Druckſache Nr. 15.
+Vorlage betr. Veräußerung des Grundſtücks Bis⸗
+marckſtraße 94.
+Urſchriftlich mit Akten
+an die Stadtverordnetenverſammlung
+mit dem Antrage, zu beſchließen:
+1. Die Veräußerung des ſtädtiſchen Grundſtücks
+Bismarckſtraße 94 nach Maßgabe der Offerte
+des Kaufmanns Franz Eheſtädt — Nr. 1700
+des Notariatsregiſters für 1909 des Juſtizrats
+Bading — wird genehmigt.
+2. Der aus der Veräußerung erzielte Erlös iſt
+dem Bismarckſtraßenetat zuzuführen.
+Das vertragsgemäß durch Vermittlung der
+Berliniſchen Bodengeſellſchaft zum Verkauf an⸗
+geſtellte Grundſtück iſt der Reſt des früher Gellert'⸗
+ſchen Grundſtücks an der Südſeite der Bismarck⸗
+ſtraße, zwiſchen der Weimarer und der Krummen
+Straße. Das Grundſtück hat eine Front von 16,92m
+an der Bismarckſtraße und eine Größe von 930 qm
+oder 65,56 Quadratruten. Der Kaufpreis beträgt
+121 280 ℳ, d. h. rund 1850 ℳ für eine Quadratrute.
+Nach dem mit der Berliniſchen Bodengeſellſchaft
+geſchloſſenen Vertrage iſt der Stadtgemeinde an
+der Bismarckſtraße ein Durchſchnittspreis von
+1925 ℳ für die Quadratrute der geſamten zum
+Verkauf geſtellten Reſtgrundſtücke garantiert.
+Das Angebot entſpricht dem zwiſchen der
+Stadtgemeinde und der Geſellſchaft vereinbarten
+Vertragsmuſter bis auf zwei Punkte. Es iſt die
+ſonſt vertraglich vereinbarte Verpflichtung in bezug
+auf die Größe der Wohnungen — Zimmeranzahl —
+und die Bebauungsfriſt des Grundſtücks in die
+Offerte nicht aufgenommen. Wir glauben, in
+dieſem Falle hiervon abſehen zu können. Der
+Erwerber des Grundſtücks iſt Eigentümer des
+Nachbargrundſtücks Bismarckſtraße 93. Das Ver⸗
+kaufsgrundſtück hat an der Bismarckſtraße eine
+Front von 16,92 m, die nicht ausreichend wäre,
+um es ohne Hofgemeinſchaft der Flächengröße
+entſprechend nach der bauordnungsmäßig zuläſſigen
+höchſten Ausnutzungsfähigkeit baulich zu verwerten.
+Der Verkauf an den Nachbarn und die beabſichtigte
+gemeinſame Bebauung beider Grundſtücke gewähr⸗
+leiſtet dieſen Ausbau und führt im Intereſſe des
+Erwerbers zur Innehaltung der ſonſt vertraglich
+vereinbarten Zimmeranzahl. Es iſt auch an⸗
+zunehmen, daß das Grundſtück bald bebaut wird,
+da die vereinbarte Zahlung des Reſtkaufgeldes
+bis 1. April 1913 hierzu ohne weiteres führen wird.
+Die übliche Faſſadenverpflichtung ſoll, da eine</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r_4_1" custom="readingOrder {index:3;} structure {type:paragraph;}">
+            <Coords points="1146,974 2114,974 2114,1544 1146,1544"/>
+            <TextLine id="r_4_1l0" custom="readingOrder {index:0;}">
+                <Coords points="1159,982 1662,982 2106,983 2106,1025 1180,1025 1159,1017"/>
+                <Baseline points="1159,1017 1435,1015 1463,1015 1546,1016 1574,1016 1761,1016 1786,1016 1833,1016 1863,1017 2106,1017"/>
+                <TextEquiv>
+                    <Unicode>Bebauungsfriſt nicht vereinbart iſt, grundbuchlich</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l1" custom="readingOrder {index:1;}">
+                <Coords points="1157,1037 1175,1027 1175,1027 1516,1027 1537,1037 1537,1060 1516,1061 1325,1069 1213,1069 1157,1061"/>
+                <Baseline points="1157,1060 1370,1060 1394,1060 1537,1060"/>
+                <TextEquiv>
+                    <Unicode>eingetragen werden.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l2" custom="readingOrder {index:2;}">
+                <Coords points="1243,1072 1339,1071 1339,1071 1384,1071 2089,1072 2107,1083 2107,1106 2089,1114 1903,1114 1432,1113 1339,1112 1243,1106"/>
+                <Baseline points="1243,1105 1308,1105 1339,1105 1440,1105 1471,1105 1534,1105 1564,1105 1639,1105 1669,1105 1730,1105 1759,1105 1871,1106 1903,1107 2107,1106"/>
+                <TextEquiv>
+                    <Unicode>Ein Plan, aus dem das früher Gellert'ſche</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l3" custom="readingOrder {index:3;}">
+                <Coords points="1159,1116 1201,1115 1201,1115 1350,1115 2107,1116 2107,1158 1942,1158 1560,1157 1201,1155 1159,1149"/>
+                <Baseline points="1159,1148 1350,1148 1373,1148 1441,1148 1468,1148 1536,1148 1560,1149 1682,1149 1709,1149 1914,1149 1942,1149 2107,1149"/>
+                <TextEquiv>
+                    <Unicode>Grundſtück und ſein jetziger Reſtbeſtand erſichtlich</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l4" custom="readingOrder {index:4;}">
+                <Coords points="1154,1159 1518,1159 1915,1160 1937,1161 1947,1185 1947,1192 1798,1200 1168,1200 1154,1191"/>
+                <Baseline points="1154,1191 1200,1191 1224,1191 1370,1191 1392,1192 1448,1192 1474,1192 1569,1191 1592,1190 1632,1191 1654,1191 1713,1192 1735,1192 1851,1192 1874,1192 1947,1192"/>
+                <TextEquiv>
+                    <Unicode>iſt, befindet ſich Blatt 25 des Heftes 393.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l5" custom="readingOrder {index:5;}">
+                <Coords points="1243,1203 2071,1203 2108,1214 2108,1237 2071,1245 1769,1245 1432,1244 1243,1236"/>
+                <Baseline points="1243,1236 1313,1235 1325,1235 1440,1235 1453,1235 1501,1236 1516,1236 1669,1236 1683,1236 1884,1236 1898,1236 1962,1237 1975,1237 2108,1237"/>
+                <TextEquiv>
+                    <Unicode>Wir bitten, im Beſchluß anzugeben, mit welcher</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l6" custom="readingOrder {index:6;}">
+                <Coords points="1155,1247 1813,1247 1832,1250 1832,1280 1813,1289 1574,1289 1217,1288 1155,1280"/>
+                <Baseline points="1155,1280 1324,1280 1346,1280 1380,1280 1402,1280 1551,1280 1574,1280 1765,1280 1786,1280 1832,1280"/>
+                <TextEquiv>
+                    <Unicode>Mehrheit er zuſtande gekommen iſt.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l7" custom="readingOrder {index:7;}">
+                <Coords points="1243,1309 1458,1309 1738,1310 1956,1311 1966,1336 1966,1344 1738,1351 1281,1351 1270,1350 1243,1343"/>
+                <Baseline points="1243,1343 1532,1342 1558,1342 1620,1342 1646,1342 1695,1342 1710,1342 1846,1343 1872,1343 1966,1343"/>
+                <TextEquiv>
+                    <Unicode>Charlottenburg, den 11. Januar 1910.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l8" custom="readingOrder {index:8;}">
+                <Coords points="1426,1371 1788,1371 1839,1374 1839,1404 1788,1413 1596,1413 1426,1404"/>
+                <Baseline points="1426,1404 1520,1404 1568,1404 1839,1404"/>
+                <TextEquiv>
+                    <Unicode>Der Magiſtrat.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l9" custom="readingOrder {index:9;}">
+                <Coords points="1244,1415 1278,1409 1278,1409 1419,1409 1971,1415 2020,1426 2020,1449 1971,1456 1419,1460 1278,1460 1244,1447"/>
+                <Baseline points="1244,1447 1477,1447 1600,1449 2020,1449"/>
+                <TextEquiv>
+                    <Unicode>Matting. Bredtſchneider.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l10" custom="readingOrder {index:10;}">
+                <Coords points="1499,1456 1678,1454 1748,1469 1748,1492 1612,1492 1498,1493"/>
+                <Baseline points="1513,1489 1748,1492"/>
+                <TextEquiv>
+                    <Unicode>Dr. Maier.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l11" custom="readingOrder {index:11;}">
+                <Coords points="1156,1502 1222,1496 1222,1496 1313,1496 1313,1543 1222,1543 1156,1533"/>
+                <Baseline points="1156,1533 1222,1533 1258,1534 1277,1534 1308,1535 1313,1535"/>
+                <TextEquiv>
+                    <Unicode>IX E. 5.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Bebauungsfriſt nicht vereinbart iſt, grundbuchlich
+eingetragen werden.
+Ein Plan, aus dem das früher Gellert'ſche
+Grundſtück und ſein jetziger Reſtbeſtand erſichtlich
+iſt, befindet ſich Blatt 25 des Heftes 393.
+Wir bitten, im Beſchluß anzugeben, mit welcher
+Mehrheit er zuſtande gekommen iſt.
+Charlottenburg, den 11. Januar 1910.
+Der Magiſtrat.
+Matting. Bredtſchneider.
+Dr. Maier.
+IX E. 5.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r_5_1" custom="readingOrder {index:4;} structure {type:paragraph;}">
+            <Coords points="1146,1690 2123,1690 2123,3283 1146,3283"/>
+            <TextLine id="r_5_1l0" custom="readingOrder {index:0;}">
+                <Coords points="1157,1697 1749,1697 1953,1698 1953,1730 1793,1738 1442,1738 1177,1730 1157,1729"/>
+                <Baseline points="1157,1729 1216,1729 1235,1729 1318,1729 1341,1729 1399,1730 1423,1730 1749,1729 1772,1729 1832,1729 1860,1729 1953,1729"/>
+                <TextEquiv>
+                    <Unicode>Nr. 1700 des Notariatsregiſters pro 1909.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_5_1l1" custom="readingOrder {index:1;}">
+                <Coords points="1533,1758 1554,1757 1554,1757 1736,1757 1736,1790 1634,1799 1554,1799 1533,1791"/>
+                <Baseline points="1533,1791 1736,1790"/>
+                <TextEquiv>
+                    <Unicode>Verhandelt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_5_1l2" custom="readingOrder {index:2;}">
+                <Coords points="1311,1802 1765,1802 1911,1803 1922,1828 1922,1836 1688,1843 1438,1844 1328,1844 1311,1837"/>
+                <Baseline points="1311,1837 1438,1834 1463,1834 1526,1835 1551,1835 1602,1835 1618,1835 1802,1835 1827,1835 1922,1835"/>
+                <TextEquiv>
+                    <Unicode>Berlin, den 30. Dezember 1909.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_5_1l3" custom="readingOrder {index:3;}">
+                <Coords points="1247,1864 1500,1863 1500,1863 1594,1863 1909,1864 1946,1866 1984,1875 1984,1898 1796,1906 1784,1906 1435,1904 1247,1898"/>
+                <Baseline points="1247,1898 1316,1897 1339,1897 1414,1897 1435,1897 1475,1897 1500,1897 1618,1897 1640,1897 1856,1898 1877,1898 1984,1898"/>
+                <TextEquiv>
+                    <Unicode>Vor dem zu Berlin wohnhaften Notar</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_5_1l4" custom="readingOrder {index:4;}">
+                <Coords points="1263,1909 1284,1908 1502,1907 1502,1907 1566,1907 1716,1908 1761,1919 1761,1950 1650,1950 1263,1949"/>
+                <Baseline points="1263,1940 1423,1940 1448,1940 1604,1941 1629,1941 1761,1942"/>
+                <TextEquiv>
+                    <Unicode>Juſtizrat Wilhelm Bading</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_5_1l5" custom="readingOrder {index:5;}">
+                <Coords points="1157,1961 1191,1952 1191,1952 1334,1952 1394,1954 1429,1962 1429,1985 1334,1992 1278,1993 1191,1993 1157,1985"/>
+                <Baseline points="1157,1985 1292,1985 1314,1985 1429,1985"/>
+                <TextEquiv>
+                    <Unicode>erſchien heute:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_5_1l6" custom="readingOrder {index:6;}">
+                <Coords points="1265,1996 1341,1995 1341,1995 1368,1995 1682,1996 1894,1997 2055,1998 2095,2008 2110,2013 2110,2025 2095,2031 2055,2039 2036,2039 1553,2037 1415,2036 1265,2028"/>
+                <Baseline points="1265,2028 1321,2028 1341,2028 1536,2029 1553,2029 1636,2029 1654,2029 1764,2029 1782,2029 1933,2030 1950,2030 1990,2031 2008,2031 2110,2022"/>
+                <TextEquiv>
+                    <Unicode>der Kaufmann Herr Franz Eheſtädt zu Char⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_5_1l7" custom="readingOrder {index:7;}">
+                <Coords points="1264,2039 1668,2039 1740,2040 1802,2041 1825,2042 1834,2066 1834,2073 1740,2081 1435,2081 1279,2072 1264,2071"/>
+                <Baseline points="1264,2071 1465,2072 1492,2072 1759,2073 1783,2073 1834,2073"/>
+                <TextEquiv>
+                    <Unicode>lottenburg, Bismarckſtraße 30.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_5_1l8" custom="readingOrder {index:8;}">
+                <Coords points="1245,2083 1594,2083 1796,2084 2080,2086 2111,2096 2111,2119 2080,2120 1796,2125 1757,2125 1348,2124 1245,2116"/>
+                <Baseline points="1245,2116 1311,2116 1348,2116 1594,2116 1627,2116 1684,2117 1719,2117 1802,2117 1834,2117 2018,2119 2051,2119 2111,2113"/>
+                <TextEquiv>
+                    <Unicode>Die Perſönlichkeit des nicht bekannten Er⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_5_1l9" custom="readingOrder {index:9;}">
+                <Coords points="1157,2127 1407,2127 1641,2128 2071,2130 2111,2145 2111,2158 2097,2163 2071,2171 1953,2171 1603,2170 1157,2168"/>
+                <Baseline points="1157,2160 1345,2160 1371,2161 1407,2161 1435,2161 1528,2161 1559,2161 1751,2161 1780,2161 1883,2162 1911,2162 2111,2154"/>
+                <TextEquiv>
+                    <Unicode>ſchienenen iſt durch Vorlegung ſeiner Eiſenbahn⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_5_1l10" custom="readingOrder {index:10;}">
+                <Coords points="1158,2172 1315,2172 1813,2173 2083,2174 2107,2177 2107,2208 2030,2216 1993,2217 1917,2217 1407,2214 1158,2206"/>
+                <Baseline points="1158,2205 1386,2206 1407,2206 1463,2206 1486,2206 1673,2206 1693,2206 1751,2206 1772,2206 1896,2207 1917,2207 2107,2208"/>
+                <TextEquiv>
+                    <Unicode>Monatskarte zur Gewißheit des Notars feſtgeſtellt.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_5_1l11" custom="readingOrder {index:11;}">
+                <Coords points="1266,2217 1649,2217 1703,2220 1738,2228 1738,2251 1448,2258 1359,2258 1266,2250"/>
+                <Baseline points="1266,2250 1336,2250 1359,2250 1566,2251 1589,2251 1738,2251"/>
+                <TextEquiv>
+                    <Unicode>Der Erſchienene erklärte:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_5_1l12" custom="readingOrder {index:12;}">
+                <Coords points="1243,2262 1264,2261 1264,2261 1413,2261 1746,2262 2048,2263 2110,2273 2110,2305 1849,2305 1243,2302"/>
+                <Baseline points="1243,2294 1304,2294 1324,2294 1433,2294 1453,2294 1509,2294 1532,2294 1811,2295 1832,2295 2110,2297"/>
+                <TextEquiv>
+                    <Unicode>Ich mache der Stadtgemeinde Charlottenburg</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_5_1l13" custom="readingOrder {index:13;}">
+                <Coords points="1157,2305 1192,2304 1192,2304 1562,2304 1587,2307 1603,2315 1603,2338 1562,2346 1192,2346 1157,2345"/>
+                <Baseline points="1157,2337 1328,2337 1354,2337 1603,2338"/>
+                <TextEquiv>
+                    <Unicode>folgendes Kaufangebot:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_5_1l14" custom="readingOrder {index:14;}">
+                <Coords points="1599,2394 1614,2394 1654,2395 1667,2419 1667,2426 1614,2433 1599,2433"/>
+                <Baseline points="1599,2425 1614,2425 1639,2425 1667,2426"/>
+                <TextEquiv>
+                    <Unicode>§ 1.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_5_1l15" custom="readingOrder {index:15;}">
+                <Coords points="1243,2436 1374,2436 1868,2438 2048,2439 2110,2440 2110,2481 1965,2481 1667,2480 1449,2478 1243,2470"/>
+                <Baseline points="1243,2470 1309,2470 1343,2470 1621,2470 1653,2471 1932,2471 1965,2471 2110,2473"/>
+                <TextEquiv>
+                    <Unicode>Die Stadtgemeinde Charlottenburg verkauft</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_5_1l16" custom="readingOrder {index:16;}">
+                <Coords points="1156,2481 1337,2480 1337,2480 1614,2480 2030,2483 2091,2484 2110,2494 2110,2518 2091,2525 1840,2525 1337,2523 1257,2522 1156,2514"/>
+                <Baseline points="1156,2514 1216,2513 1257,2513 1297,2514 1337,2514 1614,2514 1656,2515 1700,2515 1741,2516 1798,2516 1840,2516 2110,2518"/>
+                <TextEquiv>
+                    <Unicode>das zu Charlottenburg an der Bismarckſtraße</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_5_1l17" custom="readingOrder {index:17;}">
+                <Coords points="1154,2525 1675,2525 1999,2527 2111,2538 2111,2561 1999,2569 1825,2569 1227,2567 1154,2558"/>
+                <Baseline points="1154,2558 1310,2558 1336,2558 1539,2558 1566,2558 1701,2558 1725,2558 1772,2559 1799,2559 2018,2561 2043,2561 2111,2561"/>
+                <TextEquiv>
+                    <Unicode>belegene Grundſtück, welches im Grundbuche von</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_5_1l18" custom="readingOrder {index:18;}">
+                <Coords points="1155,2569 1194,2568 1194,2568 1254,2568 2001,2571 2100,2572 2109,2598 2109,2605 2100,2612 1896,2612 1182,2610 1155,2602"/>
+                <Baseline points="1155,2602 1431,2601 1453,2601 1551,2601 1571,2601 1610,2601 1632,2602 1728,2602 1747,2602 1830,2602 1847,2603 2047,2604 2062,2604 2109,2605"/>
+                <TextEquiv>
+                    <Unicode>Charlottenburg Band 21 Blatt 1170 verzeichnet iſt.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_5_1l19" custom="readingOrder {index:19;}">
+                <Coords points="1241,2612 1275,2611 1275,2611 1409,2611 1976,2614 2040,2615 2109,2626 2109,2649 1976,2656 1846,2656 1338,2653 1241,2645"/>
+                <Baseline points="1241,2644 1306,2644 1338,2645 1504,2645 1538,2645 1689,2646 1720,2646 1779,2646 1810,2647 1976,2648 2010,2648 2109,2649"/>
+                <TextEquiv>
+                    <Unicode>Die verkaufte Parzelle hat angeblich einen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_5_1l20" custom="readingOrder {index:20;}">
+                <Coords points="1155,2655 1387,2655 1897,2657 1921,2668 1921,2691 1563,2697 1555,2697 1155,2696"/>
+                <Baseline points="1155,2688 1402,2688 1423,2688 1490,2688 1512,2688 1609,2690 1639,2690 1921,2691"/>
+                <TextEquiv>
+                    <Unicode>Flächeninhalt von 65,56 Quardratruten.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_5_1l21" custom="readingOrder {index:21;}">
+                <Coords points="1240,2699 1521,2699 1876,2702 2110,2704 2110,2738 1906,2745 1898,2745 1348,2742 1240,2733"/>
+                <Baseline points="1240,2733 1306,2733 1328,2733 1546,2734 1565,2734 1688,2734 1707,2735 1761,2735 1783,2735 1906,2736 1931,2736 2022,2737 2041,2737 2110,2738"/>
+                <TextEquiv>
+                    <Unicode>Die Verkäuferin kommt für Größe, Güte und</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_5_1l22" custom="readingOrder {index:22;}">
+                <Coords points="1155,2744 1174,2743 1174,2743 1251,2743 1881,2746 1964,2747 2109,2749 2109,2791 2051,2791 1174,2786 1155,2778"/>
+                <Baseline points="1155,2777 1416,2778 1443,2778 1500,2778 1528,2778 1717,2779 1748,2779 1901,2781 1928,2781 2013,2782 2040,2782 2109,2783"/>
+                <TextEquiv>
+                    <Unicode>Beſchaffenheit der verkauften Parzelle nicht auf.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_5_1l23" custom="readingOrder {index:23;}">
+                <Coords points="1597,2835 1656,2835 1667,2860 1667,2866 1613,2873 1597,2873"/>
+                <Baseline points="1597,2865 1613,2865 1638,2865 1667,2866"/>
+                <TextEquiv>
+                    <Unicode>§ 2.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_5_1l24" custom="readingOrder {index:24;}">
+                <Coords points="1242,2876 1552,2876 1999,2880 2110,2882 2110,2914 2014,2922 1886,2922 1346,2917 1242,2909"/>
+                <Baseline points="1242,2909 1313,2909 1329,2909 1511,2909 1524,2910 1561,2910 1575,2910 1634,2910 1651,2910 1711,2910 1727,2910 1791,2911 1807,2911 1844,2911 1861,2912 2030,2914 2040,2914 2110,2906"/>
+                <TextEquiv>
+                    <Unicode>Der Kaufpreis iſt auf 121 280 ℳ feſtgeſetzt und</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_5_1l25" custom="readingOrder {index:25;}">
+                <Coords points="1153,2926 1185,2919 1185,2919 1322,2919 1535,2920 1576,2923 1576,2955 1543,2963 1465,2963 1346,2962 1153,2953"/>
+                <Baseline points="1153,2952 1240,2952 1259,2953 1322,2953 1346,2953 1429,2953 1452,2953 1576,2955"/>
+                <TextEquiv>
+                    <Unicode>wird wie folgt belegt:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_5_1l26" custom="readingOrder {index:26;}">
+                <Coords points="1241,2963 1302,2963 1797,2966 2085,2968 2111,2979 2111,3003 2085,3010 1919,3010 1710,3009 1379,3006 1282,3005 1241,2998"/>
+                <Baseline points="1241,2997 1366,2997 1379,2998 1466,2998 1479,2998 1524,2998 1536,2998 1588,2999 1605,2999 1886,3002 1900,3002 2111,2997"/>
+                <TextEquiv>
+                    <Unicode>Käufer zahlt an die Stadtgemeinde Charlotten⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_5_1l27" custom="readingOrder {index:27;}">
+                <Coords points="1152,3008 1435,3008 1572,3009 1780,3011 1841,3013 1854,3038 1854,3045 1841,3046 1616,3052 1549,3052 1217,3051 1152,3041"/>
+                <Baseline points="1152,3041 1235,3042 1257,3042 1384,3042 1405,3042 1497,3043 1521,3043 1636,3043 1660,3043 1700,3044 1716,3044 1780,3045 1804,3045 1854,3045"/>
+                <TextEquiv>
+                    <Unicode>burg binnen einer Woche 12 280 ℳ.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_5_1l28" custom="readingOrder {index:28;}">
+                <Coords points="1242,3053 1331,3052 1331,3052 1407,3052 1689,3054 2110,3059 2110,3093 1689,3097 1569,3097 1331,3094 1242,3087"/>
+                <Baseline points="1242,3086 1312,3087 1331,3087 1407,3087 1424,3087 1483,3088 1503,3088 1707,3089 1725,3089 1790,3090 1810,3090 1873,3091 1887,3091 1950,3091 1970,3092 2008,3092 2029,3092 2110,3093"/>
+                <TextEquiv>
+                    <Unicode>Der Reſt des Kaufgeldes mit 109 000 ℳ wird</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_5_1l29" custom="readingOrder {index:29;}">
+                <Coords points="1154,3098 1245,3097 1245,3097 1323,3097 1519,3098 1762,3100 2099,3103 2111,3128 2111,3145 2042,3145 1836,3144 1262,3139 1154,3130"/>
+                <Baseline points="1154,3130 1230,3131 1245,3131 1370,3131 1383,3131 1562,3132 1599,3132 1670,3133 1685,3134 1811,3135 1824,3135 2030,3136 2042,3136 2111,3137"/>
+                <TextEquiv>
+                    <Unicode>dem Käufer geſtundet. Der Käufer verpflichtet ſich,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_5_1l30" custom="readingOrder {index:30;}">
+                <Coords points="1153,3142 1251,3141 1251,3141 1475,3141 2113,3147 2113,3181 1703,3185 1673,3185 1251,3183 1153,3174"/>
+                <Baseline points="1153,3174 1215,3174 1251,3174 1475,3175 1513,3176 1592,3176 1631,3176 1659,3176 1673,3176 1812,3178 1850,3178 1936,3179 1971,3179 2012,3179 2050,3180 2113,3180"/>
+                <TextEquiv>
+                    <Unicode>das Reſtkaufgeld vom 1. Januar 1910 ab mit</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_5_1l31" custom="readingOrder {index:31;}">
+                <Coords points="1153,3185 1202,3184 1202,3184 1368,3184 1754,3185 2090,3190 2112,3200 2112,3224 2090,3225 1754,3229 1462,3229 1153,3226"/>
+                <Baseline points="1153,3217 1283,3218 1305,3218 1381,3218 1402,3218 1440,3219 1462,3219 1754,3222 1777,3222 1822,3222 1843,3222 1909,3223 1933,3223 2112,3218"/>
+                <TextEquiv>
+                    <Unicode>jährlich 4%, in vierteljährlichen an den Kalender⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_5_1l32" custom="readingOrder {index:32;}">
+                <Coords points="1155,3227 1368,3227 1564,3228 1835,3230 2056,3233 2076,3234 2101,3244 2110,3259 2110,3267 2076,3277 2056,3278 1947,3278 1608,3275 1155,3270"/>
+                <Baseline points="1155,3263 1410,3263 1425,3263 1564,3263 1579,3264 1861,3266 1876,3266 1918,3267 1933,3267 2110,3265"/>
+                <TextEquiv>
+                    <Unicode>quartalserſten fälligen Nachtragsraten zu verzinſen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Nr. 1700 des Notariatsregiſters pro 1909.
+Verhandelt
+Berlin, den 30. Dezember 1909.
+Vor dem zu Berlin wohnhaften Notar
+Juſtizrat Wilhelm Bading
+erſchien heute:
+der Kaufmann Herr Franz Eheſtädt zu Char⸗
+lottenburg, Bismarckſtraße 30.
+Die Perſönlichkeit des nicht bekannten Er⸗
+ſchienenen iſt durch Vorlegung ſeiner Eiſenbahn⸗
+Monatskarte zur Gewißheit des Notars feſtgeſtellt.
+Der Erſchienene erklärte:
+Ich mache der Stadtgemeinde Charlottenburg
+folgendes Kaufangebot:
+§ 1.
+Die Stadtgemeinde Charlottenburg verkauft
+das zu Charlottenburg an der Bismarckſtraße
+belegene Grundſtück, welches im Grundbuche von
+Charlottenburg Band 21 Blatt 1170 verzeichnet iſt.
+Die verkaufte Parzelle hat angeblich einen
+Flächeninhalt von 65,56 Quardratruten.
+Die Verkäuferin kommt für Größe, Güte und
+Beſchaffenheit der verkauften Parzelle nicht auf.
+§ 2.
+Der Kaufpreis iſt auf 121 280 ℳ feſtgeſetzt und
+wird wie folgt belegt:
+Käufer zahlt an die Stadtgemeinde Charlotten⸗
+burg binnen einer Woche 12 280 ℳ.
+Der Reſt des Kaufgeldes mit 109 000 ℳ wird
+dem Käufer geſtundet. Der Käufer verpflichtet ſich,
+das Reſtkaufgeld vom 1. Januar 1910 ab mit
+jährlich 4%, in vierteljährlichen an den Kalender⸗
+quartalserſten fälligen Nachtragsraten zu verzinſen.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <SeparatorRegion id="r_6" custom="readingOrder {index:5;}">
+            <Coords points="1023,866 1263,866 1263,874 1023,874"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_8" custom="readingOrder {index:6;}">
+            <Coords points="1136,984 1146,984 1146,3251 1136,3251"/>
+        </SeparatorRegion>
+    </Page>
+</PcGts>
