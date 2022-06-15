@@ -24,4 +24,5 @@ The transcriptions refer to digitised material available at [Zentrale Landesbibl
 4) Amtliche Berichte über die Verhandlungen der Charlottenburger Stadtverordneten-Versammlung in den öffentlichen Sitzungen: https://digital.zlb.de/viewer/oai?verb=GetRecord&metadataPrefix=mets&identifier=16046633
 5) Vorlagen für die Stadtverordneten-Versammlung zu Charlottenburg: https://digital.zlb.de/viewer/oai?verb=GetRecord&metadataPrefix=mets&identifier=34015163
 
-Further details on the transcription and training workflow can be found in the Wiki.
+#### Wiki:
+Further details regarding ground truth and and training workflows can be found in the [Wiki](https://github.com/UB-Mannheim/charlottenburger-amtsschrifttum/wiki).
