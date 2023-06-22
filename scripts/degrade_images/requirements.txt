@@ -1,0 +1,5 @@
+git+https://github.com/NVlabs/ocrodeg@master#egg=ocrodeg
+click
+numpy
+scipy
+Pillow
