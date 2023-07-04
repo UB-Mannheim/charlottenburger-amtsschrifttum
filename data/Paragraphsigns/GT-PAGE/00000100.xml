@@ -1,0 +1,1115 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2022-05-06T13:44:11.575+02:00</Created>
+        <LastChange>2023-07-04T14:43:00.068+02:00</LastChange>
+        <Comments>
+                Measurement unit: pixel
+                PrimaryLanguage: 
+                Producer: Transkribus
+            </Comments>
+        <TranskribusMetadata docId="988838" pageId="38236895" pageNr="7" tsid="128718678" status="GT" userId="48446" imgUrl="https://files.transkribus.eu/Get?id=METAFACOCZWUCREVOKKQQPES&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=DBAHLVLYGCXSRFDXVIBMXQOS" imageId="30799974"/>
+    </Metadata>
+    <Page imageFilename="00000100.png" imageWidth="2278" imageHeight="3614">
+        <PrintSpace>
+            <Coords points="-21,-57 2256,-57 2256,3479 -21,3479"/>
+        </PrintSpace>
+        <ReadingOrder>
+            <OrderedGroup id="ro_1688474641704" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+                <RegionRefIndexed index="1" regionRef="r2"/>
+                <RegionRefIndexed index="2" regionRef="r3"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion type="page-number" id="r1" custom="readingOrder {index:0;} structure {type:page-number;}">
+            <Coords points="1143,78 1198,78 1198,122 1143,122"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="1143,85 1172,84 1172,84 1192,84 1192,116 1170,117 1143,117"/>
+                <Baseline points="1143,117 1192,116"/>
+                <TextEquiv>
+                    <Unicode>88</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>88</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r2" custom="readingOrder {index:1;} structure {type:paragraph;}">
+            <Coords points="172,167 1146,162 1158,3293 172,3293"/>
+            <TextLine id="r2l1" custom="readingOrder {index:0;}">
+                <Coords points="184,180 198,178 824,173 824,173 1137,173 1137,206 1095,216 377,221 184,221"/>
+                <Baseline points="184,214 377,212 415,211 572,209 606,209 673,209 709,209 768,208 804,208 1137,206"/>
+                <TextEquiv>
+                    <Unicode>fiskaliſchen Gebietes und des Zuführungskanals</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l2" custom="readingOrder {index:1;}">
+                <Coords points="184,232 287,225 381,221 1103,217 1103,217 1137,217 1137,250 1033,257 651,263 381,263 206,257 184,256"/>
+                <Baseline points="184,250 250,257 287,256 344,256 381,255 651,253 691,253 820,252 858,252 909,251 945,251 1003,251 1031,250 1137,250"/>
+                <TextEquiv>
+                    <Unicode>von der forſtfiskaliſchen Grenze bis zur nord⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l3" custom="readingOrder {index:2;}">
+                <Coords points="184,270 198,268 605,264 967,262 967,262 1097,262 1137,264 1137,293 946,304 329,308 198,308 184,300"/>
+                <Baseline points="184,292 329,300 351,300 478,298 497,298 555,297 573,297 946,295 967,295 1137,285"/>
+                <TextEquiv>
+                    <Unicode>öſtlichen Grenze des eiſenbahnfiskaliſchen Geländes</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l4" custom="readingOrder {index:3;}">
+                <Coords points="183,312 1001,305 1001,305 1036,305 1137,306 1137,336 1097,338 880,347 836,348 745,350 560,350 259,349 183,344"/>
+                <Baseline points="183,336 235,345 259,344 367,343 387,343 413,343 435,343 494,342 514,342 745,340 769,340 977,339 1001,339 1097,337 1117,337 1137,336"/>
+                <TextEquiv>
+                    <Unicode>bei Punkt A des angehefteten Lageplanes Blatt 2</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l5" custom="readingOrder {index:4;}">
+                <Coords points="185,357 248,356 694,352 925,350 925,350 1057,350 1139,359 1139,392 874,394 335,397 185,397"/>
+                <Baseline points="185,390 222,390 248,390 354,388 380,388 438,388 464,387 592,386 618,386 669,386 694,386 896,384 925,384 1139,383"/>
+                <TextEquiv>
+                    <Unicode>iſt Sache des Fiskus, die Aufnahme, Beſeitigung</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l6" custom="readingOrder {index:5;}">
+                <Coords points="183,411 207,401 275,400 832,395 1031,394 1031,394 1120,394 1139,405 1139,429 1120,437 688,440 394,442 291,442 183,435"/>
+                <Baseline points="183,435 250,435 275,434 464,432 488,432 546,431 568,431 785,430 808,430 950,429 972,429 1008,429 1031,429 1139,429"/>
+                <TextEquiv>
+                    <Unicode>und Reinigung des zugeführten Waſſers iſt Sache</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l7" custom="readingOrder {index:6;}">
+                <Coords points="183,447 289,444 589,441 589,441 820,441 859,451 859,483 391,486 289,486 183,479"/>
+                <Baseline points="183,471 240,479 267,479 544,476 569,476 859,474"/>
+                <TextEquiv>
+                    <Unicode>der Stadtgemeinde Charlottenburg.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l8" custom="readingOrder {index:7;}">
+                <Coords points="615,533 656,532 656,532 695,532 707,556 707,563 630,571 615,571"/>
+                <Baseline points="615,562 630,562 656,562 707,563"/>
+                <TextEquiv>
+                    <Unicode>§ 17.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l9" custom="readingOrder {index:8;}">
+                <Coords points="272,578 378,576 681,574 1025,573 1025,573 1080,573 1125,576 1139,587 1139,599 1125,614 960,615 483,617 378,617 272,611"/>
+                <Baseline points="272,611 340,610 378,610 574,607 610,607 645,607 681,607 766,607 801,607 986,606 1025,607 1139,596"/>
+                <TextEquiv>
+                    <Unicode>Der Forſtfiskus iſt nicht berechtigt, Erſatz⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l10" custom="readingOrder {index:9;}">
+                <Coords points="184,632 228,622 522,619 759,617 759,617 882,617 1062,618 1089,619 1140,627 1140,650 915,660 320,663 228,663 184,656"/>
+                <Baseline points="184,655 356,654 371,654 486,653 500,653 741,652 759,652 915,651 928,651 1007,651 1021,651 1140,650"/>
+                <TextEquiv>
+                    <Unicode>anſprüche wegen Erſchwerung, Störung oder Unter⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l11" custom="readingOrder {index:10;}">
+                <Coords points="183,667 241,666 507,663 894,662 894,662 1060,662 1124,665 1139,676 1139,688 1124,694 1011,702 823,706 342,707 241,707 183,700"/>
+                <Baseline points="183,700 342,699 395,698 453,698 507,697 823,695 879,697 1139,685"/>
+                <TextEquiv>
+                    <Unicode>brechung des Charlottenburger Kanaliſations⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l12" custom="readingOrder {index:11;}">
+                <Coords points="183,712 218,711 603,708 927,707 927,707 1011,707 1139,716 1139,739 1032,749 484,752 366,752 205,745 183,744"/>
+                <Baseline points="183,736 345,744 366,743 496,743 518,742 558,742 578,742 723,741 745,741 797,741 820,741 906,741 927,741 1052,740 1074,740 1139,733"/>
+                <TextEquiv>
+                    <Unicode>betriebes geltend zu machen, die etwa infolge von</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l13" custom="readingOrder {index:12;}">
+                <Coords points="183,757 223,756 305,755 750,752 750,752 1115,752 1139,761 1139,784 1047,793 942,795 406,796 223,796 183,789"/>
+                <Baseline points="183,789 406,788 436,787 700,786 732,786 1047,785 1080,785 1139,784"/>
+                <TextEquiv>
+                    <Unicode>behördlichen Anordnungen, Naturereigniſſen, Ar⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l14" custom="readingOrder {index:13;}">
+                <Coords points="183,801 196,799 749,797 1091,796 1091,796 1115,796 1140,806 1140,829 869,838 462,840 196,840 183,833"/>
+                <Baseline points="183,825 507,831 528,831 648,831 670,831 726,830 749,830 970,829 992,829 1069,829 1091,829 1140,829"/>
+                <TextEquiv>
+                    <Unicode>beitseinſtellungen ſeitens der Angeſtellten oder in⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l15" custom="readingOrder {index:14;}">
+                <Coords points="182,845 736,841 736,841 1115,841 1138,850 1138,880 834,883 252,886 233,886 182,884"/>
+                <Baseline points="182,877 271,877 299,877 365,876 391,876 615,875 640,874 708,875 736,875 940,874 966,874 1138,873"/>
+                <TextEquiv>
+                    <Unicode>folge von Handlungen und Ereigniſſen eintreten,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l16" custom="readingOrder {index:15;}">
+                <Coords points="183,890 204,888 554,885 1031,884 1031,884 1075,884 1120,885 1140,894 1140,917 1054,926 334,929 296,929 183,922"/>
+                <Baseline points="183,922 234,921 258,921 343,921 368,920 426,920 452,920 506,920 534,920 752,918 776,918 833,918 862,918 1140,917"/>
+                <TextEquiv>
+                    <Unicode>die nicht auf ein Verſchulden der Stadtgemeinde</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l17" custom="readingOrder {index:16;}">
+                <Coords points="185,934 267,933 267,933 287,933 331,942 341,959 341,965 287,973 267,973 185,965"/>
+                <Baseline points="185,957 341,965"/>
+                <TextEquiv>
+                    <Unicode>beruhen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l18" custom="readingOrder {index:17;}">
+                <Coords points="617,1022 659,1021 659,1021 709,1021 709,1053 632,1061 617,1061"/>
+                <Baseline points="617,1052 632,1052 659,1052 709,1053"/>
+                <TextEquiv>
+                    <Unicode>§ 18.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l19" custom="readingOrder {index:18;}">
+                <Coords points="264,1085 271,1067 377,1066 809,1063 1073,1062 1126,1062 1141,1076 1141,1088 1126,1095 987,1104 588,1107 277,1106 266,1099"/>
+                <Baseline points="276,1101 335,1100 377,1100 588,1098 631,1098 687,1097 729,1097 769,1097 809,1097 1032,1096 1073,1095 1141,1085"/>
+                <TextEquiv>
+                    <Unicode>Die Feſtſtellung der zu bezahlenden ein⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l20" custom="readingOrder {index:19;}">
+                <Coords points="184,1122 224,1112 427,1110 787,1108 1047,1107 1047,1107 1128,1107 1141,1121 1141,1132 1128,1139 986,1148 729,1151 359,1153 184,1153"/>
+                <Baseline points="184,1145 359,1144 377,1144 761,1141 777,1141 931,1140 947,1140 1030,1139 1047,1139 1141,1129"/>
+                <TextEquiv>
+                    <Unicode>geleiteten Schmutzwaſſermenge geſchieht ohne Rück⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l21" custom="readingOrder {index:20;}">
+                <Coords points="182,1156 496,1153 1019,1151 1019,1151 1037,1151 1139,1152 1139,1191 954,1193 254,1197 208,1197 182,1196"/>
+                <Baseline points="182,1189 254,1189 298,1188 356,1188 401,1187 451,1187 496,1186 690,1185 730,1185 973,1184 1019,1183 1139,1183"/>
+                <TextEquiv>
+                    <Unicode>ſicht auf die tatſächliche Abflußmenge derart,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l22" custom="readingOrder {index:21;}">
+                <Coords points="183,1202 227,1200 726,1196 1027,1195 1027,1195 1046,1195 1140,1204 1140,1227 877,1237 497,1240 227,1240 183,1234"/>
+                <Baseline points="183,1234 247,1234 270,1233 306,1233 329,1233 436,1231 461,1231 618,1230 642,1230 700,1230 726,1229 933,1228 958,1228 1002,1228 1027,1228 1046,1228 1071,1227 1140,1227"/>
+                <TextEquiv>
+                    <Unicode>daß in jedem Halbjahr des Etatsjahres an 5 ver⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l23" custom="readingOrder {index:22;}">
+                <Coords points="183,1245 509,1242 788,1240 1070,1239 1070,1239 1117,1239 1140,1242 1140,1272 1117,1278 1051,1282 379,1286 196,1286 183,1285"/>
+                <Baseline points="183,1278 379,1277 400,1276 477,1276 495,1276 670,1274 688,1274 754,1274 772,1274 1051,1272 1070,1272 1140,1272"/>
+                <TextEquiv>
+                    <Unicode>ſchiedenen, vom Magiſtrat von Charlottenburg feſt⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l24" custom="readingOrder {index:23;}">
+                <Coords points="183,1300 224,1289 665,1286 1029,1284 1029,1284 1140,1284 1140,1316 1113,1326 549,1329 350,1330 183,1330"/>
+                <Baseline points="183,1323 384,1321 401,1321 593,1319 619,1320 695,1319 722,1319 830,1318 856,1318 921,1318 936,1318 1013,1317 1029,1317 1140,1308"/>
+                <TextEquiv>
+                    <Unicode>zuſetzenden Werktagen nach einem von dem Magi⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l25" custom="readingOrder {index:24;}">
+                <Coords points="182,1334 668,1330 1030,1328 1030,1328 1100,1328 1120,1329 1139,1338 1139,1361 1120,1370 307,1375 182,1375"/>
+                <Baseline points="182,1367 258,1367 293,1366 332,1366 366,1366 625,1364 652,1364 838,1363 871,1363 922,1362 948,1362 1139,1361"/>
+                <TextEquiv>
+                    <Unicode>ſtrat zu beſtimmenden Verfahren die ſekundliche</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l26" custom="readingOrder {index:25;}">
+                <Coords points="187,1380 210,1379 532,1376 1038,1373 1038,1373 1068,1373 1141,1374 1141,1406 411,1419 210,1419 187,1412"/>
+                <Baseline points="187,1412 430,1410 468,1410 562,1409 601,1408 698,1408 736,1408 905,1407 941,1407 997,1406 1038,1406 1141,1406"/>
+                <TextEquiv>
+                    <Unicode>Waſſermenge durch einen Beamten der Stadt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l27" custom="readingOrder {index:26;}">
+                <Coords points="184,1423 225,1422 1027,1417 1027,1417 1142,1417 1142,1449 666,1461 463,1463 212,1463 184,1456"/>
+                <Baseline points="184,1455 463,1453 503,1453 666,1451 703,1451 771,1451 811,1450 886,1450 913,1450 989,1449 1027,1449 1142,1448"/>
+                <TextEquiv>
+                    <Unicode>Charlottenburg gemeſſen und aus dem Mittel</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l28" custom="readingOrder {index:27;}">
+                <Coords points="184,1467 206,1466 310,1465 599,1463 1006,1461 1006,1461 1077,1461 1143,1470 1143,1493 1099,1502 465,1506 237,1506 184,1499"/>
+                <Baseline points="184,1499 284,1499 310,1498 465,1497 491,1497 542,1497 569,1497 813,1495 840,1494 898,1494 923,1494 1143,1493"/>
+                <TextEquiv>
+                    <Unicode>dieſer Meſſung die Waſſermenge des zugehörigen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l29" custom="readingOrder {index:28;}">
+                <Coords points="186,1512 204,1510 789,1506 978,1505 978,1505 1056,1505 1143,1507 1143,1537 1034,1546 874,1548 224,1552 186,1552"/>
+                <Baseline points="186,1544 382,1542 397,1542 565,1540 581,1540 674,1540 705,1540 774,1539 789,1539 965,1538 978,1538 1143,1537"/>
+                <TextEquiv>
+                    <Unicode>Halbjahres berechnet wird. Der Magiſtrat beſtimmt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l30" custom="readingOrder {index:29;}">
+                <Coords points="185,1556 206,1555 577,1552 856,1550 1073,1549 1073,1549 1115,1549 1142,1559 1142,1582 1022,1592 792,1595 334,1597 314,1597 185,1589"/>
+                <Baseline points="185,1589 236,1588 261,1588 436,1587 461,1586 528,1586 555,1586 605,1585 633,1585 748,1584 774,1584 830,1584 856,1584 1022,1583 1073,1582 1142,1582"/>
+                <TextEquiv>
+                    <Unicode>die Tageszeit und die Dauer der Meſſung. Der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l31" custom="readingOrder {index:30;}">
+                <Coords points="186,1600 204,1599 786,1595 1077,1594 1077,1594 1118,1594 1142,1604 1142,1627 1008,1635 967,1637 522,1640 292,1641 186,1641"/>
+                <Baseline points="186,1633 382,1632 407,1631 442,1631 466,1631 668,1629 692,1629 760,1629 786,1628 967,1627 993,1627 1049,1627 1077,1627 1142,1627"/>
+                <TextEquiv>
+                    <Unicode>Forſtfiskus iſt regelmäßig und rechtzeitig zur Be⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l32" custom="readingOrder {index:31;}">
+                <Coords points="184,1648 230,1644 981,1639 981,1639 1104,1639 1142,1648 1142,1672 1001,1680 624,1684 348,1686 259,1686 184,1677"/>
+                <Baseline points="184,1669 348,1676 378,1676 624,1675 682,1675 746,1674 775,1674 831,1674 864,1673 1057,1672 1086,1672 1142,1672"/>
+                <TextEquiv>
+                    <Unicode>teiligung aufzufordern. Die zur Vornahme der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l33" custom="readingOrder {index:32;}">
+                <Coords points="186,1689 209,1688 663,1685 876,1684 1091,1683 1091,1683 1141,1683 1141,1716 929,1725 340,1730 209,1730 186,1722"/>
+                <Baseline points="186,1722 340,1721 365,1721 602,1719 627,1719 795,1718 821,1717 974,1717 998,1716 1065,1716 1091,1716 1141,1715"/>
+                <TextEquiv>
+                    <Unicode>Meſſung notwendigen baulichen Anlagen und die</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l34" custom="readingOrder {index:33;}">
+                <Coords points="186,1743 222,1733 332,1732 960,1727 960,1727 1099,1727 1142,1730 1142,1759 1064,1769 432,1773 222,1773 186,1766"/>
+                <Baseline points="186,1766 432,1764 462,1764 709,1762 738,1762 806,1762 838,1761 915,1761 945,1761 1142,1759"/>
+                <TextEquiv>
+                    <Unicode>erforderlichen Meßapparate ſind vom Forſtfiskus</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l35" custom="readingOrder {index:34;}">
+                <Coords points="185,1778 274,1776 932,1771 932,1771 1086,1771 1141,1781 1141,1805 1037,1813 382,1819 185,1819"/>
+                <Baseline points="185,1811 394,1809 413,1809 494,1808 515,1808 553,1808 572,1808 754,1806 772,1806 839,1806 860,1805 899,1805 917,1805 1141,1805"/>
+                <TextEquiv>
+                    <Unicode>herzuſtellen bzw. zu beſchaffen und zu unterhalten.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l36" custom="readingOrder {index:35;}">
+                <Coords points="619,1866 681,1864 681,1864 700,1864 710,1890 710,1896 633,1906 619,1906"/>
+                <Baseline points="619,1896 633,1896 661,1896 710,1896"/>
+                <TextEquiv>
+                    <Unicode>§ 19.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l37" custom="readingOrder {index:36;}">
+                <Coords points="273,1912 291,1910 1045,1906 1045,1906 1099,1906 1110,1907 1142,1915 1142,1947 489,1953 273,1953"/>
+                <Baseline points="273,1945 489,1943 514,1943 661,1942 688,1941 755,1941 782,1941 870,1940 896,1940 952,1940 979,1940 1030,1939 1045,1939 1142,1938"/>
+                <TextEquiv>
+                    <Unicode>Halbjährlich nachher, und zwar am 31. März</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l38" custom="readingOrder {index:37;}">
+                <Coords points="186,1966 236,1957 440,1955 931,1951 1092,1950 1092,1950 1142,1950 1142,1983 941,1992 807,1994 513,1995 492,1995 186,1989"/>
+                <Baseline points="186,1989 253,1989 279,1989 335,1989 360,1988 411,1988 440,1988 642,1986 665,1986 756,1985 780,1985 907,1985 931,1984 998,1984 1024,1984 1069,1983 1092,1983 1142,1983"/>
+                <TextEquiv>
+                    <Unicode>und am 30. September jedes Jahres ſind an die</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l39" custom="readingOrder {index:38;}">
+                <Coords points="191,2000 633,1996 996,1995 996,1995 1122,1995 1143,2004 1143,2035 1075,2036 899,2038 479,2040 294,2040 191,2034"/>
+                <Baseline points="191,2034 479,2031 518,2031 583,2030 619,2030 899,2028 938,2028 957,2028 996,2028 1143,2027"/>
+                <TextEquiv>
+                    <Unicode>Stadthauptkaſſe von Charlottenburg 5 Pfennig</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l40" custom="readingOrder {index:39;}">
+                <Coords points="186,2051 301,2045 793,2039 1026,2038 1026,2038 1106,2038 1144,2042 1144,2071 1106,2079 503,2085 208,2086 186,2086"/>
+                <Baseline points="186,2077 246,2077 280,2076 359,2075 392,2076 450,2076 484,2076 603,2075 640,2074 654,2074 690,2073 730,2073 764,2073 966,2072 1001,2072 1144,2071"/>
+                <TextEquiv>
+                    <Unicode>pro cbm des gemäß § 19 ermittelten Waſſers</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l41" custom="readingOrder {index:40;}">
+                <Coords points="187,2099 281,2089 281,2089 320,2089 375,2099 375,2121 320,2130 187,2130"/>
+                <Baseline points="187,2122 226,2121 249,2121 375,2121"/>
+                <TextEquiv>
+                    <Unicode>zu zahlen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l42" custom="readingOrder {index:41;}">
+                <Coords points="276,2134 370,2133 923,2128 1089,2127 1089,2127 1107,2127 1145,2136 1145,2159 1127,2161 1056,2168 1006,2169 565,2174 370,2174 276,2167"/>
+                <Baseline points="276,2167 344,2167 370,2166 565,2165 589,2164 646,2164 670,2164 762,2163 788,2163 843,2162 869,2162 1006,2161 1030,2161 1065,2160 1089,2160 1145,2153"/>
+                <TextEquiv>
+                    <Unicode>Der Feſtſetzung der Höhe der Gebühr iſt der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l43" custom="readingOrder {index:42;}">
+                <Coords points="191,2188 285,2179 438,2176 739,2173 1066,2172 1066,2172 1120,2172 1145,2181 1145,2204 1120,2213 1045,2214 932,2215 700,2217 579,2218 309,2220 248,2220 191,2219"/>
+                <Baseline points="191,2212 309,2211 348,2211 381,2211 421,2210 700,2209 739,2208 932,2206 972,2206 1145,2198"/>
+                <TextEquiv>
+                    <Unicode>zurzeit in Charlottenburg ortsübliche Tagelohn</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l44" custom="readingOrder {index:43;}">
+                <Coords points="189,2233 263,2224 530,2220 1025,2217 1025,2217 1119,2217 1144,2226 1144,2257 1119,2258 781,2263 424,2265 189,2265"/>
+                <Baseline points="189,2256 424,2255 464,2255 781,2252 822,2252 903,2251 947,2250 987,2250 1025,2250 1144,2249"/>
+                <TextEquiv>
+                    <Unicode>gewöhnlicher Tagelohnarbeiter über 16 Jahre,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l45" custom="readingOrder {index:44;}">
+                <Coords points="191,2275 242,2267 256,2266 738,2261 738,2261 1011,2261 1131,2264 1146,2275 1146,2287 1111,2302 323,2307 256,2307 191,2300"/>
+                <Baseline points="191,2300 323,2299 367,2299 424,2299 471,2299 589,2298 634,2298 693,2297 738,2296 1146,2284"/>
+                <TextEquiv>
+                    <Unicode>welcher auf Grund des Krankenverſicherungs⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l46" custom="readingOrder {index:45;}">
+                <Coords points="190,2321 230,2310 758,2306 758,2306 1034,2306 1146,2314 1146,2337 1122,2345 974,2347 891,2348 320,2353 190,2353"/>
+                <Baseline points="190,2344 320,2344 340,2343 406,2343 426,2343 481,2343 501,2343 646,2342 669,2342 1054,2338 1075,2338 1146,2337"/>
+                <TextEquiv>
+                    <Unicode>geſetzes von der höheren Verwaltungsbehörde zur⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l47" custom="readingOrder {index:46;}">
+                <Coords points="189,2365 225,2355 1026,2348 1026,2348 1078,2348 1135,2351 1154,2361 1154,2382 1119,2391 1046,2393 950,2394 251,2397 189,2397"/>
+                <Baseline points="189,2389 251,2388 281,2388 340,2388 372,2388 447,2388 479,2387 516,2387 550,2387 717,2386 747,2386 794,2385 826,2385 994,2383 1026,2383 1119,2382"/>
+                <TextEquiv>
+                    <Unicode>zeit auf 2,90 ℳ feſtgeſetzt iſt, zugrunde gelegt.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l48" custom="readingOrder {index:47;}">
+                <Coords points="191,2400 1014,2394 1014,2394 1089,2394 1147,2403 1147,2427 950,2438 523,2442 469,2442 376,2441 191,2434"/>
+                <Baseline points="191,2434 254,2434 277,2434 413,2433 434,2433 549,2432 568,2432 624,2432 644,2432 692,2432 715,2432 821,2430 842,2430 898,2430 921,2430 996,2428 1014,2428 1051,2428 1070,2428 1147,2427"/>
+                <TextEquiv>
+                    <Unicode>Die Gebühr erhöht ſich im Laufe der Zeit in dem</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l49" custom="readingOrder {index:48;}">
+                <Coords points="190,2455 210,2445 951,2438 951,2438 1127,2438 1146,2449 1146,2472 1127,2480 809,2484 330,2487 190,2487"/>
+                <Baseline points="190,2478 330,2478 366,2478 570,2477 604,2477 640,2477 674,2476 827,2475 860,2475 917,2474 951,2474 1146,2472"/>
+                <TextEquiv>
+                    <Unicode>gleichen Verhältnis, in welchem der ortsübliche</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l50" custom="readingOrder {index:49;}">
+                <Coords points="190,2490 501,2487 1016,2483 1016,2483 1147,2483 1147,2517 1101,2519 880,2528 698,2530 336,2531 243,2531 190,2524"/>
+                <Baseline points="190,2523 361,2523 391,2522 468,2522 501,2522 698,2521 729,2521 786,2520 816,2520 962,2519 996,2519 1147,2517"/>
+                <TextEquiv>
+                    <Unicode>Tagelohn nach Feſtſetzung der höheren Verwal⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l51" custom="readingOrder {index:50;}">
+                <Coords points="189,2536 294,2534 878,2530 1088,2529 1088,2529 1121,2529 1147,2532 1147,2561 1060,2571 1022,2572 563,2575 253,2575 189,2566"/>
+                <Baseline points="189,2566 433,2566 461,2566 563,2567 622,2566 732,2565 762,2565 834,2565 863,2565 1060,2562 1088,2562 1147,2561"/>
+                <TextEquiv>
+                    <Unicode>tungsbehörde ſteigt. Sollte eine Feſtſetzung des</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l52" custom="readingOrder {index:51;}">
+                <Coords points="192,2587 229,2580 287,2578 1055,2573 1055,2573 1087,2573 1133,2582 1148,2586 1148,2598 1133,2605 871,2617 502,2619 483,2619 333,2617 192,2610"/>
+                <Baseline points="192,2610 408,2610 429,2610 640,2609 662,2609 741,2609 763,2609 934,2607 957,2607 1017,2606 1041,2606 1148,2595"/>
+                <TextEquiv>
+                    <Unicode>ortsüblichen Tagelohnes nach Maßgabe des Kran⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l53" custom="readingOrder {index:52;}">
+                <Coords points="191,2621 915,2617 1115,2616 1115,2616 1126,2616 1147,2625 1147,2649 1126,2656 1020,2660 621,2663 260,2663 191,2653"/>
+                <Baseline points="191,2645 621,2653 660,2653 744,2653 781,2653 875,2652 915,2652 1075,2650 1115,2649 1147,2649"/>
+                <TextEquiv>
+                    <Unicode>kenverſicherungsgeſetzes nicht mehr erfolgen, ſo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l54" custom="readingOrder {index:53;}">
+                <Coords points="193,2675 235,2667 250,2665 1029,2661 1029,2661 1041,2661 1084,2662 1148,2664 1148,2693 1084,2703 1008,2705 832,2706 250,2706 193,2698"/>
+                <Baseline points="193,2698 380,2699 403,2699 482,2699 505,2699 556,2699 582,2698 832,2697 853,2697 912,2697 934,2696 1148,2693"/>
+                <TextEquiv>
+                    <Unicode>entſcheidet über die Ortsüblichkeit des Tagelohnes</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l55" custom="readingOrder {index:54;}">
+                <Coords points="192,2710 267,2709 956,2706 956,2706 1068,2706 1105,2707 1148,2716 1148,2739 1089,2749 688,2752 267,2752 192,2743"/>
+                <Baseline points="192,2743 238,2745 267,2744 454,2744 481,2744 539,2744 565,2744 733,2743 747,2743 848,2743 874,2742 931,2742 956,2741 1148,2739"/>
+                <TextEquiv>
+                    <Unicode>im Streitfalle auf Anſuchen einer der beteiligten</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l56" custom="readingOrder {index:55;}">
+                <Coords points="196,2756 1069,2752 1069,2752 1088,2752 1149,2761 1149,2785 1011,2794 866,2798 487,2798 196,2796"/>
+                <Baseline points="196,2789 356,2789 392,2789 448,2789 487,2789 866,2787 903,2787 940,2787 973,2786 1149,2784"/>
+                <TextEquiv>
+                    <Unicode>Parteien der Regierungspräſident in Potsdam</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l57" custom="readingOrder {index:56;}">
+                <Coords points="192,2800 883,2796 883,2796 1111,2796 1147,2806 1147,2829 1111,2838 576,2841 214,2841 192,2832"/>
+                <Baseline points="192,2832 274,2833 301,2833 354,2833 379,2833 444,2833 468,2833 537,2834 561,2833 601,2833 625,2833 854,2832 883,2832 1147,2829"/>
+                <TextEquiv>
+                    <Unicode>bzw. ein von ihm zu ernennender Schiedsrichter.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l58" custom="readingOrder {index:57;}">
+                <Coords points="252,2888 783,2868 783,2868 810,2868 988,2872 1091,2894 1091,2918 1021,2928 810,2932 783,2932 532,2928 314,2921 252,2919"/>
+                <Baseline points="252,2911 288,2920 314,2920 655,2921 691,2921 1091,2918"/>
+                <TextEquiv>
+                    <Unicode>C. Gemeinſame Beſtimmungen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l59" custom="readingOrder {index:58;}">
+                <Coords points="514,2935 612,2932 612,2932 809,2932 826,2934 826,2971 543,2973 514,2973"/>
+                <Baseline points="514,2965 543,2965 567,2965 579,2964 612,2964 631,2964 652,2964 745,2965 768,2964 826,2963"/>
+                <TextEquiv>
+                    <Unicode>(zu A und B).</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l60" custom="readingOrder {index:59;}">
+                <Coords points="626,3023 688,3022 688,3022 707,3022 717,3047 717,3054 641,3063 626,3063"/>
+                <Baseline points="626,3054 641,3054 666,3054 717,3054"/>
+                <TextEquiv>
+                    <Unicode>§ 20.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l61" custom="readingOrder {index:60;}">
+                <Coords points="283,3064 1129,3064 1150,3066 1150,3097 1129,3106 702,3107 395,3107 283,3099"/>
+                <Baseline points="283,3099 348,3099 369,3099 582,3099 606,3099 721,3099 743,3099 912,3098 933,3098 1008,3098 1030,3098 1150,3097"/>
+                <TextEquiv>
+                    <Unicode>Die Mehrkoſten, welche einerſeits dem Fiskus</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l62" custom="readingOrder {index:61;}">
+                <Coords points="196,3110 234,3109 234,3109 1136,3109 1151,3122 1151,3135 1136,3142 1022,3150 817,3152 608,3152 234,3150 196,3142"/>
+                <Baseline points="196,3142 427,3142 454,3142 577,3143 605,3143 817,3143 844,3142 901,3142 928,3142 976,3142 1005,3142 1022,3142 1050,3142 1067,3142 1095,3142 1151,3131"/>
+                <TextEquiv>
+                    <Unicode>insbeſondere infolge Einrichtung der im § 1 be⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l63" custom="readingOrder {index:62;}">
+                <Coords points="197,3163 232,3153 1037,3152 1037,3152 1138,3152 1152,3168 1152,3181 1138,3185 951,3195 881,3196 825,3196 197,3195"/>
+                <Baseline points="197,3187 380,3186 396,3187 536,3187 550,3187 603,3187 616,3187 666,3187 681,3187 951,3186 966,3186 1023,3186 1037,3186 1152,3177"/>
+                <TextEquiv>
+                    <Unicode>zeichneten Brücken für die Unterbringung der Druck⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l64" custom="readingOrder {index:63;}">
+                <Coords points="197,3207 235,3197 235,3197 1128,3197 1152,3205 1152,3229 1128,3239 992,3240 830,3240 235,3239 197,3230"/>
+                <Baseline points="197,3230 446,3231 463,3231 678,3231 688,3231 745,3231 759,3231 1038,3230 1048,3230 1152,3223"/>
+                <TextEquiv>
+                    <Unicode>rohrleitungen andererſeits der Stadtgemeinde Char⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l65" custom="readingOrder {index:64;}">
+                <Coords points="197,3242 304,3241 304,3241 1065,3241 1151,3251 1151,3275 1108,3285 1087,3285 327,3284 197,3276"/>
+                <Baseline points="197,3275 387,3275 405,3275 635,3276 652,3276 706,3276 723,3276 907,3276 927,3276 1151,3275"/>
+                <TextEquiv>
+                    <Unicode>lottenburg insbeſondere für vermehrte Bauanlagen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>fiskaliſchen Gebietes und des Zuführungskanals
+von der forſtfiskaliſchen Grenze bis zur nord⸗
+öſtlichen Grenze des eiſenbahnfiskaliſchen Geländes
+bei Punkt A des angehefteten Lageplanes Blatt 2
+iſt Sache des Fiskus, die Aufnahme, Beſeitigung
+und Reinigung des zugeführten Waſſers iſt Sache
+der Stadtgemeinde Charlottenburg.
+§ 17.
+Der Forſtfiskus iſt nicht berechtigt, Erſatz⸗
+anſprüche wegen Erſchwerung, Störung oder Unter⸗
+brechung des Charlottenburger Kanaliſations⸗
+betriebes geltend zu machen, die etwa infolge von
+behördlichen Anordnungen, Naturereigniſſen, Ar⸗
+beitseinſtellungen ſeitens der Angeſtellten oder in⸗
+folge von Handlungen und Ereigniſſen eintreten,
+die nicht auf ein Verſchulden der Stadtgemeinde
+beruhen.
+§ 18.
+Die Feſtſtellung der zu bezahlenden ein⸗
+geleiteten Schmutzwaſſermenge geſchieht ohne Rück⸗
+ſicht auf die tatſächliche Abflußmenge derart,
+daß in jedem Halbjahr des Etatsjahres an 5 ver⸗
+ſchiedenen, vom Magiſtrat von Charlottenburg feſt⸗
+zuſetzenden Werktagen nach einem von dem Magi⸗
+ſtrat zu beſtimmenden Verfahren die ſekundliche
+Waſſermenge durch einen Beamten der Stadt
+Charlottenburg gemeſſen und aus dem Mittel
+dieſer Meſſung die Waſſermenge des zugehörigen
+Halbjahres berechnet wird. Der Magiſtrat beſtimmt
+die Tageszeit und die Dauer der Meſſung. Der
+Forſtfiskus iſt regelmäßig und rechtzeitig zur Be⸗
+teiligung aufzufordern. Die zur Vornahme der
+Meſſung notwendigen baulichen Anlagen und die
+erforderlichen Meßapparate ſind vom Forſtfiskus
+herzuſtellen bzw. zu beſchaffen und zu unterhalten.
+§ 19.
+Halbjährlich nachher, und zwar am 31. März
+und am 30. September jedes Jahres ſind an die
+Stadthauptkaſſe von Charlottenburg 5 Pfennig
+pro cbm des gemäß § 19 ermittelten Waſſers
+zu zahlen.
+Der Feſtſetzung der Höhe der Gebühr iſt der
+zurzeit in Charlottenburg ortsübliche Tagelohn
+gewöhnlicher Tagelohnarbeiter über 16 Jahre,
+welcher auf Grund des Krankenverſicherungs⸗
+geſetzes von der höheren Verwaltungsbehörde zur⸗
+zeit auf 2,90 ℳ feſtgeſetzt iſt, zugrunde gelegt.
+Die Gebühr erhöht ſich im Laufe der Zeit in dem
+gleichen Verhältnis, in welchem der ortsübliche
+Tagelohn nach Feſtſetzung der höheren Verwal⸗
+tungsbehörde ſteigt. Sollte eine Feſtſetzung des
+ortsüblichen Tagelohnes nach Maßgabe des Kran⸗
+kenverſicherungsgeſetzes nicht mehr erfolgen, ſo
+entſcheidet über die Ortsüblichkeit des Tagelohnes
+im Streitfalle auf Anſuchen einer der beteiligten
+Parteien der Regierungspräſident in Potsdam
+bzw. ein von ihm zu ernennender Schiedsrichter.
+C. Gemeinſame Beſtimmungen
+(zu A und B).
+§ 20.
+Die Mehrkoſten, welche einerſeits dem Fiskus
+insbeſondere infolge Einrichtung der im § 1 be⸗
+zeichneten Brücken für die Unterbringung der Druck⸗
+rohrleitungen andererſeits der Stadtgemeinde Char⸗
+lottenburg insbeſondere für vermehrte Bauanlagen</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r3" custom="readingOrder {index:2;} structure {type:paragraph;}">
+            <Coords points="1159,161 2144,161 2149,3244 1172,3252"/>
+            <TextLine id="r3l1" custom="readingOrder {index:0;}">
+                <Coords points="1165,172 1238,171 1421,169 1901,168 1901,168 2067,168 2083,170 2128,179 2128,204 2067,211 1270,213 1202,213 1165,205"/>
+                <Baseline points="1165,205 1289,205 1316,205 1376,204 1403,204 1603,203 1629,203 1689,203 1715,203 1763,203 1790,203 1807,203 1835,203 1876,203 1901,203 2128,204"/>
+                <TextEquiv>
+                    <Unicode>infolge des Anſchluſſes des im § 14 bezeichneten</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l2" custom="readingOrder {index:1;}">
+                <Coords points="1166,216 1196,215 1846,213 1846,213 1989,213 2127,216 2127,246 1938,254 1746,256 1439,257 1196,257 1166,256"/>
+                <Baseline points="1166,249 1439,248 1465,248 1623,248 1644,248 1690,248 1711,247 1780,247 1806,247 2034,247 2057,247 2127,246"/>
+                <TextEquiv>
+                    <Unicode>forſtfiskaliſchen Gebietes an ihre Kanaliſation ent⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l3" custom="readingOrder {index:2;}">
+                <Coords points="1167,261 1571,259 1873,258 1873,258 2128,258 2128,299 2004,300 1285,301 1167,301"/>
+                <Baseline points="1167,294 1285,293 1317,293 1451,292 1478,292 1523,292 1550,292 1635,292 1663,292 1706,292 1735,292 1842,291 1873,291 2019,291 2049,291 2128,291"/>
+                <TextEquiv>
+                    <Unicode>ſtehen, werden — ohne ſie ihrem Betrage nach</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l4" custom="readingOrder {index:3;}">
+                <Coords points="1167,304 1790,301 1790,301 1941,301 1998,304 1998,335 1941,344 1667,345 1377,346 1167,346"/>
+                <Baseline points="1167,338 1377,337 1399,337 1443,337 1465,337 1732,336 1756,336 1998,335"/>
+                <TextEquiv>
+                    <Unicode>feſtzuſtellen — gegeneinander aufgerechnet.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l5" custom="readingOrder {index:4;}">
+                <Coords points="1601,394 1681,394 1693,418 1693,425 1616,434 1601,434"/>
+                <Baseline points="1601,425 1616,425 1640,425 1693,425"/>
+                <TextEquiv>
+                    <Unicode>§ 21.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l6" custom="readingOrder {index:5;}">
+                <Coords points="1255,439 1351,438 1536,437 1927,435 1927,435 2105,435 2127,446 2127,478 1494,479 1367,479 1255,472"/>
+                <Baseline points="1255,472 1325,471 1351,471 1494,471 1520,470 1600,470 1625,470 1685,470 1709,470 1760,470 1786,470 1902,470 1927,469 2127,469"/>
+                <TextEquiv>
+                    <Unicode>Der Vertrag wird auf die Dauer geſchloſſen,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l7" custom="readingOrder {index:6;}">
+                <Coords points="1167,484 1419,482 1587,481 1587,481 1672,481 1737,482 1798,492 1798,515 1693,526 1674,526 1167,525"/>
+                <Baseline points="1167,517 1274,516 1298,516 1360,516 1384,515 1563,515 1587,515 1798,515"/>
+                <TextEquiv>
+                    <Unicode>jedoch mit folgenden Maßgaben:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l8" custom="readingOrder {index:7;}">
+                <Coords points="1187,529 1249,528 1405,526 1964,524 1964,524 1998,524 2128,527 2128,557 2072,566 2052,567 1486,569 1372,569 1306,568 1187,559"/>
+                <Baseline points="1187,559 1215,560 1249,560 1291,560 1306,560 1486,560 1526,560 1609,559 1647,559 1931,558 1964,558 1998,557 2037,557 2072,557 2112,557 2128,556"/>
+                <TextEquiv>
+                    <Unicode>I. bezüglich des Abſchnitts A §§ 1</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l9" custom="readingOrder {index:8;}">
+                <Coords points="1240,572 1274,571 1768,569 1768,569 2072,569 2129,583 2129,595 2072,610 1605,611 1565,611 1240,604"/>
+                <Baseline points="1240,604 1316,604 1346,604 1386,604 1411,604 1706,604 1735,603 1809,603 1839,603 2129,592"/>
+                <TextEquiv>
+                    <Unicode>bis 13 betreffend die Druckrohr⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l10" custom="readingOrder {index:9;}">
+                <Coords points="1240,617 1298,615 1307,615 1532,623 1532,656 1442,657 1423,657 1240,649"/>
+                <Baseline points="1240,649 1336,648 1349,648 1527,648 1532,647"/>
+                <TextEquiv>
+                    <Unicode>leitungen:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l11" custom="readingOrder {index:10;}">
+                <Coords points="1307,660 1525,659 2050,658 2050,658 2079,658 2115,666 2129,672 2129,684 2115,691 1978,699 1913,701 1545,701 1307,694"/>
+                <Baseline points="1307,694 1417,693 1444,693 1495,693 1525,693 1791,691 1819,692 1866,692 1894,692 2021,692 2050,692 2129,681"/>
+                <TextEquiv>
+                    <Unicode>Wenn die Rohrleitungen im ganzen Um⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l12" custom="readingOrder {index:11;}">
+                <Coords points="1241,706 1541,703 1959,702 1959,702 2045,702 2084,703 2130,713 2130,736 1918,745 1630,746 1322,747 1241,747"/>
+                <Baseline points="1241,739 1341,739 1367,739 1444,738 1467,738 1516,738 1541,738 1711,737 1735,737 1819,737 1842,737 1937,736 1959,736 2130,736"/>
+                <TextEquiv>
+                    <Unicode>fange oder im einzelnen nicht mehr betrieben</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l13" custom="readingOrder {index:12;}">
+                <Coords points="1243,757 1264,751 1559,748 1940,747 1940,747 2127,747 2127,780 2025,789 1685,791 1264,791 1243,784"/>
+                <Baseline points="1243,784 1386,783 1407,783 1464,783 1484,783 1535,782 1559,782 1837,782 1858,782 1920,781 1940,781 2040,781 2059,781 2127,771"/>
+                <TextEquiv>
+                    <Unicode>werden, hat die Stadtgemeinde das Recht und</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l14" custom="readingOrder {index:13;}">
+                <Coords points="1242,805 1288,795 1357,794 1905,791 1905,791 2036,791 2131,792 2131,833 2036,834 1487,836 1288,836 1242,828"/>
+                <Baseline points="1242,828 1301,828 1339,828 1532,827 1566,827 1625,827 1661,827 1780,826 1815,826 1866,826 1905,826 2036,825 2071,825 2131,825"/>
+                <TextEquiv>
+                    <Unicode>auf Verlangen des Fiskus die Pflicht, auf</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l15" custom="readingOrder {index:14;}">
+                <Coords points="1243,850 1261,840 1400,839 1698,837 1978,836 1978,836 2030,836 2087,838 2131,846 2131,869 2072,878 1998,879 1356,881 1261,881 1243,873"/>
+                <Baseline points="1243,873 1356,872 1400,872 1516,871 1559,871 1610,871 1652,871 1755,871 1799,870 1936,870 1978,870 2131,869"/>
+                <TextEquiv>
+                    <Unicode>eigene Koſten die außer Betrieb geſetzten</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l16" custom="readingOrder {index:15;}">
+                <Coords points="1245,884 1581,882 2078,880 2078,880 2110,880 2129,891 2129,914 1995,922 1385,924 1366,924 1245,918"/>
+                <Baseline points="1245,917 1430,915 1456,915 1496,915 1523,915 1699,915 1724,915 1792,914 1819,914 1916,914 1941,914 2052,914 2078,914 2129,913"/>
+                <TextEquiv>
+                    <Unicode>Leitungen zu entfernen und dabei ferner die</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l17" custom="readingOrder {index:16;}">
+                <Coords points="1246,928 1264,927 1472,926 2032,924 2032,924 2088,924 2130,934 2130,957 2105,958 1795,967 1335,969 1246,969"/>
+                <Baseline points="1246,960 1375,960 1397,960 1449,960 1472,960 1805,959 1824,959 1893,959 1913,958 1966,958 1988,958 2130,957"/>
+                <TextEquiv>
+                    <Unicode>Pflicht, die Geländeoberfläche und die Brücken</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l18" custom="readingOrder {index:17;}">
+                <Coords points="1243,982 1290,972 1483,971 1985,969 1985,969 2063,969 2129,970 2129,1002 2063,1011 2026,1012 1385,1014 1290,1014 1243,1006"/>
+                <Baseline points="1243,1006 1302,1006 1334,1005 1448,1005 1483,1005 1601,1004 1632,1004 1667,1004 1699,1004 1763,1004 1794,1004 1952,1003 1985,1003 2129,1002"/>
+                <TextEquiv>
+                    <Unicode>auf eigene Koſten in den früheren Zuſtand</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l19" custom="readingOrder {index:18;}">
+                <Coords points="1243,1028 1357,1016 1502,1015 2016,1014 2016,1014 2054,1014 2131,1016 2131,1046 2054,1056 1966,1057 1258,1059 1243,1059"/>
+                <Baseline points="1243,1051 1283,1051 1300,1051 1464,1049 1502,1049 1631,1049 1649,1049 1701,1049 1717,1049 1804,1049 1824,1049 1966,1048 1984,1048 2131,1038"/>
+                <TextEquiv>
+                    <Unicode>zu verſetzen. Sobald die letzte Leitung entfernt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l20" custom="readingOrder {index:19;}">
+                <Coords points="1243,1063 1373,1061 1553,1060 1963,1059 1963,1059 2030,1059 2130,1060 2130,1100 2030,1101 1679,1103 1289,1104 1255,1104 1243,1096"/>
+                <Baseline points="1243,1096 1289,1096 1316,1096 1447,1094 1472,1094 1523,1094 1553,1094 1833,1094 1858,1094 1920,1093 1946,1093 2046,1093 2071,1093 2130,1093"/>
+                <TextEquiv>
+                    <Unicode>iſt, verliert die Stadtgemeinde das Recht auf</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l21" custom="readingOrder {index:20;}">
+                <Coords points="1244,1114 1296,1107 1420,1106 1654,1105 1942,1104 1942,1104 2000,1104 2129,1114 2129,1136 2084,1145 1612,1146 1523,1146 1244,1140"/>
+                <Baseline points="1244,1140 1376,1139 1420,1139 1612,1138 1654,1138 1713,1137 1754,1137 1808,1137 1848,1137 1900,1138 1942,1138 2129,1136"/>
+                <TextEquiv>
+                    <Unicode>weitere Benutzung des für die Leitungen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l22" custom="readingOrder {index:21;}">
+                <Coords points="1242,1152 1490,1149 1824,1148 1824,1148 1935,1148 1960,1158 1960,1181 1935,1183 1400,1191 1301,1191 1242,1183"/>
+                <Baseline points="1242,1175 1410,1183 1438,1182 1607,1182 1630,1182 1699,1182 1724,1182 1780,1181 1807,1182 1960,1181"/>
+                <TextEquiv>
+                    <Unicode>benutzten Geländes und der Brücken.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l23" custom="readingOrder {index:22;}">
+                <Coords points="1170,1195 1407,1193 1729,1192 1729,1192 1979,1192 2106,1193 2131,1194 2131,1224 2055,1234 1487,1236 1374,1236 1308,1235 1170,1227"/>
+                <Baseline points="1170,1227 1218,1227 1243,1228 1487,1227 1522,1227 1605,1226 1639,1226 1918,1225 1949,1225 1979,1225 2020,1225 2055,1224 2090,1224 2131,1224"/>
+                <TextEquiv>
+                    <Unicode>II. bezüglich des Abſchnitts B §§ 14</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l24" custom="readingOrder {index:23;}">
+                <Coords points="1243,1240 1437,1238 1618,1237 1618,1237 2130,1237 2130,1277 2034,1278 1630,1279 1618,1279 1243,1273"/>
+                <Baseline points="1243,1273 1318,1272 1358,1272 1399,1271 1437,1271 1732,1270 1771,1270 1860,1270 1899,1270 2130,1270"/>
+                <TextEquiv>
+                    <Unicode>bis 20 betreffend den Anſchluß</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l25" custom="readingOrder {index:24;}">
+                <Coords points="1243,1285 1431,1283 1796,1282 1796,1282 1946,1282 2034,1283 2103,1291 2129,1296 2129,1308 2103,1314 1857,1323 1838,1323 1243,1318"/>
+                <Baseline points="1243,1318 1323,1318 1357,1317 1568,1316 1601,1316 1658,1316 1689,1316 1765,1315 1796,1315 2129,1305"/>
+                <TextEquiv>
+                    <Unicode>der Kolonie an die Charlotten⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l26" custom="readingOrder {index:25;}">
+                <Coords points="1242,1330 1449,1328 1645,1327 1645,1327 1742,1327 1828,1336 1828,1360 1656,1368 1362,1371 1343,1371 1242,1362"/>
+                <Baseline points="1242,1362 1423,1362 1449,1361 1828,1359"/>
+                <TextEquiv>
+                    <Unicode>burger Kanaliſation:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l27" custom="readingOrder {index:26;}">
+                <Coords points="1309,1374 1505,1372 1965,1371 1965,1371 2089,1371 2130,1374 2130,1403 2109,1404 1820,1412 1505,1412 1309,1407"/>
+                <Baseline points="1309,1406 1379,1406 1410,1406 1456,1406 1489,1405 1652,1404 1681,1404 1711,1404 1743,1404 1933,1404 1965,1404 2039,1404 2071,1404 2130,1403"/>
+                <TextEquiv>
+                    <Unicode>Der im Abſchnitt B enthaltene Teil des</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l28" custom="readingOrder {index:27;}">
+                <Coords points="1248,1418 1459,1416 1791,1415 1791,1415 1988,1415 2130,1425 2130,1447 2085,1456 1390,1458 1265,1458 1248,1451"/>
+                <Baseline points="1248,1450 1429,1449 1459,1449 1588,1448 1619,1448 1698,1448 1727,1448 1822,1447 1854,1448 2130,1447"/>
+                <TextEquiv>
+                    <Unicode>Vertrages erliſcht, falls durch Beſtimmungen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l29" custom="readingOrder {index:28;}">
+                <Coords points="1245,1462 1347,1460 1704,1459 2064,1458 2064,1458 2094,1458 2114,1459 2129,1473 2129,1485 2114,1491 2094,1492 1897,1500 1462,1501 1347,1501 1245,1494"/>
+                <Baseline points="1245,1494 1301,1494 1328,1493 1656,1492 1683,1492 1733,1492 1761,1492 1953,1492 1981,1492 2036,1492 2064,1492 2129,1482"/>
+                <TextEquiv>
+                    <Unicode>der Aufſichtsbehörden die Aufnahme der Ab⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l30" custom="readingOrder {index:29;}">
+                <Coords points="1246,1512 1267,1505 1775,1503 1775,1503 2130,1503 2130,1536 2088,1538 1959,1544 1311,1546 1267,1546 1246,1539"/>
+                <Baseline points="1246,1539 1359,1538 1394,1538 1563,1537 1599,1537 1676,1537 1711,1537 1805,1537 1839,1537 1959,1537 1996,1537 2130,1536"/>
+                <TextEquiv>
+                    <Unicode>wäſſer verboten, oder durch höhere Gewalt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l31" custom="readingOrder {index:30;}">
+                <Coords points="1246,1560 1267,1550 1381,1549 1521,1548 1521,1548 2110,1548 2129,1558 2129,1581 2050,1589 1449,1591 1431,1591 1381,1590 1246,1583"/>
+                <Baseline points="1246,1583 1323,1583 1344,1583 1468,1583 1491,1582 1727,1581 1749,1581 1805,1581 1827,1581 2129,1581"/>
+                <TextEquiv>
+                    <Unicode>oder infolge Einſchreitens der Aufſichtsbehörde</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l32" custom="readingOrder {index:31;}">
+                <Coords points="1245,1595 1345,1594 1616,1592 1968,1591 1968,1591 2112,1591 2130,1595 2130,1633 1555,1633 1245,1628"/>
+                <Baseline points="1245,1628 1300,1628 1321,1628 1456,1627 1475,1627 1534,1626 1555,1626 1776,1626 1795,1626 1872,1625 1890,1625 1947,1625 1968,1625 2130,1625"/>
+                <TextEquiv>
+                    <Unicode>der Betrieb des Pumpwerks oder der Schmutz⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l33" custom="readingOrder {index:32;}">
+                <Coords points="1245,1647 1263,1637 1726,1636 1726,1636 1902,1636 2091,1637 2131,1651 2131,1662 2116,1669 2091,1677 1480,1681 1263,1681 1245,1673"/>
+                <Baseline points="1245,1673 1678,1670 1715,1670 1902,1670 1939,1670 2015,1669 2051,1669 2131,1659"/>
+                <TextEquiv>
+                    <Unicode>wäſſerreinigungsanlage (Rieſelfeld oder ähn⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l34" custom="readingOrder {index:33;}">
+                <Coords points="1244,1684 1478,1682 1631,1681 1631,1681 1806,1681 1842,1682 1855,1707 1855,1713 1842,1714 1716,1723 1565,1724 1478,1724 1269,1723 1244,1716"/>
+                <Baseline points="1244,1716 1356,1716 1380,1716 1565,1715 1583,1715 1736,1714 1762,1714 1855,1713"/>
+                <TextEquiv>
+                    <Unicode>liches) unmöglich gemacht wird.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l35" custom="readingOrder {index:34;}">
+                <Coords points="1311,1728 1489,1725 1489,1725 2044,1725 2076,1727 2130,1734 2130,1757 1919,1766 1507,1768 1357,1768 1311,1762"/>
+                <Baseline points="1311,1762 1417,1760 1427,1760 1707,1758 1718,1758 1769,1758 1780,1758 1970,1758 1981,1758 2130,1751"/>
+                <TextEquiv>
+                    <Unicode>Lehnt Charlottenburg die Aufnahme weiterer</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l36" custom="readingOrder {index:35;}">
+                <Coords points="1270,1772 1291,1771 1783,1769 1783,1769 2107,1769 2131,1772 2131,1801 2107,1810 2098,1811 1383,1813 1291,1813 1270,1806"/>
+                <Baseline points="1270,1806 1534,1804 1572,1804 1653,1803 1691,1803 1743,1803 1783,1803 1967,1802 2006,1802 2131,1793"/>
+                <TextEquiv>
+                    <Unicode>Schmutzwäſſer über die feſtgeſetzte Höchſt⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l37" custom="readingOrder {index:36;}">
+                <Coords points="1245,1827 1473,1817 1527,1816 1707,1814 1707,1814 2092,1814 2130,1823 2130,1846 2112,1847 1927,1855 1822,1856 1344,1858 1325,1858 1245,1850"/>
+                <Baseline points="1245,1850 1363,1849 1384,1849 1450,1849 1473,1848 1512,1848 1527,1848 1590,1847 1609,1847 1687,1847 1707,1847 1822,1847 1843,1847 1895,1847 1916,1847 1949,1847 1970,1847 2055,1847 2073,1847 2130,1840"/>
+                <TextEquiv>
+                    <Unicode>menge von 10 000 cbm täglich ab, ſo kann der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l38" custom="readingOrder {index:37;}">
+                <Coords points="1246,1862 1264,1861 1961,1858 1961,1858 2045,1858 2130,1868 2130,1899 2024,1900 1442,1903 1246,1903"/>
+                <Baseline points="1246,1895 1442,1894 1479,1894 1542,1894 1581,1893 1724,1892 1759,1892 1858,1892 1892,1892 2130,1891"/>
+                <TextEquiv>
+                    <Unicode>Forſtfiskus den Vertrag unter Innehaltung</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l39" custom="readingOrder {index:38;}">
+                <Coords points="1246,1916 1264,1907 1692,1903 1692,1903 2052,1903 2129,1913 2129,1936 2073,1945 1582,1947 1467,1947 1246,1940"/>
+                <Baseline points="1246,1940 1335,1939 1378,1939 1582,1937 1625,1937 1915,1936 1956,1936 2129,1936"/>
+                <TextEquiv>
+                    <Unicode>einer einjährigen Kündigungsfriſt kündigen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l40" custom="readingOrder {index:39;}">
+                <Coords points="1606,1996 1647,1995 1647,1995 1686,1995 1697,2019 1697,2025 1621,2033 1606,2033"/>
+                <Baseline points="1606,2025 1621,2025 1647,2025 1697,2025"/>
+                <TextEquiv>
+                    <Unicode>§ 22.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l41" custom="readingOrder {index:40;}">
+                <Coords points="1260,2040 1336,2039 1600,2037 1909,2036 1909,2036 2131,2036 2131,2068 1928,2078 1369,2081 1351,2081 1260,2074"/>
+                <Baseline points="1260,2073 1384,2072 1416,2072 1471,2071 1503,2071 1550,2071 1582,2070 1746,2070 1776,2069 1804,2069 1837,2069 2026,2070 2059,2070 2131,2068"/>
+                <TextEquiv>
+                    <Unicode>Endigt der im Abſchnitt B enthaltene Teil</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l42" custom="readingOrder {index:41;}">
+                <Coords points="1174,2085 1265,2084 1744,2081 2046,2080 2046,2080 2089,2080 2131,2090 2131,2113 2056,2121 2015,2122 1408,2125 1265,2125 1174,2117"/>
+                <Baseline points="1174,2117 1232,2117 1265,2117 1459,2116 1490,2116 1522,2115 1554,2115 1610,2115 1641,2115 1697,2115 1729,2115 1926,2114 1957,2114 2015,2114 2046,2114 2131,2107"/>
+                <TextEquiv>
+                    <Unicode>des Vertrages, ſo hat der Forſtfiskus auf ſeine</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l43" custom="readingOrder {index:42;}">
+                <Coords points="1176,2129 1735,2125 1735,2125 2095,2125 2132,2134 2132,2157 2114,2159 1902,2167 1240,2169 1197,2169 1176,2163"/>
+                <Baseline points="1176,2162 1293,2161 1317,2161 1375,2161 1393,2161 1546,2160 1569,2160 1614,2159 1638,2159 1695,2160 1720,2160 1965,2159 1990,2159 2052,2158 2076,2158 2132,2151"/>
+                <TextEquiv>
+                    <Unicode>Koſten die Anlagen an der Anſchlußſtelle mit der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l44" custom="readingOrder {index:43;}">
+                <Coords points="1174,2173 1269,2172 1429,2171 1967,2169 1967,2169 2131,2169 2131,2203 2053,2211 1892,2213 1283,2213 1174,2211"/>
+                <Baseline points="1174,2206 1358,2206 1386,2206 1613,2204 1639,2204 1679,2204 1705,2204 1892,2203 1946,2203 2053,2203 2081,2203 2131,2202"/>
+                <TextEquiv>
+                    <Unicode>ſtädtiſchen Kanaliſation zu beſeitigen. Durch die</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l45" custom="readingOrder {index:44;}">
+                <Coords points="1177,2218 1296,2217 1588,2215 2060,2214 2060,2214 2112,2214 2132,2218 2132,2246 2079,2249 1881,2255 1397,2259 1378,2259 1308,2258 1177,2252"/>
+                <Baseline points="1177,2251 1397,2249 1419,2249 1477,2249 1499,2249 1546,2249 1569,2249 1733,2248 1752,2248 1781,2248 1803,2248 2018,2247 2039,2248 2132,2246"/>
+                <TextEquiv>
+                    <Unicode>Beendigung des im Abſchnitt B enthaltenen Teils</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l46" custom="readingOrder {index:45;}">
+                <Coords points="1175,2262 1509,2260 1941,2258 1941,2258 2132,2258 2132,2291 2011,2299 1849,2300 1408,2302 1287,2302 1175,2294"/>
+                <Baseline points="1175,2294 1233,2294 1265,2294 1447,2293 1477,2293 1558,2293 1587,2292 1649,2292 1677,2292 1723,2292 1753,2292 1916,2291 1941,2290 1972,2290 1999,2290 2054,2291 2081,2291 2132,2291"/>
+                <TextEquiv>
+                    <Unicode>des Vertrages wird das im Abſchnitt A für die</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l47" custom="readingOrder {index:46;}">
+                <Coords points="1178,2305 2034,2302 2034,2302 2118,2302 2134,2304 2134,2334 2118,2343 1768,2345 1303,2347 1285,2347 1178,2339"/>
+                <Baseline points="1178,2338 1455,2337 1487,2337 1768,2336 1798,2336 2002,2335 2034,2335 2134,2326"/>
+                <TextEquiv>
+                    <Unicode>Stadtgemeinde Charlottenburg begründete Recht</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l48" custom="readingOrder {index:47;}">
+                <Coords points="1175,2360 1200,2350 1503,2348 1769,2347 1769,2347 2082,2347 2134,2348 2134,2379 2082,2383 1858,2388 1436,2391 1212,2391 1175,2383"/>
+                <Baseline points="1175,2383 1259,2383 1291,2383 1436,2382 1503,2382 1549,2381 1582,2381 1683,2381 1718,2380 1876,2380 1909,2380 2134,2378"/>
+                <TextEquiv>
+                    <Unicode>nicht berührt. Es bleibt vielmehr unverändert</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l49" custom="readingOrder {index:48;}">
+                <Coords points="1176,2395 1348,2395 1403,2404 1403,2427 1348,2436 1293,2437 1176,2437"/>
+                <Baseline points="1176,2428 1403,2427"/>
+                <TextEquiv>
+                    <Unicode>fortbeſtehen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l50" custom="readingOrder {index:49;}">
+                <Coords points="1608,2486 1663,2484 1663,2484 1700,2484 1700,2516 1623,2525 1608,2525"/>
+                <Baseline points="1608,2516 1623,2516 1648,2516 1700,2516"/>
+                <TextEquiv>
+                    <Unicode>§ 23.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l51" custom="readingOrder {index:50;}">
+                <Coords points="1264,2529 1919,2525 1919,2525 1930,2525 2134,2526 2134,2559 1930,2567 1731,2569 1504,2571 1362,2571 1264,2563"/>
+                <Baseline points="1264,2563 1333,2563 1362,2563 1504,2561 1529,2561 1600,2560 1625,2560 1679,2560 1703,2560 1792,2560 1817,2560 1894,2559 1919,2559 2044,2559 2068,2559 2134,2559"/>
+                <TextEquiv>
+                    <Unicode>Der Vertrag tritt ein Jahr nach ſeinem Ab⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l52" custom="readingOrder {index:51;}">
+                <Coords points="1176,2574 1207,2573 1734,2570 1734,2570 2070,2570 2114,2571 2134,2580 2134,2602 2047,2612 1380,2615 1361,2615 1190,2614 1176,2613"/>
+                <Baseline points="1176,2605 1279,2606 1303,2606 1473,2606 1496,2605 1532,2605 1557,2605 1665,2604 1690,2603 1754,2603 1777,2603 1828,2603 1857,2603 2134,2602"/>
+                <TextEquiv>
+                    <Unicode>ſchluß dergeſtalt in Kraft, daß die Stadtgemeinde</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l53" custom="readingOrder {index:52;}">
+                <Coords points="1177,2618 1218,2617 1492,2615 1910,2613 1910,2613 2107,2613 2135,2616 2135,2646 2074,2656 1457,2659 1218,2659 1205,2658 1177,2652"/>
+                <Baseline points="1177,2652 1457,2649 1492,2649 1695,2648 1730,2648 1776,2648 1813,2647 1853,2647 1889,2647 2010,2647 2047,2647 2135,2638"/>
+                <TextEquiv>
+                    <Unicode>Charlottenburg verpflichtet iſt, zu dieſem Zeit⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l54" custom="readingOrder {index:53;}">
+                <Coords points="1176,2668 1250,2662 1469,2658 2067,2657 2067,2657 2113,2657 2134,2658 2134,2691 1684,2703 1176,2703"/>
+                <Baseline points="1176,2695 1295,2695 1329,2695 1380,2694 1419,2694 1684,2692 1718,2692 1781,2692 1816,2692 1892,2692 1928,2692 2134,2691"/>
+                <TextEquiv>
+                    <Unicode>punkte die Schmutzwäſſer aus dem Grunewald</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l55" custom="readingOrder {index:54;}">
+                <Coords points="1178,2717 1223,2707 1223,2707 1391,2707 1434,2717 1434,2740 1391,2749 1223,2749 1178,2741"/>
+                <Baseline points="1178,2741 1434,2739"/>
+                <TextEquiv>
+                    <Unicode>aufzunehmen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l56" custom="readingOrder {index:55;}">
+                <Coords points="1611,2796 1667,2795 1667,2795 1703,2795 1703,2827 1626,2836 1611,2836"/>
+                <Baseline points="1611,2827 1626,2827 1650,2827 1703,2827"/>
+                <TextEquiv>
+                    <Unicode>§ 24.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l57" custom="readingOrder {index:56;}">
+                <Coords points="1266,2842 1368,2840 1681,2838 1972,2837 1972,2837 2078,2837 2094,2839 2138,2846 2138,2870 2078,2878 2062,2879 1527,2882 1351,2882 1266,2875"/>
+                <Baseline points="1266,2875 1336,2874 1351,2874 1548,2873 1561,2872 1636,2872 1650,2872 1737,2871 1753,2871 1871,2871 1887,2871 1954,2871 1972,2871 2138,2870"/>
+                <TextEquiv>
+                    <Unicode>Der Forſtfiskus darf ſeine Rechte und Pflichten</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l58" custom="readingOrder {index:57;}">
+                <Coords points="1178,2895 1224,2889 1257,2886 1279,2885 1800,2882 2085,2881 2085,2881 2097,2881 2137,2890 2137,2913 2118,2922 1594,2925 1292,2925 1178,2918"/>
+                <Baseline points="1178,2912 1242,2919 1257,2918 1378,2918 1395,2918 1558,2917 1574,2916 1658,2916 1674,2916 1752,2915 1766,2915 1920,2914 1937,2914 1981,2914 1997,2914 2137,2907"/>
+                <TextEquiv>
+                    <Unicode>aus dieſem Vertrage ganz oder teilweiſe an etwaige</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l59" custom="readingOrder {index:58;}">
+                <Coords points="1179,2929 1534,2927 1534,2927 1700,2927 1722,2937 1722,2960 1700,2968 1449,2971 1196,2971 1179,2964"/>
+                <Baseline points="1179,2964 1487,2961 1509,2961 1722,2960"/>
+                <TextEquiv>
+                    <Unicode>Rechtsnachfolger übertragen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l60" custom="readingOrder {index:59;}">
+                <Coords points="1613,3019 1666,3017 1666,3017 1705,3017 1705,3050 1629,3059 1613,3059"/>
+                <Baseline points="1613,3050 1629,3050 1653,3050 1705,3050"/>
+                <TextEquiv>
+                    <Unicode>§ 25.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l61" custom="readingOrder {index:60;}">
+                <Coords points="1265,3064 1621,3060 1621,3060 1896,3060 2140,3062 2140,3093 2100,3103 1440,3106 1265,3106"/>
+                <Baseline points="1265,3099 1318,3099 1334,3099 1456,3097 1473,3097 1530,3097 1551,3097 1814,3095 1832,3095 1935,3095 1956,3095 2140,3093"/>
+                <TextEquiv>
+                    <Unicode>In betreff der Stempelkoſten dieſes Vertrages</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l62" custom="readingOrder {index:61;}">
+                <Coords points="1180,3115 1237,3109 1627,3106 1627,3106 2091,3106 2137,3114 2137,3138 2091,3147 1823,3149 1627,3149 1201,3143 1180,3142"/>
+                <Baseline points="1180,3142 1341,3142 1364,3142 1400,3141 1436,3141 1500,3141 1526,3141 1591,3140 1627,3140 1823,3139 1849,3139 2137,3138"/>
+                <TextEquiv>
+                    <Unicode>verbleibt es bei den geſetzlichen Beſtimmungen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l63" custom="readingOrder {index:62;}">
+                <Coords points="1269,3153 1375,3152 1485,3151 1552,3150 1552,3191 1459,3194 1450,3194 1269,3187"/>
+                <Baseline points="1269,3187 1459,3185 1485,3185 1550,3184 1552,3183"/>
+                <TextEquiv>
+                    <Unicode>Berlin, den</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l64" custom="readingOrder {index:63;}">
+                <Coords points="1820,3150 1859,3150 1922,3150 1933,3176 1933,3183 1820,3185"/>
+                <Baseline points="1820,3183 1838,3183 1933,3182"/>
+                <TextEquiv>
+                    <Unicode>1910.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l65" custom="readingOrder {index:64;}">
+                <Coords points="2039,3184 2136,3182 2136,3232 2039,3234"/>
+                <Baseline points="2053,3227 2136,3227"/>
+                <TextEquiv>
+                    <Unicode>1910.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l66" custom="readingOrder {index:65;}">
+                <Coords points="1267,3197 1670,3190 1697,3190 1759,3195 1814,3208 1814,3232 1697,3242 1670,3242 1307,3238 1267,3232"/>
+                <Baseline points="1267,3232 1535,3229 1587,3229 1717,3228 1739,3228 1779,3227"/>
+                <TextEquiv>
+                    <Unicode>Charlottenburg, den</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>infolge des Anſchluſſes des im § 14 bezeichneten
+forſtfiskaliſchen Gebietes an ihre Kanaliſation ent⸗
+ſtehen, werden — ohne ſie ihrem Betrage nach
+feſtzuſtellen — gegeneinander aufgerechnet.
+§ 21.
+Der Vertrag wird auf die Dauer geſchloſſen,
+jedoch mit folgenden Maßgaben:
+I. bezüglich des Abſchnitts A §§ 1
+bis 13 betreffend die Druckrohr⸗
+leitungen:
+Wenn die Rohrleitungen im ganzen Um⸗
+fange oder im einzelnen nicht mehr betrieben
+werden, hat die Stadtgemeinde das Recht und
+auf Verlangen des Fiskus die Pflicht, auf
+eigene Koſten die außer Betrieb geſetzten
+Leitungen zu entfernen und dabei ferner die
+Pflicht, die Geländeoberfläche und die Brücken
+auf eigene Koſten in den früheren Zuſtand
+zu verſetzen. Sobald die letzte Leitung entfernt
+iſt, verliert die Stadtgemeinde das Recht auf
+weitere Benutzung des für die Leitungen
+benutzten Geländes und der Brücken.
+II. bezüglich des Abſchnitts B §§ 14
+bis 20 betreffend den Anſchluß
+der Kolonie an die Charlotten⸗
+burger Kanaliſation:
+Der im Abſchnitt B enthaltene Teil des
+Vertrages erliſcht, falls durch Beſtimmungen
+der Aufſichtsbehörden die Aufnahme der Ab⸗
+wäſſer verboten, oder durch höhere Gewalt
+oder infolge Einſchreitens der Aufſichtsbehörde
+der Betrieb des Pumpwerks oder der Schmutz⸗
+wäſſerreinigungsanlage (Rieſelfeld oder ähn⸗
+liches) unmöglich gemacht wird.
+Lehnt Charlottenburg die Aufnahme weiterer
+Schmutzwäſſer über die feſtgeſetzte Höchſt⸗
+menge von 10 000 cbm täglich ab, ſo kann der
+Forſtfiskus den Vertrag unter Innehaltung
+einer einjährigen Kündigungsfriſt kündigen.
+§ 22.
+Endigt der im Abſchnitt B enthaltene Teil
+des Vertrages, ſo hat der Forſtfiskus auf ſeine
+Koſten die Anlagen an der Anſchlußſtelle mit der
+ſtädtiſchen Kanaliſation zu beſeitigen. Durch die
+Beendigung des im Abſchnitt B enthaltenen Teils
+des Vertrages wird das im Abſchnitt A für die
+Stadtgemeinde Charlottenburg begründete Recht
+nicht berührt. Es bleibt vielmehr unverändert
+fortbeſtehen.
+§ 23.
+Der Vertrag tritt ein Jahr nach ſeinem Ab⸗
+ſchluß dergeſtalt in Kraft, daß die Stadtgemeinde
+Charlottenburg verpflichtet iſt, zu dieſem Zeit⸗
+punkte die Schmutzwäſſer aus dem Grunewald
+aufzunehmen.
+§ 24.
+Der Forſtfiskus darf ſeine Rechte und Pflichten
+aus dieſem Vertrage ganz oder teilweiſe an etwaige
+Rechtsnachfolger übertragen.
+§ 25.
+In betreff der Stempelkoſten dieſes Vertrages
+verbleibt es bei den geſetzlichen Beſtimmungen.
+Berlin, den
+1910.
+1910.
+Charlottenburg, den</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <SeparatorRegion id="r_5" custom="readingOrder {index:3;}">
+            <Coords points="1237,103 1341,103 1341,106 1237,106"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_6" custom="readingOrder {index:4;}">
+            <Coords points="1555,3260 1766,3260 1766,3265 1555,3265"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_7" custom="readingOrder {index:5;}">
+            <Coords points="1149,174 1168,174 1168,3261 1149,3261"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_15" custom="readingOrder {index:6;}">
+            <Coords points="1557,3176 1804,3176 1804,3183 1557,3183"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_16" custom="readingOrder {index:7;}">
+            <Coords points="1832,3220 2014,3220 2014,3227 1832,3227"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_17" custom="readingOrder {index:8;}">
+            <Coords points="1,3233 5,3233 5,3323 1,3323"/>
+        </SeparatorRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,1236 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2022-02-08T16:24:27.337+01:00</Created>
+        <LastChange>2023-07-04T14:43:29.819+02:00</LastChange>
+        <Comments>
+                Measurement unit: pixel
+                PrimaryLanguage: 
+                Producer: Transkribus
+            </Comments>
+        <TranskribusMetadata docId="918527" pageId="35047885" pageNr="13" tsid="128718787" status="GT" userId="48446" imgUrl="https://files.transkribus.eu/Get?id=ZAXYYUKFUDSVAKEBAGMDBKNK&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=CRCLFIRPIEBBTOBCGQYFTOSR" imageId="28180398"/>
+    </Metadata>
+    <Page imageFilename="Tag_Mitt_Charl_1905_014000.tif" imageWidth="2282" imageHeight="3685">
+        <PrintSpace>
+            <Coords points="153,198 2178,192 2180,3402 117,3429"/>
+        </PrintSpace>
+        <ReadingOrder>
+            <OrderedGroup id="ro_1688474642705" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion type="page-number" id="r1" custom="readingOrder {index:0;} structure {type:page-number;}">
+            <Coords points="1152,218 1227,218 1227,256 1152,256"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="1158,220 1175,219 1175,219 1221,219 1221,251 1158,251 1158,220"/>
+                <Baseline points="1158,251 1221,251"/>
+                <TextEquiv>
+                    <Unicode>184</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>184</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TableRegion id="Table_1644337121682_1388" custom="readingOrder {index:1;}">
+            <Coords points="2166,282 184,279 165,3410 2177,3397"/>
+            <TableCell row="0" col="0" rowSpan="1" colSpan="1" id="TableCell_1644337471738_1953">
+                <Coords points="202,282 199,353 1703,335 1705,282"/>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="0" col="1" rowSpan="1" colSpan="1" id="TableCell_1644337471759_1957">
+                <Coords points="1705,282 1703,335 1894,333 1894,282"/>
+                <TextLine id="TableCell_1644337471759_1957l0" custom="readingOrder {index:0;}">
+                    <Coords points="1732,286 1864,286 1887,302 1887,333 1798,334 1732,334 1732,286"/>
+                    <Baseline points="1732,330 1887,328"/>
+                    <TextEquiv>
+                        <Unicode>Übertrag</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="0" col="2" rowSpan="1" colSpan="1" id="TableCell_1644337471786_1961">
+                <Coords points="1894,282 1894,333 2166,330 2166,282"/>
+                <TextLine id="TableCell_1644337471786_1961l0" custom="readingOrder {index:0;}">
+                    <Coords points="1907,298 2107,292 2107,292 2147,292 2147,326 2049,331 2041,331 1907,327 1907,298"/>
+                    <Baseline points="1907,327 2094,325 2107,326 2147,326"/>
+                    <TextEquiv>
+                        <Unicode>216684,67 ℳ</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="1" col="0" rowSpan="1" colSpan="2" id="TableCell_1644337501355_1963">
+                <Coords points="199,353 197,443 1701,425 1894,423 1894,333 1703,335"/>
+                <TextLine id="TableCell_1644337501355_1963l0" custom="readingOrder {index:0;}">
+                    <Coords points="206,360 268,358 584,351 1656,335 1703,335 1883,333 1883,333 1883,373 1578,389 1434,391 301,404 268,404 206,396 206,360"/>
+                    <Baseline points="206,396 352,392 377,392 396,392 421,392 480,391 507,391 536,391 584,390 843,387 878,386 914,386 937,386 1026,385 1055,385 1112,385 1129,385 1219,384 1242,383 1402,382 1419,382 1462,381 1480,380 1614,378 1641,377 1706,376 1726,375 1811,374 1834,373 1883,372"/>
+                    <TextEquiv>
+                        <Unicode>Abſchn. 7 Nr. 7. Umdruckpreſſe: b) Lohn für einen Schleifer zu erhöhen von 1320 ℳ</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <TextLine id="line_1645000680884_2" custom="readingOrder {index:1;}">
+                    <Coords points="208,415 251,404 528,397 528,438 243,442 208,440"/>
+                    <Baseline points="208,439 263,439 292,438 373,437 411,436 434,436 473,435 528,434"/>
+                    <TextEquiv>
+                        <Unicode>auf 1440 ℳ um</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 3 4</CornerPts>
+            </TableCell>
+            <TableCell row="1" col="2" rowSpan="1" colSpan="1" id="TableCell_1644337471786_1959">
+                <Coords points="1894,333 1894,423 2166,420 2166,330"/>
+                <TextLine id="TableCell_1644337471786_1959l0" custom="readingOrder {index:0;}">
+                    <Coords points="1978,383 2076,376 2076,376 2096,376 2148,380 2148,414 2129,420 2016,421 1978,415 1978,383"/>
+                    <Baseline points="1978,415 2076,416 2096,416 2098,415 2108,415 2148,414"/>
+                    <TextEquiv>
+                        <Unicode>120,— ℳ</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="2" col="0" rowSpan="1" colSpan="1" id="TableCell_1644337467453_1939">
+                <Coords points="197,443 196,487 1700,469 1701,425"/>
+                <TextLine id="TableCell_1644337467453_1939l0" custom="readingOrder {index:0;}">
+                    <Coords points="207,449 233,443 1525,431 1525,431 1569,431 1647,440 1647,466 1432,472 225,486 207,483 207,449"/>
+                    <Baseline points="207,483 351,481 379,480 396,480 421,480 481,479 508,478 545,477 584,478 797,476 821,475 860,475 884,475 1016,473 1040,473 1103,473 1127,471 1214,471 1238,472 1286,472 1313,472 1370,470 1395,470 1502,467 1525,467 1569,466 1590,466 1647,466"/>
+                    <TextEquiv>
+                        <Unicode>Abſchn. 7 Nr. 9. Aktenheften, zu erhöhen von 9350 ℳ auf 10310 ℳ um</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="2" col="1" rowSpan="1" colSpan="1" id="TableCell_1644337467471_1943">
+                <Coords points="1701,425 1700,469 1894,467 1894,423"/>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="2" col="2" rowSpan="1" colSpan="1" id="TableCell_1644337467495_1947">
+                <Coords points="1894,423 1894,467 2166,464 2166,420"/>
+                <TextLine id="TableCell_1644337467495_1947l0" custom="readingOrder {index:0;}">
+                    <Coords points="1977,430 2075,422 2075,422 2097,422 2149,426 2149,460 2131,464 2023,465 1977,459 1977,430"/>
+                    <Baseline points="1977,459 2075,459 2097,459 2098,459 2109,460 2149,460"/>
+                    <TextEquiv>
+                        <Unicode>960,— ℳ</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="3" col="0" rowSpan="1" colSpan="1" id="TableCell_1644337463849_1927">
+                <Coords points="196,487 195,536 1700,513 1700,469"/>
+                <TextLine id="TableCell_1644337463849_1927l0" custom="readingOrder {index:0;}">
+                    <Coords points="207,493 266,486 1365,473 1365,473 1365,514 1337,518 267,534 207,528 207,493"/>
+                    <Baseline points="207,528 352,526 379,525 421,524 443,524 502,523 527,523 558,522 606,521 787,520 810,519 865,519 887,519 1010,517 1034,517 1121,516 1146,516 1269,515 1293,515 1365,514"/>
+                    <TextEquiv>
+                        <Unicode>Abſchn. 10 Nr. 2. Reinigung der Räume Kirch Straße 4/5:</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="3" col="1" rowSpan="1" colSpan="1" id="TableCell_1644337463871_1931">
+                <Coords points="1700,469 1700,513 1894,510 1894,467"/>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="3" col="2" rowSpan="1" colSpan="1" id="TableCell_1644337463890_1935">
+                <Coords points="1894,467 1894,510 2166,506 2166,464"/>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="4" col="0" rowSpan="1" colSpan="1" id="TableCell_1644337460774_1915">
+                <Coords points="195,536 194,578 1699,560 1700,513"/>
+                <TextLine id="line_1645007963725_121" custom="readingOrder {index:0;}">
+                    <Coords points="229,538 259,536 392,533 1183,522 1216,531 1257,529 1257,561 1240,565 227,577 208,570 208,548"/>
+                    <Baseline points="208,564 243,570 259,570 423,568 447,568 487,567 509,567 643,565 666,565 729,564 756,563 841,562 865,563 914,562 939,562 997,562 1020,560 1144,559 1172,559 1174,559 1194,559 1257,556"/>
+                    <TextEquiv>
+                        <Unicode>a) Löhnung, zu erhöhen von 1440 ℳ auf 1560 ℳ um</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="4" col="1" rowSpan="1" colSpan="1" id="TableCell_1644337460798_1919">
+                <Coords points="1700,513 1699,560 1894,558 1894,510"/>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="4" col="2" rowSpan="1" colSpan="1" id="TableCell_1644337460823_1923">
+                <Coords points="1894,510 1894,558 2166,555 2166,506"/>
+                <TextLine id="TableCell_1644337460823_1923l0" custom="readingOrder {index:0;}">
+                    <Coords points="1979,519 2074,510 2074,510 2092,510 2149,514 2149,548 2118,555 2036,556 1979,548 1979,519"/>
+                    <Baseline points="1979,548 2074,548 2092,548 2097,548 2109,548 2149,548"/>
+                    <TextEquiv>
+                        <Unicode>120,— ℳ</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="5" col="0" rowSpan="1" colSpan="1" id="TableCell_1644337454986_1905">
+                <Coords points="194,578 192,622 1698,600 1699,560"/>
+                <TextLine id="TableCell_1644337454986_1905l0" custom="readingOrder {index:0;}">
+                    <Coords points="209,583 279,577 398,576 749,574 749,574 785,574 816,585 816,609 797,613 257,621 209,617 209,583"/>
+                    <Baseline points="209,617 353,614 380,613 419,613 444,612 503,612 531,611 547,611 574,611 726,610 749,610 816,609"/>
+                    <TextEquiv>
+                        <Unicode>Abſchn. 11 Nr. 1 Gehälter für:</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="5" col="1" rowSpan="1" colSpan="1" id="TableCell_1644337455004_1909">
+                <Coords points="1699,560 1698,600 1894,597 1894,558"/>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="5" col="2" rowSpan="1" colSpan="1" id="TableCell_1644337455025_1913">
+                <Coords points="1894,558 1894,597 2166,593 2166,555"/>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="6" col="0" rowSpan="1" colSpan="1" id="TableCell_1644337454986_1903">
+                <Coords points="192,622 192,665 1698,646 1698,600"/>
+                <TextLine id="TableCell_1644337454986_1903l0" custom="readingOrder {index:0;}">
+                    <Coords points="210,637 232,626 271,621 281,620 735,614 742,614 1191,613 1211,613 1296,624 1296,649 1092,653 230,664 210,659 210,637"/>
+                    <Baseline points="210,659 246,659 271,659 289,659 305,659 475,658 501,657 540,657 564,656 698,654 721,654 784,653 807,653 894,651 918,651 962,650 986,650 1042,650 1065,649 1152,649 1191,648 1211,648 1242,648 1291,644"/>
+                    <TextEquiv>
+                        <Unicode>a) 1 Sekretär, zu erhöhen von 2700 ℳ auf 3000 ℳ um</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="6" col="1" rowSpan="1" colSpan="1" id="TableCell_1644337455004_1907">
+                <Coords points="1698,600 1698,646 1894,644 1894,597"/>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="6" col="2" rowSpan="1" colSpan="1" id="TableCell_1644337455025_1911">
+                <Coords points="1894,597 1894,644 2166,641 2166,593"/>
+                <TextLine id="TableCell_1644337455025_1911l0" custom="readingOrder {index:0;}">
+                    <Coords points="1977,607 2076,599 2076,599 2099,599 2152,603 2152,637 2135,641 2020,642 1977,636 1977,607"/>
+                    <Baseline points="1977,636 2076,637 2099,637 2100,637 2111,637 2152,637"/>
+                    <TextEquiv>
+                        <Unicode>300,— ℳ</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="7" col="0" rowSpan="1" colSpan="1" id="TableCell_1644337441549_1879">
+                <Coords points="192,665 191,713 1698,689 1698,646"/>
+                <TextLine id="TableCell_1644337441549_1879l0" custom="readingOrder {index:0;}">
+                    <Coords points="209,672 230,664 1059,654 1059,654 1247,657 1331,668 1331,694 1167,697 316,711 312,711 232,710 209,704 209,672"/>
+                    <Baseline points="209,696 244,705 270,704 286,704 312,704 514,701 529,701 568,701 593,700 729,697 749,696 814,697 835,697 922,696 945,696 990,695 1013,695 1069,694 1092,694 1180,692 1203,692 1247,693 1269,694 1331,694"/>
+                    <TextEquiv>
+                        <Unicode>b) 1 Aſſiſtenten, zu erhöhen von 2200 ℳ auf 2350 ℳ um</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="7" col="1" rowSpan="1" colSpan="1" id="TableCell_1644337441569_1883">
+                <Coords points="1698,646 1698,689 1894,689 1894,644"/>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="7" col="2" rowSpan="1" colSpan="1" id="TableCell_1644337441591_1887">
+                <Coords points="1894,644 1894,689 2166,684 2166,641"/>
+                <TextLine id="TableCell_1644337441591_1887l0" custom="readingOrder {index:0;}">
+                    <Coords points="1982,652 2112,647 2152,647 2152,680 2097,682 2032,687 1982,681 1982,652"/>
+                    <Baseline points="1983,679 2061,680 2081,683 2101,681 2112,681 2152,680"/>
+                    <TextEquiv>
+                        <Unicode>150,— ℳ</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="8" col="0" rowSpan="1" colSpan="1" id="TableCell_1644337438359_1867">
+                <Coords points="191,713 192,758 1698,737 1698,689"/>
+                <TextLine id="TableCell_1644337438359_1867l0" custom="readingOrder {index:0;}">
+                    <Coords points="210,726 229,715 311,711 707,704 1127,702 1173,702 1256,712 1256,738 1032,746 228,757 210,748 210,726"/>
+                    <Baseline points="210,748 243,748 270,748 286,748 313,748 427,748 451,748 491,745 516,746 650,743 674,743 736,742 763,742 848,740 871,740 916,740 939,739 994,739 1019,739 1104,738 1127,738 1173,737 1193,737 1252,735"/>
+                    <TextEquiv>
+                        <Unicode>c) 1 Boten, zu erhöhen von 1600 ℳ auf 1800 ℳ um</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="8" col="1" rowSpan="1" colSpan="1" id="TableCell_1644337438376_1871">
+                <Coords points="1698,689 1698,737 1894,735 1894,689"/>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="8" col="2" rowSpan="1" colSpan="1" id="TableCell_1644337438398_1875">
+                <Coords points="1894,689 1894,735 2166,732 2166,684"/>
+                <TextLine id="TableCell_1644337438398_1875l0" custom="readingOrder {index:0;}">
+                    <Coords points="1980,697 2046,689 2114,687 2153,691 2153,725 2114,732 2055,733 1980,726 1980,697"/>
+                    <Baseline points="1980,726 2074,725 2102,725 2104,725 2113,725 2153,725"/>
+                    <TextEquiv>
+                        <Unicode>200,— ℳ</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="9" col="0" rowSpan="1" colSpan="2" id="TableCell_1644337563733_1965">
+                <Coords points="192,758 189,845 1697,820 1894,821 1894,735 1698,737"/>
+                <TextLine id="TableCell_1644337563733_1965l0" custom="readingOrder {index:0;}">
+                    <Coords points="209,758 393,755 1610,738 1890,739 1892,778 1801,782 1537,787 1076,793 934,794 270,803 209,794 209,758"/>
+                    <Baseline points="209,794 346,792 383,792 422,791 448,791 507,790 533,790 563,790 605,789 799,787 823,787 876,786 901,786 967,785 991,785 1075,784 1126,784 1173,783 1207,783 1351,781 1379,780 1444,779 1468,779 1609,777 1631,777 1890,773"/>
+                    <TextEquiv>
+                        <Unicode>Abſchn 11 Nr. 2. Vergütung für eine Maſchinenſchreiberin und zugleich Hilfsarbeiterin</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <TextLine id="TableCell_1644337563733_1965l1" custom="readingOrder {index:1;}">
+                    <Coords points="211,805 368,799 1061,786 1087,786 1352,790 1437,801 1437,824 1352,825 1235,830 211,844 211,805"/>
+                    <Baseline points="211,839 262,839 286,838 345,837 368,837 607,834 633,833 672,833 696,832 829,830 853,830 916,829 942,829 1061,827 1087,827 1095,827 1119,827 1174,826 1199,826 1284,825 1308,824 1352,824 1376,823 1434,821"/>
+                    <TextEquiv>
+                        <Unicode>für den Bureaudienſt, zu erhöhen von 1560 ℳ auf 1680 ℳ um</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 3 4</CornerPts>
+            </TableCell>
+            <TableCell row="9" col="2" rowSpan="1" colSpan="1" id="TableCell_1644337435136_1863">
+                <Coords points="1894,735 1894,821 2166,817 2166,732"/>
+                <TextLine id="TableCell_1644337435136_1863l0" custom="readingOrder {index:0;}">
+                    <Coords points="1985,786 2080,776 2080,776 2103,776 2154,780 2154,814 2141,817 2019,819 1985,814 1985,786"/>
+                    <Baseline points="1985,814 2080,814 2103,814 2114,814 2154,814"/>
+                    <TextEquiv>
+                        <Unicode>120,— ℳ</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="10" col="0" rowSpan="1" colSpan="2" id="TableCell_1644337567369_1967">
+                <Coords points="189,845 188,935 1696,914 1895,911 1894,821 1697,820"/>
+                <TextLine id="TableCell_1644337567369_1967l0" custom="readingOrder {index:0;}">
+                    <Coords points="212,845 276,843 1594,821 1707,820 1806,820 1890,830 1893,862 1795,876 1663,871 272,891 212,882 212,845"/>
+                    <Baseline points="212,882 356,880 385,880 424,879 449,879 507,878 535,878 581,878 612,877 761,875 778,875 840,875 863,874 1020,872 1044,872 1108,872 1133,872 1518,867 1541,866 1594,866 1618,865 1666,865 1689,864 1746,864 1761,864 1884,859"/>
+                    <TextEquiv>
+                        <Unicode>Abſchn. 13 Nr. 5. Beiträge zur Kranken⸗ und Invalidenverſicherung für die auf Privat⸗</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <TextLine id="TableCell_1644337567369_1967l1" custom="readingOrder {index:1;}">
+                    <Coords points="212,893 285,891 469,888 1566,873 1566,873 1610,873 1688,883 1688,911 1508,916 272,933 212,928 212,893"/>
+                    <Baseline points="212,928 432,925 458,924 671,922 694,921 867,920 893,919 932,919 956,918 1088,916 1111,916 1175,915 1197,915 1286,914 1308,913 1353,913 1377,912 1432,912 1455,911 1542,910 1566,910 1610,910 1632,910 1688,907"/>
+                    <TextEquiv>
+                        <Unicode>dienſtvertrag beſchäftigten Perſonen, zu erhöhen von 2350 ℳ auf 2400 ℳ um</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 3 4</CornerPts>
+            </TableCell>
+            <TableCell row="10" col="2" rowSpan="1" colSpan="1" id="TableCell_1644337431211_1851">
+                <Coords points="1894,821 1895,911 2166,908 2166,817"/>
+                <TextLine id="TableCell_1644337431211_1851l0" custom="readingOrder {index:0;}">
+                    <Coords points="2005,874 2115,868 2115,868 2155,868 2155,903 2057,909 2048,909 2005,904 2005,874"/>
+                    <Baseline points="2005,904 2103,904 2115,904 2155,903"/>
+                    <TextEquiv>
+                        <Unicode>50,— ℳ</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="11" col="0" rowSpan="1" colSpan="3" id="TableCell_1644338699665_2265">
+                <Coords points="188,935 187,992 1696,979 1903,976 2166,983 2166,908 1895,911 1696,914"/>
+                <TextLine id="TableCell_1644338699665_2265l0" custom="readingOrder {index:0;}">
+                    <Coords points="1103,944 1141,944 1255,945 1255,978 1170,986 1119,986 1103,978 1103,944"/>
+                    <Baseline points="1103,978 1181,978 1205,978 1255,978"/>
+                    <TextEquiv>
+                        <Unicode>Kap. ⅠⅠ.</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 4 5</CornerPts>
+            </TableCell>
+            <TableCell row="12" col="0" rowSpan="1" colSpan="2" id="TableCell_1644337572135_1969">
+                <Coords points="187,992 186,1081 1696,1063 1897,1060 1903,976 1696,979"/>
+                <TextLine id="TableCell_1644337572135_1969l0" custom="readingOrder {index:0;}">
+                    <Coords points="213,999 1074,984 1769,979 1894,979 1894,1023 1354,1031 327,1043 291,1043 273,1042 213,1033 213,999"/>
+                    <Baseline points="213,1024 356,1032 383,1032 399,1032 425,1032 484,1031 512,1030 568,1029 579,1029 651,1028 699,1028 919,1026 954,1025 1024,1025 1057,1024 1191,1023 1217,1023 1256,1022 1294,1022 1426,1020 1459,1019 1521,1018 1559,1018 1747,1015 1769,1014 1815,1014 1838,1013 1894,1013"/>
+                    <TextEquiv>
+                        <Unicode>Abſchn. 1 Nr. 1—136. Beſoldungen laut Anlage, zu erhöhen von 641123,50 ℳ auf</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <TextLine id="line_1645000847392_4" custom="readingOrder {index:1;}">
+                    <Coords points="215,1050 237,1049 439,1041 466,1041 554,1042 554,1075 304,1079 215,1078"/>
+                    <Baseline points="215,1078 402,1076 439,1075 466,1075 505,1075 554,1074"/>
+                    <TextEquiv>
+                        <Unicode>665217,50 ℳ um</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 3 4</CornerPts>
+            </TableCell>
+            <TableCell row="12" col="2" rowSpan="1" colSpan="1" id="TableCell_1644337423814_1827">
+                <Coords points="1903,976 1897,1060 2166,1057 2166,983"/>
+                <TextLine id="TableCell_1644337423814_1827l0" custom="readingOrder {index:0;}">
+                    <Coords points="1939,1027 2086,1016 2086,1016 2105,1016 2156,1020 2156,1055 2149,1057 1970,1059 1939,1056 1939,1027"/>
+                    <Baseline points="1939,1056 2086,1054 2105,1056 2116,1055 2156,1054"/>
+                    <TextEquiv>
+                        <Unicode>24094,— ℳ</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="13" col="0" rowSpan="1" colSpan="2" id="TableCell_1644337591209_1971">
+                <Coords points="186,1081 186,1128 1696,1109 1898,1106 1897,1060 1696,1063"/>
+                <TextLine id="TableCell_1644337591209_1971l0" custom="readingOrder {index:0;}">
+                    <Coords points="211,1090 306,1080 1526,1065 1550,1065 1815,1069 1894,1077 1894,1103 1799,1107 1696,1109 250,1127 211,1124 211,1090"/>
+                    <Baseline points="211,1124 362,1122 388,1121 407,1121 433,1121 493,1120 519,1120 548,1119 596,1119 751,1117 776,1116 831,1116 855,1115 1081,1114 1109,1114 1147,1113 1171,1113 1303,1111 1326,1110 1390,1108 1418,1108 1526,1107 1550,1107 1558,1107 1582,1106 1637,1106 1663,1105 1748,1105 1771,1104 1815,1104 1837,1104 1892,1102"/>
+                    <TextEquiv>
+                        <Unicode>Abſchn. 2 Nr. 6. Löhnung des Turndieners, zu erhöhen von 1020 ℳ auf 1140 ℳ um</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 3 4</CornerPts>
+            </TableCell>
+            <TableCell row="13" col="2" rowSpan="1" colSpan="1" id="TableCell_1644337420574_1815">
+                <Coords points="1897,1060 1898,1106 2166,1103 2166,1057"/>
+                <TextLine id="TableCell_1644337420574_1815l0" custom="readingOrder {index:0;}">
+                    <Coords points="1985,1071 2048,1063 2061,1063 2156,1065 2156,1100 2078,1104 2043,1104 1985,1099 1985,1071"/>
+                    <Baseline points="1985,1099 2105,1099 2116,1100 2156,1100"/>
+                    <TextEquiv>
+                        <Unicode>120,— ℳ</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="14" col="0" rowSpan="1" colSpan="2" id="TableCell_1644337593929_1973">
+                <Coords points="186,1128 186,1173 1696,1152 1899,1149 1898,1106 1696,1109"/>
+                <TextLine id="TableCell_1644337593929_1973l0" custom="readingOrder {index:0;}">
+                    <Coords points="214,1134 274,1127 275,1126 1443,1111 1615,1110 1615,1110 1632,1110 1813,1112 1895,1122 1895,1147 1721,1151 1696,1152 261,1172 214,1168 214,1134"/>
+                    <Baseline points="214,1168 359,1166 383,1166 403,1165 427,1165 487,1164 513,1164 543,1164 590,1163 749,1161 769,1161 825,1160 848,1160 1064,1157 1088,1156 1127,1156 1149,1156 1284,1154 1307,1154 1370,1153 1396,1153 1481,1152 1517,1151 1542,1151 1557,1151 1632,1150 1659,1150 1745,1148 1767,1148 1813,1148 1838,1147 1895,1147"/>
+                    <TextEquiv>
+                        <Unicode>Abſchn. 3 Nr. 6. Löhnung des Turndieners zu erhöhen von 1020 ℳ auf 1140 ℳ um</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 3 4</CornerPts>
+            </TableCell>
+            <TableCell row="14" col="2" rowSpan="1" colSpan="1" id="TableCell_1644337417256_1803">
+                <Coords points="1898,1106 1899,1149 2166,1146 2166,1103"/>
+                <TextLine id="TableCell_1644337417256_1803l0" custom="readingOrder {index:0;}">
+                    <Coords points="1988,1115 2081,1105 2081,1105 2108,1105 2157,1109 2157,1143 2146,1146 2012,1147 1988,1144 1988,1115"/>
+                    <Baseline points="1988,1144 2081,1143 2107,1143 2108,1143 2117,1143 2157,1143"/>
+                    <TextEquiv>
+                        <Unicode>120,— ℳ</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="15" col="0" rowSpan="1" colSpan="2" id="TableCell_1644337596386_1975">
+                <Coords points="186,1173 186,1225 1696,1201 1900,1198 1899,1149 1696,1152"/>
+                <TextLine id="TableCell_1644337596386_1975l0" custom="readingOrder {index:0;}">
+                    <Coords points="216,1180 276,1173 294,1172 418,1169 1369,1156 1601,1154 1601,1154 1623,1154 1816,1157 1895,1167 1895,1193 1675,1201 634,1217 332,1222 276,1222 216,1214 216,1180"/>
+                    <Baseline points="216,1214 361,1212 387,1211 406,1211 430,1211 489,1210 515,1209 544,1209 592,1209 747,1207 772,1207 827,1206 851,1206 1078,1203 1089,1203 1141,1202 1165,1202 1299,1200 1322,1200 1385,1199 1412,1198 1496,1197 1514,1197 1558,1196 1581,1196 1638,1195 1663,1195 1747,1194 1771,1193 1816,1193 1837,1193 1895,1192"/>
+                    <TextEquiv>
+                        <Unicode>Abſchn. 5 Nr. 5. Löhnung des Turndieners, zu erhöhen von 1020 ℳ auf 1140 ℳ um</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 3 4</CornerPts>
+            </TableCell>
+            <TableCell row="15" col="2" rowSpan="1" colSpan="1" id="TableCell_1644337412196_1791">
+                <Coords points="1899,1149 1900,1198 2166,1194 2166,1146"/>
+                <TextLine id="TableCell_1644337412196_1791l0" custom="readingOrder {index:0;}">
+                    <Coords points="1986,1160 2049,1147 2062,1147 2062,1147 2157,1153 2157,1188 2060,1193 2051,1193 1986,1189 1986,1160"/>
+                    <Baseline points="1986,1189 2105,1188 2117,1188 2157,1188"/>
+                    <TextEquiv>
+                        <Unicode>120,— ℳ</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="16" col="0" rowSpan="1" colSpan="3" id="TableCell_1644338702197_2267">
+                <Coords points="186,1225 186,1277 1696,1264 1901,1262 2166,1260 2166,1194 1900,1198 1696,1201"/>
+                <TextLine id="TableCell_1644338702197_2267l0" custom="readingOrder {index:0;}">
+                    <Coords points="1105,1228 1146,1228 1280,1229 1280,1261 1191,1268 1123,1268 1105,1263 1105,1228"/>
+                    <Baseline points="1105,1263 1182,1262 1207,1262 1280,1261"/>
+                    <TextEquiv>
+                        <Unicode>Kap. ⅠⅠⅠ.</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 4 5</CornerPts>
+            </TableCell>
+            <TableCell row="17" col="0" rowSpan="1" colSpan="1" id="TableCell_1644337403112_1759">
+                <Coords points="186,1277 189,1329 1693,1308 1696,1264"/>
+                <TextLine id="TableCell_1644337403112_1759l0" custom="readingOrder {index:0;}">
+                    <Coords points="216,1285 275,1283 428,1281 592,1279 929,1276 1016,1276 1068,1285 1068,1309 1035,1316 280,1327 256,1324 216,1319 216,1285"/>
+                    <Baseline points="216,1319 358,1316 386,1316 402,1316 428,1315 488,1314 516,1314 544,1313 592,1314 813,1313 836,1313 907,1311 929,1311 1068,1309"/>
+                    <TextEquiv>
+                        <Unicode>Abſchn. 1 Nr. 1. Beſoldungen laut Anlage:</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="17" col="1" rowSpan="1" colSpan="1" id="TableCell_1644337403126_1763">
+                <Coords points="1696,1264 1693,1308 1902,1298 1901,1262"/>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="17" col="2" rowSpan="1" colSpan="1" id="TableCell_1644337403148_1767">
+                <Coords points="1901,1262 1902,1298 2166,1294 2166,1260"/>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="18" col="0" rowSpan="1" colSpan="2" id="TableCell_1644337600769_1977">
+                <Coords points="189,1329 186,1372 1696,1351 1903,1348 1902,1298 1693,1308"/>
+                <TextLine id="TableCell_1644337600769_1977l0" custom="readingOrder {index:0;}">
+                    <Coords points="217,1339 238,1331 273,1328 306,1327 451,1324 672,1319 1045,1313 1495,1311 1495,1311 1539,1311 1617,1321 1617,1347 1393,1355 270,1370 238,1369 217,1361 217,1339"/>
+                    <Baseline points="217,1355 250,1362 273,1362 395,1361 419,1361 703,1359 729,1358 768,1358 792,1357 926,1355 955,1355 1013,1354 1040,1354 1167,1351 1190,1351 1236,1351 1261,1350 1317,1350 1343,1349 1470,1348 1495,1348 1539,1347 1562,1347 1617,1346"/>
+                    <TextEquiv>
+                        <Unicode>a) Höhere Mädchenſchulen, zu erhöhen von 160252 ℳ auf 170975 ℳ um</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 3 4</CornerPts>
+            </TableCell>
+            <TableCell row="18" col="2" rowSpan="1" colSpan="1" id="TableCell_1644337400104_1755">
+                <Coords points="1902,1298 1903,1348 2166,1345 2166,1294"/>
+                <TextLine id="TableCell_1644337400104_1755l0" custom="readingOrder {index:0;}">
+                    <Coords points="1945,1312 2120,1304 2120,1304 2159,1304 2159,1338 2063,1345 2054,1345 1945,1340 1945,1312"/>
+                    <Baseline points="1945,1340 2108,1338 2120,1338 2159,1338"/>
+                    <TextEquiv>
+                        <Unicode>10723,— ℳ</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="19" col="0" rowSpan="1" colSpan="2" id="TableCell_1644337603090_1979">
+                <Coords points="186,1372 186,1414 1696,1393 1904,1390 1903,1348 1696,1351"/>
+                <TextLine id="TableCell_1644337603090_1979l0" custom="readingOrder {index:0;}">
+                    <Coords points="216,1374 353,1369 1259,1357 1431,1357 1503,1359 1589,1366 1589,1392 1467,1396 235,1413 216,1406 216,1374"/>
+                    <Baseline points="216,1398 253,1406 276,1406 647,1402 672,1402 711,1401 733,1401 867,1400 894,1399 952,1399 978,1398 1085,1397 1110,1397 1159,1396 1186,1396 1243,1395 1267,1395 1431,1393 1455,1393 1503,1392 1529,1392 1584,1390"/>
+                    <TextEquiv>
+                        <Unicode>b) Bürgermädchenſchule, zu erhöhen von 55025 ℳ auf 59487,50 ℳ um</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 3 4</CornerPts>
+            </TableCell>
+            <TableCell row="19" col="2" rowSpan="1" colSpan="1" id="TableCell_1644337396032_1743">
+                <Coords points="1903,1348 1904,1390 2166,1387 2166,1345"/>
+                <TextLine id="TableCell_1644337396032_1743l0" custom="readingOrder {index:0;}">
+                    <Coords points="1964,1355 2119,1348 2119,1348 2159,1348 2159,1382 2062,1387 2054,1387 1987,1385 1964,1384 1964,1355"/>
+                    <Baseline points="1964,1384 2108,1382 2119,1382 2159,1382"/>
+                    <TextEquiv>
+                        <Unicode>4462,50 ℳ</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="20" col="0" rowSpan="1" colSpan="2" id="TableCell_1644337606598_1981">
+                <Coords points="186,1414 186,1454 1696,1435 1905,1432 1904,1390 1696,1393"/>
+                <TextLine id="TableCell_1644337606598_1981l0" custom="readingOrder {index:0;}">
+                    <Coords points="218,1428 236,1413 1259,1399 1774,1399 1863,1398 1858,1432 1789,1433 1696,1435 233,1453 218,1451 218,1428"/>
+                    <Baseline points="218,1451 250,1453 275,1452 456,1449 480,1448 543,1447 566,1449 780,1446 797,1443 837,1445 860,1444 992,1443 1016,1443 1077,1441 1103,1441 1312,1439 1337,1439 1386,1436 1413,1438 1468,1435 1493,1437 1701,1433 1725,1434 1774,1431 1800,1432 1855,1429"/>
+                    <TextEquiv>
+                        <Unicode>c) Gemeinde⸗ und Hilfsſchulen zu erhöhen von 1341509,50 ℳ auf 1475187,50 ℳ um</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 3 4</CornerPts>
+            </TableCell>
+            <TableCell row="20" col="2" rowSpan="1" colSpan="1" id="TableCell_1644337392542_1731">
+                <Coords points="1904,1390 1905,1432 2166,1429 2166,1387"/>
+                <TextLine id="TableCell_1644337392542_1731l0" custom="readingOrder {index:0;}">
+                    <Coords points="1922,1400 2080,1392 2160,1389 2162,1414 2159,1427 2107,1429 1941,1431 1922,1430 1922,1400"/>
+                    <Baseline points="1922,1430 2083,1429 2106,1429 2154,1422"/>
+                    <TextEquiv>
+                        <Unicode>133678,— ℳ</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="21" col="0" rowSpan="1" colSpan="2" id="TableCell_1644337609290_1983">
+                <Coords points="186,1454 185,1545 1696,1529 1906,1527 1905,1432 1696,1435"/>
+                <TextLine id="TableCell_1644337609290_1983l0" custom="readingOrder {index:0;}">
+                    <Coords points="217,1453 1548,1436 1638,1436 1668,1436 1814,1442 1898,1449 1898,1476 1751,1486 1726,1488 991,1497 827,1501 294,1504 277,1503 217,1495 217,1453"/>
+                    <Baseline points="217,1495 360,1494 392,1494 407,1494 447,1494 505,1493 531,1492 561,1492 577,1491 679,1490 690,1490 943,1488 1000,1487 1015,1487 1312,1483 1329,1483 1369,1483 1385,1482 1462,1481 1608,1479 1668,1478 1682,1478 1723,1477 1774,1477 1835,1476 1839,1475 1898,1476"/>
+                    <TextEquiv>
+                        <Unicode>Abſchn. 1 Nr. 6. Für Jugendſpiele: d) Gemeindeſchulen, e) Hilfsſchulen zu erhöhen von</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <TextLine id="TableCell_1644337609290_1983l1" custom="readingOrder {index:1;}">
+                    <Coords points="218,1512 330,1506 448,1504 617,1503 617,1503 666,1503 746,1510 746,1535 510,1541 410,1542 241,1541 218,1540 218,1512"/>
+                    <Baseline points="218,1540 304,1540 330,1539 377,1539 405,1538 460,1538 486,1538 593,1536 617,1536 666,1535 691,1535 746,1534"/>
+                    <TextEquiv>
+                        <Unicode>9960 ℳ auf 10410 ℳ um</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 3 4</CornerPts>
+            </TableCell>
+            <TableCell row="21" col="2" rowSpan="1" colSpan="1" id="TableCell_1644337388229_1719">
+                <Coords points="1905,1432 1906,1527 2166,1524 2166,1429"/>
+                <TextLine id="TableCell_1644337388229_1719l0" custom="readingOrder {index:0;}">
+                    <Coords points="1987,1489 2085,1477 2159,1475 2162,1501 2159,1521 2106,1524 2036,1525 1987,1518 1987,1489"/>
+                    <Baseline points="1987,1518 2085,1519 2101,1519 2154,1518"/>
+                    <TextEquiv>
+                        <Unicode>450,— ℳ</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="22" col="0" rowSpan="1" colSpan="2" id="TableCell_1644337612371_1985">
+                <Coords points="185,1545 185,1589 1696,1571 1907,1569 1906,1527 1696,1529"/>
+                <TextLine id="TableCell_1644337612371_1985l0" custom="readingOrder {index:0;}">
+                    <Coords points="218,1551 1102,1535 1696,1529 1724,1528 1724,1528 1897,1531 1897,1566 1821,1570 254,1588 218,1587 218,1551"/>
+                    <Baseline points="218,1584 363,1582 388,1582 408,1583 433,1583 492,1582 520,1582 548,1582 596,1581 679,1580 696,1580 891,1578 908,1578 1060,1576 1078,1576 1150,1575 1169,1575 1208,1574 1225,1574 1355,1572 1373,1572 1436,1571 1455,1571 1569,1569 1593,1569 1597,1569 1616,1568 1673,1568 1688,1567 1772,1566 1798,1566 1826,1565 1841,1565 1897,1564"/>
+                    <TextEquiv>
+                        <Unicode>Abſchn. 2 Nr. 1. Dem Turndiener Löhnung uſw. zu erhöhen von 1345 ℳ auf 1465 ℳ um</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 3 4</CornerPts>
+            </TableCell>
+            <TableCell row="22" col="2" rowSpan="1" colSpan="1" id="TableCell_1644337381011_1707">
+                <Coords points="1906,1527 1907,1569 2166,1566 2166,1524"/>
+                <TextLine id="TableCell_1644337381011_1707l0" custom="readingOrder {index:0;}">
+                    <Coords points="1989,1533 2064,1526 2064,1526 2160,1526 2160,1561 2066,1567 2054,1567 1989,1563 1989,1533"/>
+                    <Baseline points="1989,1563 2106,1561 2120,1561 2160,1561"/>
+                    <TextEquiv>
+                        <Unicode>120,— ℳ</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="23" col="0" rowSpan="1" colSpan="2" id="TableCell_1644337616475_1987">
+                <Coords points="185,1589 185,1632 1696,1613 1908,1611 1907,1569 1696,1571"/>
+                <TextLine id="TableCell_1644337616475_1987l0" custom="readingOrder {index:0;}">
+                    <Coords points="218,1596 284,1587 1677,1571 1677,1571 1813,1577 1893,1585 1893,1610 1858,1611 238,1631 218,1631 218,1596"/>
+                    <Baseline points="218,1631 362,1628 389,1627 408,1627 433,1627 492,1627 520,1626 570,1626 617,1626 687,1624 723,1624 742,1624 767,1624 1067,1621 1105,1620 1106,1620 1126,1620 1256,1617 1286,1618 1342,1617 1377,1616 1463,1615 1487,1614 1536,1614 1561,1613 1618,1613 1653,1613 1739,1611 1763,1611 1813,1610 1838,1610 1893,1610"/>
+                    <TextEquiv>
+                        <Unicode>Abſchn. 5 Nr. 10. Für 2 Hilfsſchuldiener zu erhöhen von 2155 ℳ auf 2275 ℳ um</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 3 4</CornerPts>
+            </TableCell>
+            <TableCell row="23" col="2" rowSpan="1" colSpan="1" id="TableCell_1644337378312_1695">
+                <Coords points="1907,1569 1908,1611 2166,1608 2166,1566"/>
+                <TextLine id="TableCell_1644337378312_1695l0" custom="readingOrder {index:0;}">
+                    <Coords points="1986,1579 2005,1573 2117,1570 2117,1570 2158,1570 2158,1605 2079,1609 2024,1609 1986,1607 1986,1579"/>
+                    <Baseline points="1986,1607 2105,1607 2117,1606 2158,1605"/>
+                    <TextEquiv>
+                        <Unicode>120,— ℳ</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="24" col="0" rowSpan="1" colSpan="2" id="TableCell_1644337618879_1989">
+                <Coords points="185,1632 184,1722 1696,1705 1910,1703 1908,1611 1696,1613"/>
+                <TextLine id="TableCell_1644337618879_1989l0" custom="readingOrder {index:0;}">
+                    <Coords points="219,1640 279,1631 282,1630 1696,1613 1897,1611 1900,1660 332,1681 279,1681 219,1675 219,1640"/>
+                    <Baseline points="219,1675 361,1672 388,1672 407,1672 432,1671 492,1670 520,1670 570,1670 617,1669 691,1669 707,1668 926,1666 942,1666 996,1666 1012,1666 1299,1662 1314,1662 1428,1660 1453,1660 1492,1659 1508,1659 1638,1657 1663,1657 1727,1656 1750,1655 1865,1654 1896,1653 1897,1653"/>
+                    <TextEquiv>
+                        <Unicode>Abſchn. 5 Nr. 12. Den Turndienern der Gemeindeſchulen Löhne, zu erhöhen von 9260 ℳ</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <TextLine id="line_1645001042456_6" custom="readingOrder {index:1;}">
+                    <Coords points="264,1685 445,1681 468,1681 570,1682 570,1717 255,1721 220,1718 220,1694"/>
+                    <Baseline points="220,1712 276,1718 304,1718 410,1716 445,1716 468,1716 503,1715 557,1714 570,1713"/>
+                    <TextEquiv>
+                        <Unicode>auf 10280 ℳ um</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 3 4</CornerPts>
+            </TableCell>
+            <TableCell row="24" col="2" rowSpan="1" colSpan="1" id="TableCell_1644337373993_1683">
+                <Coords points="1908,1611 1910,1703 2166,1700 2166,1608"/>
+                <TextLine id="TableCell_1644337373993_1683l0" custom="readingOrder {index:0;}">
+                    <Coords points="1958,1667 2031,1661 2087,1657 2161,1657 2161,1700 2019,1701 1958,1696 1958,1667"/>
+                    <Baseline points="1958,1696 2087,1697 2097,1696 2157,1696"/>
+                    <TextEquiv>
+                        <Unicode>1020,— ℳ</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="25" col="0" rowSpan="1" colSpan="2" id="TableCell_1644337621971_1991">
+                <Coords points="184,1722 183,1823 1912,1805 1910,1703 1696,1705"/>
+                <TextLine id="TableCell_1644337621971_1991l0" custom="readingOrder {index:0;}">
+                    <Coords points="219,1729 256,1722 1841,1709 1841,1709 1898,1709 1898,1751 1348,1761 327,1771 282,1771 219,1764 219,1729"/>
+                    <Baseline points="219,1755 364,1763 391,1762 409,1762 436,1762 495,1761 522,1760 571,1760 619,1759 774,1757 806,1757 871,1756 905,1756 1298,1751 1332,1751 1370,1750 1406,1750 1537,1748 1573,1748 1634,1747 1671,1747 1737,1746 1759,1745 1810,1745 1841,1744 1898,1744"/>
+                    <TextEquiv>
+                        <Unicode>Abſchn. 5 Nr. 17. Kranken⸗ und Invalidenverſicherung, zu erhöhen von 330 ℳ auf</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <TextLine id="line_1645001135879_8" custom="readingOrder {index:1;}">
+                    <Coords points="220,1781 322,1775 446,1772 446,1810 322,1810 220,1809"/>
+                    <Baseline points="220,1809 284,1809 322,1809 353,1809 388,1808 438,1807 446,1806"/>
+                    <TextEquiv>
+                        <Unicode>350 ℳ um</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="25" col="2" rowSpan="1" colSpan="1" id="TableCell_1644337369637_1671">
+                <Coords points="1910,1703 1912,1805 2166,1803 2166,1700"/>
+                <TextLine id="TableCell_1644337369637_1671l0" custom="readingOrder {index:0;}">
+                    <Coords points="2007,1755 2078,1748 2108,1748 2160,1750 2160,1785 2111,1797 2081,1797 2051,1796 2007,1787 2007,1755"/>
+                    <Baseline points="2007,1787 2081,1786 2107,1786 2111,1786 2119,1785 2160,1785"/>
+                    <TextEquiv>
+                        <Unicode>20,— ℳ</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="26" col="0" rowSpan="1" colSpan="3" id="TableCell_1644338705678_2269">
+                <Coords points="183,1823 183,1875 1908,1857 2166,1845 2166,1803 1912,1805"/>
+                <TextLine id="TableCell_1644338705678_2269l0" custom="readingOrder {index:0;}">
+                    <Coords points="1111,1827 1233,1826 1233,1826 1262,1826 1273,1852 1273,1859 1210,1864 1124,1865 1111,1861 1111,1827"/>
+                    <Baseline points="1111,1861 1188,1860 1212,1860 1273,1859"/>
+                    <TextEquiv>
+                        <Unicode>Kap. ⅠⅤ.</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 3 4</CornerPts>
+            </TableCell>
+            <TableCell row="27" col="0" rowSpan="1" colSpan="2" id="TableCell_1644337626391_1993">
+                <Coords points="183,1875 183,1923 1904,1902 1914,1905 1908,1857"/>
+                <TextLine id="TableCell_1644337626391_1993l0" custom="readingOrder {index:0;}">
+                    <Coords points="218,1883 1157,1865 1226,1864 1599,1860 1599,1860 1831,1862 1898,1870 1898,1897 1797,1906 268,1922 218,1918 218,1883"/>
+                    <Baseline points="218,1917 364,1915 392,1915 408,1915 434,1914 493,1914 521,1913 639,1912 677,1911 895,1909 913,1909 978,1908 990,1908 1122,1906 1140,1906 1178,1905 1191,1905 1322,1903 1338,1903 1400,1902 1413,1902 1548,1901 1571,1900 1584,1900 1597,1900 1652,1900 1665,1898 1774,1897 1782,1897 1831,1897 1844,1897 1898,1896"/>
+                    <TextEquiv>
+                        <Unicode>Abſchn. 1 Nr. 1—10. Beſoldungen laut Anlage, zu erhöhen von 37622 ℳ auf 38122 ℳ um</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 3 4</CornerPts>
+            </TableCell>
+            <TableCell row="27" col="2" rowSpan="1" colSpan="1" id="TableCell_1644337362039_1647">
+                <Coords points="1908,1857 1914,1905 2166,1901 2166,1845"/>
+                <TextLine id="TableCell_1644337362039_1647l0" custom="readingOrder {index:0;}">
+                    <Coords points="1980,1865 2087,1852 2087,1852 2112,1852 2162,1856 2162,1892 2135,1901 2040,1903 1980,1894 1980,1865"/>
+                    <Baseline points="1980,1894 2087,1893 2111,1892 2112,1892 2122,1892 2162,1892"/>
+                    <TextEquiv>
+                        <Unicode>500,— ℳ</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="28" col="0" rowSpan="1" colSpan="1" id="TableCell_1644337359101_1627">
+                <Coords points="183,1923 183,2013 1696,1997 1694,1949 1906,1942 1904,1902"/>
+                <TextLine id="TableCell_1644337359101_1627l0" custom="readingOrder {index:0;}">
+                    <Coords points="218,1927 513,1919 1371,1908 1755,1905 1898,1905 1899,1940 1518,1950 1290,1957 899,1966 668,1966 218,1961 218,1927"/>
+                    <Baseline points="218,1961 363,1959 388,1959 407,1959 432,1958 490,1958 519,1957 614,1956 659,1955 890,1953 917,1952 985,1951 996,1951 1169,1949 1193,1949 1235,1948 1271,1947 1506,1944 1524,1944 1587,1944 1624,1942 1732,1941 1755,1941 1804,1941 1839,1940 1898,1942"/>
+                    <TextEquiv>
+                        <Unicode>Abſchn. 2 Nr. 1—4. Beſoldungen laut Anlage, zu ermäßigen von 13032 ℳ auf</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <TextLine id="TableCell_1644337359101_1627l1" custom="readingOrder {index:1;}">
+                    <Coords points="222,1978 355,1970 355,1970 405,1970 486,1979 486,2004 405,2006 222,2006 222,1978"/>
+                    <Baseline points="222,2006 331,2005 355,2005 405,2005 430,2004 486,2003"/>
+                    <TextEquiv>
+                        <Unicode>13000 ℳ um</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 2 5</CornerPts>
+            </TableCell>
+            <TableCell row="28" col="1" rowSpan="1" colSpan="1" id="TableCell_1644337359116_1631">
+                <Coords points="1904,1902 1906,1942 1694,1949 1696,1997 1916,1994 1914,1905"/>
+                <TextLine id="TableCell_1644337359116_1631l0" custom="readingOrder {index:0;}">
+                    <Coords points="1734,1956 1910,1947 1907,1991 1780,1990 1732,1992 1734,1956"/>
+                    <Baseline points="1738,1985 1902,1983"/>
+                    <TextEquiv>
+                        <Unicode>32,— ℳ</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 3 4 5</CornerPts>
+            </TableCell>
+            <TableCell row="28" col="2" rowSpan="1" colSpan="1" id="TableCell_1644337359129_1635">
+                <Coords points="1914,1905 1916,1994 2166,1992 2166,1901"/>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="29" col="0" rowSpan="1" colSpan="3" id="TableCell_1644338714718_2271">
+                <Coords points="183,2013 183,2059 1917,2044 2166,2042 2166,1992 1916,1994 1696,1997"/>
+                <TextLine id="TableCell_1644338714718_2271l0" custom="readingOrder {index:0;}">
+                    <Coords points="1122,2013 1224,2012 1224,2012 1255,2012 1265,2039 1265,2046 1201,2050 1122,2051 1122,2013"/>
+                    <Baseline points="1122,2048 1200,2048 1224,2047 1265,2046"/>
+                    <TextEquiv>
+                        <Unicode>Kap. Ⅴ.</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 3 4</CornerPts>
+            </TableCell>
+            <TableCell row="30" col="0" rowSpan="1" colSpan="2" id="TableCell_1644337725073_2001">
+                <Coords points="183,2059 183,2156 1919,2143 1917,2044"/>
+                <TextLine id="TableCell_1644337725073_2001l0" custom="readingOrder {index:0;}">
+                    <Coords points="222,2071 600,2061 1135,2050 1233,2049 1851,2049 1899,2049 1906,2092 1626,2098 1411,2101 1198,2101 975,2107 726,2107 291,2112 222,2106 222,2071"/>
+                    <Baseline points="222,2106 365,2104 391,2103 411,2103 435,2103 496,2102 522,2102 553,2101 600,2101 705,2099 717,2099 779,2098 807,2098 856,2097 886,2097 1121,2094 1148,2094 1283,2092 1293,2092 1368,2091 1389,2090 1452,2090 1466,2089 1619,2087 1621,2087 1682,2086 1720,2085 1827,2084 1837,2084 1899,2085"/>
+                    <TextEquiv>
+                        <Unicode>Abſchn. 8 Nr. 2. Löhne für die Pflegerinnen, Wärter uſw. zu erhöhen von 17400 ℳ</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <TextLine id="TableCell_1644337725073_2001l1" custom="readingOrder {index:1;}">
+                    <Coords points="222,2126 263,2115 435,2113 485,2113 572,2118 576,2150 485,2149 305,2155 258,2155 222,2151 222,2126"/>
+                    <Baseline points="222,2151 278,2150 305,2149 411,2147 435,2149 485,2148 511,2147 571,2146"/>
+                    <TextEquiv>
+                        <Unicode>auf 18810 ℳ um</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="30" col="2" rowSpan="1" colSpan="1" id="TableCell_1644337339048_1611">
+                <Coords points="1917,2044 1919,2143 2166,2141 2166,2042"/>
+                <TextLine id="TableCell_1644337339048_1611l0" custom="readingOrder {index:0;}">
+                    <Coords points="1972,2097 2087,2084 2087,2084 2113,2084 2164,2088 2164,2125 2113,2135 2087,2135 1972,2126 1972,2097"/>
+                    <Baseline points="1972,2126 2087,2125 2113,2125 2114,2125 2125,2125 2164,2125"/>
+                    <TextEquiv>
+                        <Unicode>1410,— ℳ</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="31" col="0" rowSpan="1" colSpan="3" id="TableCell_1644338717281_2273">
+                <Coords points="183,2156 183,2205 1920,2191 2166,2190 2166,2141 1919,2143"/>
+                <TextLine id="TableCell_1644338717281_2273l0" custom="readingOrder {index:0;}">
+                    <Coords points="1113,2157 1266,2157 1276,2181 1276,2188 1266,2190 1196,2197 1132,2197 1113,2192 1113,2157"/>
+                    <Baseline points="1113,2192 1191,2191 1214,2191 1276,2188"/>
+                    <TextEquiv>
+                        <Unicode>Kap. ⅤⅠ.</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 3 4</CornerPts>
+            </TableCell>
+            <TableCell row="32" col="0" rowSpan="1" colSpan="2" id="TableCell_1644337727381_2003">
+                <Coords points="183,2205 184,2296 1697,2282 1922,2274 1920,2191"/>
+                <TextLine id="TableCell_1644337727381_2003l0" custom="readingOrder {index:0;}">
+                    <Coords points="221,2213 1111,2197 1730,2192 1800,2192 1839,2192 1901,2193 1899,2234 1797,2236 1425,2243 1273,2245 948,2246 271,2256 221,2248 221,2213"/>
+                    <Baseline points="221,2248 363,2246 397,2245 405,2245 431,2245 491,2244 517,2244 569,2243 617,2242 763,2240 797,2240 862,2239 886,2239 1010,2237 1025,2237 1058,2237 1093,2237 1101,2236 1120,2236 1168,2236 1171,2236 1331,2233 1342,2233 1392,2233 1395,2233 1448,2232 1463,2232 1677,2229 1692,2229 1732,2228 1767,2228 1901,2226"/>
+                    <TextEquiv>
+                        <Unicode>Abſchn. 1 Nr. 20. Gehälter und Löhne für das Pflege⸗ und Warteperſonal zu erhöhen</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <TextLine id="TableCell_1644337727381_2003l1" custom="readingOrder {index:1;}">
+                    <Coords points="221,2265 440,2254 722,2250 766,2250 843,2259 843,2289 219,2295 219,2265"/>
+                    <Baseline points="221,2289 284,2288 309,2289 417,2287 441,2287 485,2287 509,2287 566,2286 590,2286 698,2285 722,2285 766,2284 787,2284 843,2283"/>
+                    <TextEquiv>
+                        <Unicode>von 58000 ℳ auf 59000 ℳ um</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 3 4</CornerPts>
+            </TableCell>
+            <TableCell row="32" col="2" rowSpan="1" colSpan="1" id="TableCell_1644337329483_1587">
+                <Coords points="1920,2191 1922,2274 2166,2272 2166,2190"/>
+                <TextLine id="TableCell_1644337329483_1587l0" custom="readingOrder {index:0;}">
+                    <Coords points="1971,2239 2126,2232 2126,2232 2165,2232 2165,2267 2105,2272 1989,2273 1971,2269 1971,2239"/>
+                    <Baseline points="1971,2269 2124,2266 2164,2266"/>
+                    <TextEquiv>
+                        <Unicode>1000,— ℳ</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="33" col="0" rowSpan="1" colSpan="2" id="TableCell_1644337732067_2007">
+                <Coords points="184,2296 183,2387 1696,2365 1924,2361 1922,2274 1697,2282"/>
+                <TextLine id="TableCell_1644337732067_2007l0" custom="readingOrder {index:0;}">
+                    <Coords points="224,2300 235,2299 614,2293 1525,2284 1554,2284 1738,2284 1904,2290 1904,2315 1739,2331 1629,2334 1286,2334 933,2341 871,2341 247,2343 223,2338 217,2307"/>
+                    <Baseline points="223,2337 367,2335 400,2335 410,2334 437,2334 497,2333 512,2333 575,2332 621,2332 706,2331 729,2330 876,2328 891,2328 953,2328 975,2327 1003,2327 1032,2327 1382,2323 1400,2322 1425,2322 1442,2322 1484,2321 1500,2321 1600,2320 1615,2320 1677,2319 1686,2318 1738,2318 1841,2316 1904,2315"/>
+                    <TextEquiv>
+                        <Unicode>Abſchn. 1 Nr. 26. Dem Gehilfen für die Küchenverwaltung N. N. Lohn, zu erhöhen von</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <TextLine id="TableCell_1644337732067_2007l1" custom="readingOrder {index:1;}">
+                    <Coords points="225,2353 245,2352 347,2347 591,2341 591,2341 636,2341 714,2350 714,2376 517,2382 416,2383 225,2381 225,2353"/>
+                    <Baseline points="225,2381 310,2382 347,2381 365,2380 402,2380 458,2379 483,2378 568,2377 591,2377 636,2376 651,2376 714,2374"/>
+                    <TextEquiv>
+                        <Unicode>1272 ℳ auf 1440 ℳ um</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 3 4</CornerPts>
+            </TableCell>
+            <TableCell row="33" col="2" rowSpan="1" colSpan="1" id="TableCell_1644337326209_1575">
+                <Coords points="1922,2274 1924,2361 2166,2358 2166,2272"/>
+                <TextLine id="TableCell_1644337326209_1575l0" custom="readingOrder {index:0;}">
+                    <Coords points="1997,2329 2016,2326 2085,2322 2117,2315 2166,2319 2166,2355 2155,2358 2012,2359 1997,2358 1997,2329"/>
+                    <Baseline points="1997,2358 2165,2353"/>
+                    <TextEquiv>
+                        <Unicode>168,— ℳ</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="34" col="0" rowSpan="1" colSpan="2" id="TableCell_1644337734001_2009">
+                <Coords points="183,2387 183,2480 1696,2459 1926,2456 1924,2361 1696,2365"/>
+                <TextLine id="TableCell_1644337734001_2009l0" custom="readingOrder {index:0;}">
+                    <Coords points="223,2392 427,2383 512,2382 1515,2370 1530,2370 1907,2370 1907,2416 1537,2420 1402,2421 1056,2425 1013,2425 269,2434 223,2426 223,2392"/>
+                    <Baseline points="223,2426 366,2425 393,2425 409,2425 436,2425 497,2423 522,2423 575,2422 622,2421 706,2421 723,2420 869,2418 893,2418 960,2417 968,2417 1020,2417 1033,2417 1457,2411 1458,2411 1501,2410 1515,2410 1569,2409 1587,2409 1685,2408 1709,2407 1749,2407 1773,2407 1902,2404"/>
+                    <TextEquiv>
+                        <Unicode>Abſchn. 1 Nr. 27. Dem Gehilfen für die Materialienverwaltung N. N. Lohn, zu erhöhen</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <TextLine id="TableCell_1644337734001_2009l1" custom="readingOrder {index:1;}">
+                    <Coords points="225,2445 422,2435 680,2430 680,2430 725,2430 803,2439 803,2465 579,2474 503,2475 245,2472 225,2471 225,2445"/>
+                    <Baseline points="225,2464 287,2471 313,2470 398,2469 422,2469 466,2468 490,2468 545,2467 571,2466 657,2465 680,2465 725,2465 747,2464 803,2463"/>
+                    <TextEquiv>
+                        <Unicode>von 1272 ℳ auf 1440 ℳ um</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 3 4</CornerPts>
+            </TableCell>
+            <TableCell row="34" col="2" rowSpan="1" colSpan="1" id="TableCell_1644337322085_1563">
+                <Coords points="1924,2361 1926,2456 2171,2454 2166,2358"/>
+                <TextLine id="TableCell_1644337322085_1563l0" custom="readingOrder {index:0;}">
+                    <Coords points="1999,2419 2097,2414 2166,2407 2166,2453 2033,2454 1999,2449 1999,2419"/>
+                    <Baseline points="1999,2449 2096,2450 2121,2449 2144,2447 2166,2445"/>
+                    <TextEquiv>
+                        <Unicode>168,— ℳ</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="35" col="0" rowSpan="1" colSpan="2" id="TableCell_1644337735846_2011">
+                <Coords points="183,2480 183,2563 1696,2543 1928,2540 1926,2456 1696,2459"/>
+                <TextLine id="TableCell_1644337735846_2011l0" custom="readingOrder {index:0;}">
+                    <Coords points="223,2481 424,2476 1284,2464 1722,2461 1845,2461 1907,2469 1907,2494 1759,2509 1456,2509 799,2518 788,2518 293,2523 223,2515 223,2481"/>
+                    <Baseline points="223,2515 370,2513 399,2513 415,2513 441,2512 500,2512 527,2511 578,2511 625,2510 709,2509 733,2509 899,2507 906,2507 948,2507 962,2506 992,2506 1095,2505 1172,2504 1285,2503 1345,2502 1360,2502 1402,2501 1427,2501 1449,2501 1471,2500 1522,2500 1613,2499 1680,2498 1689,2498 1844,2495 1845,2495 1907,2494"/>
+                    <TextEquiv>
+                        <Unicode>Abſchn. 1 Nr. 28. Dem Aufſeher des Desinfektionshauſes N. N. Lohn, zu erhöhen von</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <TextLine id="TableCell_1644337735846_2011l1" custom="readingOrder {index:1;}">
+                    <Coords points="227,2531 348,2523 594,2520 639,2520 725,2530 725,2555 507,2558 410,2560 227,2560 227,2531"/>
+                    <Baseline points="227,2560 312,2559 348,2558 371,2558 404,2558 460,2558 486,2557 570,2556 594,2555 639,2555 661,2554 721,2553"/>
+                    <TextEquiv>
+                        <Unicode>1400 ℳ auf 1440 ℳ um</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 3 4</CornerPts>
+            </TableCell>
+            <TableCell row="35" col="2" rowSpan="1" colSpan="1" id="TableCell_1644337317575_1551">
+                <Coords points="1926,2456 1928,2540 2171,2538 2171,2454"/>
+                <TextLine id="TableCell_1644337317575_1551l0" custom="readingOrder {index:0;}">
+                    <Coords points="2042,2503 2169,2492 2168,2535 2013,2538 2015,2508"/>
+                    <Baseline points="2018,2533 2159,2532"/>
+                    <TextEquiv>
+                        <Unicode>40,— ℳ</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="36" col="0" rowSpan="1" colSpan="2" id="TableCell_1644337737800_2013">
+                <Coords points="183,2563 183,2656 1696,2634 1930,2631 1928,2540 1696,2543"/>
+                <TextLine id="TableCell_1644337737800_2013l0" custom="readingOrder {index:0;}">
+                    <Coords points="225,2571 430,2562 599,2557 1794,2546 1810,2546 1910,2550 1911,2594 1822,2597 1650,2595 1192,2601 1068,2602 844,2608 287,2614 263,2612 225,2605 225,2571"/>
+                    <Baseline points="225,2605 373,2603 401,2603 417,2602 443,2602 503,2601 529,2601 582,2600 630,2600 777,2598 799,2598 864,2597 887,2597 912,2596 1016,2595 1068,2595 1091,2595 1151,2594 1166,2594 1192,2594 1236,2593 1251,2593 1320,2592 1384,2591 1391,2591 1515,2590 1544,2589 1686,2588 1715,2587 1754,2587 1777,2586 1910,2585"/>
+                    <TextEquiv>
+                        <Unicode>Abſchn. 1 Nr. 31. Gehälter und Löhne für das Dienſt⸗ und Arbeitsperſonal, zu erhöhen</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <TextLine id="TableCell_1644337737800_2013l1" custom="readingOrder {index:1;}">
+                    <Coords points="225,2623 445,2611 725,2607 725,2607 768,2607 846,2616 846,2642 637,2649 462,2652 267,2652 225,2651 225,2623"/>
+                    <Baseline points="225,2650 288,2650 311,2649 421,2648 445,2648 489,2647 513,2647 568,2645 593,2645 701,2643 725,2643 768,2642 791,2642 846,2640"/>
+                    <TextEquiv>
+                        <Unicode>von 47000 ℳ auf 50000 ℳ um</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 3 4</CornerPts>
+            </TableCell>
+            <TableCell row="36" col="2" rowSpan="1" colSpan="1" id="TableCell_1644337314649_1539">
+                <Coords points="1928,2540 1930,2631 2171,2629 2171,2538"/>
+                <TextLine id="TableCell_1644337314649_1539l0" custom="readingOrder {index:0;}">
+                    <Coords points="1966,2593 1972,2589 1993,2587 2095,2583 2166,2583 2166,2628 1975,2630 1972,2630 1966,2616 1963,2606"/>
+                    <Baseline points="1978,2625 2095,2627 2116,2626 2141,2626 2166,2626"/>
+                    <TextEquiv>
+                        <Unicode>3000,— ℳ</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="37" col="0" rowSpan="1" colSpan="2" id="TableCell_1644337740362_2015">
+                <Coords points="183,2656 183,2746 1696,2728 1932,2725 1930,2631 1696,2634"/>
+                <TextLine id="TableCell_1644337740362_2015l0" custom="readingOrder {index:0;}">
+                    <Coords points="225,2660 287,2658 604,2652 1824,2635 1840,2635 1872,2639 1909,2648 1915,2679 1846,2684 1637,2687 1041,2697 978,2697 287,2702 225,2694 225,2660"/>
+                    <Baseline points="225,2694 371,2692 396,2692 416,2691 441,2691 501,2690 526,2690 557,2690 604,2689 753,2687 787,2687 851,2686 874,2686 978,2684 1003,2684 1066,2683 1089,2683 1148,2684 1171,2683 1294,2682 1319,2681 1381,2681 1394,2680 1680,2677 1701,2677 1743,2676 1777,2676 1909,2674"/>
+                    <TextEquiv>
+                        <Unicode>Abſchn. 2 Nr. 4. Gehälter und Löhne für das Pflege⸗ und Warteperſonal, zu erhöhen</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <TextLine id="TableCell_1644337740362_2015l1" custom="readingOrder {index:1;}">
+                    <Coords points="226,2712 445,2700 725,2696 725,2696 770,2696 846,2706 846,2732 569,2741 557,2741 226,2739 226,2712"/>
+                    <Baseline points="226,2739 288,2738 314,2737 422,2736 445,2736 489,2735 514,2735 569,2733 596,2733 702,2732 725,2732 770,2731 793,2731 846,2730"/>
+                    <TextEquiv>
+                        <Unicode>von 12500 ℳ auf 13500 ℳ um</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 3 4</CornerPts>
+            </TableCell>
+            <TableCell row="37" col="2" rowSpan="1" colSpan="1" id="TableCell_1644337310866_1527">
+                <Coords points="1930,2631 1932,2725 2171,2723 2171,2629"/>
+                <TextLine id="TableCell_1644337310866_1527l0" custom="readingOrder {index:0;}">
+                    <Coords points="1974,2687 2092,2672 2092,2672 2118,2672 2166,2675 2166,2713 2141,2722 2026,2723 1974,2718 1974,2687"/>
+                    <Baseline points="1974,2718 2092,2721 2118,2721 2131,2721 2166,2703"/>
+                    <TextEquiv>
+                        <Unicode>1000,— ℳ</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="38" col="0" rowSpan="1" colSpan="2" id="TableCell_1644337742622_2017">
+                <Coords points="183,2746 183,2838 1934,2823 1932,2725 1696,2728"/>
+                <TextLine id="TableCell_1644337742622_2017l0" custom="readingOrder {index:0;}">
+                    <Coords points="227,2749 648,2742 888,2739 1575,2732 1831,2730 1920,2729 1918,2773 1806,2775 1503,2778 1415,2778 1211,2780 1070,2781 897,2783 265,2789 227,2782 227,2749"/>
+                    <Baseline points="227,2773 248,2782 265,2782 372,2781 398,2781 417,2781 443,2780 502,2780 530,2779 581,2778 629,2777 778,2776 800,2775 865,2776 888,2775 991,2774 1005,2774 1069,2773 1092,2773 1149,2772 1169,2772 1295,2771 1319,2770 1383,2770 1396,2770 1452,2769 1527,2768 1689,2766 1714,2766 1753,2766 1776,2765 1912,2764"/>
+                    <TextEquiv>
+                        <Unicode>Abſchn. 2 Nr. 10. Gehälter und Löhne für das Dienſt⸗ und Arbeitsperſonal, zu erhöhen</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <TextLine id="TableCell_1644337742622_2017l1" custom="readingOrder {index:1;}">
+                    <Coords points="228,2802 315,2797 426,2791 547,2789 694,2787 694,2787 743,2787 823,2795 823,2820 558,2830 547,2830 228,2828 228,2802"/>
+                    <Baseline points="228,2828 290,2827 315,2826 403,2824 426,2826 476,2825 502,2824 558,2823 583,2822 670,2821 694,2821 743,2820 768,2820 823,2819"/>
+                    <TextEquiv>
+                        <Unicode>von 9000 ℳ auf 9400 ℳ um</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="38" col="2" rowSpan="1" colSpan="1" id="TableCell_1644337306886_1515">
+                <Coords points="1932,2725 1934,2823 2172,2820 2171,2723"/>
+                <TextLine id="TableCell_1644337306886_1515l0" custom="readingOrder {index:0;}">
+                    <Coords points="2025,2769 2171,2759 2170,2816 1996,2818 1996,2773"/>
+                    <Baseline points="2003,2806 2162,2800"/>
+                    <TextEquiv>
+                        <Unicode>400,— ℳ</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="39" col="0" rowSpan="1" colSpan="3" id="TableCell_1644338721794_2275">
+                <Coords points="183,2838 183,2884 1935,2865 2173,2862 2172,2820 1934,2823"/>
+                <TextLine id="line_1645003235070_9" custom="readingOrder {index:0;}">
+                    <Coords points="1107,2833 1300,2831 1301,2869 1108,2871"/>
+                    <Baseline points="1121,2868 1301,2864"/>
+                    <TextEquiv>
+                        <Unicode>Kap. ⅤⅠⅠ.</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 3 4</CornerPts>
+            </TableCell>
+            <TableCell row="40" col="0" rowSpan="1" colSpan="2" id="TableCell_1644337748956_2021">
+                <Coords points="183,2884 183,2982 1696,2955 1937,2957 1935,2865"/>
+                <TextLine id="TableCell_1644337748956_2021l0" custom="readingOrder {index:0;}">
+                    <Coords points="230,2890 1096,2874 1212,2872 1844,2871 1853,2871 1903,2880 1910,2897 1918,2914 1877,2915 1791,2915 1661,2921 1265,2922 1151,2922 303,2930 230,2926 230,2890"/>
+                    <Baseline points="230,2925 375,2924 404,2923 420,2923 446,2923 506,2922 532,2921 562,2921 609,2920 720,2919 739,2919 790,2918 812,2918 1122,2915 1156,2914 1270,2913 1287,2913 1474,2911 1498,2911 1575,2910 1587,2910 1744,2909 1758,2909 1910,2909"/>
+                    <TextEquiv>
+                        <Unicode>Abſchn. 1 Nr. 3. Löhne der Kämmereiarbeiter einſchl. derjenigen für erkrankte Arbeiter,</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <TextLine id="line_1645003271159_11" custom="readingOrder {index:1;}">
+                    <Coords points="228,2946 345,2935 668,2928 793,2928 927,2932 1005,2936 1015,2937 1015,2962 766,2971 364,2978 244,2980 228,2980"/>
+                    <Baseline points="228,2971 279,2971 291,2971 424,2968 447,2968 508,2967 534,2966 644,2964 668,2964 712,2963 736,2963 793,2962 816,2962 927,2961 950,2961 1005,2960 1015,2959"/>
+                    <TextEquiv>
+                        <Unicode>zu erhöhen von 38500 ℳ auf 42400 um</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 3 4</CornerPts>
+            </TableCell>
+            <TableCell row="40" col="2" rowSpan="1" colSpan="1" id="TableCell_1644337293272_1491">
+                <Coords points="1935,2865 1937,2957 2171,2953 2173,2862"/>
+                <TextLine id="TableCell_1644337293272_1491l0" custom="readingOrder {index:0;}">
+                    <Coords points="1983,2912 2172,2910 2170,2950 1981,2953 1975,2928"/>
+                    <Baseline points="1990,2949 2166,2943"/>
+                    <TextEquiv>
+                        <Unicode>3900,— ℳ</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="41" col="0" rowSpan="1" colSpan="2" id="TableCell_1644337764988_2025">
+                <Coords points="183,2982 184,3022 1689,3004 1937,3005 1937,2957 1696,2955"/>
+                <TextLine id="TableCell_1644337764988_2025l0" custom="readingOrder {index:0;}">
+                    <Coords points="410,2981 1543,2962 1920,2960 1920,3000 228,3018 226,2982"/>
+                    <Baseline points="234,3013 1914,2995"/>
+                    <TextEquiv>
+                        <Unicode>Abſchn. 1 Nr. 4. Kranken⸗ und Invalidenverſicherung, zu erhöhen von 700 ℳ auf 850 ℳ um</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 3 4</CornerPts>
+            </TableCell>
+            <TableCell row="41" col="2" rowSpan="1" colSpan="1" id="TableCell_1644337274005_1479">
+                <Coords points="1937,2957 1937,3005 2172,2997 2171,2953"/>
+                <TextLine id="TableCell_1644337274005_1479l0" custom="readingOrder {index:0;}">
+                    <Coords points="1986,2958 2169,2955 2170,2994 1987,2996 1986,2963"/>
+                    <Baseline points="1990,2991 2163,2991"/>
+                    <TextEquiv>
+                        <Unicode>150,— ℳ</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="42" col="0" rowSpan="1" colSpan="2" id="TableCell_1644337767419_2027">
+                <Coords points="184,3022 183,3074 1695,3051 1939,3050 1937,3005 1689,3004"/>
+                <TextLine id="line_1645015873593_268" custom="readingOrder {index:0;}">
+                    <Coords points="227,3027 670,3013 1696,3007 1708,3007 1708,3048 516,3069 342,3070 289,3070 227,3062"/>
+                    <Baseline points="227,3062 420,3059 454,3058 461,3058 486,3058 546,3057 572,3057 602,3056 649,3056 964,3051 988,3051 1026,3051 1050,3050 1183,3049 1196,3049 1270,3049 1291,3048 1382,3048 1402,3048 1447,3047 1469,3047 1529,3046 1548,3046 1636,3046 1659,3045 1708,3045"/>
+                    <TextEquiv>
+                        <Unicode>Abſchnitt 1 Nr. 5. Unfallverſicherung zu erhöhen von 3500 ℳ auf 4500 ℳ</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 3 4</CornerPts>
+            </TableCell>
+            <TableCell row="42" col="2" rowSpan="1" colSpan="1" id="TableCell_1644337269734_1467">
+                <Coords points="1937,3005 1939,3050 2175,3046 2172,2997"/>
+                <TextLine id="TableCell_1644337269734_1467l0" custom="readingOrder {index:0;}">
+                    <Coords points="1981,3006 2170,2999 2170,3041 1967,3044 1961,3011"/>
+                    <Baseline points="1992,3036 2166,3036"/>
+                    <TextEquiv>
+                        <Unicode>1000,— ℳ</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="43" col="0" rowSpan="1" colSpan="2" id="TableCell_1644337771164_2029">
+                <Coords points="183,3074 183,3120 1698,3100 1940,3092 1939,3050 1695,3051"/>
+                <TextLine id="line_1645003373943_12" custom="readingOrder {index:0;}">
+                    <Coords points="1102,3064 1303,3062 1302,3103 1101,3105"/>
+                    <Baseline points="1101,3100 1302,3098"/>
+                    <TextEquiv>
+                        <Unicode>Kap. ⅤⅠⅠⅠ.</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 3 4</CornerPts>
+            </TableCell>
+            <TableCell row="43" col="2" rowSpan="1" colSpan="1" id="TableCell_1644337256014_1455">
+                <Coords points="1939,3050 1940,3092 2175,3088 2175,3046"/>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="44" col="0" rowSpan="1" colSpan="2" id="TableCell_1644337773503_2031">
+                <Coords points="183,3120 183,3213 1942,3195 1940,3092 1698,3100"/>
+                <TextLine id="TableCell_1644337773503_2031l0" custom="readingOrder {index:0;}">
+                    <Coords points="228,3124 334,3119 507,3114 1680,3096 1695,3096 1702,3096 1914,3103 1915,3144 1554,3159 685,3163 617,3163 476,3163 288,3167 228,3159 228,3124"/>
+                    <Baseline points="228,3150 373,3157 401,3157 418,3157 444,3156 503,3155 529,3155 558,3154 603,3154 730,3151 759,3151 788,3151 791,3151 960,3149 1012,3149 1064,3149 1146,3148 1180,3148 1188,3147 1212,3147 1231,3147 1420,3147 1445,3147 1485,3147 1507,3146 1591,3146 1663,3145 1729,3143 1745,3143 1850,3140 1854,3140 1914,3139"/>
+                    <TextEquiv>
+                        <Unicode>Abſchn. 1 Nr. 2. Löhne der Kämmereiarbeiter und Steinſetzer, zu erhöhen von 10000 ℳ</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <TextLine id="TableCell_1644337773503_2031l1" custom="readingOrder {index:1;}">
+                    <Coords points="230,3179 272,3169 442,3165 442,3165 486,3165 486,3201 306,3211 267,3212 230,3204 230,3179"/>
+                    <Baseline points="230,3204 285,3203 310,3202 418,3201 442,3201 486,3201"/>
+                    <TextEquiv>
+                        <Unicode>auf 10450 ℳ</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="44" col="2" rowSpan="1" colSpan="1" id="TableCell_1644337251580_1443">
+                <Coords points="1940,3092 1942,3195 2176,3192 2175,3088"/>
+                <TextLine id="TableCell_1644337251580_1443l0" custom="readingOrder {index:0;}">
+                    <Coords points="2022,3136 2171,3133 2173,3187 1999,3188 1995,3147"/>
+                    <Baseline points="2012,3182 2170,3178"/>
+                    <TextEquiv>
+                        <Unicode>450,— ℳ</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="45" col="0" rowSpan="1" colSpan="3" id="TableCell_1644338729599_2277">
+                <Coords points="183,3213 183,3259 1933,3247 1943,3244 2174,3242 2176,3192 1942,3195"/>
+                <TextLine id="line_1645003401008_13" custom="readingOrder {index:0;}">
+                    <Coords points="1117,3207 1292,3207 1292,3249 1117,3249"/>
+                    <Baseline points="1123,3243 1286,3242"/>
+                    <TextEquiv>
+                        <Unicode>Kap. ⅠⅩ.</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 4 5</CornerPts>
+            </TableCell>
+            <TableCell row="46" col="0" rowSpan="1" colSpan="1" id="TableCell_1644337241121_1411">
+                <Coords points="183,3259 183,3362 1696,3338 1695,3293 1933,3291 1933,3247"/>
+                <TextLine id="TableCell_1644337241121_1411l0" custom="readingOrder {index:0;}">
+                    <Coords points="229,3269 276,3266 405,3259 713,3253 1815,3245 1928,3253 1924,3289 1686,3292 1543,3301 1262,3299 291,3311 229,3304 229,3269"/>
+                    <Baseline points="229,3304 405,3302 427,3302 447,3301 505,3301 535,3301 569,3300 602,3300 700,3297 808,3295 828,3295 851,3295 1150,3291 1197,3291 1245,3291 1282,3290 1379,3290 1575,3289 1706,3289 1737,3288 1819,3287 1880,3289 1920,3285"/>
+                    <TextEquiv>
+                        <Unicode>Abſchn. 1 Nr. 1. Lohn für 3 Obermaſchiniſten (die Worte „2 Vizefeldwebel und“ ſind</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <TextLine id="line_1645003489482_15" custom="readingOrder {index:1;}">
+                    <Coords points="296,3313 561,3308 1153,3299 1330,3298 1330,3343 406,3358 232,3357 232,3323"/>
+                    <Baseline points="232,3348 271,3348 291,3348 351,3347 471,3345 514,3345 533,3344 804,3340 829,3339 918,3338 955,3337 978,3337 1007,3336 1065,3335 1088,3335 1174,3335 1175,3335 1244,3334 1330,3333"/>
+                    <TextEquiv>
+                        <Unicode>zu ſtreichen) zu ermäßigen von 9450 ℳ auf 5640 ℳ um</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 2 5</CornerPts>
+            </TableCell>
+            <TableCell row="46" col="1" rowSpan="1" colSpan="1" id="TableCell_1644337241134_1415">
+                <Coords points="1933,3247 1933,3291 1695,3293 1696,3338 1945,3335 1943,3244"/>
+                <TextLine id="line_1645003524899_16" custom="readingOrder {index:0;}">
+                    <Coords points="1702,3295 1921,3292 1920,3332 1703,3333"/>
+                    <Baseline points="1714,3330 1906,3327"/>
+                    <TextEquiv>
+                        <Unicode>3810,— ℳ</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 3 4 5</CornerPts>
+            </TableCell>
+            <TableCell row="46" col="2" rowSpan="1" colSpan="1" id="TableCell_1644337241152_1419">
+                <Coords points="1943,3244 1945,3335 2175,3332 2174,3242"/>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="47" col="0" rowSpan="1" colSpan="1" id="TableCell_1644337232423_1409">
+                <Coords points="183,3362 183,3374 1696,3390 1696,3338"/>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="47" col="1" rowSpan="1" colSpan="2" id="TableCell_1644337807110_2033">
+                <Coords points="1696,3338 1696,3390 1946,3393 2176,3396 2175,3332 1945,3335"/>
+                <TextLine id="TableCell_1644337807110_2033l1" custom="readingOrder {index:0;}">
+                    <Coords points="1826,3348 1935,3346 2016,3345 2176,3334 2172,3376 2083,3384 1992,3393 1958,3393 1826,3384 1826,3348"/>
+                    <Baseline points="1826,3383 1916,3383 1948,3382 2027,3381 2058,3381 2169,3369"/>
+                    <TextEquiv>
+                        <Unicode>Seite 406938,17 ℳ</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 3 4</CornerPts>
+            </TableCell>
+        </TableRegion>
+        <SeparatorRegion id="r_11" custom="readingOrder {index:2;}">
+            <Coords points="1004,236 1108,236 1108,242 1004,242"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_12" custom="readingOrder {index:3;}">
+            <Coords points="1266,233 1373,233 1373,239 1266,239"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_13" custom="readingOrder {index:4;}">
+            <Coords points="1862,3330 2173,3330 2173,3346 1862,3346"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_14" custom="readingOrder {index:5;}">
+            <Coords points="542,409 1883,409 1883,434 542,434"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_15" custom="readingOrder {index:6;}">
+            <Coords points="1266,543 1884,543 1884,558 1266,558"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_16" custom="readingOrder {index:7;}">
+            <Coords points="1324,632 1885,632 1885,647 1324,647"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_17" custom="readingOrder {index:8;}">
+            <Coords points="1379,675 1887,675 1887,691 1379,691"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_18" custom="readingOrder {index:9;}">
+            <Coords points="1324,720 1888,720 1888,736 1324,736"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_19" custom="readingOrder {index:10;}">
+            <Coords points="1492,809 1889,809 1889,822 1492,822"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_20" custom="readingOrder {index:11;}">
+            <Coords points="600,1050 1892,1050 1892,1073 600,1073"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_21" custom="readingOrder {index:12;}">
+            <Coords points="769,1514 1895,1514 1895,1533 769,1533"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_22" custom="readingOrder {index:13;}">
+            <Coords points="605,1690 1893,1690 1893,1713 605,1713"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_23" custom="readingOrder {index:14;}">
+            <Coords points="490,1781 1890,1781 1890,1805 490,1805"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_24" custom="readingOrder {index:15;}">
+            <Coords points="549,1980 1675,1980 1675,2001 549,2001"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_25" custom="readingOrder {index:16;}">
+            <Coords points="605,2120 1900,2120 1900,2144 605,2144"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_26" custom="readingOrder {index:17;}">
+            <Coords points="945,2262 1899,2262 1899,2283 945,2283"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_27" custom="readingOrder {index:18;}">
+            <Coords points="779,2354 1844,2354 1844,2373 779,2373"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_28" custom="readingOrder {index:19;}">
+            <Coords points="837,2443 1903,2443 1903,2463 837,2463"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_29" custom="readingOrder {index:20;}">
+            <Coords points="781,2532 1902,2532 1902,2552 781,2552"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_30" custom="readingOrder {index:21;}">
+            <Coords points="889,2621 1900,2621 1900,2640 889,2640"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_31" custom="readingOrder {index:22;}">
+            <Coords points="894,2712 1902,2712 1902,2730 894,2730"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_32" custom="readingOrder {index:23;}">
+            <Coords points="894,2800 1907,2800 1907,2819 894,2819"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_33" custom="readingOrder {index:24;}">
+            <Coords points="1065,2944 1910,2944 1910,2960 1065,2960"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_34" custom="readingOrder {index:25;}">
+            <Coords points="509,3176 1913,3176 1913,3199 509,3199"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_35" custom="readingOrder {index:26;}">
+            <Coords points="1344,3322 1685,3322 1685,3335 1344,3335"/>
+        </SeparatorRegion>
+    </Page>
+</PcGts>

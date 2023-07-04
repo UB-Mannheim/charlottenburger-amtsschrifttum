@@ -1,0 +1,1381 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2022-02-08T16:24:27.099+01:00</Created>
+        <LastChange>2023-07-04T14:43:28.236+02:00</LastChange>
+        <Comments>
+                Measurement unit: pixel
+                PrimaryLanguage: 
+                Producer: Transkribus
+            </Comments>
+        <TranskribusMetadata docId="918527" pageId="35047883" pageNr="11" tsid="128718784" status="GT" userId="48446" imgUrl="https://files.transkribus.eu/Get?id=GMDVGWRJAKMEFRZVXKQMMOHT&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=RMGLBLWSEJOUFMYTWATOMROT" imageId="28180396"/>
+    </Metadata>
+    <Page imageFilename="Tag_Mitt_Charl_1903_078100.tif" imageWidth="2346" imageHeight="3605">
+        <PrintSpace>
+            <Coords points="29,150 2346,150 2346,3605 29,3605"/>
+        </PrintSpace>
+        <ReadingOrder>
+            <OrderedGroup id="ro_1688474642693" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+                <RegionRefIndexed index="1" regionRef="r2"/>
+                <RegionRefIndexed index="4" regionRef="r3"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion type="page-number" id="r1" custom="readingOrder {index:0;} structure {type:page-number;}">
+            <Coords points="1172,150 1246,150 1246,191 1172,191"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="1179,157 1240,157 1240,184 1179,184 1179,157"/>
+                <Baseline points="1179,184 1240,184"/>
+                <TextEquiv>
+                    <Unicode>777</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>777</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r2" custom="readingOrder {index:1;} structure {type:paragraph;}">
+            <Coords points="224,235 1201,230 1223,2215 219,2215"/>
+            <TextLine id="r2l1" custom="readingOrder {index:0;}">
+                <Coords points="231,263 416,251 715,239 774,239 1191,244 1191,272 1028,285 583,288 454,296 398,300 231,295 231,263"/>
+                <Baseline points="231,295 416,288 452,287 457,287 471,287 530,282 548,282 715,279 763,279 774,279 788,279 1080,275 1107,274 1191,272"/>
+                <TextEquiv>
+                    <Unicode>teilung ⅠⅠ am Schluſſe des Rechnungsjahres 1902</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l2" custom="readingOrder {index:1;}">
+                <Coords points="244,311 440,297 549,290 1149,284 1149,284 1162,284 1195,293 1195,319 1162,322 858,332 379,338 261,339 244,339 244,311"/>
+                <Baseline points="244,339 423,332 440,331 488,329 513,328 740,324 765,324 858,323 891,322 949,321 959,321 1050,320 1075,320 1125,320 1149,320 1195,319"/>
+                <TextEquiv>
+                    <Unicode>118277,89 ℳ. nachgewieſen, gegen 45720,28 ℳ im</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l3" custom="readingOrder {index:2;}">
+                <Coords points="241,350 459,339 1149,325 1168,325 1195,329 1195,363 707,379 403,383 311,390 241,383 241,350"/>
+                <Baseline points="241,383 403,377 459,375 526,372 556,372 646,371 675,370 996,366 1126,364 1195,363"/>
+                <TextEquiv>
+                    <Unicode>Vorjahre. In dem Kaſſenbarbeſtande — Ab⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l4" custom="readingOrder {index:3;}">
+                <Coords points="240,397 280,392 312,389 560,381 1184,374 1195,374 1195,415 507,423 365,429 240,426 240,397"/>
+                <Baseline points="240,426 382,419 406,418 458,417 481,417 536,416 560,416 681,415 704,416 756,415 781,415 844,413 868,413 1055,409 1071,409 1121,408 1140,408 1195,407"/>
+                <TextEquiv>
+                    <Unicode>teilung ⅠⅠⅠ —, welcher ſich von 304396,14 ℳ. auf</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l5" custom="readingOrder {index:4;}">
+                <Coords points="240,442 399,429 543,423 1180,417 1195,421 1195,457 1161,456 429,467 392,472 240,467 240,442"/>
+                <Baseline points="240,466 392,463 423,463 426,463 437,463 498,462 522,461 635,459 658,459 712,458 734,458 924,456 958,456 977,456 1010,455 1115,453 1130,453 1195,452"/>
+                <TextEquiv>
+                    <Unicode>606440,82 ℳ, mithin um 302044,68 ℳ. erhöht hat,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l6" custom="readingOrder {index:5;}">
+                <Coords points="239,478 363,474 629,469 919,464 1091,463 1091,463 1159,463 1196,473 1196,489 1180,497 1159,505 991,508 251,518 239,518 239,478"/>
+                <Baseline points="239,510 300,509 325,509 397,507 422,507 468,506 482,506 545,505 558,505 613,504 629,504 897,501 906,501 1057,498 1073,498 1196,485"/>
+                <TextEquiv>
+                    <Unicode>ſind auch die von den Gasabnehmern beſtellten Sicher⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l7" custom="readingOrder {index:6;}">
+                <Coords points="238,522 275,521 358,519 1007,509 1007,509 1026,509 1060,510 1073,511 1113,518 1122,535 1122,541 1026,552 335,563 238,563 238,522"/>
+                <Baseline points="238,554 335,553 358,552 403,552 426,551 559,549 583,549 645,548 668,547 856,545 957,544 1122,539"/>
+                <TextEquiv>
+                    <Unicode>heiten im Betrage von 241894,54 ℳ. enthalten.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l8" custom="readingOrder {index:7;}">
+                <Coords points="326,564 438,562 610,559 1113,552 1113,552 1177,552 1198,555 1198,586 1177,593 993,597 507,604 490,604 326,598 326,564"/>
+                <Baseline points="326,598 394,597 438,596 569,594 610,593 657,593 696,592 747,591 770,591 993,588 1016,587 1066,587 1095,586 1198,585"/>
+                <TextEquiv>
+                    <Unicode>Der Abgang bei der Abteilung ⅠⅤ „Aus⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l9" custom="readingOrder {index:8;}">
+                <Coords points="238,610 254,609 396,606 544,603 754,599 1140,592 1140,592 1200,592 1200,643 371,651 254,651 238,650 238,610"/>
+                <Baseline points="238,645 371,642 396,642 644,638 669,637 720,637 754,636 995,633 1024,632 1119,631 1140,631 1200,630"/>
+                <TextEquiv>
+                    <Unicode>ſtehende Einnahmereſte am Jahresſchluß“ ergibt ſich</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l10" custom="readingOrder {index:9;}">
+                <Coords points="235,664 283,658 333,654 437,649 728,644 1035,643 1035,643 1071,643 1197,646 1197,674 1048,685 961,690 593,693 437,693 259,689 235,688 235,664"/>
+                <Baseline points="235,682 300,688 333,687 402,686 437,686 593,683 633,683 687,682 706,681 1011,678 1035,677 1087,676 1114,676 1197,667"/>
+                <TextEquiv>
+                    <Unicode>aus dem Vergleich des Jahresabſchluſſes für 1902</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l11" custom="readingOrder {index:10;}">
+                <Coords points="229,709 273,700 448,696 695,692 1032,687 1032,687 1163,687 1199,690 1199,720 1105,730 781,734 353,734 229,733 229,709"/>
+                <Baseline points="229,733 298,732 333,732 401,732 435,731 486,730 516,729 644,727 664,727 792,726 815,725 881,724 905,724 957,723 978,723 1121,721 1145,720 1199,720"/>
+                <TextEquiv>
+                    <Unicode>mit dem für 1901. Ebenſo war am Schluſſe des</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l12" custom="readingOrder {index:11;}">
+                <Coords points="240,744 280,742 880,733 1151,731 1151,731 1177,731 1199,740 1199,764 1177,772 533,784 280,784 240,777 240,744"/>
+                <Baseline points="240,777 533,773 571,772 655,770 692,770 752,770 773,770 824,769 859,769 1063,765 1078,765 1116,765 1132,764 1199,763"/>
+                <TextEquiv>
+                    <Unicode>Rechnungsjahres 1902 bei der Abteilung Ⅴ ein</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l13" custom="readingOrder {index:12;}">
+                <Coords points="238,798 336,785 1010,773 1010,773 1179,773 1197,785 1197,810 1179,816 841,822 700,824 680,824 336,823 238,821 238,798"/>
+                <Baseline points="238,821 296,820 307,820 499,817 529,817 554,816 579,816 767,814 776,814 911,812 929,812 971,812 983,812 1197,809"/>
+                <TextEquiv>
+                    <Unicode>um 153547,28 ℳ. niedrigerer Beſtand an Materialien,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l14" custom="readingOrder {index:13;}">
+                <Coords points="242,832 262,830 746,824 1138,820 1138,820 1200,820 1200,854 978,864 827,867 607,870 553,870 479,869 242,865 242,832"/>
+                <Baseline points="242,856 431,863 455,863 528,862 553,862 645,860 663,860 721,859 746,860 887,857 903,857 1091,853 1138,853 1200,852"/>
+                <TextEquiv>
+                    <Unicode>Naturalien uſw. gegen das Vorjahr vorhanden. Als</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l15" custom="readingOrder {index:14;}">
+                <Coords points="243,876 594,862 614,862 1049,866 1200,868 1200,898 1181,899 1049,905 618,915 598,915 295,918 243,910 243,876"/>
+                <Baseline points="243,910 374,908 411,908 455,907 491,907 548,906 574,906 695,904 727,904 782,903 805,903 995,901 1023,900 1200,898"/>
+                <TextEquiv>
+                    <Unicode>Abgang bei den Werten des Mobiliars, Inventars</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l16" custom="readingOrder {index:15;}">
+                <Coords points="301,921 647,915 1152,910 1163,910 1201,920 1201,943 1056,954 505,961 488,961 238,958 238,924"/>
+                <Baseline points="243,956 505,952 523,952 571,951 586,951 630,950 647,950 766,948 777,948 885,947 909,947 960,946 982,946 1201,943"/>
+                <TextEquiv>
+                    <Unicode>— Abteilung ⅤⅠ — werden neben der prozentualen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l17" custom="readingOrder {index:16;}">
+                <Coords points="230,966 259,964 835,957 835,957 1061,957 1201,965 1201,990 1061,999 989,1000 768,1003 466,1007 259,1007 230,999 230,966"/>
+                <Baseline points="230,990 466,998 507,997 561,997 599,997 768,994 809,993 989,991 1028,991 1101,990 1138,990 1201,989"/>
+                <TextEquiv>
+                    <Unicode>Abſchreibung auf Apparate, Maſchinen uſw. von</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l18" custom="readingOrder {index:17;}">
+                <Coords points="245,1016 457,1008 1168,997 1204,997 1204,1039 1168,1039 378,1046 267,1043 245,1042 245,1016"/>
+                <Baseline points="245,1035 430,1042 457,1042 480,1041 510,1041 556,1041 573,1041 640,1040 657,1039 881,1037 900,1037 951,1036 968,1036 1168,1033 1203,1032 1204,1032"/>
+                <TextEquiv>
+                    <Unicode>500020,09 ℳ. bei dem Neubaukonto der Gasanſtalt ⅠⅠ</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l19" custom="readingOrder {index:18;}">
+                <Coords points="243,1065 288,1055 641,1049 872,1046 872,1046 1107,1046 1168,1047 1190,1055 1201,1070 1201,1081 1003,1089 930,1091 316,1094 288,1094 243,1089 243,1065"/>
+                <Baseline points="243,1089 316,1088 352,1087 537,1085 584,1084 605,1084 641,1083 752,1082 785,1082 837,1081 872,1081 1043,1079 1066,1079 1201,1081"/>
+                <TextEquiv>
+                    <Unicode>noch 245173,59 ℳ. Koſten für diejenigen Bauten,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l20" custom="readingOrder {index:19;}">
+                <Coords points="243,1109 303,1098 676,1092 1091,1089 1091,1089 1188,1089 1201,1092 1201,1122 1174,1131 858,1136 346,1140 303,1140 243,1133 243,1109"/>
+                <Baseline points="243,1133 346,1132 386,1131 425,1131 434,1131 546,1129 581,1129 634,1128 645,1128 952,1125 976,1124 1065,1124 1091,1123 1201,1122"/>
+                <TextEquiv>
+                    <Unicode>welche im Laufe des Rechnungsjahres fertig geſtellt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l21" custom="readingOrder {index:20;}">
+                <Coords points="228,1144 547,1139 1031,1134 1162,1134 1203,1144 1203,1166 1162,1177 768,1178 387,1184 228,1179 228,1144"/>
+                <Baseline points="228,1178 307,1177 344,1176 400,1176 435,1175 494,1175 528,1174 698,1172 725,1172 895,1170 919,1170 983,1169 1009,1169 1203,1160"/>
+                <TextEquiv>
+                    <Unicode>und auf das Gebäude⸗, Apparate⸗ und Maſchinen⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l22" custom="readingOrder {index:21;}">
+                <Coords points="244,1199 268,1188 353,1186 1115,1178 1115,1178 1165,1178 1190,1188 1203,1194 1203,1205 1190,1221 595,1228 278,1230 268,1230 244,1222 244,1199"/>
+                <Baseline points="244,1216 317,1222 353,1222 472,1220 488,1220 646,1217 670,1217 810,1216 833,1216 957,1215 982,1215 1055,1214 1080,1214 1203,1202"/>
+                <TextEquiv>
+                    <Unicode>uſw. Konto endgültig verbucht worden ſind, nachge⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l23" custom="readingOrder {index:22;}">
+                <Coords points="245,1242 277,1233 410,1231 802,1226 802,1226 1045,1226 1203,1234 1203,1258 1170,1267 577,1273 363,1275 304,1275 245,1267 245,1242"/>
+                <Baseline points="245,1267 363,1266 410,1265 483,1264 508,1264 680,1262 715,1261 767,1261 802,1261 970,1259 995,1259 1045,1258 1068,1258 1131,1258 1155,1257 1203,1257"/>
+                <TextEquiv>
+                    <Unicode>wieſen. Den Abgängen der Abteilung ⅤⅠ von zu⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l24" custom="readingOrder {index:23;}">
+                <Coords points="245,1278 830,1270 1072,1269 1072,1269 1102,1269 1147,1271 1203,1278 1203,1302 1187,1311 964,1314 291,1320 245,1320 245,1278"/>
+                <Baseline points="245,1312 381,1310 418,1310 602,1308 628,1307 678,1307 711,1306 806,1306 830,1305 980,1304 1003,1304 1047,1303 1072,1303 1203,1302"/>
+                <TextEquiv>
+                    <Unicode>ſammen 745193,68 ℳ. ſtehen Zugänge im Betrage</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l25" custom="readingOrder {index:24;}">
+                <Coords points="246,1331 333,1327 535,1320 708,1316 708,1316 736,1316 779,1326 779,1349 728,1361 603,1361 246,1356 246,1331"/>
+                <Baseline points="246,1356 307,1356 333,1355 517,1354 535,1354 579,1353 603,1353 779,1349"/>
+                <TextEquiv>
+                    <Unicode>von 608697,70 ℳ. gegenüber.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l26" custom="readingOrder {index:25;}">
+                <Coords points="427,1393 630,1381 1004,1381 1026,1395 1026,1418 975,1429 712,1431 427,1425 427,1393"/>
+                <Baseline points="427,1425 473,1425 498,1424 581,1423 607,1423 814,1421 823,1421 1026,1418"/>
+                <TextEquiv>
+                    <Unicode>ⅠⅠ. Das Stiftungsvermögen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l27" custom="readingOrder {index:26;}">
+                <Coords points="338,1438 375,1437 700,1430 1059,1429 1059,1429 1076,1429 1109,1431 1205,1437 1205,1462 1164,1470 966,1475 492,1478 425,1478 338,1471 338,1438"/>
+                <Baseline points="338,1471 401,1470 425,1470 573,1468 597,1468 677,1467 700,1467 1035,1463 1059,1463 1205,1462"/>
+                <TextEquiv>
+                    <Unicode>Die Zugänge beim Stiftungsvermögen betragen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l28" custom="readingOrder {index:27;}">
+                <Coords points="250,1483 516,1470 540,1470 1171,1474 1204,1482 1204,1506 1187,1507 760,1522 540,1526 515,1523 250,1516 250,1483"/>
+                <Baseline points="250,1507 296,1516 319,1516 516,1513 528,1513 540,1513 554,1513 788,1510 819,1510 981,1509 1004,1509 1057,1510 1084,1508 1129,1507 1152,1507 1204,1506"/>
+                <TextEquiv>
+                    <Unicode>bei Abteilung Ⅰ „Grundbeſitz“ 16869,— ℳ., bei der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l29" custom="readingOrder {index:28;}">
+                <Coords points="247,1527 567,1522 756,1521 1163,1519 1163,1519 1207,1519 1207,1553 942,1564 419,1570 403,1570 247,1561 247,1527"/>
+                <Baseline points="247,1558 419,1561 442,1559 480,1563 506,1562 733,1555 756,1555 952,1554 982,1553 1146,1552 1163,1552 1207,1552"/>
+                <TextEquiv>
+                    <Unicode>Abteilung ⅠⅠ „Ausſtehende Kapitalien“ 10268,54 ℳ.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l30" custom="readingOrder {index:29;}">
+                <Coords points="228,1614 248,1581 284,1573 350,1571 515,1568 858,1564 858,1564 1125,1564 1206,1573 1206,1597 1125,1606 232,1616 228,1616 228,1614"/>
+                <Baseline points="228,1615 313,1605 350,1604 396,1603 430,1603 480,1603 515,1603 681,1600 706,1600 767,1599 800,1599 1125,1597 1155,1596 1206,1596"/>
+                <TextEquiv>
+                    <Unicode>und bei der Abteilung ⅠⅠⅠ „Kaſſenbarbeſtände am</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l31" custom="readingOrder {index:30;}">
+                <Coords points="232,1617 263,1610 810,1608 854,1608 1110,1612 1207,1605 1205,1645 1087,1643 854,1653 462,1661 232,1661 232,1617"/>
+                <Baseline points="232,1649 493,1646 521,1646 665,1644 684,1644 744,1644 770,1644 945,1642 969,1641 1201,1638"/>
+                <TextEquiv>
+                    <Unicode>Jahresſchluß“ 4391,18 ℳ, zuſammen 31528,72 ℳ.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l32" custom="readingOrder {index:31;}">
+                <Coords points="332,1661 332,1659 746,1654 866,1653 1130,1651 1130,1651 1172,1651 1208,1660 1208,1684 1192,1693 1150,1694 708,1699 687,1699 519,1698 339,1692 332,1661"/>
+                <Baseline points="398,1692 422,1692 473,1691 498,1691 666,1689 687,1688 708,1688 732,1688 767,1688 791,1687 843,1687 866,1687 997,1686 1023,1686 1086,1685 1110,1685 1208,1684"/>
+                <TextEquiv>
+                    <Unicode>Bei der Abteilung Ⅰ iſt der Zugang eine Folge</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l33" custom="readingOrder {index:32;}">
+                <Coords points="251,1706 479,1700 745,1696 1173,1694 1173,1694 1208,1694 1208,1736 1069,1740 646,1743 479,1743 251,1738 251,1706"/>
+                <Baseline points="251,1738 301,1738 332,1737 646,1733 671,1733 721,1732 745,1732 1103,1729 1121,1729 1208,1729"/>
+                <TextEquiv>
+                    <Unicode>der Neuabſchätzung der Stiftungsgrundſtücke durch</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l34" custom="readingOrder {index:33;}">
+                <Coords points="253,1750 273,1749 410,1743 1011,1740 1011,1740 1210,1740 1210,1773 1075,1783 625,1789 410,1789 253,1783 253,1750"/>
+                <Baseline points="253,1783 300,1783 325,1783 805,1776 836,1776 981,1775 1011,1775 1138,1773 1163,1773 1210,1773"/>
+                <TextEquiv>
+                    <Unicode>die Grundeigentumsdeputation, während derſelbe bei</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l35" custom="readingOrder {index:34;}">
+                <Coords points="251,1795 271,1794 660,1788 960,1786 1114,1785 1114,1785 1152,1785 1210,1787 1210,1818 896,1830 420,1836 271,1836 251,1829 251,1795"/>
+                <Baseline points="251,1829 420,1826 448,1826 496,1825 520,1825 616,1824 640,1824 936,1820 960,1820 1007,1820 1031,1819 1088,1819 1114,1819 1210,1818"/>
+                <TextEquiv>
+                    <Unicode>Abteilung ⅠⅠ neben Kursſteigerungen bei den Wert⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l36" custom="readingOrder {index:35;}">
+                <Coords points="251,1846 267,1839 654,1833 1012,1829 1012,1829 1175,1829 1210,1832 1210,1862 1175,1871 825,1877 397,1881 267,1881 251,1880 251,1846"/>
+                <Baseline points="251,1873 397,1871 431,1871 520,1870 560,1869 617,1868 654,1868 825,1866 861,1866 916,1865 952,1865 1210,1862"/>
+                <TextEquiv>
+                    <Unicode>papieren durch den Hinzutritt des Vermächtniſſes</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l37" custom="readingOrder {index:36;}">
+                <Coords points="242,1885 341,1881 710,1876 1076,1874 1076,1874 1104,1874 1210,1883 1210,1915 1147,1916 839,1919 532,1921 341,1921 242,1916 242,1885"/>
+                <Baseline points="242,1908 304,1917 341,1916 532,1913 568,1913 676,1911 700,1911 870,1909 893,1909 937,1909 985,1908 1053,1908 1076,1907 1210,1906"/>
+                <TextEquiv>
+                    <Unicode>der Geſchwiſter Moſer verurſacht iſt. Der Zugang</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l38" custom="readingOrder {index:37;}">
+                <Coords points="253,1928 288,1927 935,1919 1109,1917 1109,1917 1177,1917 1209,1927 1209,1955 1042,1963 557,1967 540,1967 253,1961 253,1928"/>
+                <Baseline points="253,1961 298,1960 326,1960 373,1959 380,1959 557,1957 580,1957 633,1956 655,1956 748,1955 774,1955 852,1954 868,1954 1083,1952 1109,1951 1209,1950"/>
+                <TextEquiv>
+                    <Unicode>bei der Abteilung ⅠⅠⅠ findet ſeine Begründung darin,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l39" custom="readingOrder {index:38;}">
+                <Coords points="254,1974 276,1970 828,1964 1039,1962 1039,1962 1093,1962 1211,1971 1211,1996 1171,2005 1135,2006 316,2013 294,2013 254,2006 254,1974"/>
+                <Baseline points="254,2006 316,2005 341,2005 391,2004 415,2004 547,2002 572,2002 623,2001 648,2001 802,1999 828,1998 1015,1997 1039,1997 1093,1996 1118,1996 1211,1995"/>
+                <TextEquiv>
+                    <Unicode>daß der Beſtand der einzelnen Stiftungen ſich gegen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l40" custom="readingOrder {index:39;}">
+                <Coords points="255,2018 337,2015 869,2008 869,2008 887,2008 972,2010 1006,2011 1006,2042 972,2050 555,2057 418,2058 407,2058 255,2050 255,2018"/>
+                <Baseline points="255,2050 312,2050 337,2049 477,2048 501,2047 555,2046 579,2046 723,2046 747,2045 796,2044 814,2044 919,2042 945,2042 1006,2042"/>
+                <TextEquiv>
+                    <Unicode>das Vorjahr um 4391,18 ℳ. erhöht hat.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l41" custom="readingOrder {index:40;}">
+                <Coords points="463,2077 667,2071 982,2071 993,2098 993,2105 982,2115 874,2117 667,2117 463,2113"/>
+                <Baseline points="463,2110 511,2110 536,2110 620,2109 646,2109 993,2105"/>
+                <TextEquiv>
+                    <Unicode>B. Das Schuldlagerbuch.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l42" custom="readingOrder {index:41;}">
+                <Coords points="343,2124 461,2121 826,2116 1089,2116 1215,2124 1215,2150 1089,2160 612,2163 461,2163 340,2158 340,2125"/>
+                <Baseline points="340,2156 410,2157 461,2156 614,2155 666,2154 719,2153 772,2153 1089,2150 1141,2149 1215,2149"/>
+                <TextEquiv>
+                    <Unicode>Der Abſchluß des Schuldlagerbuches vom</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l43" custom="readingOrder {index:42;}">
+                <Coords points="256,2174 334,2168 572,2165 980,2161 980,2161 990,2161 1010,2165 1025,2171 1025,2195 918,2204 736,2207 432,2210 366,2210 256,2201 256,2174"/>
+                <Baseline points="256,2201 307,2202 334,2201 432,2200 456,2200 484,2199 509,2199 546,2198 572,2199 649,2198 671,2198 830,2196 855,2196 1025,2195"/>
+                <TextEquiv>
+                    <Unicode>31. März d. J. zeigt folgendes Ergebnis:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>teilung ⅠⅠ am Schluſſe des Rechnungsjahres 1902
+118277,89 ℳ. nachgewieſen, gegen 45720,28 ℳ im
+Vorjahre. In dem Kaſſenbarbeſtande — Ab⸗
+teilung ⅠⅠⅠ —, welcher ſich von 304396,14 ℳ. auf
+606440,82 ℳ, mithin um 302044,68 ℳ. erhöht hat,
+ſind auch die von den Gasabnehmern beſtellten Sicher⸗
+heiten im Betrage von 241894,54 ℳ. enthalten.
+Der Abgang bei der Abteilung ⅠⅤ „Aus⸗
+ſtehende Einnahmereſte am Jahresſchluß“ ergibt ſich
+aus dem Vergleich des Jahresabſchluſſes für 1902
+mit dem für 1901. Ebenſo war am Schluſſe des
+Rechnungsjahres 1902 bei der Abteilung Ⅴ ein
+um 153547,28 ℳ. niedrigerer Beſtand an Materialien,
+Naturalien uſw. gegen das Vorjahr vorhanden. Als
+Abgang bei den Werten des Mobiliars, Inventars
+— Abteilung ⅤⅠ — werden neben der prozentualen
+Abſchreibung auf Apparate, Maſchinen uſw. von
+500020,09 ℳ. bei dem Neubaukonto der Gasanſtalt ⅠⅠ
+noch 245173,59 ℳ. Koſten für diejenigen Bauten,
+welche im Laufe des Rechnungsjahres fertig geſtellt
+und auf das Gebäude⸗, Apparate⸗ und Maſchinen⸗
+uſw. Konto endgültig verbucht worden ſind, nachge⸗
+wieſen. Den Abgängen der Abteilung ⅤⅠ von zu⸗
+ſammen 745193,68 ℳ. ſtehen Zugänge im Betrage
+von 608697,70 ℳ. gegenüber.
+ⅠⅠ. Das Stiftungsvermögen.
+Die Zugänge beim Stiftungsvermögen betragen
+bei Abteilung Ⅰ „Grundbeſitz“ 16869,— ℳ., bei der
+Abteilung ⅠⅠ „Ausſtehende Kapitalien“ 10268,54 ℳ.
+und bei der Abteilung ⅠⅠⅠ „Kaſſenbarbeſtände am
+Jahresſchluß“ 4391,18 ℳ, zuſammen 31528,72 ℳ.
+Bei der Abteilung Ⅰ iſt der Zugang eine Folge
+der Neuabſchätzung der Stiftungsgrundſtücke durch
+die Grundeigentumsdeputation, während derſelbe bei
+Abteilung ⅠⅠ neben Kursſteigerungen bei den Wert⸗
+papieren durch den Hinzutritt des Vermächtniſſes
+der Geſchwiſter Moſer verurſacht iſt. Der Zugang
+bei der Abteilung ⅠⅠⅠ findet ſeine Begründung darin,
+daß der Beſtand der einzelnen Stiftungen ſich gegen
+das Vorjahr um 4391,18 ℳ. erhöht hat.
+B. Das Schuldlagerbuch.
+Der Abſchluß des Schuldlagerbuches vom
+31. März d. J. zeigt folgendes Ergebnis:</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TableRegion id="Table_1644336779279_1222" custom="readingOrder {index:2;}">
+            <Coords points="219,2219 1228,2218 1240,3373 219,3373"/>
+            <TableCell row="0" col="0" rowSpan="1" colSpan="1" id="TableCell_1644336878797_1367">
+                <Coords points="219,2219 219,2254 913,2254 913,2220"/>
+                <TextLine id="TableCell_1644336878797_1367l0" custom="readingOrder {index:0;}">
+                    <Coords points="347,2221 434,2219 434,2219 606,2219 664,2220 777,2226 777,2251 735,2254 347,2254 347,2221"/>
+                    <Baseline points="347,2254 408,2254 433,2253 593,2253 610,2252 777,2250"/>
+                    <TextEquiv>
+                        <Unicode>Die Schulden betragen:</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="0" col="1" rowSpan="1" colSpan="1" id="TableCell_1644336878854_1371">
+                <Coords points="913,2220 913,2254 1224,2254 1224,2221"/>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="1" col="0" rowSpan="1" colSpan="1" id="TableCell_1644336878797_1365">
+                <Coords points="219,2254 219,2306 913,2306 913,2254"/>
+                <TextLine id="line_1645031887429_7" custom="readingOrder {index:0;}">
+                    <Coords points="293,2260 363,2255 691,2254 795,2254 894,2270 894,2304 875,2306 293,2306"/>
+                    <Baseline points="293,2300 338,2300 350,2300 398,2299 423,2299 470,2299 479,2299 683,2296 691,2296 894,2295"/>
+                    <TextEquiv>
+                        <Unicode>a) bei der allgemeinen Verwaltung</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="1" col="1" rowSpan="1" colSpan="1" id="TableCell_1644336878853_1369">
+                <Coords points="913,2254 913,2306 1224,2306 1224,2254"/>
+                <TextLine id="TableCell_1644336878853_1369l0" custom="readingOrder {index:0;}">
+                    <Coords points="914,2265 985,2264 1218,2257 1217,2302 1109,2298 1103,2298 937,2294 914,2293 914,2265"/>
+                    <Baseline points="914,2286 955,2293 967,2293 1021,2293 1038,2293 1213,2291"/>
+                    <TextEquiv>
+                        <Unicode>30 620 225,23 ℳ.</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="2" col="0" rowSpan="1" colSpan="1" id="TableCell_1644336877164_1357">
+                <Coords points="219,2306 219,2350 913,2350 913,2306"/>
+                <TextLine id="TableCell_1644336877164_1357l0" custom="readingOrder {index:0;}">
+                    <Coords points="301,2313 324,2306 324,2306 337,2306 822,2308 836,2309 901,2315 901,2349 801,2350 320,2350 301,2345 301,2313"/>
+                    <Baseline points="301,2345 337,2345 357,2345 409,2345 416,2345 901,2340"/>
+                    <TextEquiv>
+                        <Unicode>b) bei der Kanaliſationsverwaltung</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="2" col="1" rowSpan="1" colSpan="1" id="TableCell_1644336877232_1361">
+                <Coords points="913,2306 913,2350 1224,2350 1224,2306"/>
+                <TextLine id="TableCell_1644336877232_1361l0" custom="readingOrder {index:0;}">
+                    <Coords points="938,2310 1010,2308 1155,2308 1206,2314 1198,2345 1184,2345 938,2339 938,2310"/>
+                    <Baseline points="938,2339 954,2339 964,2339 1155,2337 1184,2337 1198,2337"/>
+                    <TextEquiv>
+                        <Unicode>7 299 832,26 „</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="3" col="0" rowSpan="1" colSpan="1" id="TableCell_1644336874506_1349">
+                <Coords points="219,2350 219,2395 913,2395 913,2350"/>
+                <TextLine id="TableCell_1644336874506_1349l0" custom="readingOrder {index:0;}">
+                    <Coords points="307,2367 325,2350 325,2350 339,2350 815,2351 815,2385 721,2395 322,2395 307,2390 307,2367"/>
+                    <Baseline points="307,2384 339,2390 365,2390 413,2390 437,2389 505,2389 529,2388 815,2384"/>
+                    <TextEquiv>
+                        <Unicode>c) bei dem Elektrizitätswerk</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="3" col="1" rowSpan="1" colSpan="1" id="TableCell_1644336874565_1353">
+                <Coords points="913,2350 913,2395 1224,2395 1224,2350"/>
+                <TextLine id="TableCell_1644336874565_1353l0" custom="readingOrder {index:0;}">
+                    <Coords points="938,2355 1037,2353 1134,2353 1156,2354 1205,2356 1199,2390 958,2392 938,2392 938,2355"/>
+                    <Baseline points="938,2384 958,2384 965,2384 1030,2383 1037,2383 1156,2382 1184,2382 1199,2381"/>
+                    <TextEquiv>
+                        <Unicode>4 064 468,89 „</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="4" col="0" rowSpan="1" colSpan="1" id="TableCell_1644336872692_1341">
+                <Coords points="219,2395 219,2440 913,2440 913,2395"/>
+                <TextLine id="TableCell_1644336872692_1341l0" custom="readingOrder {index:0;}">
+                    <Coords points="305,2395 658,2395 820,2397 902,2400 902,2438 637,2440 305,2440 305,2395"/>
+                    <Baseline points="340,2434 366,2434 412,2434 430,2434 481,2434 489,2434 902,2429"/>
+                    <TextEquiv>
+                        <Unicode>d) bei der Gasanſtaltsverwaltung</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="4" col="1" rowSpan="1" colSpan="1" id="TableCell_1644336872756_1345">
+                <Coords points="913,2395 913,2440 1224,2440 1224,2395"/>
+                <TextLine id="TableCell_1644336872756_1345l0" custom="readingOrder {index:0;}">
+                    <Coords points="918,2400 972,2399 1138,2398 1156,2398 1202,2401 1200,2433 1185,2433 1104,2432 918,2428 918,2400"/>
+                    <Baseline points="918,2428 958,2428 972,2428 1028,2428 1043,2427 1156,2427 1185,2427 1200,2427"/>
+                    <TextEquiv>
+                        <Unicode>13 649 076,62 „</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="5" col="0" rowSpan="1" colSpan="1" id="TableCell_1644336869872_1333">
+                <Coords points="219,2440 219,2489 913,2489 913,2440"/>
+                <TextLine id="TableCell_1644336869872_1333l0" custom="readingOrder {index:0;}">
+                    <Coords points="308,2440 340,2440 590,2443 708,2452 708,2475 668,2485 340,2488 308,2488 308,2440"/>
+                    <Baseline points="340,2478 365,2478 413,2478 433,2478 494,2477 519,2477 708,2475"/>
+                    <TextEquiv>
+                        <Unicode>e) bei den Stiftungen</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="5" col="1" rowSpan="1" colSpan="1" id="TableCell_1644336869984_1337">
+                <Coords points="913,2440 913,2489 1224,2489 1224,2440"/>
+                <TextLine id="TableCell_1644336869984_1337l0" custom="readingOrder {index:0;}">
+                    <Coords points="1039,2444 1139,2443 1157,2443 1210,2443 1201,2477 1105,2477 1039,2472 1039,2444"/>
+                    <Baseline points="1039,2472 1157,2471 1186,2471 1201,2471"/>
+                    <TextEquiv>
+                        <Unicode>132,23 „</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="6" col="0" rowSpan="1" colSpan="2" id="TableCell_1644336911802_1385">
+                <Coords points="219,2489 219,2542 913,2542 1225,2542 1224,2489 913,2489"/>
+                <TextLine id="TableCell_1644336911802_1385l0" custom="readingOrder {index:0;}">
+                    <Coords points="712,2494 1039,2489 1039,2489 1080,2489 1217,2496 1217,2525 1114,2529 762,2542 741,2542 712,2537 712,2494"/>
+                    <Baseline points="712,2529 900,2527 917,2527 959,2527 967,2527 1030,2526 1039,2526 1158,2525 1168,2525 1217,2525"/>
+                    <TextEquiv>
+                        <Unicode>Zuſammen 55 633 735,23 ℳ.</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 3 4</CornerPts>
+            </TableCell>
+            <TableCell row="7" col="0" rowSpan="1" colSpan="2" id="TableCell_1644336908815_1383">
+                <Coords points="219,2542 219,2638 913,2638 1226,2638 1225,2542 913,2542"/>
+                <TextLine id="TableCell_1644336908815_1383l0" custom="readingOrder {index:0;}">
+                    <Coords points="348,2552 509,2550 772,2548 772,2548 788,2548 904,2552 904,2584 672,2595 654,2595 539,2594 348,2592 348,2552"/>
+                    <Baseline points="356,2587 465,2585 566,2584 588,2583 672,2583 702,2583 828,2583 858,2582 904,2581"/>
+                    <TextEquiv>
+                        <Unicode>Ende März 1902 wurden an</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <TextLine id="TableCell_1644336908815_1383l1" custom="readingOrder {index:1;}">
+                    <Coords points="262,2598 458,2588 458,2588 674,2588 674,2629 622,2638 291,2638 262,2633 262,2598"/>
+                    <Baseline points="273,2629 443,2631 674,2628"/>
+                    <TextEquiv>
+                        <Unicode>Schulden nachgewieſen:</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 3 4</CornerPts>
+            </TableCell>
+            <TableCell row="8" col="0" rowSpan="1" colSpan="2" id="TableCell_1644336903559_1381">
+                <Coords points="219,2638 219,2688 913,2688 1227,2688 1226,2638 913,2638"/>
+                <TextLine id="TableCell_1644336903559_1381l0" custom="readingOrder {index:0;}">
+                    <Coords points="309,2653 389,2644 411,2642 734,2641 728,2681 620,2679 411,2688 337,2688 309,2687 309,2653"/>
+                    <Baseline points="318,2676 364,2679 400,2677 412,2677 537,2673 547,2673 720,2674"/>
+                    <TextEquiv>
+                        <Unicode>zu a) 25 259 751,78 ℳ.</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 3 4</CornerPts>
+            </TableCell>
+            <TableCell row="9" col="0" rowSpan="1" colSpan="2" id="TableCell_1644336901270_1379">
+                <Coords points="219,2688 219,2729 913,2729 1228,2729 1227,2688 913,2688"/>
+                <TextLine id="line_1645031942044_9" custom="readingOrder {index:0;}">
+                    <Coords points="295,2695 358,2688 718,2690 718,2721 616,2725 583,2726 394,2729 295,2729"/>
+                    <Baseline points="295,2720 342,2720 358,2720 394,2720 442,2719 708,2718"/>
+                    <TextEquiv>
+                        <Unicode>zu b) 6 717 151,72 „</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 3 4</CornerPts>
+            </TableCell>
+            <TableCell row="10" col="0" rowSpan="1" colSpan="2" id="TableCell_1644336897626_1377">
+                <Coords points="219,2729 219,2773 913,2773 1229,2773 1228,2729 913,2729"/>
+                <TextLine id="TableCell_1644336897626_1377l0" custom="readingOrder {index:0;}">
+                    <Coords points="304,2729 320,2729 726,2731 726,2770 506,2773 304,2773 304,2729"/>
+                    <Baseline points="304,2766 342,2766 365,2766 396,2766 424,2766 535,2763 544,2762 716,2764"/>
+                    <TextEquiv>
+                        <Unicode>zu c) 3 769 712,48 „</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 3 4</CornerPts>
+            </TableCell>
+            <TableCell row="11" col="0" rowSpan="1" colSpan="2" id="TableCell_1644336891662_1375">
+                <Coords points="219,2773 219,2816 913,2816 1230,2816 1229,2773 913,2773"/>
+                <TextLine id="TableCell_1644336891662_1375l0" custom="readingOrder {index:0;}">
+                    <Coords points="299,2773 320,2773 663,2777 708,2798 708,2812 458,2816 299,2816 299,2773"/>
+                    <Baseline points="299,2812 343,2810 360,2809 396,2808 421,2808 462,2807 471,2807 533,2807 543,2806 663,2805 692,2805 708,2804"/>
+                    <TextEquiv>
+                        <Unicode>zu d) 13 751 086,88 „</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 3 4</CornerPts>
+            </TableCell>
+            <TableCell row="12" col="0" rowSpan="1" colSpan="2" id="TableCell_1644336888764_1373">
+                <Coords points="219,2816 219,2865 913,2865 1231,2865 1230,2816 913,2816"/>
+                <TextLine id="TableCell_1644336888764_1373l0" custom="readingOrder {index:0;}">
+                    <Coords points="307,2816 872,2817 1216,2817 1219,2850 1117,2850 448,2854 324,2864 307,2864 307,2816"/>
+                    <Baseline points="307,2855 345,2854 368,2854 482,2854 538,2853 582,2852 689,2851 815,2849 839,2849 902,2848 921,2848 1032,2847 1045,2846 1209,2846"/>
+                    <TextEquiv>
+                        <Unicode>zu e) — in Sa. 49 497 702,86 „</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 3 4</CornerPts>
+            </TableCell>
+            <TableCell row="13" col="0" rowSpan="1" colSpan="1" id="TableCell_1644336836450_1269">
+                <Coords points="219,2865 219,3047 913,3047 913,2865"/>
+                <TextLine id="TableCell_1644336836450_1269l0" custom="readingOrder {index:0;}">
+                    <Coords points="249,2936 264,2919 819,2913 819,2913 884,2913 904,2918 904,2949 884,2955 839,2958 521,2961 366,2962 264,2962 249,2939 249,2936"/>
+                    <Baseline points="249,2938 388,2953 412,2953 446,2953 477,2953 530,2952 552,2952 647,2951 679,2951 734,2950 751,2950 904,2949"/>
+                    <TextEquiv>
+                        <Unicode>Mithin iſt für 1902 ein Zuwachs</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <TextLine id="TableCell_1644336836450_1269l1" custom="readingOrder {index:1;}">
+                    <Coords points="308,2974 376,2963 849,2959 849,2959 887,2959 904,2969 904,2994 887,3002 847,3003 629,3006 376,3006 308,3002 308,2974"/>
+                    <Baseline points="308,3001 352,2998 376,2999 535,2997 561,2997 744,2995 768,2994 800,2994 817,2994 904,2994"/>
+                    <TextEquiv>
+                        <Unicode>an Schulden eingetreten in Höhe</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <TextLine id="line_1645031988956_12" custom="readingOrder {index:2;}">
+                    <Coords points="295,3017 349,3017 378,3017 378,3046 295,3045"/>
+                    <Baseline points="295,3044 373,3044 378,3043"/>
+                    <TextEquiv>
+                        <Unicode>von</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="13" col="1" rowSpan="1" colSpan="1" id="TableCell_1644336836478_1273">
+                <Coords points="913,2865 913,3047 1233,3047 1231,2865"/>
+                <TextLine id="TableCell_1644336836478_1273l0" custom="readingOrder {index:0;}">
+                    <Coords points="947,3009 1176,3002 1176,3002 1224,3002 1224,3036 1121,3042 1114,3042 947,3038 947,3009"/>
+                    <Baseline points="947,3038 965,3038 976,3038 1039,3037 1047,3037 1166,3036 1176,3036 1224,3035"/>
+                    <TextEquiv>
+                        <Unicode>6 136 032,37 ℳ.</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="14" col="0" rowSpan="1" colSpan="1" id="TableCell_1644336833344_1261">
+                <Coords points="219,3047 219,3138 913,3138 913,3047"/>
+                <TextLine id="TableCell_1644336833344_1261l0" custom="readingOrder {index:0;}">
+                    <Coords points="250,3062 292,3053 581,3047 713,3047 864,3049 906,3058 906,3083 692,3093 618,3096 250,3089 250,3062"/>
+                    <Baseline points="250,3088 398,3086 423,3086 478,3086 504,3086 555,3085 591,3085 638,3086 829,3084 906,3083"/>
+                    <TextEquiv>
+                        <Unicode>nämlich bei der allgemeinen Ver⸗</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <TextLine id="line_1645032009438_15" custom="readingOrder {index:1;}">
+                    <Coords points="462,3104 523,3097 546,3097 692,3104 692,3135 611,3138 594,3138 462,3132"/>
+                    <Baseline points="462,3130 611,3130 635,3130 692,3130"/>
+                    <TextEquiv>
+                        <Unicode>waltung um</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="14" col="1" rowSpan="1" colSpan="1" id="TableCell_1644336833404_1265">
+                <Coords points="913,3047 913,3138 1235,3138 1233,3047"/>
+                <TextLine id="TableCell_1644336833404_1265l0" custom="readingOrder {index:0;}">
+                    <Coords points="949,3098 1046,3096 1124,3095 1124,3095 1145,3095 1166,3096 1209,3116 1209,3131 1192,3131 1112,3130 949,3126 949,3098"/>
+                    <Baseline points="949,3126 967,3126 975,3126 1039,3125 1046,3125 1166,3124 1192,3124 1209,3124"/>
+                    <TextEquiv>
+                        <Unicode>5 360 473,45 „</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="15" col="0" rowSpan="1" colSpan="1" id="TableCell_1644336829689_1253">
+                <Coords points="219,3138 219,3227 913,3227 913,3138"/>
+                <TextLine id="TableCell_1644336829689_1253l0" custom="readingOrder {index:0;}">
+                    <Coords points="428,3141 602,3139 869,3139 894,3147 906,3154 906,3165 869,3185 602,3185 428,3176 428,3141"/>
+                    <Baseline points="428,3176 476,3175 512,3175 564,3175 602,3175 886,3170"/>
+                    <TextEquiv>
+                        <Unicode>bei der Kanaliſationsver⸗</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <TextLine id="TableCell_1644336829689_1253l1" custom="readingOrder {index:1;}">
+                    <Coords points="473,3193 524,3186 524,3186 536,3186 693,3194 693,3220 623,3227 579,3227 473,3220 473,3193"/>
+                    <Baseline points="473,3220 628,3220 636,3220 693,3218"/>
+                    <TextEquiv>
+                        <Unicode>waltung um</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="15" col="1" rowSpan="1" colSpan="1" id="TableCell_1644336829715_1257">
+                <Coords points="913,3138 913,3227 1237,3227 1235,3138"/>
+                <TextLine id="TableCell_1644336829715_1257l0" custom="readingOrder {index:0;}">
+                    <Coords points="976,3187 1019,3186 1071,3185 1149,3184 1149,3184 1169,3184 1211,3207 1211,3222 1194,3222 976,3215 976,3187"/>
+                    <Baseline points="976,3215 1040,3215 1048,3215 1169,3214 1194,3214 1211,3214"/>
+                    <TextEquiv>
+                        <Unicode>582 680,54 „</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="16" col="0" rowSpan="1" colSpan="1" id="TableCell_1644336826524_1245">
+                <Coords points="219,3227 219,3270 913,3270 913,3227"/>
+                <TextLine id="TableCell_1644336826524_1245l0" custom="readingOrder {index:0;}">
+                    <Coords points="429,3233 466,3230 585,3227 585,3227 845,3227 912,3237 912,3263 714,3270 559,3270 429,3265 429,3233"/>
+                    <Baseline points="429,3265 477,3264 498,3265 551,3265 568,3265 845,3263 855,3263 912,3263"/>
+                    <TextEquiv>
+                        <Unicode>bei dem Elekrizitätswerk um</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="16" col="1" rowSpan="1" colSpan="1" id="TableCell_1644336826598_1249">
+                <Coords points="913,3227 913,3270 1238,3270 1237,3227"/>
+                <TextLine id="TableCell_1644336826598_1249l0" custom="readingOrder {index:0;}">
+                    <Coords points="970,3231 1048,3231 1094,3230 1168,3230 1211,3251 1211,3267 1195,3267 1116,3266 970,3265 957,3253"/>
+                    <Baseline points="979,3261 1048,3260 1168,3259 1195,3259 1211,3259"/>
+                    <TextEquiv>
+                        <Unicode>294 756,41 „</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="17" col="0" rowSpan="1" colSpan="1" id="TableCell_1644336823331_1237">
+                <Coords points="219,3270 219,3317 913,3317 913,3270"/>
+                <TextLine id="line_1645032042807_20" custom="readingOrder {index:0;}">
+                    <Coords points="431,3275 583,3270 771,3270 850,3282 851,3282 851,3311 783,3317 561,3317 418,3310 418,3277"/>
+                    <Baseline points="418,3306 484,3308 502,3308 559,3308 583,3308 771,3309 794,3309 851,3308"/>
+                    <TextEquiv>
+                        <Unicode>bei den Stiftungen um</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="17" col="1" rowSpan="1" colSpan="1" id="TableCell_1644336823349_1241">
+                <Coords points="913,3270 913,3317 1239,3317 1238,3270"/>
+                <TextLine id="TableCell_1644336823349_1241l0" custom="readingOrder {index:0;}">
+                    <Coords points="1050,3275 1177,3275 1213,3297 1213,3311 1198,3311 1050,3310 1050,3275"/>
+                    <Baseline points="1055,3305 1198,3311 1213,3311"/>
+                    <TextEquiv>
+                        <Unicode>132,23 „</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="18" col="0" rowSpan="1" colSpan="2" id="TableCell_1644336918922_1387">
+                <Coords points="219,3317 219,3373 913,3373 1240,3373 1239,3317 913,3317"/>
+                <TextLine id="TableCell_1644336918922_1387l0" custom="readingOrder {index:0;}">
+                    <Coords points="753,3349 789,3328 847,3327 1117,3325 1117,3325 1229,3325 1229,3359 1124,3362 1117,3362 789,3361 753,3352 753,3349"/>
+                    <Baseline points="753,3351 822,3361 847,3360 910,3360 945,3359 965,3359 981,3359 1042,3358 1057,3358 1169,3358 1179,3358 1229,3359"/>
+                    <TextEquiv>
+                        <Unicode>in Sa. 6 238 042,63 ℳ.</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 3 4</CornerPts>
+            </TableCell>
+        </TableRegion>
+        <TableRegion id="Table_1644336750588_1208" custom="readingOrder {index:3;}">
+            <Coords points="1214,227 2235,227 2235,515 1214,515"/>
+            <TableCell row="0" col="0" rowSpan="1" colSpan="1" id="TableCell_1644336759803_1217">
+                <Coords points="1214,227 1214,372 1892,372 1892,227"/>
+                <TextLine id="TableCell_1644336759803_1217l0" custom="readingOrder {index:0;}">
+                    <Coords points="1222,240 1242,239 1498,233 1763,229 1763,229 1818,229 1856,231 1856,265 1818,272 1661,275 1327,280 1242,280 1222,274 1222,240"/>
+                    <Baseline points="1222,265 1327,273 1351,272 1398,271 1414,270 1661,266 1675,266 1727,265 1744,265 1856,264"/>
+                    <TextEquiv>
+                        <Unicode>Durch die Verminderung der Schul⸗</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <TextLine id="line_1645032060060_21" custom="readingOrder {index:1;}">
+                    <Coords points="1259,286 1260,286 1522,275 1779,275 1857,284 1857,317 1754,322 1522,322 1260,319 1259,318"/>
+                    <Baseline points="1259,314 1325,318 1337,318 1384,316 1396,316 1445,315 1457,314 1857,308"/>
+                    <TextEquiv>
+                        <Unicode>den bei der Gasanſtaltsverwaltung</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <TextLine id="line_1645032077236_24" custom="readingOrder {index:2;}">
+                    <Coords points="1257,341 1260,338 1325,338 1325,365 1257,366"/>
+                    <Baseline points="1263,360 1325,360"/>
+                    <TextEquiv>
+                        <Unicode>um</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="0" col="1" rowSpan="1" colSpan="1" id="TableCell_1644336759832_1221">
+                <Coords points="1892,227 1892,372 2235,372 2235,227"/>
+                <TextLine id="TableCell_1644336759832_1221l0" custom="readingOrder {index:0;}">
+                    <Coords points="1903,353 1927,322 2075,320 2185,309 2179,354 2071,353 1906,356 1903,356 1903,353"/>
+                    <Baseline points="1903,355 1906,351 2003,351 2170,349"/>
+                    <TextEquiv>
+                        <Unicode>102 010,26 ℳ.</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="1" col="0" rowSpan="1" colSpan="1" id="TableCell_1644336759803_1215">
+                <Coords points="1214,372 1214,515 1892,515 1892,372"/>
+                <TextLine id="TableCell_1644336759803_1215l0" custom="readingOrder {index:0;}">
+                    <Coords points="1225,389 1294,382 1427,378 1584,374 1584,374 1839,374 1859,376 1859,407 1839,415 1797,418 1347,425 1329,425 1225,416 1225,389"/>
+                    <Baseline points="1225,409 1391,414 1414,414 1466,413 1491,413 1543,412 1559,412 1859,406"/>
+                    <TextEquiv>
+                        <Unicode>verringert ſich der Schuldenzuwachs</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <TextLine id="line_1645032096527_25" custom="readingOrder {index:1;}">
+                    <Coords points="1265,432 1289,427 1370,424 1454,422 1673,419 1804,419 1860,424 1860,452 1769,462 1733,463 1620,465 1325,467 1289,467 1270,461 1265,459"/>
+                    <Baseline points="1275,460 1325,460 1370,459 1416,457 1454,456 1628,455 1673,454 1860,452"/>
+                    <TextEquiv>
+                        <Unicode>auf die vorſtehend angegebene</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <TextLine id="line_1645032113036_28" custom="readingOrder {index:2;}">
+                    <Coords points="1259,469 1327,471 1357,471 1498,476 1498,502 1325,505 1265,508 1255,490"/>
+                    <Baseline points="1274,503 1429,502 1498,500"/>
+                    <TextEquiv>
+                        <Unicode>Summe von</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="1" col="1" rowSpan="1" colSpan="1" id="TableCell_1644336759832_1219">
+                <Coords points="1892,372 1892,515 2235,515 2235,372"/>
+                <TextLine id="TableCell_1644336759832_1219l0" custom="readingOrder {index:0;}">
+                    <Coords points="1903,466 2148,453 2148,453 2181,453 2181,502 2148,502 1903,494 1903,466"/>
+                    <Baseline points="1903,494 1993,493 2000,493 2148,493 2179,493 2181,493"/>
+                    <TextEquiv>
+                        <Unicode>6 136 032,37 ℳ.</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+        </TableRegion>
+        <TextRegion type="paragraph" id="r3" custom="readingOrder {index:4;} structure {type:paragraph;}">
+            <Coords points="1217,540 2230,540 2227,3372 1250,3373"/>
+            <TextLine id="r3l1" custom="readingOrder {index:0;}">
+                <Coords points="1304,560 1380,557 1553,554 1989,548 2071,547 2071,547 2105,547 2181,555 2181,580 2134,589 1874,593 1474,599 1452,599 1304,592 1304,560"/>
+                <Baseline points="1304,592 1356,592 1380,592 1611,589 1627,588 1884,584 1924,584 1973,583 1989,583 2059,582 2071,582 2181,580"/>
+                <TextEquiv>
+                    <Unicode>A. Allgemeine Verwaltung. In dem Lager⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l2" custom="readingOrder {index:1;}">
+                <Coords points="1226,603 1269,602 1938,588 1980,588 2067,592 2183,601 2183,626 1977,636 1935,636 1269,645 1226,638 1226,603"/>
+                <Baseline points="1226,638 1314,637 1348,636 1467,635 1502,635 1649,633 1685,633 1726,632 1750,632 1938,628 1973,628 1980,628 1990,628 2086,627 2121,626 2183,625"/>
+                <TextEquiv>
+                    <Unicode>buche werden Zugänge an Schulden in Höhe von</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l3" custom="readingOrder {index:2;}">
+                <Coords points="1228,653 1578,644 1987,637 2106,636 2106,636 2159,636 2184,645 2184,680 2015,683 1635,687 1578,687 1228,681 1228,653"/>
+                <Baseline points="1228,681 1244,681 1254,681 1317,680 1328,680 1445,680 1470,680 1520,679 1543,679 1770,676 1796,675 1892,674 1916,674 2015,672 2034,672 2184,669"/>
+                <TextEquiv>
+                    <Unicode>6 825 740,35 ℳ. nachgewieſen, denen jedoch Abgänge</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l4" custom="readingOrder {index:3;}">
+                <Coords points="1227,694 1316,692 1894,683 2086,681 2086,681 2184,681 2184,723 1962,729 1314,735 1284,735 1239,728 1227,726 1227,694"/>
+                <Baseline points="1227,726 1260,727 1284,727 1371,726 1395,725 1457,724 1483,724 1570,723 1589,723 1698,721 1716,722 1765,721 1784,721 2062,716 2086,716 2184,714"/>
+                <TextEquiv>
+                    <Unicode>in Höhe von 1 465 266,90 ℳ. gegenüberſtehen, ſodaß</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l5" custom="readingOrder {index:4;}">
+                <Coords points="1227,743 1266,737 1410,735 2134,729 2134,729 2184,729 2184,760 1781,774 1526,778 1426,778 1266,777 1227,771 1227,743"/>
+                <Baseline points="1227,771 1299,771 1325,770 1526,768 1562,768 1614,767 1649,767 1781,764 1817,763 1832,763 1844,763 2035,761 2134,759 2184,759"/>
+                <TextEquiv>
+                    <Unicode>nach Abrechnung der letzteren 5 360 473,45 ℳ als</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l6" custom="readingOrder {index:5;}">
+                <Coords points="1227,782 1395,779 2049,770 2049,770 2078,770 2186,780 2186,812 2120,814 1297,825 1280,825 1227,824 1227,782"/>
+                <Baseline points="1227,816 1361,814 1385,814 1566,812 1613,812 1673,810 1696,810 1852,807 1888,807 1951,806 1986,806 2021,806 2049,805 2186,802"/>
+                <TextEquiv>
+                    <Unicode>Zugang verbleiben. Im einzelnen ſind in Zugang</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l7" custom="readingOrder {index:6;}">
+                <Coords points="1229,836 1264,825 2022,809 2022,809 2166,809 2186,813 2186,848 2166,863 1246,869 1229,869 1229,836"/>
+                <Baseline points="1229,860 1403,859 1427,858 1562,856 1579,858 1628,856 1652,856 1811,852 1835,852 1891,851 1915,851 1982,850 1999,850 2186,848"/>
+                <TextEquiv>
+                    <Unicode>gekommen 500 000 ℳ. Hypothek auf dem Grundſtück</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l8" custom="readingOrder {index:7;}">
+                <Coords points="1228,870 2001,859 2001,859 2183,859 2183,902 2017,905 1494,911 1370,912 1249,912 1228,905 1228,870"/>
+                <Baseline points="1228,905 1370,904 1393,903 1533,902 1545,902 1631,900 1654,899 1718,898 1743,898 1878,895 1893,897 1941,896 1955,896 2112,893 2129,893 2183,892"/>
+                <TextEquiv>
+                    <Unicode>Kaiſerin Auguſta Allee und 400 000 ℳ. Hypothek auf</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l9" custom="readingOrder {index:8;}">
+                <Coords points="1229,917 1520,901 2027,901 2175,905 2184,930 2184,942 2175,945 2010,946 1518,955 1333,956 1229,950 1229,917"/>
+                <Baseline points="1229,941 1297,950 1311,949 1520,947 1560,946 1572,946 1694,943 1707,943 1828,942 1845,942 1958,941 1977,940 2040,940 2058,939 2184,938"/>
+                <TextEquiv>
+                    <Unicode>dem Grundſtück am Königs Damm (Dahm'ſche Erben),</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l10" custom="readingOrder {index:9;}">
+                <Coords points="1230,969 1246,960 1349,957 2101,948 2101,948 2147,948 2187,951 2187,984 1898,994 1559,1001 1349,1001 1230,995 1230,969"/>
+                <Baseline points="1230,995 1326,994 1349,994 1559,991 1585,990 1702,989 1725,989 1811,989 1838,988 1898,987 1924,986 1975,986 1999,985 2079,984 2101,984 2187,983"/>
+                <TextEquiv>
+                    <Unicode>wobei berückſichtigt werden muß, daß der volle Wert</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l11" custom="readingOrder {index:10;}">
+                <Coords points="1231,1007 1616,996 2108,994 2108,994 2144,994 2185,1003 2185,1027 2154,1028 1769,1039 1479,1045 1424,1045 1231,1039 1231,1007"/>
+                <Baseline points="1231,1039 1282,1037 1306,1039 1507,1036 1530,1036 1574,1035 1598,1034 2017,1029 2041,1029 2091,1028 2108,1028 2185,1027"/>
+                <TextEquiv>
+                    <Unicode>der Grundſtücke im Grundſtücksinventarium als Ver⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l12" custom="readingOrder {index:11;}">
+                <Coords points="1231,1059 1252,1049 1536,1044 2145,1039 2186,1039 2186,1075 1616,1090 1300,1091 1252,1091 1231,1083 1231,1059"/>
+                <Baseline points="1231,1083 1340,1082 1349,1082 1382,1081 1391,1081 1521,1080 1536,1079 1645,1077 1659,1077 1707,1076 1722,1076 1887,1074 1901,1074 1917,1074 1927,1074 1988,1073 1998,1073 2186,1070"/>
+                <TextEquiv>
+                    <Unicode>mögen in Zugang geſtellt iſt; außerdem 1 251 248,56 ℳ.,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l13" custom="readingOrder {index:12;}">
+                <Coords points="1232,1099 1474,1091 2137,1081 2137,1081 2188,1081 2188,1116 2147,1120 2060,1127 1404,1130 1397,1130 1232,1127 1232,1099"/>
+                <Baseline points="1232,1127 1250,1127 1261,1127 1320,1126 1334,1126 1447,1125 1474,1124 1523,1124 1548,1123 1611,1123 1642,1121 1777,1120 1803,1120 1852,1119 1891,1119 2100,1116 2137,1116 2188,1115"/>
+                <TextEquiv>
+                    <Unicode>2 924 653,97 ℳ. und 200 000 ℳ. Abhebungen für</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l14" custom="readingOrder {index:13;}">
+                <Coords points="1228,1139 1659,1126 2153,1126 2189,1136 2189,1159 2035,1170 1657,1176 1272,1180 1228,1173 1228,1139"/>
+                <Baseline points="1228,1173 1397,1171 1434,1170 1494,1169 1525,1169 1601,1167 1621,1167 1684,1166 1694,1166 1784,1165 1797,1165 1827,1164 1861,1164 1926,1163 1961,1163 2036,1162 2055,1161 2088,1161 2123,1160 2189,1153"/>
+                <TextEquiv>
+                    <Unicode>Rechnung der 1895 er, 1899 er und 1902 er An⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l15" custom="readingOrder {index:14;}">
+                <Coords points="1234,1185 1262,1183 1645,1176 1933,1172 1933,1172 2187,1172 2187,1205 2065,1215 1961,1217 1299,1223 1262,1223 1234,1217 1234,1185"/>
+                <Baseline points="1234,1217 1316,1216 1352,1215 1406,1214 1421,1214 1534,1213 1559,1213 1609,1213 1645,1212 1832,1210 1869,1209 2090,1206 2124,1206 2187,1205"/>
+                <TextEquiv>
+                    <Unicode>leihe, 440 489,60 ℳ. verbliebene Ausgabereſte und</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l16" custom="readingOrder {index:15;}">
+                <Coords points="1235,1233 1556,1224 1816,1219 2009,1217 2009,1217 2189,1217 2189,1250 2159,1252 2007,1261 1640,1268 1590,1268 1399,1265 1235,1261 1235,1233"/>
+                <Baseline points="1235,1261 1251,1261 1263,1261 1323,1260 1333,1260 1450,1259 1469,1259 1516,1259 1537,1258 1775,1255 1791,1255 1970,1252 1995,1252 2047,1252 2064,1252 2189,1250"/>
+                <TextEquiv>
+                    <Unicode>1 109 348,22 ℳ hinzugetretene Vorſchüſſe für Grund⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l17" custom="readingOrder {index:16;}">
+                <Coords points="1233,1283 1283,1269 1300,1269 1354,1273 1354,1305 1298,1309 1281,1309 1233,1306 1233,1283"/>
+                <Baseline points="1233,1300 1354,1305"/>
+                <TextEquiv>
+                    <Unicode>erwerb.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l18" custom="readingOrder {index:17;}">
+                <Coords points="1320,1316 1409,1314 2036,1307 2172,1306 2172,1306 2190,1306 2190,1340 1769,1354 1478,1357 1429,1357 1320,1354 1320,1316"/>
+                <Baseline points="1320,1349 1370,1349 1409,1348 1540,1347 1580,1347 1644,1346 1683,1346 1856,1343 1897,1343 2004,1341 2036,1342 2086,1342 2126,1341 2190,1339"/>
+                <TextEquiv>
+                    <Unicode>In Abgang ſind gekommen 15000 ℳ und</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l19" custom="readingOrder {index:18;}">
+                <Coords points="1235,1366 1255,1365 1397,1360 1483,1358 1847,1352 2082,1351 2082,1351 2095,1351 2167,1352 2191,1359 2191,1384 2095,1393 1876,1397 1837,1397 1235,1394 1235,1366"/>
+                <Baseline points="1235,1394 1367,1393 1397,1393 1446,1392 1483,1392 1590,1391 1623,1390 1670,1390 1709,1389 1765,1388 1803,1388 2000,1386 2039,1385 2095,1385 2133,1384 2191,1384"/>
+                <TextEquiv>
+                    <Unicode>100 000 ℳ. Anteil an den Hypotheken auf den</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l20" custom="readingOrder {index:19;}">
+                <Coords points="1233,1405 1253,1403 1990,1396 1990,1396 2167,1396 2192,1404 2192,1429 2167,1437 1459,1446 1253,1446 1233,1440 1233,1405"/>
+                <Baseline points="1233,1439 1459,1436 1493,1436 1645,1434 1669,1434 1791,1433 1817,1433 1858,1432 1890,1432 1954,1431 1990,1431 2192,1429"/>
+                <TextEquiv>
+                    <Unicode>Grundſtücken Lützower Straße 14 und Nürnberger</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l21" custom="readingOrder {index:20;}">
+                <Coords points="1233,1450 1844,1442 2058,1440 2058,1440 2190,1440 2190,1474 2172,1475 1429,1491 1413,1491 1319,1490 1233,1483 1233,1450"/>
+                <Baseline points="1233,1483 1353,1482 1371,1482 1481,1481 1509,1481 1616,1479 1633,1479 1692,1478 1719,1478 1826,1477 1844,1477 1904,1478 1930,1478 2039,1474 2058,1475 2106,1476 2125,1475 2190,1474"/>
+                <TextEquiv>
+                    <Unicode>Straße 50/56, 58700 ℳ., 58000 ℳ., 85400 ℳ und</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l22" custom="readingOrder {index:21;}">
+                <Coords points="1236,1500 1256,1499 1394,1494 1491,1492 1691,1489 1962,1486 1962,1486 1980,1486 2136,1489 2182,1494 2192,1509 2192,1521 1829,1532 1589,1535 1467,1535 1236,1528 1236,1500"/>
+                <Baseline points="1236,1528 1369,1527 1394,1527 1442,1526 1467,1526 1667,1524 1691,1524 1938,1520 1962,1520 2014,1519 2051,1519 2136,1518 2151,1518 2192,1520"/>
+                <TextEquiv>
+                    <Unicode>150 600 ℳ planmäßige Tilgungsraten der 1885 er,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l23" custom="readingOrder {index:22;}">
+                <Coords points="1236,1545 1564,1537 1727,1534 1913,1531 2144,1529 2144,1529 2191,1529 2191,1564 2088,1569 1840,1574 1363,1574 1236,1573 1236,1545"/>
+                <Baseline points="1236,1573 1320,1573 1329,1572 1370,1572 1384,1572 1509,1571 1518,1571 1582,1570 1595,1570 1717,1569 1727,1569 1856,1567 1867,1566 1930,1566 1943,1565 2004,1565 2014,1565 2133,1563 2144,1563 2191,1562"/>
+                <TextEquiv>
+                    <Unicode>1889 er, 1895 er und 1899 er Anleihe und 997 566,90 ℳ</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l24" custom="readingOrder {index:23;}">
+                <Coords points="1235,1585 1277,1583 1649,1576 2102,1573 2102,1573 2193,1573 2193,1613 2027,1617 1397,1630 1277,1630 1235,1617 1235,1585"/>
+                <Baseline points="1235,1617 1397,1616 1433,1616 1490,1615 1525,1615 1593,1614 1628,1614 2056,1608 2102,1608 2193,1606"/>
+                <TextEquiv>
+                    <Unicode>Ausgleich mit dem Grundſtücksinventarium. Dieſe</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l25" custom="readingOrder {index:24;}">
+                <Coords points="1235,1629 1398,1626 1594,1623 1919,1619 2144,1617 2144,1617 2174,1617 2194,1621 2194,1651 1974,1664 1764,1666 1472,1668 1398,1668 1235,1662 1235,1629"/>
+                <Baseline points="1235,1662 1374,1661 1398,1661 1472,1660 1496,1660 1552,1659 1576,1659 1764,1656 1800,1656 1851,1655 1887,1655 2027,1653 2063,1653 2120,1652 2144,1652 2194,1651"/>
+                <TextEquiv>
+                    <Unicode>Summe ſtellt den Unterſchied der zwiſchen den bis</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l26" custom="readingOrder {index:25;}">
+                <Coords points="1237,1682 1331,1670 2034,1664 2034,1664 2153,1664 2181,1672 2194,1678 2194,1688 2181,1697 2153,1707 1771,1711 1265,1715 1237,1715 1237,1682"/>
+                <Baseline points="1237,1705 1308,1706 1331,1705 1471,1704 1495,1704 1548,1703 1574,1703 1883,1699 1903,1699 1986,1698 2024,1698 2194,1685"/>
+                <TextEquiv>
+                    <Unicode>zum Schluſſe des Rechnungsjahres 1902 aufgewen⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l27" custom="readingOrder {index:26;}">
+                <Coords points="1237,1720 1357,1715 1776,1708 1776,1708 1992,1708 2139,1709 2195,1716 2195,1741 1926,1751 1465,1753 1406,1753 1258,1751 1237,1750 1237,1720"/>
+                <Baseline points="1237,1750 1334,1749 1357,1749 1465,1748 1504,1748 1571,1748 1604,1747 1661,1747 1695,1747 1742,1747 1776,1746 2195,1741"/>
+                <TextEquiv>
+                    <Unicode>deten Koſten und den im Grundſtücksinventarium</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l28" custom="readingOrder {index:27;}">
+                <Coords points="1238,1771 1276,1759 1878,1754 1878,1754 2039,1754 2104,1756 2196,1761 2196,1786 2039,1796 1494,1803 1276,1803 1238,1795 1238,1771"/>
+                <Baseline points="1238,1789 1494,1793 1533,1793 1657,1791 1692,1791 1744,1791 1779,1790 1838,1790 1878,1789 2104,1787 2145,1786 2196,1786"/>
+                <TextEquiv>
+                    <Unicode>nachgewieſenen Werten für das Krankenhaus am</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l29" custom="readingOrder {index:28;}">
+                <Coords points="1239,1806 1960,1799 2098,1798 2098,1798 2129,1798 2184,1806 2196,1812 2196,1823 2184,1831 2150,1841 1537,1846 1291,1848 1272,1848 1239,1840 1239,1806"/>
+                <Baseline points="1239,1840 1431,1839 1455,1838 1537,1838 1561,1838 1617,1837 1640,1837 1704,1836 1714,1836 1834,1834 1859,1836 1920,1835 1945,1834 1998,1834 2021,1833 2080,1833 2098,1833 2196,1820"/>
+                <TextEquiv>
+                    <Unicode>Spandauer Berg mit 461 538,80 ℳ, für das Gym⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l30" custom="readingOrder {index:29;}">
+                <Coords points="1238,1860 1284,1850 1384,1849 2179,1842 2179,1842 2196,1842 2196,1875 1994,1883 1667,1890 1344,1891 1284,1891 1238,1885 1238,1860"/>
+                <Baseline points="1238,1885 1361,1884 1384,1884 1548,1882 1563,1882 1683,1881 1702,1881 1750,1880 1766,1880 1824,1879 1847,1879 1909,1878 1927,1878 2039,1877 2067,1877 2115,1876 2131,1876 2196,1875"/>
+                <TextEquiv>
+                    <Unicode>naſium Wormſer Straße 11 mit 335 549,39 ℳ. und</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l31" custom="readingOrder {index:30;}">
+                <Coords points="1239,1895 1412,1893 1589,1891 1892,1890 2202,1885 2204,1926 2089,1925 1825,1933 1250,1935 1239,1935 1239,1895"/>
+                <Baseline points="1239,1928 1292,1928 1309,1927 1357,1927 1373,1927 1547,1926 1564,1926 1703,1924 1721,1924 1842,1923 1858,1923 1914,1922 1943,1922 2007,1921 2015,1921 2198,1917"/>
+                <TextEquiv>
+                    <Unicode>für die Realſchule Guericke Straße mit 200 478,71 ℳ.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l32" custom="readingOrder {index:31;}">
+                <Coords points="1237,1939 1644,1934 2082,1930 2082,1930 2167,1930 2199,1939 2199,1962 2167,1974 1901,1976 1644,1976 1237,1973 1237,1939"/>
+                <Baseline points="1237,1973 1295,1972 1330,1972 1397,1971 1433,1971 1505,1971 1532,1970 1608,1970 1644,1969 1901,1967 1939,1967 1993,1966 2022,1965 2199,1956"/>
+                <TextEquiv>
+                    <Unicode>Da nun eine neue Wertbemeſſung des ſtädtiſchen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l33" custom="readingOrder {index:32;}">
+                <Coords points="1241,1984 1260,1982 2143,1975 2143,1975 2161,1975 2196,1977 2196,2006 2126,2009 1769,2021 1579,2023 1406,2024 1260,2024 1241,2018 1241,1984"/>
+                <Baseline points="1241,2017 1473,2015 1490,2015 1713,2013 1738,2013 1799,2014 1826,2013 1873,2012 1896,2012 1948,2011 1973,2010 2024,2009 2042,2009 2126,2008 2143,2007 2196,2006"/>
+                <TextEquiv>
+                    <Unicode>Grundbeſitzes ſtattgefunden hat, bei der der Wert des</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l34" custom="readingOrder {index:33;}">
+                <Coords points="1242,2028 2138,2016 2138,2016 2179,2016 2199,2026 2199,2050 1915,2065 1812,2067 1744,2067 1242,2063 1242,2028"/>
+                <Baseline points="1242,2062 1356,2061 1393,2061 1456,2060 1481,2060 1619,2059 1648,2059 1709,2058 1744,2058 1933,2055 1963,2055 2027,2053 2063,2053 2113,2052 2138,2051 2199,2050"/>
+                <TextEquiv>
+                    <Unicode>Grund und Bodens neu eingeſchätzt und als Ge⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l35" custom="readingOrder {index:34;}">
+                <Coords points="1243,2075 1261,2072 2020,2062 2020,2062 2111,2062 2198,2071 2198,2103 1872,2114 1630,2114 1243,2107 1243,2075"/>
+                <Baseline points="1243,2107 1414,2106 1430,2106 1547,2105 1564,2105 1615,2104 1630,2104 1906,2101 1933,2100 1983,2099 2000,2099 2198,2095"/>
+                <TextEquiv>
+                    <Unicode>bäudewert überall der Feuerkaſſenwert der Berechnung</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l36" custom="readingOrder {index:35;}">
+                <Coords points="1242,2127 1304,2117 2174,2106 2174,2106 2184,2106 2200,2115 2200,2139 2184,2140 1928,2152 1792,2155 1477,2160 1258,2162 1242,2162 1242,2127"/>
+                <Baseline points="1242,2152 1280,2151 1304,2151 1436,2150 1460,2150 1557,2149 1581,2149 1626,2148 1656,2148 1687,2148 1711,2148 1830,2146 1854,2145 1928,2144 1953,2144 2054,2142 2079,2141 2129,2141 2154,2140 2200,2139"/>
+                <TextEquiv>
+                    <Unicode>zu Grunde gelegt iſt, ſo müſſen dieſe Werte als die</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l37" custom="readingOrder {index:36;}">
+                <Coords points="1242,2172 1260,2162 2155,2151 2155,2151 2183,2151 2201,2154 2201,2184 1942,2198 1625,2202 1385,2205 1329,2205 1274,2203 1242,2195 1242,2172"/>
+                <Baseline points="1242,2189 1385,2195 1414,2194 1479,2194 1514,2194 1743,2190 1779,2190 1942,2188 1977,2187 2107,2185 2155,2184 2201,2184"/>
+                <TextEquiv>
+                    <Unicode>richtigen und maßgebenden angeſehen werden. Es</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l38" custom="readingOrder {index:37;}">
+                <Coords points="1244,2216 1265,2206 2138,2191 2138,2191 2160,2191 2202,2198 2202,2228 2160,2242 1398,2249 1265,2249 1260,2248 1244,2241 1244,2216"/>
+                <Baseline points="1244,2241 1398,2239 1422,2239 1473,2238 1511,2237 1611,2236 1647,2235 1710,2234 1746,2234 1884,2232 1919,2232 2093,2229 2117,2229 2202,2228"/>
+                <TextEquiv>
+                    <Unicode>empfiehlt ſich daher. von weiteren derartigen Aus⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l39" custom="readingOrder {index:38;}">
+                <Coords points="1245,2261 1265,2251 1294,2250 1692,2241 2086,2239 2086,2239 2141,2239 2204,2240 2204,2273 2141,2283 1373,2294 1245,2294 1245,2261"/>
+                <Baseline points="1245,2285 1442,2282 1465,2282 1523,2281 1543,2281 1612,2280 1628,2280 2049,2275 2065,2274 2204,2273"/>
+                <TextEquiv>
+                    <Unicode>gleichungen mit dem Grundſtücksinventarium Abſtand</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l40" custom="readingOrder {index:39;}">
+                <Coords points="1245,2306 1346,2295 1527,2291 1941,2285 1941,2285 2093,2285 2188,2287 2206,2293 2206,2318 2130,2328 1260,2339 1245,2339 1245,2306"/>
+                <Baseline points="1245,2330 1283,2330 1306,2330 1445,2328 1469,2327 1643,2324 1668,2324 1718,2323 1743,2323 1867,2322 1902,2321 1975,2321 2010,2320 2206,2318"/>
+                <TextEquiv>
+                    <Unicode>zu nehmen, umſomehr als etwaige noch ausſtehende</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l41" custom="readingOrder {index:40;}">
+                <Coords points="1244,2341 1643,2333 2138,2329 2138,2329 2156,2329 2206,2339 2206,2364 1861,2378 1271,2383 1244,2383 1244,2341"/>
+                <Baseline points="1244,2374 1431,2372 1456,2372 1511,2371 1535,2370 1581,2370 1605,2370 1861,2367 1886,2366 2051,2365 2080,2364 2113,2364 2138,2364 2206,2363"/>
+                <TextEquiv>
+                    <Unicode>Zahlungen auf die nachgewieſenen Bauwerte in dem</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l42" custom="readingOrder {index:41;}">
+                <Coords points="1248,2396 1269,2386 1347,2383 1568,2379 1996,2375 1996,2375 2129,2375 2207,2384 2207,2408 2184,2409 1857,2422 1486,2425 1457,2425 1404,2424 1248,2420 1248,2396"/>
+                <Baseline points="1248,2419 1324,2418 1347,2418 1382,2417 1404,2417 1536,2416 1568,2415 1716,2414 1741,2414 1873,2412 1909,2412 1961,2411 1996,2411 2207,2408"/>
+                <TextEquiv>
+                    <Unicode>oben in Zugang geſtellten Betrage der verbliebenen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l43" custom="readingOrder {index:42;}">
+                <Coords points="1240,2430 1266,2426 1956,2420 2092,2419 2092,2419 2115,2419 2157,2420 2195,2429 2206,2446 2206,2452 2115,2463 1338,2471 1266,2471 1240,2470 1240,2430"/>
+                <Baseline points="1240,2463 1467,2460 1491,2460 1552,2459 1569,2459 1633,2458 1643,2458 1763,2458 1796,2458 1816,2458 1848,2457 1912,2456 1929,2456 2068,2454 2092,2454 2206,2452"/>
+                <TextEquiv>
+                    <Unicode>Ausgabereſte von 440 489,60 ℳ. ihre Deckung finden.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l44" custom="readingOrder {index:43;}">
+                <Coords points="1248,2473 1351,2470 2160,2464 2160,2464 2208,2464 2208,2498 2089,2503 1879,2510 1522,2512 1351,2512 1248,2507 1248,2473"/>
+                <Baseline points="1248,2507 1317,2506 1333,2506 1480,2505 1503,2504 1626,2503 1650,2503 1713,2503 1738,2502 1784,2502 1809,2502 1918,2500 1944,2500 2000,2499 2018,2499 2135,2497 2160,2497 2208,2496"/>
+                <TextEquiv>
+                    <Unicode>Mit Rückſicht hierauf ſind die obigen 997 566,90 ℳ.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l45" custom="readingOrder {index:44;}">
+                <Coords points="1248,2517 1327,2510 1327,2510 1549,2510 1713,2514 1733,2522 1733,2547 1549,2563 1327,2563 1248,2551 1248,2517"/>
+                <Baseline points="1248,2550 1282,2550 1306,2550 1419,2550 1447,2549 1575,2548 1599,2548 1733,2547"/>
+                <TextEquiv>
+                    <Unicode>in Abgang geſtellt worden.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l46" custom="readingOrder {index:45;}">
+                <Coords points="1336,2562 1401,2559 1476,2557 2094,2552 2094,2552 2120,2552 2205,2554 2205,2587 2139,2596 1931,2599 1631,2600 1476,2600 1336,2594 1336,2562"/>
+                <Baseline points="1336,2586 1376,2595 1401,2595 1942,2589 2001,2589 2063,2588 2094,2587 2205,2586"/>
+                <TextEquiv>
+                    <Unicode>B. Kanaliſationsverwaltung. Die eigent⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l47" custom="readingOrder {index:46;}">
+                <Coords points="1250,2607 1276,2605 2094,2597 2094,2597 2112,2597 2207,2599 2207,2631 2131,2640 1702,2647 1446,2650 1428,2650 1276,2648 1250,2641 1250,2607"/>
+                <Baseline points="1250,2641 1358,2640 1377,2640 1525,2639 1561,2639 1702,2638 1739,2636 1801,2636 1820,2635 1935,2634 1966,2634 2028,2633 2063,2633 2207,2631"/>
+                <TextEquiv>
+                    <Unicode>lichen Zugänge betragen 739 278,02 ℳ, während</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l48" custom="readingOrder {index:47;}">
+                <Coords points="1252,2656 1476,2650 1883,2645 2075,2643 2075,2643 2102,2643 2208,2651 2208,2685 1833,2691 1642,2691 1389,2688 1252,2685 1252,2656"/>
+                <Baseline points="1252,2685 1314,2685 1328,2685 1440,2685 1476,2685 1500,2685 1533,2685 1567,2684 1590,2684 1722,2682 1747,2682 1859,2681 1883,2681 1958,2679 2005,2678 2055,2677 2075,2677 2208,2676"/>
+                <TextEquiv>
+                    <Unicode>156 597,48 ℳ in Abgang geſtellt find. In Zugang</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l49" custom="readingOrder {index:48;}">
+                <Coords points="1251,2699 1427,2694 2158,2687 2158,2687 2194,2687 2211,2697 2211,2721 2172,2729 2096,2731 1597,2739 1427,2739 1251,2731 1251,2699"/>
+                <Baseline points="1251,2731 1368,2730 1391,2730 1609,2728 1637,2727 1697,2727 1712,2726 1826,2725 1867,2725 1892,2725 1924,2724 2134,2721 2158,2721 2211,2720"/>
+                <TextEquiv>
+                    <Unicode>werden nachgewieſen 606 629,24 ℳ Abhebungen für</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l50" custom="readingOrder {index:49;}">
+                <Coords points="1250,2742 1270,2740 1437,2727 1502,2727 2217,2733 2216,2772 2093,2769 1807,2779 1502,2786 1437,2786 1270,2782 1250,2775 1250,2742"/>
+                <Baseline points="1250,2775 1437,2773 1493,2773 1502,2773 1519,2773 1603,2772 1618,2772 1649,2772 1677,2772 1807,2770 1842,2769 1906,2768 1945,2767 2004,2766 2017,2766 2208,2766"/>
+                <TextEquiv>
+                    <Unicode>Rechnung der 1895 er Anleihe und 132 648,78 ℳ.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l51" custom="readingOrder {index:50;}">
+                <Coords points="1252,2785 2076,2775 2076,2775 2143,2775 2183,2776 2212,2786 2212,2810 2183,2818 2143,2820 1452,2827 1329,2828 1252,2828 1252,2785"/>
+                <Baseline points="1252,2821 1452,2818 1491,2818 1543,2817 1580,2817 1800,2814 1836,2814 1930,2813 1964,2812 2024,2811 2059,2811 2212,2809"/>
+                <TextEquiv>
+                    <Unicode>Mehrbetrag der Ausgabereſte gegen das Vorjahr.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l52" custom="readingOrder {index:51;}">
+                <Coords points="1250,2831 1324,2830 1489,2828 1930,2823 2162,2821 2162,2821 2211,2821 2211,2856 1674,2871 1393,2872 1377,2872 1250,2870 1250,2831"/>
+                <Baseline points="1250,2865 1300,2864 1324,2864 1457,2863 1489,2863 1551,2862 1588,2862 1761,2859 1797,2859 1906,2857 1930,2858 1990,2858 2028,2856 2136,2854 2162,2855 2211,2856"/>
+                <TextEquiv>
+                    <Unicode>In Abgang ſind gekommen 35400 ℳ., 60900 ℳ.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l53" custom="readingOrder {index:52;}">
+                <Coords points="1251,2884 1298,2876 1473,2873 1549,2872 1821,2870 1821,2870 2169,2870 2214,2874 2214,2900 2046,2908 1622,2916 1566,2916 1251,2909 1251,2884"/>
+                <Baseline points="1251,2909 1315,2908 1341,2908 1449,2908 1473,2908 1524,2907 1549,2907 1796,2904 1821,2903 1872,2903 1904,2902 1989,2901 2004,2901 2046,2900 2083,2900 2169,2899 2183,2899 2214,2898"/>
+                <TextEquiv>
+                    <Unicode>und 20700 ℳ. Tilgungsraten der 1885 er, 1889 er</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l54" custom="readingOrder {index:53;}">
+                <Coords points="1252,2930 1299,2922 1518,2917 2005,2910 2005,2910 2152,2910 2169,2912 2212,2920 2212,2954 1626,2960 1518,2960 1252,2954 1252,2930"/>
+                <Baseline points="1252,2954 1316,2954 1336,2953 1428,2953 1442,2952 1472,2952 1491,2952 1626,2951 1649,2951 1713,2950 1738,2950 1905,2948 1944,2947 1969,2947 2005,2947 2212,2945"/>
+                <TextEquiv>
+                    <Unicode>und 1895 er Anleihe und 39597,48 ℳ Reſtzahlung</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l55" custom="readingOrder {index:54;}">
+                <Coords points="1253,2965 1572,2961 1930,2957 2081,2956 2081,2956 2116,2956 2204,2965 2213,2983 2213,2989 2204,2991 1844,3003 1640,3008 1253,3008 1253,2965"/>
+                <Baseline points="1253,3000 1304,2999 1321,2999 1379,2999 1396,2998 1640,2996 1656,2995 1844,2994 1860,2994 1913,2994 1930,2992 2069,2991 2081,2991 2213,2987"/>
+                <TextEquiv>
+                    <Unicode>für das Frenzdorf'ſche Grundſtück am Nonnen Damm.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l56" custom="readingOrder {index:55;}">
+                <Coords points="1344,3009 1918,3001 2061,3000 2061,3000 2190,3000 2216,3003 2216,3035 2167,3044 1776,3050 1553,3050 1344,3043 1344,3009"/>
+                <Baseline points="1344,3043 1380,3043 1407,3043 1776,3039 1823,3038 1884,3038 1918,3037 2026,3036 2061,3036 2216,3034"/>
+                <TextEquiv>
+                    <Unicode>C. Elektrizitätswerk. Bei dieſem Abſchnitt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l57" custom="readingOrder {index:56;}">
+                <Coords points="1255,3065 1318,3054 2019,3044 2019,3044 2057,3044 2182,3045 2215,3055 2215,3079 2146,3089 1847,3092 1831,3092 1255,3089 1255,3065"/>
+                <Baseline points="1255,3089 1374,3087 1398,3086 1585,3085 1602,3085 1651,3085 1677,3085 1887,3083 1910,3082 1963,3081 1980,3080 2146,3080 2164,3080 2215,3079"/>
+                <TextEquiv>
+                    <Unicode>werden 420330,10 ℳ Abhebungen für Rechnung der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l58" custom="readingOrder {index:57;}">
+                <Coords points="1257,3104 1356,3085 1356,3085 1396,3085 2118,3089 2130,3090 2214,3099 2214,3133 1396,3144 1356,3144 1257,3132 1257,3104"/>
+                <Baseline points="1257,3132 1356,3132 1396,3132 1415,3131 1539,3131 1562,3131 1596,3130 1621,3130 1763,3128 1789,3128 1898,3126 1922,3126 1972,3126 1997,3125 2053,3125 2075,3124 2214,3123"/>
+                <TextEquiv>
+                    <Unicode>1899 er Anleihe in Zugang, 93200 ℳ. zur Tilgung</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l59" custom="readingOrder {index:58;}">
+                <Coords points="1256,3144 1291,3143 1960,3134 1960,3134 2195,3134 2216,3144 2216,3171 2144,3179 1543,3184 1406,3185 1291,3185 1256,3178 1256,3144"/>
+                <Baseline points="1256,3169 1406,3177 1429,3177 1560,3175 1583,3175 1647,3174 1672,3174 1836,3172 1862,3173 1912,3172 1936,3171 2160,3169 2183,3169 2216,3171"/>
+                <TextEquiv>
+                    <Unicode>derſelben Anleihe und 32373,69 ℳ. Ausgabereſte in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l60" custom="readingOrder {index:59;}">
+                <Coords points="1259,3188 1414,3185 1414,3185 1612,3185 1634,3195 1643,3210 1643,3218 1612,3228 1540,3230 1399,3232 1372,3232 1310,3231 1259,3223 1259,3188"/>
+                <Baseline points="1259,3223 1399,3222 1414,3222 1643,3218"/>
+                <TextEquiv>
+                    <Unicode>Abgang nachgewieſen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l61" custom="readingOrder {index:60;}">
+                <Coords points="1346,3234 1517,3228 2177,3222 2177,3222 2218,3222 2218,3266 2197,3268 1907,3271 1579,3274 1517,3274 1346,3266 1346,3234"/>
+                <Baseline points="1346,3266 1391,3266 1416,3266 1929,3261 1953,3260 2028,3259 2043,3259 2218,3257"/>
+                <TextEquiv>
+                    <Unicode>D. Gasanſtaltsverwaltung. Das Lagerbuch</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l62" custom="readingOrder {index:61;}">
+                <Coords points="1258,3287 1274,3278 1708,3273 2157,3268 2157,3268 2184,3268 2208,3277 2220,3283 2220,3295 2208,3302 2184,3310 1706,3317 1497,3320 1329,3322 1274,3322 1258,3313 1258,3287"/>
+                <Baseline points="1258,3312 1340,3312 1363,3312 1514,3311 1529,3310 1595,3309 1617,3309 1652,3309 1675,3308 1770,3309 1787,3309 1850,3306 1868,3306 1931,3305 1939,3305 2059,3304 2077,3303 2140,3307 2157,3307 2220,3292"/>
+                <TextEquiv>
+                    <Unicode>weiſt Abgänge auf in Höhe von 753 265,43 ℳ., Zu⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l63" custom="readingOrder {index:62;}">
+                <Coords points="1258,3332 1280,3323 1997,3314 1997,3314 2137,3314 2219,3322 2219,3347 2173,3349 1938,3355 1620,3362 1476,3365 1277,3366 1258,3366 1258,3332"/>
+                <Baseline points="1258,3358 1364,3357 1381,3356 1522,3355 1538,3355 1573,3354 1590,3354 1676,3353 1692,3353 1763,3352 1787,3352 1850,3351 1860,3351 1979,3349 1997,3349 2050,3348 2086,3349 2137,3349 2155,3349 2219,3347"/>
+                <TextEquiv>
+                    <Unicode>gänge dagegen in Höhe von 651 255,17 ℳ. Es ver⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>A. Allgemeine Verwaltung. In dem Lager⸗
+buche werden Zugänge an Schulden in Höhe von
+6 825 740,35 ℳ. nachgewieſen, denen jedoch Abgänge
+in Höhe von 1 465 266,90 ℳ. gegenüberſtehen, ſodaß
+nach Abrechnung der letzteren 5 360 473,45 ℳ als
+Zugang verbleiben. Im einzelnen ſind in Zugang
+gekommen 500 000 ℳ. Hypothek auf dem Grundſtück
+Kaiſerin Auguſta Allee und 400 000 ℳ. Hypothek auf
+dem Grundſtück am Königs Damm (Dahm'ſche Erben),
+wobei berückſichtigt werden muß, daß der volle Wert
+der Grundſtücke im Grundſtücksinventarium als Ver⸗
+mögen in Zugang geſtellt iſt; außerdem 1 251 248,56 ℳ.,
+2 924 653,97 ℳ. und 200 000 ℳ. Abhebungen für
+Rechnung der 1895 er, 1899 er und 1902 er An⸗
+leihe, 440 489,60 ℳ. verbliebene Ausgabereſte und
+1 109 348,22 ℳ hinzugetretene Vorſchüſſe für Grund⸗
+erwerb.
+In Abgang ſind gekommen 15000 ℳ und
+100 000 ℳ. Anteil an den Hypotheken auf den
+Grundſtücken Lützower Straße 14 und Nürnberger
+Straße 50/56, 58700 ℳ., 58000 ℳ., 85400 ℳ und
+150 600 ℳ planmäßige Tilgungsraten der 1885 er,
+1889 er, 1895 er und 1899 er Anleihe und 997 566,90 ℳ
+Ausgleich mit dem Grundſtücksinventarium. Dieſe
+Summe ſtellt den Unterſchied der zwiſchen den bis
+zum Schluſſe des Rechnungsjahres 1902 aufgewen⸗
+deten Koſten und den im Grundſtücksinventarium
+nachgewieſenen Werten für das Krankenhaus am
+Spandauer Berg mit 461 538,80 ℳ, für das Gym⸗
+naſium Wormſer Straße 11 mit 335 549,39 ℳ. und
+für die Realſchule Guericke Straße mit 200 478,71 ℳ.
+Da nun eine neue Wertbemeſſung des ſtädtiſchen
+Grundbeſitzes ſtattgefunden hat, bei der der Wert des
+Grund und Bodens neu eingeſchätzt und als Ge⸗
+bäudewert überall der Feuerkaſſenwert der Berechnung
+zu Grunde gelegt iſt, ſo müſſen dieſe Werte als die
+richtigen und maßgebenden angeſehen werden. Es
+empfiehlt ſich daher. von weiteren derartigen Aus⸗
+gleichungen mit dem Grundſtücksinventarium Abſtand
+zu nehmen, umſomehr als etwaige noch ausſtehende
+Zahlungen auf die nachgewieſenen Bauwerte in dem
+oben in Zugang geſtellten Betrage der verbliebenen
+Ausgabereſte von 440 489,60 ℳ. ihre Deckung finden.
+Mit Rückſicht hierauf ſind die obigen 997 566,90 ℳ.
+in Abgang geſtellt worden.
+B. Kanaliſationsverwaltung. Die eigent⸗
+lichen Zugänge betragen 739 278,02 ℳ, während
+156 597,48 ℳ in Abgang geſtellt find. In Zugang
+werden nachgewieſen 606 629,24 ℳ Abhebungen für
+Rechnung der 1895 er Anleihe und 132 648,78 ℳ.
+Mehrbetrag der Ausgabereſte gegen das Vorjahr.
+In Abgang ſind gekommen 35400 ℳ., 60900 ℳ.
+und 20700 ℳ. Tilgungsraten der 1885 er, 1889 er
+und 1895 er Anleihe und 39597,48 ℳ Reſtzahlung
+für das Frenzdorf'ſche Grundſtück am Nonnen Damm.
+C. Elektrizitätswerk. Bei dieſem Abſchnitt
+werden 420330,10 ℳ Abhebungen für Rechnung der
+1899 er Anleihe in Zugang, 93200 ℳ. zur Tilgung
+derſelben Anleihe und 32373,69 ℳ. Ausgabereſte in
+Abgang nachgewieſen.
+D. Gasanſtaltsverwaltung. Das Lagerbuch
+weiſt Abgänge auf in Höhe von 753 265,43 ℳ., Zu⸗
+gänge dagegen in Höhe von 651 255,17 ℳ. Es ver⸗</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <SeparatorRegion id="r_5" custom="readingOrder {index:5;}">
+            <Coords points="1026,172 1131,172 1131,177 1026,177"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_6" custom="readingOrder {index:6;}">
+            <Coords points="1286,171 1392,171 1392,176 1286,176"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_7" custom="readingOrder {index:7;}">
+            <Coords points="1860,359 2179,359 2179,371 1860,371"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_8" custom="readingOrder {index:8;}">
+            <Coords points="900,2482 1219,2482 1219,2491 900,2491"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_9" custom="readingOrder {index:9;}">
+            <Coords points="422,2861 743,2861 743,2871 422,2871"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_10" custom="readingOrder {index:10;}">
+            <Coords points="905,2857 1224,2857 1224,2867 905,2867"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_11" custom="readingOrder {index:11;}">
+            <Coords points="911,3314 1230,3314 1230,3325 911,3325"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_12" custom="readingOrder {index:12;}">
+            <Coords points="1206,274 1212,278 1246,3338 1206,3338"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_13" custom="readingOrder {index:13;}">
+            <Coords points="2326,3210 2336,3210 2336,3372 2326,3372"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_14" custom="readingOrder {index:14;}">
+            <Coords points="2329,3372 2346,3372 2346,3605 2329,3605"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_15" custom="readingOrder {index:15;}">
+            <Coords points="2342,3186 2346,3186 2346,3322 2342,3322"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_16" custom="readingOrder {index:16;}">
+            <Coords points="1362,347 1857,347 1857,361 1362,361"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_17" custom="readingOrder {index:17;}">
+            <Coords points="1542,489 1859,489 1859,500 1542,500"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_18" custom="readingOrder {index:18;}">
+            <Coords points="718,3120 904,3120 904,3130 718,3130"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_19" custom="readingOrder {index:19;}">
+            <Coords points="721,3210 907,3210 907,3220 721,3220"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_20" custom="readingOrder {index:20;}">
+            <Coords points="29,3503 36,3503 36,3578 29,3578"/>
+        </SeparatorRegion>
+    </Page>
+</PcGts>

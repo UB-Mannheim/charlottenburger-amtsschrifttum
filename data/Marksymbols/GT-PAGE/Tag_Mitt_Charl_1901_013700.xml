@@ -1,0 +1,1153 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2022-02-08T16:24:26.873+01:00</Created>
+        <LastChange>2023-07-04T14:43:26.729+02:00</LastChange>
+        <Comments>
+                Measurement unit: pixel
+                PrimaryLanguage: 
+                Producer: Transkribus
+            </Comments>
+        <TranskribusMetadata docId="918527" pageId="35047881" pageNr="9" tsid="128718777" status="GT" userId="48446" imgUrl="https://files.transkribus.eu/Get?id=XSOZBJKMKGDTIBEGTAMHYQKC&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=CWNEFORXJXEIWAGROUIUAWCA" imageId="28180394"/>
+    </Metadata>
+    <Page imageFilename="Tag_Mitt_Charl_1901_013700.tif" imageWidth="2323" imageHeight="3658">
+        <PrintSpace>
+            <Coords points="124,93 2209,111 2206,3475 121,3457"/>
+        </PrintSpace>
+        <ReadingOrder>
+            <OrderedGroup id="ro_1688474642682" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+                <RegionRefIndexed index="1" regionRef="r2"/>
+                <RegionRefIndexed index="4" regionRef="r3"/>
+                <RegionRefIndexed index="6" regionRef="r4"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion type="page-number" id="r1" custom="readingOrder {index:0;} structure {type:page-number;}">
+            <Coords points="1160,170 1235,170 1235,213 1160,213"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="1167,176 1229,176 1229,207 1186,207 1167,206 1167,176"/>
+                <Baseline points="1167,206 1229,207"/>
+                <TextEquiv>
+                    <Unicode>124</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>124</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r2" custom="readingOrder {index:1;} structure {type:paragraph;}">
+            <Coords points="181,259 1187,265 1141,3342 181,3344"/>
+            <TextLine id="r2l1" custom="readingOrder {index:0;}">
+                <Coords points="235,266 339,266 644,268 1082,277 1177,282 1177,312 1120,321 1060,321 509,312 443,310 235,300 235,266"/>
+                <Baseline points="235,299 339,300 388,301 397,301 443,302 644,304 689,304 902,308 947,309 995,310 1039,310 1120,312 1162,312 1177,304"/>
+                <TextEquiv>
+                    <Unicode>Titel 2 (Sächliche Ausgaben) die Poſ. 1</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l2" custom="readingOrder {index:1;}">
+                <Coords points="392,338 415,313 550,313 720,314 1138,317 1179,328 1179,356 1138,370 1122,364 437,356 392,351 392,338"/>
+                <Baseline points="392,345 646,348 685,349 738,349 773,350 874,352 916,353 980,354 1018,354 1179,349"/>
+                <TextEquiv>
+                    <Unicode>„Unterhaltung der Löſch⸗ und Uebungs⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l3" custom="readingOrder {index:2;}">
+                <Coords points="391,366 445,358 479,356 498,356 1022,361 1177,377 1177,402 1022,406 880,404 393,397 391,366"/>
+                <Baseline points="391,389 515,391 560,393 677,393 717,393 768,394 809,395 1074,400 1116,400 1177,401"/>
+                <TextEquiv>
+                    <Unicode>geräthe einſchl. der Dampfſpritzen“ von</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l4" custom="readingOrder {index:3;}">
+                <Coords points="393,402 414,401 502,400 554,400 945,408 945,442 764,447 754,447 439,442 393,433 393,402"/>
+                <Baseline points="393,433 480,434 502,434 554,435 578,435 685,437 708,437 764,438 786,439 872,439 894,440 945,442"/>
+                <TextEquiv>
+                    <Unicode>6040 ℳ. erhöht auf 6540 ℳ.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l5" custom="readingOrder {index:4;}">
+                <Coords points="339,443 385,443 694,446 1175,455 1175,490 1125,490 339,487 339,443"/>
+                <Baseline points="339,475 420,477 447,477 497,478 543,479 896,485 920,486 981,487 1009,487 1096,489 1125,489 1175,490"/>
+                <TextEquiv>
+                    <Unicode>Poſ. 14. „Brennmaterialien“ von 2000 ℳ.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l6" custom="readingOrder {index:5;}">
+                <Coords points="390,489 576,489 845,494 845,529 665,534 652,534 474,532 390,529 390,489"/>
+                <Baseline points="390,522 585,524 608,524 665,525 689,525 773,527 795,528 845,529"/>
+                <TextEquiv>
+                    <Unicode>herabgeſetzt auf 1700 ℳ.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l7" custom="readingOrder {index:6;}">
+                <Coords points="274,558 372,558 1056,565 1127,580 1127,612 1020,612 622,606 442,599 274,590 274,558"/>
+                <Baseline points="274,590 315,590 341,591 719,598 747,598 820,599 849,599 1127,603"/>
+                <TextEquiv>
+                    <Unicode>ⅠⅠ. Straßenreinigung und Beſprengung.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l8" custom="readingOrder {index:7;}">
+                <Coords points="230,615 335,615 654,616 877,617 918,627 918,656 877,664 772,664 425,659 283,654 230,652 230,615"/>
+                <Baseline points="230,648 335,649 359,649 379,649 402,649 662,653 685,654 915,656"/>
+                <TextEquiv>
+                    <Unicode>Titel 3 „Perſönliche Ausgaben“.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l9" custom="readingOrder {index:8;}">
+                <Coords points="336,659 367,659 579,662 1032,670 1104,673 1173,682 1173,705 1149,713 831,713 336,703 336,659"/>
+                <Baseline points="336,691 418,693 447,693 478,694 532,695 641,697 673,698 725,699 759,699 779,700 813,700 1104,705 1136,705 1173,699"/>
+                <TextEquiv>
+                    <Unicode>Poſ. 3. „Lohn für 8 Kolonnenführer“ zu</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l10" custom="readingOrder {index:9;}">
+                <Coords points="387,707 430,704 430,704 448,704 799,709 849,711 906,723 906,747 849,754 726,754 408,745 387,738 387,707"/>
+                <Baseline points="387,738 506,740 528,740 563,741 587,741 607,741 629,742 906,744"/>
+                <TextEquiv>
+                    <Unicode>ändern in 9 Kolonnenführer.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l11" custom="readingOrder {index:10;}">
+                <Coords points="333,747 364,747 1102,757 1171,770 1171,799 1148,801 1134,801 658,795 584,794 333,790 333,747"/>
+                <Baseline points="333,781 415,781 440,781 471,782 517,783 624,785 658,786 711,787 743,788 783,788 808,788 1102,792 1134,793 1171,794"/>
+                <TextEquiv>
+                    <Unicode>Poſ. 4. „Lohn für 91 Straßenarbeiter“ zu</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l12" custom="readingOrder {index:11;}">
+                <Coords points="386,795 430,793 430,793 504,793 963,798 1135,803 1171,820 1171,831 1158,837 1108,837 680,836 386,826 386,795"/>
+                <Baseline points="386,826 504,828 537,828 571,828 606,829 649,829 680,830 963,834 1010,835 1072,836 1108,836 1171,828"/>
+                <TextEquiv>
+                    <Unicode>ändern in 90 Straßenarbeiter. Die ein⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l13" custom="readingOrder {index:12;}">
+                <Coords points="384,847 398,838 398,838 535,838 590,839 793,843 1074,850 1074,880 676,884 658,884 384,879 384,847"/>
+                <Baseline points="384,870 535,872 559,873 692,875 716,875 834,877 857,877 1074,880"/>
+                <TextEquiv>
+                    <Unicode>geſtellten Beträge bleiben unverändert.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l14" custom="readingOrder {index:13;}">
+                <Coords points="331,879 362,879 1116,885 1169,901 1169,925 1116,937 916,937 397,923 331,921 331,879"/>
+                <Baseline points="331,913 426,914 466,915 495,915 565,916 674,918 717,919 770,920 813,920 857,920 899,921 1169,925"/>
+                <TextEquiv>
+                    <Unicode>Poſ. 5. „Lohn für 40 Arbeitsburſchen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l15" custom="readingOrder {index:14;}">
+                <Coords points="382,927 403,926 403,926 579,926 1151,935 1169,946 1169,969 1151,975 1054,976 1036,976 645,969 403,958 382,957 382,927"/>
+                <Baseline points="382,957 492,959 528,960 601,961 645,962 682,963 728,963 844,965 889,965 924,966 969,967 1077,968 1116,969 1169,963"/>
+                <TextEquiv>
+                    <Unicode>24870 ℳ.“ zu ändern in „Lohn für</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l16" custom="readingOrder {index:15;}">
+                <Coords points="382,968 405,968 1135,978 1168,990 1168,1013 1060,1017 456,1017 382,1008 382,968"/>
+                <Baseline points="382,1004 432,1004 456,1005 745,1008 783,1008 886,1009 916,1010 989,1011 1033,1012 1083,1012 1117,1012 1168,1013"/>
+                <TextEquiv>
+                    <Unicode>20 Arbeitsburſchen“ 12435 ℳ.“ In der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l17" custom="readingOrder {index:16;}">
+                <Coords points="382,1013 426,1013 789,1016 1132,1023 1166,1034 1166,1057 887,1062 831,1062 539,1061 382,1048 382,1013"/>
+                <Baseline points="382,1048 502,1049 539,1050 789,1053 831,1053 895,1054 941,1055 975,1055 1014,1056 1065,1056 1103,1057 1166,1057"/>
+                <TextEquiv>
+                    <Unicode>Rubrik Erläuterungen ſind in der An⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l18" custom="readingOrder {index:17;}">
+                <Coords points="382,1069 446,1059 446,1059 461,1059 855,1063 1011,1065 1136,1067 1149,1068 1166,1079 1166,1101 1136,1106 1096,1106 655,1104 506,1103 382,1091 382,1069"/>
+                <Baseline points="382,1085 524,1093 547,1094 583,1094 598,1094 698,1095 720,1096 865,1097 892,1098 940,1098 964,1098 1072,1100 1096,1100 1166,1101"/>
+                <TextEquiv>
+                    <Unicode>merkung zu dieſer Poſition die Worte „die</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l19" custom="readingOrder {index:18;}">
+                <Coords points="380,1113 437,1103 437,1103 455,1103 904,1106 1165,1110 1165,1154 1097,1154 837,1151 437,1145 380,1135 380,1113"/>
+                <Baseline points="380,1135 595,1138 633,1138 904,1141 939,1142 1062,1143 1097,1144 1165,1144"/>
+                <TextEquiv>
+                    <Unicode>vorhandenen Arbeitsburſchen werden auf⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l20" custom="readingOrder {index:19;}">
+                <Coords points="378,1157 416,1146 416,1146 482,1146 770,1150 789,1161 789,1184 770,1192 642,1192 378,1189 378,1157"/>
+                <Baseline points="378,1179 559,1181 581,1182 619,1182 642,1182 789,1184"/>
+                <TextEquiv>
+                    <Unicode>gebraucht“ zu ſtreichen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l21" custom="readingOrder {index:20;}">
+                <Coords points="220,1201 266,1201 601,1204 800,1208 862,1211 882,1212 882,1241 744,1250 725,1250 557,1248 480,1246 398,1243 220,1234 220,1201"/>
+                <Baseline points="220,1234 329,1235 350,1236 372,1236 398,1236 610,1239 648,1239 767,1240 782,1241 882,1241"/>
+                <TextEquiv>
+                    <Unicode>Titel 4 „Sächliche Ausgaben“.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l22" custom="readingOrder {index:21;}">
+                <Coords points="324,1255 383,1251 419,1251 945,1262 1162,1275 1162,1298 1066,1306 423,1300 375,1298 324,1297 324,1255"/>
+                <Baseline points="324,1287 383,1288 409,1288 419,1288 438,1289 484,1289 531,1290 756,1294 781,1294 843,1295 878,1295 1066,1297 1100,1297 1162,1298"/>
+                <TextEquiv>
+                    <Unicode>Poſ. 1a. Beſpannung und Bedienung von</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l23" custom="readingOrder {index:22;}">
+                <Coords points="378,1302 396,1301 396,1301 561,1301 917,1306 1157,1310 1157,1338 1096,1340 725,1345 614,1346 542,1346 484,1343 378,1332 378,1302"/>
+                <Baseline points="378,1332 417,1333 439,1333 690,1337 715,1337 742,1337 766,1338 853,1338 869,1338 917,1339 933,1339 1096,1340 1116,1339 1157,1341"/>
+                <TextEquiv>
+                    <Unicode>13 Kehrmaſchinen je 3300 ℳ. = 42900 ℳ.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l24" custom="readingOrder {index:23;}">
+                <Coords points="373,1344 567,1344 1051,1350 1160,1352 1160,1385 1051,1392 844,1392 634,1389 503,1387 373,1384 373,1344"/>
+                <Baseline points="373,1376 567,1379 613,1380 668,1380 722,1381 760,1381 799,1382 1051,1384 1097,1385 1160,1376"/>
+                <TextEquiv>
+                    <Unicode>herabgeſetzt auf 11 Kehrmaſchinen und</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l25" custom="readingOrder {index:24;}">
+                <Coords points="372,1389 459,1389 553,1390 565,1391 565,1423 395,1420 372,1419"/>
+                <Baseline points="372,1419 481,1421 503,1422 553,1423 565,1423"/>
+                <TextEquiv>
+                    <Unicode>36300 ℳ.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l26" custom="readingOrder {index:25;}">
+                <Coords points="318,1430 349,1430 844,1436 908,1437 958,1438 1159,1450 1159,1472 1062,1479 879,1479 532,1477 383,1473 318,1471 318,1430"/>
+                <Baseline points="318,1463 405,1464 432,1463 479,1464 532,1465 746,1469 782,1469 844,1469 879,1470 1062,1471 1098,1471 1159,1472"/>
+                <TextEquiv>
+                    <Unicode>Poſ. 1b. Beſpannung und Bedienung von</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l27" custom="readingOrder {index:26;}">
+                <Coords points="375,1478 393,1476 393,1476 469,1476 883,1480 1157,1483 1157,1517 598,1519 580,1519 472,1515 375,1507 375,1478"/>
+                <Baseline points="375,1507 415,1507 438,1508 636,1510 666,1510 692,1510 724,1511 811,1512 834,1512 883,1513 908,1513 950,1514 977,1514 1085,1515 1108,1515 1157,1516"/>
+                <TextEquiv>
+                    <Unicode>14 Spülwagen je 3300 ℳ. = 46200 ℳ.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l28" custom="readingOrder {index:27;}">
+                <Coords points="370,1519 455,1519 1157,1526 1157,1561 858,1567 841,1567 436,1562 370,1560 370,1519"/>
+                <Baseline points="370,1551 564,1554 578,1554 633,1555 648,1555 686,1555 698,1555 897,1557 911,1558 974,1558 987,1558 1095,1559 1127,1559 1157,1559"/>
+                <TextEquiv>
+                    <Unicode>herabgeſetzt auf 12 Spülwagen und 39600 ℳ.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l29" custom="readingOrder {index:28;}">
+                <Coords points="318,1563 395,1563 680,1565 1017,1569 1157,1571 1157,1611 1067,1612 993,1612 531,1609 318,1604 318,1563"/>
+                <Baseline points="318,1595 404,1594 433,1595 480,1595 531,1596 756,1600 794,1601 855,1601 894,1601 935,1602 971,1602 1090,1603 1132,1603 1157,1603"/>
+                <TextEquiv>
+                    <Unicode>Poſ. 1d. Beſprengung von 33 Wagen je</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l30" custom="readingOrder {index:29;}">
+                <Coords points="370,1609 414,1607 414,1607 442,1607 672,1609 1157,1614 1157,1648 953,1655 935,1655 579,1650 370,1639 370,1609"/>
+                <Baseline points="370,1639 390,1640 414,1640 549,1642 579,1642 607,1642 631,1643 750,1644 785,1645 848,1645 872,1645 992,1646 1020,1647 1083,1647 1107,1647 1157,1648"/>
+                <TextEquiv>
+                    <Unicode>6 Monate je Monat und Wagen 250 ℳ.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l31" custom="readingOrder {index:30;}">
+                <Coords points="435,1655 457,1654 480,1653 499,1653 848,1655 1085,1658 1156,1669 1156,1692 1133,1701 1066,1701 653,1697 362,1686 362,1657"/>
+                <Baseline points="364,1683 544,1685 567,1686 617,1687 653,1687 848,1689 883,1690 938,1690 972,1689 1010,1689 1037,1691 1156,1692"/>
+                <TextEquiv>
+                    <Unicode>= 49600 ℳ. herabgeſetzt auf 27 Wagen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l32" custom="readingOrder {index:31;}">
+                <Coords points="366,1705 413,1695 430,1695 648,1699 650,1734 541,1728 496,1729 390,1729 366,1728 366,1705"/>
+                <Baseline points="366,1728 430,1728 454,1729 643,1729"/>
+                <TextEquiv>
+                    <Unicode>und 40500 ℳ.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l33" custom="readingOrder {index:32;}">
+                <Coords points="315,1737 363,1737 967,1740 1155,1748 1155,1778 1084,1787 967,1791 945,1791 539,1785 339,1780 315,1779 315,1737"/>
+                <Baseline points="315,1769 398,1771 423,1771 454,1771 500,1772 728,1776 753,1776 813,1776 836,1775 862,1776 887,1776 906,1777 928,1777 1152,1777"/>
+                <TextEquiv>
+                    <Unicode>Poſ. 4. „Anſchaffung von je 2 Straßenſpül⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l34" custom="readingOrder {index:33;}">
+                <Coords points="366,1793 500,1786 717,1786 1013,1788 1108,1789 1108,1822 1013,1831 843,1829 419,1823 366,1815 366,1793"/>
+                <Baseline points="366,1815 477,1816 500,1816 643,1817 667,1817 717,1819 743,1819 818,1820 843,1820 1013,1821 1046,1822 1108,1822"/>
+                <TextEquiv>
+                    <Unicode>wagen 4275,70 ℳ. wird geſtrichen, und</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l35" custom="readingOrder {index:34;}">
+                <Coords points="313,1824 370,1820 960,1820 1107,1828 1151,1844 1151,1876 1107,1880 1028,1880 372,1867 313,1866 313,1824"/>
+                <Baseline points="313,1856 370,1857 397,1857 404,1857 410,1858 439,1858 478,1859 711,1864 725,1864 777,1864 793,1864 898,1865 912,1865 994,1866 1011,1866 1151,1867"/>
+                <TextEquiv>
+                    <Unicode>Poſ. 5. „Anbringung der Miller'ſchen Spreng⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l36" custom="readingOrder {index:35;}">
+                <Coords points="364,1880 441,1871 454,1870 454,1870 491,1870 945,1876 1151,1888 1151,1911 1112,1920 1025,1920 471,1914 454,1913 364,1901 364,1880"/>
+                <Baseline points="364,1895 562,1905 586,1906 629,1907 652,1907 672,1907 696,1908 890,1909 915,1909 1151,1911"/>
+                <TextEquiv>
+                    <Unicode>vorrichtung an 2 vorhandene Sprengwagen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l37" custom="readingOrder {index:36;}">
+                <Coords points="365,1914 384,1914 729,1917 1131,1921 1151,1926 1151,1954 1017,1963 1000,1963 800,1962 571,1960 365,1944 365,1914"/>
+                <Baseline points="365,1944 428,1946 571,1949 729,1951 766,1951 839,1952 871,1952 1033,1954 1069,1954 1151,1947"/>
+                <TextEquiv>
+                    <Unicode>700 ℳ.“ geſtrichen (vgl. einmalige Aus⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l38" custom="readingOrder {index:37;}">
+                <Coords points="362,1967 403,1957 403,1957 451,1957 483,1959 483,1998 451,2000 362,2000 362,1967"/>
+                <Baseline points="362,1989 483,1989"/>
+                <TextEquiv>
+                    <Unicode>gaben).</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l39" custom="readingOrder {index:38;}">
+                <Coords points="205,1998 740,1998 994,2004 994,2044 740,2046 621,2048 205,2030 205,1998"/>
+                <Baseline points="205,2030 311,2031 334,2032 354,2032 379,2033 419,2033 443,2034 624,2036 740,2038 748,2038 990,2042"/>
+                <TextEquiv>
+                    <Unicode>Titel 6 — „Bekleidungskammer“ —</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l40" custom="readingOrder {index:39;}">
+                <Coords points="309,2042 375,2042 700,2046 1095,2051 1110,2052 1148,2063 1148,2085 1095,2094 864,2094 527,2091 309,2085 309,2042"/>
+                <Baseline points="309,2073 390,2075 423,2076 469,2077 527,2078 732,2082 767,2082 829,2083 864,2083 1148,2085"/>
+                <TextEquiv>
+                    <Unicode>Poſ. 1c. Beſchaffung von Kleidungsſtücken</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l41" custom="readingOrder {index:40;}">
+                <Coords points="360,2088 373,2088 661,2089 1126,2096 1149,2107 1149,2129 661,2133 531,2133 360,2127 360,2088"/>
+                <Baseline points="360,2120 413,2121 454,2121 475,2122 513,2122 661,2125 705,2126 769,2126 817,2126 878,2126 915,2126 1056,2129 1098,2129 1149,2129"/>
+                <TextEquiv>
+                    <Unicode>für 5 Aufſeher und 139 Arbeiter der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l42" custom="readingOrder {index:41;}">
+                <Coords points="361,2132 671,2132 1079,2139 1112,2140 1147,2150 1147,2182 1051,2182 381,2178 361,2165 361,2132"/>
+                <Baseline points="361,2164 671,2169 725,2169 813,2170 867,2171 915,2172 972,2172 1006,2172 1051,2173 1147,2174"/>
+                <TextEquiv>
+                    <Unicode>Straßenreinigung 3333 ℳ. in Folge</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l43" custom="readingOrder {index:42;}">
+                <Coords points="358,2176 514,2176 1133,2184 1147,2200 1147,2210 1133,2217 1059,2226 1041,2226 735,2225 378,2219 358,2209 358,2176"/>
+                <Baseline points="358,2209 544,2211 573,2211 635,2212 668,2212 712,2213 735,2214 1004,2216 1041,2216 1146,2217"/>
+                <TextEquiv>
+                    <Unicode>Streichung von 20 Arbeitsburſchen herab⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l44" custom="readingOrder {index:43;}">
+                <Coords points="358,2231 395,2221 395,2221 459,2221 720,2224 720,2258 538,2264 525,2264 358,2263 358,2231"/>
+                <Baseline points="358,2253 459,2254 482,2254 538,2254 560,2254 646,2256 670,2257 720,2258"/>
+                <TextEquiv>
+                    <Unicode>geſetzt auf 2833 ℳ.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l45" custom="readingOrder {index:44;}">
+                <Coords points="477,2282 519,2282 817,2284 878,2296 878,2320 817,2329 742,2329 625,2327 477,2318 477,2282"/>
+                <Baseline points="477,2318 662,2319 686,2319 878,2319"/>
+                <TextEquiv>
+                    <Unicode>Einmalige Ausgaben.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l46" custom="readingOrder {index:45;}">
+                <Coords points="202,2338 252,2338 588,2339 994,2344 1068,2347 1144,2358 1144,2379 1068,2387 758,2387 432,2384 202,2371 202,2338"/>
+                <Baseline points="202,2371 315,2372 348,2371 376,2371 432,2372 644,2374 680,2375 716,2376 758,2376 994,2378 1034,2379 1144,2373"/>
+                <TextEquiv>
+                    <Unicode>Titel 7. Kabellegung zu unterirdiſchen Feuer⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l47" custom="readingOrder {index:46;}">
+                <Coords points="358,2394 405,2383 405,2383 462,2383 765,2386 1143,2390 1143,2425 914,2431 899,2431 447,2428 358,2416 358,2394"/>
+                <Baseline points="358,2416 612,2419 625,2419 676,2419 690,2419 719,2419 726,2419 809,2421 822,2421 887,2421 899,2422 970,2422 988,2422 1086,2423 1093,2423 1143,2423"/>
+                <TextEquiv>
+                    <Unicode>meldeleitungen als 2. Rate ſind ſtatt 50000 ℳ.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l48" custom="readingOrder {index:47;}">
+                <Coords points="359,2438 375,2428 375,2428 548,2428 775,2431 775,2478 725,2478 409,2470 359,2461 359,2438"/>
+                <Baseline points="359,2455 548,2462 575,2462 703,2463 725,2464 775,2464"/>
+                <TextEquiv>
+                    <Unicode>einzuſtellen 100000 ℳ.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l49" custom="readingOrder {index:48;}">
+                <Coords points="200,2485 306,2485 621,2486 1112,2492 1143,2493 1143,2526 1015,2531 420,2531 200,2518 200,2485"/>
+                <Baseline points="200,2518 306,2519 329,2519 359,2519 420,2520 621,2521 667,2521 729,2522 774,2522 957,2524 1002,2524 1055,2525 1094,2525 1143,2526"/>
+                <TextEquiv>
+                    <Unicode>Titel 8. Beſchaffung von Apparaten für die</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l50" custom="readingOrder {index:49;}">
+                <Coords points="356,2531 557,2531 1051,2536 1144,2538 1144,2579 1098,2579 511,2574 431,2573 356,2563 356,2531"/>
+                <Baseline points="356,2564 557,2565 592,2565 643,2565 677,2566 859,2566 891,2567 979,2568 1002,2568 1051,2569 1088,2569 1144,2570"/>
+                <TextEquiv>
+                    <Unicode>Telegraphie der Feuerwehr 4000 ℳ. auf</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l51" custom="readingOrder {index:50;}">
+                <Coords points="356,2574 397,2574 708,2576 880,2578 910,2579 959,2589 959,2611 910,2620 791,2620 379,2618 356,2608 356,2574"/>
+                <Baseline points="356,2608 477,2608 502,2609 555,2609 579,2609 768,2610 791,2610 959,2610"/>
+                <TextEquiv>
+                    <Unicode>Antrag des Magiſtrats geſtrichen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l52" custom="readingOrder {index:51;}">
+                <Coords points="198,2631 244,2631 625,2632 838,2634 1143,2638 1143,2671 1008,2678 918,2678 469,2676 198,2664 198,2631"/>
+                <Baseline points="198,2664 303,2665 329,2665 378,2665 425,2666 655,2667 681,2667 740,2668 763,2667 783,2667 807,2667 1048,2669 1084,2670 1143,2671"/>
+                <TextEquiv>
+                    <Unicode>Titel 12. „Anſchaffung von 6 Sprengwagen mit</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l53" custom="readingOrder {index:52;}">
+                <Coords points="352,2672 568,2672 1141,2682 1141,2716 903,2722 568,2719 352,2719 352,2672"/>
+                <Baseline points="352,2710 465,2710 482,2710 568,2711 578,2711 903,2713 926,2712 955,2713 983,2713 1066,2714 1090,2714 1141,2715"/>
+                <TextEquiv>
+                    <Unicode>Miller'ſcher Sprengvorrichtung je 1150 ℳ.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l54" custom="readingOrder {index:53;}">
+                <Coords points="420,2722 562,2720 601,2720 743,2723 783,2733 792,2748 792,2755 743,2765 729,2766 627,2766 345,2754 345,2722"/>
+                <Baseline points="352,2752 507,2754 530,2755 601,2756 627,2756 792,2755"/>
+                <TextEquiv>
+                    <Unicode>= 6900 ℳ.“ geſtrichen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l55" custom="readingOrder {index:54;}">
+                <Coords points="196,2777 303,2777 654,2778 1073,2783 1141,2795 1141,2817 1073,2826 1028,2826 467,2823 196,2810 196,2777"/>
+                <Baseline points="196,2810 303,2810 328,2810 378,2810 424,2811 654,2813 689,2813 752,2814 787,2814 807,2814 841,2815 975,2816 1010,2816 1141,2817"/>
+                <TextEquiv>
+                    <Unicode>Titel 13. „Anſchaffung von 2 eiſernen Schnee⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l56" custom="readingOrder {index:55;}">
+                <Coords points="351,2832 366,2822 366,2822 397,2822 923,2825 1089,2828 1128,2839 1138,2854 1138,2860 1089,2870 972,2870 366,2865 351,2861 351,2832"/>
+                <Baseline points="351,2854 478,2857 501,2857 530,2857 555,2856 619,2857 634,2857 682,2858 777,2858 859,2858 875,2858 948,2859 972,2859 1138,2860"/>
+                <TextEquiv>
+                    <Unicode>pflügen je 680 ℳ. = 1360 ℳ.“ geſtrichen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l57" custom="readingOrder {index:56;}">
+                <Coords points="193,2877 401,2873 401,2873 423,2873 650,2884 650,2914 423,2925 401,2925 193,2910 193,2877"/>
+                <Baseline points="193,2910 297,2910 321,2911 363,2911 385,2911 462,2912 483,2913 576,2914 601,2914 650,2906"/>
+                <TextEquiv>
+                    <Unicode>Titel 14 wird Titel 11.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l58" custom="readingOrder {index:57;}">
+                <Coords points="193,2921 259,2921 1104,2926 1141,2931 1141,2964 1104,2972 959,2972 519,2968 193,2956 193,2921"/>
+                <Baseline points="193,2955 298,2956 312,2956 352,2956 363,2957 426,2957 438,2958 617,2960 629,2960 862,2960 875,2960 926,2960 932,2960 1141,2964"/>
+                <TextEquiv>
+                    <Unicode>Titel 12 neu einzuſetzen „Anbringung der Miller'ſchen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l59" custom="readingOrder {index:58;}">
+                <Coords points="351,2966 681,2966 1058,2971 1140,2983 1140,3008 1015,3015 917,3015 370,3014 351,3001 351,2966"/>
+                <Baseline points="351,3000 681,3005 741,3004 782,3004 842,3005 862,3005 917,3006 1140,3008"/>
+                <TextEquiv>
+                    <Unicode>Sprengvorrichtung an 8 vorhandenen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l60" custom="readingOrder {index:59;}">
+                <Coords points="348,3011 380,3011 782,3016 798,3018 798,3031 801,3053 549,3056 532,3056 459,3055 382,3053 348,3044 348,3011"/>
+                <Baseline points="348,3035 591,3047 614,3047 701,3049 725,3049 796,3047"/>
+                <TextEquiv>
+                    <Unicode>Sprengwagen 2800 ℳ.“</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l61" custom="readingOrder {index:60;}">
+                <Coords points="570,3101 715,3101 764,3112 764,3139 715,3151 563,3151 563,3106"/>
+                <Baseline points="569,3138 764,3139"/>
+                <TextEquiv>
+                    <Unicode>Einnahme.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l62" custom="readingOrder {index:61;}">
+                <Coords points="188,3158 218,3158 671,3162 1063,3166 1124,3168 1137,3186 1137,3195 1124,3212 1046,3212 452,3207 188,3192 188,3158"/>
+                <Baseline points="188,3192 293,3194 318,3194 323,3194 339,3194 380,3195 394,3195 671,3198 683,3198 724,3199 739,3199 820,3200 833,3200 864,3202 901,3204 1137,3192"/>
+                <TextEquiv>
+                    <Unicode>Titel 1 — Feuerlöſchweſen — Poſ. 3. „Inanſpruch⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l63" custom="readingOrder {index:62;}">
+                <Coords points="345,3215 369,3207 369,3207 499,3207 970,3210 1115,3211 1137,3224 1137,3247 1115,3253 579,3253 369,3248 345,3239 345,3215"/>
+                <Baseline points="345,3239 464,3240 480,3241 533,3241 554,3242 737,3244 760,3244 929,3245 952,3245 1006,3245 1023,3245 1137,3246"/>
+                <TextEquiv>
+                    <Unicode>nahme der Feuerwehr außerhalb des Feuer⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l64" custom="readingOrder {index:63;}">
+                <Coords points="345,3284 345,3249 392,3245 408,3245 953,3254 1137,3258 1137,3301 631,3294 501,3292 383,3293 345,3284"/>
+                <Baseline points="345,3283 442,3284 474,3285 512,3285 599,3286 663,3287 685,3287 773,3289 788,3289 840,3290 861,3290 1057,3291 1078,3291 1137,3291"/>
+                <TextEquiv>
+                    <Unicode>löſchdienstes“ von 2200 ℳ. herabgeſetzt auf</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l65" custom="readingOrder {index:64;}">
+                <Coords points="347,3294 410,3294 516,3291 505,3329 499,3329 389,3327 347,3326 347,3294"/>
+                <Baseline points="347,3326 410,3327 499,3328 505,3328"/>
+                <TextEquiv>
+                    <Unicode>1100 ℳ.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Titel 2 (Sächliche Ausgaben) die Poſ. 1
+„Unterhaltung der Löſch⸗ und Uebungs⸗
+geräthe einſchl. der Dampfſpritzen“ von
+6040 ℳ. erhöht auf 6540 ℳ.
+Poſ. 14. „Brennmaterialien“ von 2000 ℳ.
+herabgeſetzt auf 1700 ℳ.
+ⅠⅠ. Straßenreinigung und Beſprengung.
+Titel 3 „Perſönliche Ausgaben“.
+Poſ. 3. „Lohn für 8 Kolonnenführer“ zu
+ändern in 9 Kolonnenführer.
+Poſ. 4. „Lohn für 91 Straßenarbeiter“ zu
+ändern in 90 Straßenarbeiter. Die ein⸗
+geſtellten Beträge bleiben unverändert.
+Poſ. 5. „Lohn für 40 Arbeitsburſchen
+24870 ℳ.“ zu ändern in „Lohn für
+20 Arbeitsburſchen“ 12435 ℳ.“ In der
+Rubrik Erläuterungen ſind in der An⸗
+merkung zu dieſer Poſition die Worte „die
+vorhandenen Arbeitsburſchen werden auf⸗
+gebraucht“ zu ſtreichen.
+Titel 4 „Sächliche Ausgaben“.
+Poſ. 1a. Beſpannung und Bedienung von
+13 Kehrmaſchinen je 3300 ℳ. = 42900 ℳ.
+herabgeſetzt auf 11 Kehrmaſchinen und
+36300 ℳ.
+Poſ. 1b. Beſpannung und Bedienung von
+14 Spülwagen je 3300 ℳ. = 46200 ℳ.
+herabgeſetzt auf 12 Spülwagen und 39600 ℳ.
+Poſ. 1d. Beſprengung von 33 Wagen je
+6 Monate je Monat und Wagen 250 ℳ.
+= 49600 ℳ. herabgeſetzt auf 27 Wagen
+und 40500 ℳ.
+Poſ. 4. „Anſchaffung von je 2 Straßenſpül⸗
+wagen 4275,70 ℳ. wird geſtrichen, und
+Poſ. 5. „Anbringung der Miller'ſchen Spreng⸗
+vorrichtung an 2 vorhandene Sprengwagen
+700 ℳ.“ geſtrichen (vgl. einmalige Aus⸗
+gaben).
+Titel 6 — „Bekleidungskammer“ —
+Poſ. 1c. Beſchaffung von Kleidungsſtücken
+für 5 Aufſeher und 139 Arbeiter der
+Straßenreinigung 3333 ℳ. in Folge
+Streichung von 20 Arbeitsburſchen herab⸗
+geſetzt auf 2833 ℳ.
+Einmalige Ausgaben.
+Titel 7. Kabellegung zu unterirdiſchen Feuer⸗
+meldeleitungen als 2. Rate ſind ſtatt 50000 ℳ.
+einzuſtellen 100000 ℳ.
+Titel 8. Beſchaffung von Apparaten für die
+Telegraphie der Feuerwehr 4000 ℳ. auf
+Antrag des Magiſtrats geſtrichen.
+Titel 12. „Anſchaffung von 6 Sprengwagen mit
+Miller'ſcher Sprengvorrichtung je 1150 ℳ.
+= 6900 ℳ.“ geſtrichen.
+Titel 13. „Anſchaffung von 2 eiſernen Schnee⸗
+pflügen je 680 ℳ. = 1360 ℳ.“ geſtrichen.
+Titel 14 wird Titel 11.
+Titel 12 neu einzuſetzen „Anbringung der Miller'ſchen
+Sprengvorrichtung an 8 vorhandenen
+Sprengwagen 2800 ℳ.“
+Einnahme.
+Titel 1 — Feuerlöſchweſen — Poſ. 3. „Inanſpruch⸗
+nahme der Feuerwehr außerhalb des Feuer⸗
+löſchdienstes“ von 2200 ℳ. herabgeſetzt auf
+1100 ℳ.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <SeparatorRegion id="r_6" custom="readingOrder {index:2;}">
+            <Coords points="1867,1706 2129,1706 2129,1716 1867,1716"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_7" custom="readingOrder {index:3;}">
+            <Coords points="146,3651 313,3651 313,3658 146,3658"/>
+        </SeparatorRegion>
+        <TextRegion type="paragraph" id="r3" custom="readingOrder {index:4;} structure {type:paragraph;}">
+            <Coords points="1199,266 2171,273 2173,1348 1183,1345"/>
+            <TextLine id="r3l1" custom="readingOrder {index:0;}">
+                <Coords points="1560,283 1704,283 1784,286 1797,316 1797,326 1704,335 1586,335 1560,327 1560,283"/>
+                <Baseline points="1560,326 1718,326 1745,326 1797,326"/>
+                <TextEquiv>
+                    <Unicode>Kapitel Ⅹ.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l2" custom="readingOrder {index:1;}">
+                <Coords points="1242,341 1492,341 2050,348 2113,361 2113,385 1596,388 1515,388 1242,384 1242,341"/>
+                <Baseline points="1242,376 1492,378 1515,378 1596,378 1618,378 1913,382 1937,383 2113,385"/>
+                <TextEquiv>
+                    <Unicode>Berichterſtatter Herr Stadtverordneter Boerner.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l3" custom="readingOrder {index:2;}">
+                <Coords points="1513,415 1622,415 1752,416 1829,418 1840,442 1840,453 1622,459 1592,459 1513,451 1513,415"/>
+                <Baseline points="1513,450 1670,451 1693,452 1784,452 1807,453 1840,453"/>
+                <TextEquiv>
+                    <Unicode>Ausgabe Seite 3.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l4" custom="readingOrder {index:3;}">
+                <Coords points="1204,474 1238,473 1238,473 1248,473 1632,476 1655,487 1655,519 1389,519 1204,509 1204,474"/>
+                <Baseline points="1204,508 1303,509 1329,509 1345,509 1370,509 1655,510"/>
+                <TextEquiv>
+                    <Unicode>Titel 1 Parkverwaltung.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l5" custom="readingOrder {index:4;}">
+                <Coords points="1308,520 1415,516 1459,516 1763,520 2126,526 2150,538 2150,570 1459,561 1405,561 1308,560 1308,520"/>
+                <Baseline points="1308,552 1415,553 1450,553 1459,553 1479,554 1763,557 1798,557 1849,558 1867,558 1912,559 1937,559 2150,562"/>
+                <TextEquiv>
+                    <Unicode>Poſ. 11 „Pflaſterarbeiten um die Baumkränze</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l6" custom="readingOrder {index:5;}">
+                <Coords points="1358,566 1380,565 1467,564 1518,564 1680,565 1729,567 1729,592 1729,604 1665,608 1564,608 1358,597 1358,566"/>
+                <Baseline points="1358,597 1444,597 1467,598 1536,600 1564,599 1729,603"/>
+                <TextEquiv>
+                    <Unicode>3000 ℳ.“ geſtrichen,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l7" custom="readingOrder {index:6;}">
+                <Coords points="1305,607 1563,607 2039,612 2109,615 2147,626 2147,648 2039,655 1901,655 1511,651 1305,647 1305,607"/>
+                <Baseline points="1305,640 1388,641 1411,641 1450,641 1474,641 1674,642 1696,642 1745,643 1769,643 1878,645 1901,645 2049,647 2072,648 2147,642"/>
+                <TextEquiv>
+                    <Unicode>Poſ. 12 „Leiſtungen für andere ſtädtiſche Ver⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l8" custom="readingOrder {index:7;}">
+                <Coords points="1358,662 1410,653 1421,653 1770,654 2150,656 2153,698 1928,698 1885,698 1478,695 1358,684 1358,662"/>
+                <Baseline points="1358,684 1533,685 1566,686 1628,686 1661,686 1712,687 1734,687 1863,689 1885,689 1938,690 1963,690 2144,692"/>
+                <TextEquiv>
+                    <Unicode>waltungen und für Private pp. 3500 ℳ.“</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l9" custom="readingOrder {index:8;}">
+                <Coords points="1357,695 1550,695 1627,696 1809,699 1809,734 1550,739 1443,739 1357,738 1357,695"/>
+                <Baseline points="1357,729 1550,730 1573,730 1627,731 1648,731 1736,731 1759,732 1809,734"/>
+                <TextEquiv>
+                    <Unicode>herabgeſetzt auf 2500 ℳ.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l10" custom="readingOrder {index:9;}">
+                <Coords points="1199,750 1243,750 1780,754 1827,757 1827,789 1788,799 1579,799 1385,794 1199,784 1199,750"/>
+                <Baseline points="1199,784 1298,785 1321,785 1342,786 1366,786 1535,787 1559,787 1827,789"/>
+                <TextEquiv>
+                    <Unicode>Titel 2 Städtiſche Volksbibliothek.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l11" custom="readingOrder {index:10;}">
+                <Coords points="1304,796 1385,796 1813,799 2035,801 2144,805 2144,838 2123,844 2065,846 1884,842 1451,839 1304,836 1304,796"/>
+                <Baseline points="1304,829 1385,829 1404,829 1423,829 1451,830 1591,831 1613,831 1703,833 1720,833 1847,834 1864,834 2065,837 2080,837 2144,838"/>
+                <TextEquiv>
+                    <Unicode>Poſ. 3 „Ankauf neuer Bücher, Büchererſatz und</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l12" custom="readingOrder {index:11;}">
+                <Coords points="1357,839 1398,839 1726,843 2121,848 2144,849 2144,881 2121,890 2037,890 1662,883 1377,875 1357,873 1357,839"/>
+                <Baseline points="1357,873 1533,874 1556,874 1620,876 1643,876 1782,877 1809,877 1919,878 1942,878 2009,879 2037,880 2144,881"/>
+                <TextEquiv>
+                    <Unicode>Einbinden von Büchern 10000 ℳ.“ herab⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l13" custom="readingOrder {index:12;}">
+                <Coords points="1355,894 1392,885 1392,885 1542,885 1763,887 2001,890 2121,893 2144,896 2144,926 2021,932 2003,932 1818,931 1355,926 1355,894"/>
+                <Baseline points="1355,917 1452,918 1486,918 1542,918 1564,919 1651,920 1673,920 1724,920 1752,921 1857,921 1876,922 2038,924 2062,924 2144,926"/>
+                <TextEquiv>
+                    <Unicode>geſetzt auf 8000 ℳ. (vergl. einmalige Aus⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l14" custom="readingOrder {index:13;}">
+                <Coords points="1356,938 1399,928 1399,928 1416,928 1516,929 1646,931 1646,971 1616,971 1356,970 1356,938"/>
+                <Baseline points="1356,960 1454,961 1478,962 1559,962 1582,962 1646,962"/>
+                <TextEquiv>
+                    <Unicode>gaben Titel 24).</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l15" custom="readingOrder {index:14;}">
+                <Coords points="1195,984 1240,984 1553,985 1617,986 1701,990 1701,1004 1714,1021 1617,1026 1403,1026 1362,1025 1195,1018 1195,984"/>
+                <Baseline points="1195,1017 1294,1018 1317,1018 1338,1018 1362,1018 1700,1019"/>
+                <TextEquiv>
+                    <Unicode>Titel 6 „Volksbadeanſtalt.“</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l16" custom="readingOrder {index:15;}">
+                <Coords points="1300,1029 2108,1025 2108,1025 2144,1025 2144,1078 2108,1078 1300,1072 1300,1029"/>
+                <Baseline points="1300,1061 1383,1062 1402,1062 1421,1062 1446,1063 1719,1065 1733,1066 1762,1066 1782,1066 1800,1066 1820,1066 1879,1067 1898,1067 1958,1068 1974,1069 2108,1071 2142,1072 2144,1072"/>
+                <TextEquiv>
+                    <Unicode>Poſ. 7 „Brennmaterial u. ſ. w.“ von 24000 ℳ.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l17" custom="readingOrder {index:16;}">
+                <Coords points="1349,1074 1417,1073 1443,1073 1620,1075 1850,1078 1852,1115 1620,1115 1417,1115 1349,1114 1349,1074"/>
+                <Baseline points="1349,1106 1542,1107 1566,1108 1620,1108 1651,1108 1682,1108 1702,1109 1844,1109"/>
+                <TextEquiv>
+                    <Unicode>herabgeſetzt auf 21 000 ℳ.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l18" custom="readingOrder {index:17;}">
+                <Coords points="1299,1115 1345,1115 1674,1119 2124,1125 2140,1140 2140,1153 2124,1159 2065,1167 2031,1167 1510,1160 1325,1156 1299,1155 1299,1115"/>
+                <Baseline points="1299,1148 1381,1149 1404,1149 1440,1150 1467,1150 1787,1153 1811,1154 1875,1155 1892,1155 1956,1157 1985,1157 2010,1158 2031,1158 2140,1149"/>
+                <TextEquiv>
+                    <Unicode>Poſ. 11 „Waſſerverbrauch“ von 800 ℳ. herab⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l19" custom="readingOrder {index:18;}">
+                <Coords points="1351,1170 1388,1160 1447,1160 1701,1164 1700,1204 1525,1203 1415,1203 1351,1202 1351,1170"/>
+                <Baseline points="1351,1193 1447,1194 1471,1194 1525,1195 1547,1195 1689,1198"/>
+                <TextEquiv>
+                    <Unicode>geſetzt auf 600 ℳ.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l20" custom="readingOrder {index:19;}">
+                <Coords points="1191,1214 1235,1214 1402,1216 1933,1223 2121,1226 2138,1241 2138,1256 2121,1259 2046,1266 2029,1266 1555,1262 1382,1258 1357,1257 1191,1248 1191,1214"/>
+                <Baseline points="1191,1248 1289,1249 1322,1249 1332,1250 1357,1250 1436,1251 1456,1251 1476,1251 1512,1251 1567,1252 1590,1252 1710,1253 1735,1254 1790,1254 1815,1255 2004,1258 2029,1258 2138,1256"/>
+                <TextEquiv>
+                    <Unicode>Titel 8 Poſ. 6 auf Antrag des Magiſtrats herab⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l21" custom="readingOrder {index:20;}">
+                <Coords points="1349,1271 1386,1261 1386,1261 1440,1261 1793,1266 2060,1270 2102,1271 2139,1273 2139,1304 2102,1313 2084,1313 1413,1304 1349,1302 1349,1271"/>
+                <Baseline points="1349,1294 1445,1295 1467,1295 1529,1296 1553,1296 1640,1297 1678,1298 1701,1298 1738,1299 1793,1299 1815,1299 1901,1300 1925,1301 1974,1302 1997,1302 2060,1303 2084,1304 2139,1304"/>
+                <TextEquiv>
+                    <Unicode>geſetzt von 4850 ℳ. auf 4025 ℳ. und hat</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l22" custom="readingOrder {index:21;}">
+                <Coords points="1348,1315 1364,1306 1364,1306 1440,1306 1597,1309 1654,1311 1707,1317 1707,1341 1584,1346 1439,1345 1427,1345 1348,1338 1348,1315"/>
+                <Baseline points="1348,1338 1405,1338 1427,1339 1506,1339 1527,1340 1564,1340 1588,1340 1707,1341"/>
+                <TextEquiv>
+                    <Unicode>wie folgt zu lauten:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Kapitel Ⅹ.
+Berichterſtatter Herr Stadtverordneter Boerner.
+Ausgabe Seite 3.
+Titel 1 Parkverwaltung.
+Poſ. 11 „Pflaſterarbeiten um die Baumkränze
+3000 ℳ.“ geſtrichen,
+Poſ. 12 „Leiſtungen für andere ſtädtiſche Ver⸗
+waltungen und für Private pp. 3500 ℳ.“
+herabgeſetzt auf 2500 ℳ.
+Titel 2 Städtiſche Volksbibliothek.
+Poſ. 3 „Ankauf neuer Bücher, Büchererſatz und
+Einbinden von Büchern 10000 ℳ.“ herab⸗
+geſetzt auf 8000 ℳ. (vergl. einmalige Aus⸗
+gaben Titel 24).
+Titel 6 „Volksbadeanſtalt.“
+Poſ. 7 „Brennmaterial u. ſ. w.“ von 24000 ℳ.
+herabgeſetzt auf 21 000 ℳ.
+Poſ. 11 „Waſſerverbrauch“ von 800 ℳ. herab⸗
+geſetzt auf 600 ℳ.
+Titel 8 Poſ. 6 auf Antrag des Magiſtrats herab⸗
+geſetzt von 4850 ℳ. auf 4025 ℳ. und hat
+wie folgt zu lauten:</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TableRegion id="Table_1644336545638_1176" custom="readingOrder {index:5;}">
+            <Coords points="1327,1348 2156,1348 2156,1760 1327,1760"/>
+            <TableCell row="0" col="0" rowSpan="1" colSpan="2" id="TableCell_1644336582161_1199">
+                <Coords points="1327,1348 1327,1389 1961,1395 2156,1398 2156,1348 1962,1348"/>
+                <TextLine id="TableCell_1644336582161_1199l0" custom="readingOrder {index:0;}">
+                    <Coords points="1400,1349 1479,1348 1479,1348 1486,1348 1929,1355 1986,1359 2039,1366 2039,1389 2023,1390 1929,1394 1814,1394 1734,1393 1400,1389 1400,1349"/>
+                    <Baseline points="1400,1382 1467,1383 1479,1383 1537,1383 1561,1384 1748,1386 1773,1386 2039,1383"/>
+                    <TextEquiv>
+                        <Unicode>Für die öffentlichen Abortanſtalten:</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 3 4</CornerPts>
+            </TableCell>
+            <TableCell row="1" col="0" rowSpan="1" colSpan="1" id="TableCell_1644336579120_1193">
+                <Coords points="1327,1389 1327,1649 1953,1658 1961,1395"/>
+                <TextLine id="TableCell_1644336579120_1193l0" custom="readingOrder {index:0;}">
+                    <Coords points="1347,1398 1454,1393 1454,1393 1472,1393 1793,1396 1879,1398 1928,1401 1928,1439 1860,1439 1658,1438 1347,1423 1347,1398"/>
+                    <Baseline points="1347,1423 1375,1424 1401,1424 1442,1425 1454,1425 1512,1426 1519,1426 1742,1428 1756,1428 1832,1430 1839,1430 1928,1432"/>
+                    <TextEquiv>
+                        <Unicode>a) an den Unternehmer Otto Protz</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <TextLine id="TableCell_1644336579120_1193l1" custom="readingOrder {index:1;}">
+                    <Coords points="1397,1436 1495,1436 1868,1441 1926,1444 1926,1475 1868,1481 1847,1481 1672,1480 1465,1475 1397,1468 1397,1436"/>
+                    <Baseline points="1397,1460 1430,1469 1465,1469 1583,1470 1620,1471 1736,1472 1765,1473 1883,1475 1907,1475 1926,1475"/>
+                    <TextEquiv>
+                        <Unicode>in Berlin, Auguſt Straße 6</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <TextLine id="TableCell_1644336579120_1193l2" custom="readingOrder {index:2;}">
+                    <Coords points="1396,1480 1642,1480 1856,1484 1896,1489 1927,1500 1927,1513 1912,1518 1409,1521 1396,1521 1396,1480"/>
+                    <Baseline points="1396,1512 1447,1513 1463,1513 1519,1513 1539,1513 1662,1514 1678,1514 1740,1515 1759,1516 1807,1517 1818,1517 1927,1509"/>
+                    <TextEquiv>
+                        <Unicode>für den Betrieb und die Unter⸗</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <TextLine id="TableCell_1644336579120_1193l3" custom="readingOrder {index:3;}">
+                    <Coords points="1399,1528 1443,1525 1443,1525 1452,1525 1701,1526 1820,1527 1863,1530 1877,1532 1925,1540 1925,1568 1684,1568 1513,1566 1399,1562 1399,1528"/>
+                    <Baseline points="1399,1556 1531,1558 1546,1558 1611,1559 1626,1559 1647,1559 1664,1559 1925,1562"/>
+                    <TextEquiv>
+                        <Unicode>haltung von 9 Abortanſtalten,</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <TextLine id="TableCell_1644336579120_1193l4" custom="readingOrder {index:4;}">
+                    <Coords points="1395,1578 1435,1569 1469,1568 1469,1568 1487,1568 1779,1569 1868,1573 1889,1574 1924,1583 1924,1606 1889,1616 1834,1616 1559,1612 1395,1608 1395,1578"/>
+                    <Baseline points="1395,1600 1527,1601 1548,1602 1779,1604 1796,1604 1924,1606"/>
+                    <TextEquiv>
+                        <Unicode>zahlbar vierteljährlich nachher</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <TextLine id="line_1645430553512_155" custom="readingOrder {index:5;}">
+                    <Coords points="1396,1621 1439,1611 1451,1611 1739,1615 1784,1616 1843,1623 1843,1655 1460,1650 1439,1650 1396,1644"/>
+                    <Baseline points="1396,1644 1451,1645 1473,1645 1633,1647 1649,1647 1843,1649"/>
+                    <TextEquiv>
+                        <Unicode>auf beſondere Anweiſung</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="1" col="1" rowSpan="1" colSpan="1" id="TableCell_1644336579120_1191">
+                <Coords points="1961,1395 1953,1658 2156,1662 2156,1398"/>
+                <TextLine id="line_1645430569149_168" custom="readingOrder {index:0;}">
+                    <Coords points="1967,1609 2138,1612 2137,1659 1966,1656"/>
+                    <Baseline points="1966,1651 2137,1654"/>
+                    <TextEquiv>
+                        <Unicode>3375 ℳ.</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="2" col="0" rowSpan="1" colSpan="1" id="TableCell_1644336586949_1203">
+                <Coords points="1327,1649 1327,1711 1951,1711 1953,1658"/>
+                <TextLine id="TableCell_1644336586949_1203l0" custom="readingOrder {index:0;}">
+                    <Coords points="1342,1656 1414,1652 1414,1652 1535,1652 1667,1653 1748,1669 1748,1701 1696,1701 1414,1699 1363,1696 1342,1686 1342,1656"/>
+                    <Baseline points="1342,1685 1374,1687 1393,1688 1672,1691 1696,1692 1748,1692"/>
+                    <TextEquiv>
+                        <Unicode>b) Waſſerverbrauch pp.</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="3" col="0" rowSpan="1" colSpan="1" id="TableCell_1644336586949_1201">
+                <Coords points="1327,1711 1327,1760 1951,1760 1951,1711"/>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="2" col="1" rowSpan="1" colSpan="1" id="TableCell_1644336586971_1207">
+                <Coords points="1953,1658 1951,1711 2156,1711 2156,1662"/>
+                <TextLine id="TableCell_1644336586971_1207l0" custom="readingOrder {index:0;}">
+                    <Coords points="1989,1665 2033,1664 2126,1665 2117,1689 2117,1704 2101,1704 1989,1696 1989,1665"/>
+                    <Baseline points="1989,1696 2054,1695 2101,1695 2117,1695"/>
+                    <TextEquiv>
+                        <Unicode>650 „</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="3" col="1" rowSpan="1" colSpan="1" id="TableCell_1644336586971_1205">
+                <Coords points="1951,1711 1951,1760 2156,1760 2156,1711"/>
+                <TextLine id="TableCell_1644336586971_1205l0" custom="readingOrder {index:0;}">
+                    <Coords points="1967,1718 2011,1718 2136,1719 2143,1755 1990,1749 1967,1748 1967,1718"/>
+                    <Baseline points="1967,1748 2135,1750"/>
+                    <TextEquiv>
+                        <Unicode>4025 ℳ.</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+        </TableRegion>
+        <TextRegion type="paragraph" id="r4" custom="readingOrder {index:6;} structure {type:paragraph;}">
+            <Coords points="1177,1768 2171,1768 2171,3376 1155,3356"/>
+            <TextLine id="r4l1" custom="readingOrder {index:0;}">
+                <Coords points="1430,1769 1473,1769 1824,1774 1880,1785 1880,1809 1773,1815 1741,1815 1603,1813 1430,1803 1430,1769"/>
+                <Baseline points="1430,1802 1645,1805 1668,1805 1880,1809"/>
+                <TextEquiv>
+                    <Unicode>Einmalige Ausgaben.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l2" custom="readingOrder {index:1;}">
+                <Coords points="1181,1823 1224,1823 1574,1826 1879,1832 2081,1836 2131,1846 2131,1870 2026,1877 2013,1877 1710,1873 1367,1865 1181,1856 1181,1823"/>
+                <Baseline points="1181,1855 1276,1857 1303,1857 1340,1858 1367,1858 1574,1861 1608,1862 1671,1863 1710,1864 1929,1867 1970,1867 2026,1868 2063,1869 2131,1870"/>
+                <TextEquiv>
+                    <Unicode>Titel 13 „Neuanlage von Raſenſtreifen auf dem</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l3" custom="readingOrder {index:2;}">
+                <Coords points="1286,1868 1326,1868 2020,1875 2129,1881 2129,1914 2020,1918 1827,1918 1306,1910 1286,1902 1286,1868"/>
+                <Baseline points="1286,1901 1566,1905 1611,1905 1750,1908 1795,1909 2020,1912 2065,1913 2129,1914"/>
+                <TextEquiv>
+                    <Unicode>Kurfürſtendamm zwiſchen Uhlandſtraße und</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l4" custom="readingOrder {index:3;}">
+                <Coords points="1285,1912 1313,1912 1827,1916 2088,1919 2131,1939 2131,1952 2088,1965 1992,1965 1428,1954 1285,1952 1285,1912"/>
+                <Baseline points="1285,1946 1388,1947 1404,1947 1548,1949 1563,1949 1838,1952 1854,1953 1894,1953 1910,1954 1962,1955 1975,1955 2129,1955"/>
+                <TextEquiv>
+                    <Unicode>Kaiſer Wilhelm Gedächtnißkirche an der Straßen⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l5" custom="readingOrder {index:4;}">
+                <Coords points="1285,1957 1302,1957 1428,1958 1790,1961 1804,1963 1842,1974 1853,1990 1853,1995 1804,2004 1688,2004 1390,1997 1285,1988 1285,1957"/>
+                <Baseline points="1288,1988 1478,1991 1506,1991 1589,1993 1613,1994 1663,1995 1688,1995 1853,1993"/>
+                <TextEquiv>
+                    <Unicode>dammſeite“ 1075 ℳ. geſtrichen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l6" custom="readingOrder {index:5;}">
+                <Coords points="1177,2012 1224,2012 2069,2018 2126,2035 2126,2067 2069,2065 1926,2066 1163,2039 1177,2012"/>
+                <Baseline points="1177,2044 1276,2045 1304,2046 1343,2046 1377,2047 1454,2048 1489,2048 1570,2049 1607,2050 1656,2051 1693,2051 1746,2052 1769,2052 1872,2054 1905,2054 2126,2058"/>
+                <TextEquiv>
+                    <Unicode>Titel 14 wird Titel 13, ſoll lauten „Beſchaffung</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l7" custom="readingOrder {index:6;}">
+                <Coords points="1281,2066 1431,2060 1513,2059 1513,2059 1857,2059 2044,2068 2127,2072 2127,2102 1857,2103 1580,2103 1281,2089 1281,2066"/>
+                <Baseline points="1281,2089 1345,2090 1369,2090 1414,2091 1431,2091 1496,2092 1513,2092 1857,2097 1881,2097 1899,2098 1918,2098 1956,2099 2005,2100 2044,2101 2063,2101 2127,2102"/>
+                <TextEquiv>
+                    <Unicode>von ca. 200 Baumſcheibengittern à 15 ℳ.“ und</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l8" custom="readingOrder {index:7;}">
+                <Coords points="1282,2110 1314,2100 1314,2100 1322,2100 1587,2102 2128,2112 2128,2148 1942,2150 1932,2150 1395,2146 1282,2133 1282,2110"/>
+                <Baseline points="1282,2133 1358,2134 1395,2135 1587,2137 1615,2138 1678,2138 1704,2139 1790,2140 1811,2141 1862,2142 1887,2142 1942,2143 1965,2144 2052,2145 2076,2146 2128,2147"/>
+                <TextEquiv>
+                    <Unicode>wird herabgeſetzt von 7500 ℳ. auf 3000 ℳ.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l9" custom="readingOrder {index:8;}">
+                <Coords points="1176,2156 1219,2156 2050,2163 2127,2181 2127,2213 2049,2214 1916,2207 1176,2189 1176,2156"/>
+                <Baseline points="1176,2189 1275,2190 1300,2191 1340,2191 1376,2192 1452,2193 1487,2193 1568,2194 1606,2195 1656,2196 1693,2196 1750,2197 1773,2197 1878,2199 1905,2200 2127,2204"/>
+                <TextEquiv>
+                    <Unicode>Titel 15 wird Titel 14, ſoll lauten „Beſchaffung</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l10" custom="readingOrder {index:9;}">
+                <Coords points="1276,2211 1432,2206 1532,2205 1834,2205 2127,2216 2127,2248 1834,2251 1550,2246 1276,2235 1276,2211"/>
+                <Baseline points="1276,2234 1340,2235 1369,2235 1413,2236 1432,2236 1496,2238 1532,2238 1834,2243 1859,2243 1877,2244 1903,2244 1944,2245 1966,2245 2036,2247 2063,2247 2127,2248"/>
+                <TextEquiv>
+                    <Unicode>von ca. 200 Baumſchutzgittern à 10 ℳ.“ und</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l11" custom="readingOrder {index:10;}">
+                <Coords points="1281,2256 1312,2246 1312,2246 1358,2246 1849,2252 2124,2258 2124,2293 1939,2296 1928,2296 1654,2295 1281,2278 1281,2256"/>
+                <Baseline points="1281,2278 1358,2279 1382,2280 1446,2281 1469,2281 1556,2283 1579,2283 1629,2284 1654,2284 1849,2287 1884,2288 1939,2288 1962,2288 2050,2291 2073,2292 2124,2284"/>
+                <TextEquiv>
+                    <Unicode>wird von 3600 ℳ. herabgeſetzt auf 2000 ℳ.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l12" custom="readingOrder {index:11;}">
+                <Coords points="1333,2303 1361,2303 1768,2308 1839,2310 1890,2320 1890,2344 1768,2351 1742,2351 1636,2348 1333,2337 1333,2303"/>
+                <Baseline points="1333,2336 1396,2337 1420,2337 1511,2339 1534,2339 1614,2340 1636,2340 1670,2340 1693,2341 1890,2344"/>
+                <TextEquiv>
+                    <Unicode>Als neuer Titel iſt einzuſtellen:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l13" custom="readingOrder {index:12;}">
+                <Coords points="1173,2344 1217,2344 1815,2352 2009,2357 2124,2370 2124,2393 2009,2398 1992,2398 1388,2389 1173,2378 1173,2344"/>
+                <Baseline points="1173,2377 1271,2379 1298,2379 1336,2380 1372,2380 1589,2384 1624,2384 1676,2385 1711,2386 1871,2389 1906,2389 2027,2391 2060,2392 2124,2393"/>
+                <TextEquiv>
+                    <Unicode>Titel 15 Bepflanzung der Bleibtreu Straße von</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l14" custom="readingOrder {index:13;}">
+                <Coords points="1278,2390 1501,2390 2087,2399 2125,2415 2125,2444 2089,2449 1953,2441 1380,2435 1333,2433 1278,2423 1278,2390"/>
+                <Baseline points="1278,2423 1501,2427 1540,2427 1660,2430 1698,2429 1749,2430 1788,2431 1957,2434 1993,2435 2125,2438"/>
+                <TextEquiv>
+                    <Unicode>Lietzenburger Straße bis Peſtalozzi Straße,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l15" custom="readingOrder {index:14;}">
+                <Coords points="1278,2436 1382,2436 1854,2441 2104,2447 2124,2453 2124,2481 2053,2488 1954,2488 1539,2481 1315,2469 1278,2467 1278,2436"/>
+                <Baseline points="1278,2467 1330,2469 1353,2469 1498,2470 1521,2471 1639,2473 1662,2473 1725,2474 1750,2475 1910,2478 1933,2478 2053,2481 2072,2481 2124,2474"/>
+                <TextEquiv>
+                    <Unicode>der Krumme Straße von Bismarck Straße bis</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l16" custom="readingOrder {index:15;}">
+                <Coords points="1278,2478 1530,2478 1920,2487 2108,2492 2125,2503 2125,2527 2108,2534 2004,2534 1300,2524 1278,2514 1278,2478"/>
+                <Baseline points="1278,2514 1530,2516 1561,2516 1692,2518 1728,2519 1780,2519 1810,2520 1980,2524 2004,2524 2125,2527"/>
+                <TextEquiv>
+                    <Unicode>Wilmersdorfer Straße, der Weimarer Straße</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l17" custom="readingOrder {index:16;}">
+                <Coords points="1277,2533 1376,2524 1376,2524 1478,2524 1823,2530 2098,2536 2126,2547 2126,2577 1992,2577 1808,2576 1578,2569 1277,2555 1277,2533"/>
+                <Baseline points="1277,2555 1341,2556 1376,2557 1534,2559 1558,2560 1680,2562 1714,2562 1766,2563 1790,2564 1960,2568 1992,2569 2126,2570"/>
+                <TextEquiv>
+                    <Unicode>von Bismarck Straße bis Peſtalozzi Straße,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l18" custom="readingOrder {index:17;}">
+                <Coords points="1277,2567 1390,2567 1639,2571 2039,2579 2091,2581 2125,2586 2125,2614 2039,2620 1934,2620 1369,2612 1277,2599 1277,2567"/>
+                <Baseline points="1277,2599 1330,2600 1353,2600 1520,2603 1536,2603 1655,2606 1679,2606 1741,2607 1757,2607 1916,2610 1934,2611 2055,2613 2072,2614 2125,2607"/>
+                <TextEquiv>
+                    <Unicode>der Peſtalozzi Straße von Grolman Straße bis</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l19" custom="readingOrder {index:18;}">
+                <Coords points="1275,2610 1311,2610 1937,2617 2091,2625 2126,2635 2126,2659 1937,2662 1786,2662 1415,2655 1291,2651 1275,2644 1275,2610"/>
+                <Baseline points="1275,2643 1381,2645 1415,2645 1565,2648 1598,2648 1718,2650 1754,2651 1937,2655 1972,2656 2036,2657 2072,2658 2126,2659"/>
+                <TextEquiv>
+                    <Unicode>Kaiſer Friedrich Straße (Nordſeite) und der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l20" custom="readingOrder {index:19;}">
+                <Coords points="1277,2654 1318,2654 1522,2658 1626,2661 1733,2665 1737,2696 1522,2699 1505,2699 1300,2698 1277,2688 1277,2654"/>
+                <Baseline points="1277,2688 1396,2689 1420,2690 1538,2691 1563,2691 1730,2693"/>
+                <TextEquiv>
+                    <Unicode>Goethe Straße 6000 ℳ.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l21" custom="readingOrder {index:20;}">
+                <Coords points="1170,2709 1207,2709 2032,2718 2125,2737 2125,2761 2086,2769 2032,2773 1898,2773 1582,2762 1352,2753 1186,2745 1170,2743 1170,2709"/>
+                <Baseline points="1170,2742 1268,2744 1292,2745 1331,2745 1352,2746 1408,2747 1422,2747 1527,2749 1546,2749 1756,2753 1773,2753 1855,2755 1866,2755 2125,2761"/>
+                <TextEquiv>
+                    <Unicode>Titel 21 ſoll lauten „Herſtellung einer ſiebenſtändigen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l22" custom="readingOrder {index:21;}">
+                <Coords points="1266,2757 1310,2757 1445,2758 1503,2759 1894,2767 2087,2771 2125,2782 2125,2805 1947,2812 1928,2812 1288,2800 1266,2791 1266,2757"/>
+                <Baseline points="1266,2791 1558,2794 1581,2794 1633,2795 1650,2796 1846,2800 1863,2800 1947,2802 1965,2802 2030,2804 2046,2804 2125,2799"/>
+                <TextEquiv>
+                    <Unicode>Bedürfnißanſtalt am Spandauer Berg und Ver⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l23" custom="readingOrder {index:22;}">
+                <Coords points="1274,2800 1384,2800 1896,2809 2074,2815 2126,2817 2126,2850 1516,2850 1303,2843 1274,2841 1274,2800"/>
+                <Baseline points="1274,2834 1384,2835 1421,2836 1472,2837 1504,2838 1739,2842 1775,2843 1896,2845 1932,2846 2006,2848 2045,2849 2126,2841"/>
+                <TextEquiv>
+                    <Unicode>ſetzung der zweiſtändigen Anſtalt vom Karl</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l24" custom="readingOrder {index:23;}">
+                <Coords points="1275,2845 1301,2845 1511,2847 1829,2853 2046,2858 2123,2862 2123,2877 2136,2896 2015,2902 1936,2901 1326,2888 1275,2877 1275,2845"/>
+                <Baseline points="1275,2877 1391,2879 1425,2880 1511,2882 1545,2882 1619,2883 1655,2884 1723,2886 1750,2886 1871,2889 1895,2889 1993,2892 2015,2892 2123,2891"/>
+                <TextEquiv>
+                    <Unicode>Auguſt Platz nach dem Guſtav Adolf Platz“</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l25" custom="readingOrder {index:24;}">
+                <Coords points="1275,2898 1320,2890 1320,2890 1414,2890 2027,2900 2126,2905 2126,2947 2114,2947 1917,2946 1297,2922 1275,2921 1275,2898"/>
+                <Baseline points="1275,2921 1338,2922 1372,2923 1450,2924 1490,2925 1553,2926 1601,2927 1709,2930 1740,2930 1791,2932 1830,2932 2027,2937 2069,2938 2126,2939"/>
+                <TextEquiv>
+                    <Unicode>und wird von 12800 ℳ. herabgeſetzt auf</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l26" custom="readingOrder {index:25;}">
+                <Coords points="1277,2936 1296,2934 1296,2934 1371,2934 1463,2935 1463,2970 1412,2970 1277,2965 1277,2936"/>
+                <Baseline points="1277,2965 1387,2967 1412,2969 1463,2969"/>
+                <TextEquiv>
+                    <Unicode>10000 ℳ.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l27" custom="readingOrder {index:26;}">
+                <Coords points="1326,2978 1356,2978 1369,2979 1504,2990 1504,3014 1463,3014 1326,3012 1326,2978"/>
+                <Baseline points="1326,3012 1389,3012 1412,3012 1504,3014"/>
+                <TextEquiv>
+                    <Unicode>Als neuer</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l28" custom="readingOrder {index:27;}">
+                <Coords points="1167,3020 1214,3020 1555,3023 1570,3025 1621,3035 1621,3061 1555,3068 1418,3068 1362,3065 1167,3054 1167,3020"/>
+                <Baseline points="1167,3053 1272,3055 1294,3055 1336,3056 1362,3056 1394,3057 1418,3057 1621,3061"/>
+                <TextEquiv>
+                    <Unicode>Titel 24 iſt einzuſtellen:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l29" custom="readingOrder {index:28;}">
+                <Coords points="1273,3065 1312,3065 1859,3073 2104,3083 2125,3088 2125,3118 2026,3125 1964,3125 1686,3121 1292,3107 1273,3098 1273,3065"/>
+                <Baseline points="1273,3098 1393,3101 1414,3101 1508,3103 1520,3104 1650,3107 1667,3107 1872,3112 1895,3113 1929,3113 1943,3114 2043,3116 2066,3117 2125,3118"/>
+                <TextEquiv>
+                    <Unicode>Ankauf neuer Bücher, Büchererſatz in Folge des</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l30" custom="readingOrder {index:29;}">
+                <Coords points="1273,3109 1301,3109 1564,3114 1890,3123 1890,3159 1674,3162 1548,3162 1334,3153 1273,3143 1273,3109"/>
+                <Baseline points="1273,3142 1429,3146 1453,3147 1506,3148 1530,3148 1705,3153 1727,3154 1815,3156 1837,3157 1890,3158"/>
+                <TextEquiv>
+                    <Unicode>Umzuges der Bibliothek 2000 ℳ.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l31" custom="readingOrder {index:30;}">
+                <Coords points="1466,3202 1531,3194 1624,3194 1825,3199 1825,3239 1819,3246 1624,3249 1556,3249 1496,3242 1466,3237"/>
+                <Baseline points="1466,3236 1648,3243 1671,3244 1764,3245 1786,3245 1819,3241"/>
+                <TextEquiv>
+                    <Unicode>Einnahme Seite 1.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l32" custom="readingOrder {index:31;}">
+                <Coords points="1163,3258 1192,3258 1607,3261 1635,3267 1635,3317 1631,3314 1350,3305 1163,3293"/>
+                <Baseline points="1163,3293 1267,3295 1292,3294 1307,3294 1333,3295 1630,3306 1635,3306"/>
+                <TextEquiv>
+                    <Unicode>Titel 1 Parkverwaltung.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l33" custom="readingOrder {index:32;}">
+                <Coords points="1269,3305 1299,3305 1481,3308 2070,3319 2129,3336 2129,3362 2074,3374 1829,3369 1464,3360 1269,3349 1269,3305"/>
+                <Baseline points="1269,3338 1352,3341 1375,3341 1398,3342 1421,3343 1670,3350 1693,3350 1761,3352 1780,3353 1920,3357 1943,3358 2129,3362"/>
+                <TextEquiv>
+                    <Unicode>Poſ. 4 „Erſtattungen von anderen ſtädtiſchen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Einmalige Ausgaben.
+Titel 13 „Neuanlage von Raſenſtreifen auf dem
+Kurfürſtendamm zwiſchen Uhlandſtraße und
+Kaiſer Wilhelm Gedächtnißkirche an der Straßen⸗
+dammſeite“ 1075 ℳ. geſtrichen.
+Titel 14 wird Titel 13, ſoll lauten „Beſchaffung
+von ca. 200 Baumſcheibengittern à 15 ℳ.“ und
+wird herabgeſetzt von 7500 ℳ. auf 3000 ℳ.
+Titel 15 wird Titel 14, ſoll lauten „Beſchaffung
+von ca. 200 Baumſchutzgittern à 10 ℳ.“ und
+wird von 3600 ℳ. herabgeſetzt auf 2000 ℳ.
+Als neuer Titel iſt einzuſtellen:
+Titel 15 Bepflanzung der Bleibtreu Straße von
+Lietzenburger Straße bis Peſtalozzi Straße,
+der Krumme Straße von Bismarck Straße bis
+Wilmersdorfer Straße, der Weimarer Straße
+von Bismarck Straße bis Peſtalozzi Straße,
+der Peſtalozzi Straße von Grolman Straße bis
+Kaiſer Friedrich Straße (Nordſeite) und der
+Goethe Straße 6000 ℳ.
+Titel 21 ſoll lauten „Herſtellung einer ſiebenſtändigen
+Bedürfnißanſtalt am Spandauer Berg und Ver⸗
+ſetzung der zweiſtändigen Anſtalt vom Karl
+Auguſt Platz nach dem Guſtav Adolf Platz“
+und wird von 12800 ℳ. herabgeſetzt auf
+10000 ℳ.
+Als neuer
+Titel 24 iſt einzuſtellen:
+Ankauf neuer Bücher, Büchererſatz in Folge des
+Umzuges der Bibliothek 2000 ℳ.
+Einnahme Seite 1.
+Titel 1 Parkverwaltung.
+Poſ. 4 „Erſtattungen von anderen ſtädtiſchen</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <SeparatorRegion id="r_8" custom="readingOrder {index:7;}">
+            <Coords points="1159,2180 1164,2180 1164,2264 1159,2264"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_9" custom="readingOrder {index:8;}">
+            <Coords points="1147,2278 1163,2278 1163,3335 1147,3335"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_10" custom="readingOrder {index:9;}">
+            <Coords points="1165,1473 1174,1473 1174,1855 1165,1855"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_11" custom="readingOrder {index:10;}">
+            <Coords points="1161,2084 1164,2084 1164,2163 1161,2163"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_12" custom="readingOrder {index:11;}">
+            <Coords points="1174,781 1187,781 1187,1362 1174,1362"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_13" custom="readingOrder {index:12;}">
+            <Coords points="1184,615 1189,615 1189,748 1184,748"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_14" custom="readingOrder {index:13;}">
+            <Coords points="1189,300 1194,300 1194,504 1189,504"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_15" custom="readingOrder {index:14;}">
+            <Coords points="1152,2860 1158,2860 1158,2932 1152,2932"/>
+        </SeparatorRegion>
+    </Page>
+</PcGts>

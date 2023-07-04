@@ -1,0 +1,820 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2022-02-08T16:24:26.55+01:00</Created>
+        <LastChange>2023-07-04T10:08:49.062+02:00</LastChange>
+        <Comments>
+                Measurement unit: pixel
+                PrimaryLanguage: 
+                Producer: Transkribus
+            </Comments>
+        <TranskribusMetadata docId="1434156" pageId="55573677" pageNr="6" tsid="128640385" status="GT" userId="48446" imgUrl="https://files.transkribus.eu/Get?id=PKMEDSKSQVWRPRCPCNYLJLCI&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=JHVPJZFLKKPFALZGTFAPLSQB" imageId="28180391"/>
+    </Metadata>
+    <Page imageFilename="Ber_Stand_Charl_1907_003200.tif" imageWidth="2254" imageHeight="3555">
+        <PrintSpace>
+            <Coords points="242,124 1973,124 1973,3315 242,3315"/>
+        </PrintSpace>
+        <ReadingOrder>
+            <OrderedGroup id="ro_1688474640704" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+                <RegionRefIndexed index="1" regionRef="r2"/>
+                <RegionRefIndexed index="2" regionRef="r3"/>
+                <RegionRefIndexed index="10" regionRef="r4"/>
+                <RegionRefIndexed index="11" regionRef="r5"/>
+                <RegionRefIndexed index="12" regionRef="r6"/>
+                <RegionRefIndexed index="13" regionRef="r7"/>
+                <RegionRefIndexed index="14" regionRef="r8"/>
+                <RegionRefIndexed index="15" regionRef="r9"/>
+                <RegionRefIndexed index="16" regionRef="r10"/>
+                <RegionRefIndexed index="17" regionRef="r11"/>
+                <RegionRefIndexed index="18" regionRef="r12"/>
+                <RegionRefIndexed index="19" regionRef="r13"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion type="page-number" id="r1" custom="readingOrder {index:0;} structure {type:page-number;}">
+            <Coords points="1090,124 1142,124 1142,167 1090,167"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="1095,130 1136,130 1136,161 1095,161 1095,130"/>
+                <Baseline points="1095,161 1136,161"/>
+                <TextEquiv>
+                    <Unicode>28</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>28</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r2" custom="readingOrder {index:1;} structure {type:paragraph;}">
+            <Coords points="264,225 1965,225 1966,474 264,481"/>
+            <TextLine id="r2l1" custom="readingOrder {index:0;}">
+                <Coords points="412,240 437,239 784,236 1427,234 1863,233 1863,233 1872,233 1923,235 1957,241 1957,260 1939,261 1528,268 1263,270 475,272 412,272 412,240"/>
+                <Baseline points="412,266 530,266 546,265 574,265 588,265 651,265 668,265 728,265 746,264 1028,263 1048,263 1110,263 1127,262 1168,262 1185,262 1263,262 1282,262 1348,262 1365,262 1409,261 1427,261 1528,261 1545,261 1597,261 1616,261 1627,261 1645,261 1755,261 1771,261 1848,260 1863,260 1891,260 1908,260 1957,260"/>
+                <TextEquiv>
+                    <Unicode>Hiervon iſt nach dem Gemeindebeſchluſſe vom 29. März 1906 der Betrag von 1 Million Mark in den</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l2" custom="readingOrder {index:1;}">
+                <Coords points="273,275 982,265 994,265 1960,264 1957,294 1639,303 995,303 983,303 426,307 273,301 273,275"/>
+                <Baseline points="273,301 335,300 352,300 399,300 415,300 642,299 659,299 916,298 934,298 958,297 970,297 994,297 1004,297 1079,297 1097,297 1271,296 1309,296 1372,296 1389,296 1448,296 1465,296 1654,295 1672,295 1779,295 1796,294 1845,294 1858,294 1949,293"/>
+                <TextEquiv>
+                    <Unicode>Etat des nächſtfolgenden Rechnungsjahres, d. i. 1909, einzuſtellen. Von dem Mehrbetrage werden 254 000 ℳ</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l3" custom="readingOrder {index:2;}">
+                <Coords points="272,309 375,307 1464,304 1892,303 1892,303 1908,303 1955,306 1955,328 1872,335 1655,336 633,340 533,340 375,339 272,334 272,309"/>
+                <Baseline points="272,334 309,334 327,334 471,333 489,333 723,333 740,333 771,332 792,332 1111,331 1128,331 1289,331 1326,330 1383,330 1400,330 1584,330 1602,330 1662,330 1679,330 1733,329 1751,329 1802,329 1812,329 1908,328 1929,328 1955,328"/>
+                <TextEquiv>
+                    <Unicode>im laufenden Rechnungsjahre zu Straßenpflaſterungen verwendet. Der verbleibende Reſt von 110 872,78 ℳ</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l4" custom="readingOrder {index:3;}">
+                <Coords points="274,348 300,343 400,342 1140,338 1442,337 1442,337 1913,337 1948,338 1959,349 1959,357 1948,363 1797,369 1026,372 423,374 400,374 274,367 274,348"/>
+                <Baseline points="274,362 345,368 362,368 423,368 442,368 502,367 520,367 725,367 743,367 1026,366 1044,366 1104,365 1122,365 1358,364 1374,364 1546,364 1583,364 1651,363 1667,363 1695,363 1712,363 1797,363 1815,363 1865,363 1883,363 1959,355"/>
+                <TextEquiv>
+                    <Unicode>wäre nach dem vorerwähnten Gemeindebeſchluſſe dem Ausgleichsfonds zuzuführen. Dies iſt jedoch mit Rück⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l5" custom="readingOrder {index:4;}">
+                <Coords points="272,376 429,375 1582,371 1582,371 1832,371 1912,372 1956,374 1956,396 1691,407 514,409 292,409 272,407 272,376"/>
+                <Baseline points="272,403 329,403 343,403 447,403 463,403 514,403 528,402 588,402 603,402 665,402 680,402 723,401 739,401 805,400 819,400 861,401 877,401 983,401 1001,401 1008,400 1025,400 1156,400 1171,400 1187,400 1201,400 1249,400 1265,399 1280,399 1295,399 1346,399 1360,399 1472,399 1486,399 1533,398 1547,398 1784,397 1798,397 1848,397 1861,397 1912,397 1929,397 1956,390"/>
+                <TextEquiv>
+                    <Unicode>ſicht darauf, daß dem Etat für 1908 bei Kapitel 1 Abſchnitt 5 Nr. 2 aus Mitteln des Ausgleichsfonds 367 000 ℳ</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l6" custom="readingOrder {index:5;}">
+                <Coords points="271,420 328,412 459,411 636,410 841,409 1632,407 1632,407 1916,407 1959,414 1959,433 1916,435 1667,441 942,444 513,445 271,445 271,420"/>
+                <Baseline points="271,438 303,438 320,438 443,438 459,438 522,438 539,438 731,437 767,437 823,437 841,437 942,436 958,436 1012,436 1028,436 1080,435 1091,435 1186,435 1205,435 1232,435 1251,435 1279,435 1295,435 1376,435 1391,435 1432,434 1449,434 1494,434 1509,434 1738,434 1754,434 1959,433"/>
+                <TextEquiv>
+                    <Unicode>zu erſtatten ſind, unterblieben. Der Betrag von 110 872,78 ℳ iſt daher bei der vorbezeichneten Etatsnummer</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l7" custom="readingOrder {index:6;}">
+                <Coords points="271,453 319,447 636,445 1859,441 1859,441 1956,441 1956,469 1940,474 350,480 271,474 271,453"/>
+                <Baseline points="277,472 456,474 478,474 594,474 636,474 719,473 739,473 804,473 824,473 873,473 892,473 1146,472 1169,472 1232,471 1252,471 1297,471 1317,471 1475,471 1497,470 1520,470 1542,470 1566,470 1588,470 1634,470 1652,470 1839,469 1859,469 1956,469"/>
+                <TextEquiv>
+                    <Unicode>vereinnahmt worden. Stellt man das rechnungsmäßige Soll der Einnahme, d. h. der Iſteinnahme einſchl.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Hiervon iſt nach dem Gemeindebeſchluſſe vom 29. März 1906 der Betrag von 1 Million Mark in den
+Etat des nächſtfolgenden Rechnungsjahres, d. i. 1909, einzuſtellen. Von dem Mehrbetrage werden 254 000 ℳ
+im laufenden Rechnungsjahre zu Straßenpflaſterungen verwendet. Der verbleibende Reſt von 110 872,78 ℳ
+wäre nach dem vorerwähnten Gemeindebeſchluſſe dem Ausgleichsfonds zuzuführen. Dies iſt jedoch mit Rück⸗
+ſicht darauf, daß dem Etat für 1908 bei Kapitel 1 Abſchnitt 5 Nr. 2 aus Mitteln des Ausgleichsfonds 367 000 ℳ
+zu erſtatten ſind, unterblieben. Der Betrag von 110 872,78 ℳ iſt daher bei der vorbezeichneten Etatsnummer
+vereinnahmt worden. Stellt man das rechnungsmäßige Soll der Einnahme, d. h. der Iſteinnahme einſchl.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r3" custom="readingOrder {index:2;} structure {type:paragraph;}">
+            <Coords points="243,669 1974,669 1973,3315 242,3315"/>
+            <TextLine id="r3l1" custom="readingOrder {index:0;}">
+                <Coords points="269,682 328,674 1463,670 1776,669 1776,669 1922,669 1957,676 1957,694 1922,701 1257,705 894,706 663,706 269,705 269,682"/>
+                <Baseline points="269,700 444,700 477,700 545,700 558,700 650,700 663,700 707,699 721,699 830,699 844,699 894,699 907,699 949,699 962,699 1006,699 1020,699 1257,697 1272,697 1314,696 1329,696 1395,696 1409,697 1449,696 1463,696 1632,695 1645,695 1696,695 1709,695 1760,695 1776,695 1957,694"/>
+                <TextEquiv>
+                    <Unicode>zurückbleibt. Dies erklärt ſich daraus, daß bei der Etatsaufſtellung für 1907 die Einnahmen aus den Überſchüſſen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l2" custom="readingOrder {index:1;}">
+                <Coords points="271,712 334,709 1806,704 1806,704 1938,704 1957,712 1957,730 1869,738 613,744 511,744 271,737 271,712"/>
+                <Baseline points="271,730 315,738 334,737 648,736 665,736 719,736 737,736 787,736 806,736 1058,735 1075,734 1173,734 1191,734 1372,733 1390,733 1470,732 1487,732 1662,731 1681,731 1788,731 1806,731 1869,731 1906,731 1957,730"/>
+                <TextEquiv>
+                    <Unicode>der Sonderverwaltungen und den Gemeindeſteuern bereits entſprechend höher veranſchlagt worden ſind. Ein</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l3" custom="readingOrder {index:2;}">
+                <Coords points="270,746 1079,744 1079,744 1219,744 1236,751 1236,771 1219,778 406,781 288,781 270,774 270,746"/>
+                <Baseline points="280,774 406,774 422,774 451,774 468,774 513,774 532,774 668,773 687,773 731,773 748,773 917,772 935,772 962,772 980,772 1046,772 1064,771 1236,771"/>
+                <TextEquiv>
+                    <Unicode>Rückgang in der Steigung der Einnahmen iſt nicht eingetreten.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l4" custom="readingOrder {index:3;}">
+                <Coords points="410,783 1537,777 1537,777 1892,777 1955,785 1955,804 1892,810 1842,811 1676,812 729,816 530,816 410,811 410,783"/>
+                <Baseline points="410,810 466,810 486,810 607,809 629,809 744,809 766,809 890,808 911,808 957,808 980,808 1171,807 1192,807 1238,807 1259,807 1423,806 1443,806 1471,806 1492,806 1676,805 1698,805 1745,804 1765,804 1806,804 1827,804 1955,803"/>
+                <TextEquiv>
+                    <Unicode>Der trotzdem günſtige Abſchluß des Ordinariums des Hauptetats iſt hauptſächlich auf die größeren</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l5" custom="readingOrder {index:4;}">
+                <Coords points="269,819 1720,813 1940,813 1955,820 1955,839 1940,845 1813,845 1235,849 365,852 269,852 269,819"/>
+                <Baseline points="269,846 380,845 400,845 445,845 466,845 609,845 628,844 691,844 703,844 754,844 776,844 828,844 850,844 895,844 915,844 1011,843 1032,843 1084,843 1104,843 1320,842 1341,842 1461,841 1483,841 1633,841 1654,840 1698,840 1720,840 1955,839"/>
+                <TextEquiv>
+                    <Unicode>Erträge der Gaswerke (216 000 ℳ), der Zinſen von vorübergehend belegten Beſtänden der Stadthauptkaſſe</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l6" custom="readingOrder {index:5;}">
+                <Coords points="269,855 343,854 1856,848 1856,848 1939,848 1955,855 1955,872 1866,879 1805,880 670,885 603,885 269,883 269,855"/>
+                <Baseline points="269,879 331,879 343,879 394,878 412,878 455,878 471,878 525,878 542,878 587,878 603,878 737,878 754,878 1005,877 1022,877 1083,877 1096,877 1147,876 1166,876 1218,876 1235,876 1312,875 1329,875 1376,875 1392,875 1449,875 1466,875 1606,874 1622,874 1662,874 1679,874 1729,874 1746,874 1840,873 1856,873 1899,873 1915,873 1955,872"/>
+                <TextEquiv>
+                    <Unicode>(108 000 ℳ) und der geſamten Gemeindeſteuern (972 000 ℳ), ſowie auf eine Erſparnis bei den Koſten für die</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l7" custom="readingOrder {index:6;}">
+                <Coords points="269,893 284,887 583,886 1055,885 1055,885 1140,885 1157,892 1157,910 1140,917 406,918 367,918 269,912 269,893"/>
+                <Baseline points="269,912 406,912 428,912 722,911 742,910 787,910 799,910 850,910 872,910 915,911 934,911 1157,909"/>
+                <TextEquiv>
+                    <Unicode>elektriſche Straßenbeleuchtung (93 000 ℳ) zurückzuführen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l8" custom="readingOrder {index:7;}">
+                <Coords points="410,920 613,919 1614,915 1614,915 1855,915 1908,916 1953,922 1953,940 1855,947 1482,949 883,951 528,952 485,952 410,947 410,920"/>
+                <Baseline points="410,946 466,946 485,946 528,946 547,945 592,945 613,945 755,945 772,945 809,945 828,945 963,944 980,944 1196,943 1221,943 1275,943 1293,943 1343,943 1361,943 1406,942 1424,942 1593,941 1614,941 1750,941 1768,941 1953,940"/>
+                <TextEquiv>
+                    <Unicode>Wie ſich der Überſchuß im einzelnen zuſammenſetzt, geht aus der beigefügten Überſicht, insbeſondere</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l9" custom="readingOrder {index:8;}">
+                <Coords points="269,958 366,955 404,954 1387,951 1387,951 1954,951 1954,975 1707,980 1105,987 394,987 269,982 269,958"/>
+                <Baseline points="269,981 349,982 366,982 487,982 503,981 534,981 550,981 605,981 623,981 663,980 681,980 782,981 818,980 925,980 943,980 996,980 1014,979 1147,979 1163,979 1204,978 1221,979 1270,978 1288,978 1414,977 1433,977 1462,977 1482,977 1542,976 1563,976 1638,976 1660,976 1707,976 1730,976 1796,976 1815,976 1868,976 1892,976 1954,975"/>
+                <TextEquiv>
+                    <Unicode>deren Spalten 14 und 15, hervor. Danach ſind Zuſchüſſe bei den Kapiteln Ⅴ, ⅤⅠⅠ, ⅤⅠⅠⅠ, ⅠⅩ, ⅩⅠⅠⅠ und ⅩⅠⅤ</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l10" custom="readingOrder {index:9;}">
+                <Coords points="269,998 298,990 1483,985 1483,985 1773,985 1815,993 1815,1012 1773,1019 1618,1020 1459,1021 905,1024 493,1025 451,1025 298,1024 269,1018 269,998"/>
+                <Baseline points="269,1018 431,1017 451,1017 578,1017 598,1017 723,1017 742,1017 783,1016 802,1016 913,1016 933,1016 949,1016 970,1016 1075,1016 1094,1016 1148,1016 1169,1015 1210,1015 1230,1015 1459,1014 1483,1014 1642,1013 1662,1013 1815,1012"/>
+                <TextEquiv>
+                    <Unicode>erforderlich geweſen, während die übrigen 9 Kapitel und die Reſtverwaltung Überſchüſſe aufweiſen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l11" custom="readingOrder {index:10;}">
+                <Coords points="409,1036 1121,1032 1835,1031 1842,1031 1932,1032 1955,1039 1955,1062 1904,1065 1727,1067 1459,1067 605,1070 571,1070 409,1065 409,1036"/>
+                <Baseline points="409,1065 480,1064 509,1064 665,1064 678,1064 828,1063 883,1063 1006,1062 1024,1062 1098,1062 1121,1061 1264,1061 1282,1061 1332,1060 1351,1061 1531,1059 1550,1059 1620,1059 1641,1059 1817,1059 1835,1059 1862,1059 1881,1059 1955,1058"/>
+                <TextEquiv>
+                    <Unicode>Die Reſtverwaltung verdankt ihren Überſchuß den Erſparniſſen beim Straßenbau in Höhe</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l12" custom="readingOrder {index:11;}">
+                <Coords points="268,1081 388,1074 1180,1070 1522,1069 1885,1068 1885,1068 1926,1068 1955,1075 1955,1094 1806,1101 1566,1102 605,1106 594,1106 268,1100 268,1081"/>
+                <Baseline points="268,1100 320,1100 335,1100 403,1100 418,1100 451,1099 463,1099 515,1099 531,1099 558,1099 577,1099 641,1099 659,1099 691,1099 703,1098 754,1098 771,1098 798,1098 866,1097 915,1097 927,1097 978,1097 995,1097 1034,1097 1068,1098 1164,1097 1180,1097 1359,1096 1374,1096 1460,1096 1476,1096 1582,1096 1597,1096 1871,1094 1885,1094 1955,1094"/>
+                <TextEquiv>
+                    <Unicode>von rund 57 650 ℳ bzw. 45 850 ℳ = 103 500 ℳ. Dieſen Erſparniſſen ſtehen geringe Mindereinnahmen beim</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l13" custom="readingOrder {index:12;}">
+                <Coords points="267,1109 1743,1102 1743,1102 1859,1102 1886,1103 1954,1111 1954,1129 1886,1135 1586,1137 1400,1138 437,1141 285,1141 267,1135 267,1109"/>
+                <Baseline points="267,1135 465,1135 482,1134 522,1134 539,1134 589,1134 606,1134 855,1133 872,1133 925,1133 942,1133 992,1133 1010,1133 1263,1132 1279,1132 1417,1131 1435,1131 1459,1131 1476,1131 1526,1131 1542,1131 1586,1131 1603,1130 1664,1130 1681,1130 1724,1130 1743,1130 1886,1129 1902,1129 1954,1129"/>
+                <TextEquiv>
+                    <Unicode>Armenweſen, bei den Krankenanſtalten und den Gemeindeſteuern entgegen, ſo daß ſich noch ein Überſchuß von</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l14" custom="readingOrder {index:13;}">
+                <Coords points="267,1144 487,1143 487,1143 551,1143 571,1145 571,1168 524,1175 487,1175 365,1174 267,1168 267,1144"/>
+                <Baseline points="267,1168 301,1168 313,1168 407,1168 430,1168 456,1168 480,1168 571,1168"/>
+                <TextEquiv>
+                    <Unicode>80 728,77 ℳ ergibt.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l15" custom="readingOrder {index:14;}">
+                <Coords points="410,1186 499,1185 714,1184 1875,1179 1875,1179 1886,1179 1955,1187 1955,1204 1886,1210 1842,1211 844,1217 725,1217 470,1216 410,1211 410,1186"/>
+                <Baseline points="410,1211 575,1210 607,1210 624,1210 670,1211 844,1209 872,1210 1069,1209 1116,1208 1168,1208 1186,1208 1430,1206 1458,1206 1572,1206 1600,1206 1643,1205 1672,1205 1722,1205 1751,1205 1801,1205 1827,1205 1955,1204"/>
+                <TextEquiv>
+                    <Unicode>Kapitel Ⅰ. (Allgemeine Verwaltung). Die Mehreinnahmen erklären ſich aus den größeren</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l16" custom="readingOrder {index:15;}">
+                <Coords points="272,1218 1355,1215 1776,1214 1776,1214 1904,1214 1953,1221 1953,1239 1917,1247 1171,1251 352,1251 272,1245 272,1218"/>
+                <Baseline points="272,1245 450,1245 487,1245 533,1245 552,1245 695,1244 731,1244 785,1244 815,1244 862,1244 889,1244 1171,1243 1212,1242 1252,1242 1286,1242 1336,1242 1355,1242 1551,1241 1578,1240 1625,1240 1653,1240 1703,1239 1714,1239 1810,1238 1830,1238 1857,1238 1889,1238 1953,1239"/>
+                <TextEquiv>
+                    <Unicode>Überſchüſſen der Gaswerke und des Elektrizitätswerkes, die den Etatsanſchlag um 216 402,30 ℳ. bzw.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l17" custom="readingOrder {index:16;}">
+                <Coords points="267,1255 1622,1248 1622,1248 1886,1248 1954,1256 1954,1281 1750,1282 860,1286 564,1287 366,1287 267,1280 267,1255"/>
+                <Baseline points="267,1279 299,1280 314,1280 407,1280 429,1280 468,1280 522,1280 676,1280 703,1279 752,1279 767,1279 860,1279 882,1279 908,1279 950,1279 1144,1278 1204,1278 1263,1277 1290,1277 1349,1278 1379,1277 1503,1276 1538,1276 1583,1276 1611,1276 1954,1274"/>
+                <TextEquiv>
+                    <Unicode>37 741,34 ℳ, zuſammen 254 143,64 ℳ überſchreiten. Aus dem Betriebe der Ladeſtraßenverwaltung</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l18" custom="readingOrder {index:17;}">
+                <Coords points="267,1291 377,1289 1803,1284 1803,1284 1865,1284 1882,1285 1954,1292 1954,1318 1365,1321 1168,1322 520,1325 389,1325 277,1321 267,1317 267,1291"/>
+                <Baseline points="267,1310 294,1318 313,1318 355,1318 377,1318 520,1317 539,1317 604,1317 616,1317 703,1317 723,1317 838,1316 877,1316 932,1316 950,1316 987,1316 998,1316 1060,1316 1078,1316 1251,1315 1264,1315 1365,1314 1383,1313 1435,1313 1455,1312 1485,1312 1498,1312 1549,1312 1562,1312 1589,1312 1609,1312 1701,1312 1713,1312 1793,1312 1803,1312 1830,1312 1842,1312 1954,1311"/>
+                <TextEquiv>
+                    <Unicode>iſt ein Überſchuß nicht erzielt worden. Der im Etat vorgeſehene Betrag von 17 000 ℳ, mußte daher in Abgang</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l19" custom="readingOrder {index:18;}">
+                <Coords points="267,1336 300,1328 334,1327 630,1325 1603,1322 1895,1320 1960,1320 1960,1348 1894,1348 1679,1356 763,1361 364,1362 267,1362 267,1336"/>
+                <Baseline points="267,1355 364,1355 383,1355 496,1355 543,1355 598,1354 630,1354 771,1354 797,1354 842,1354 869,1354 1051,1352 1080,1352 1107,1352 1127,1352 1173,1351 1194,1351 1226,1351 1238,1351 1334,1349 1357,1349 1382,1350 1405,1350 1491,1350 1511,1350 1571,1350 1591,1350 1716,1349 1735,1349 1788,1348 1807,1348 1841,1348 1853,1348 1950,1345"/>
+                <TextEquiv>
+                    <Unicode>geſtellt werden. Der Überſchuß der Waſſerwerke iſt um 25 958,50 ℳ. hinter dem Etatsſoll von 50 000</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l20" custom="readingOrder {index:19;}">
+                <Coords points="266,1373 308,1364 308,1364 421,1364 454,1366 498,1372 498,1391 409,1398 266,1398 266,1373"/>
+                <Baseline points="266,1391 498,1391"/>
+                <TextEquiv>
+                    <Unicode>zurückgeblieben.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l21" custom="readingOrder {index:20;}">
+                <Coords points="407,1400 1509,1395 1791,1394 1791,1394 1814,1394 1868,1395 1953,1402 1953,1425 1886,1426 657,1431 642,1431 407,1426 407,1400"/>
+                <Baseline points="407,1426 458,1425 477,1425 728,1424 747,1424 787,1424 807,1424 857,1424 878,1424 1085,1423 1104,1423 1250,1421 1271,1421 1324,1421 1345,1421 1372,1421 1391,1421 1436,1421 1455,1420 1616,1420 1637,1420 1711,1419 1732,1419 1772,1419 1791,1419 1953,1418"/>
+                <TextEquiv>
+                    <Unicode>Die Minderausgaben bei den fortdauernden Ausgaben ſind in der Hauptſache durch die Inabgang⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l22" custom="readingOrder {index:21;}">
+                <Coords points="267,1434 424,1433 1591,1428 1901,1427 1901,1427 1926,1427 1954,1439 1954,1447 1941,1453 1736,1458 1663,1459 1316,1462 736,1464 374,1465 360,1465 267,1463 267,1434"/>
+                <Baseline points="267,1458 374,1458 394,1458 614,1458 634,1458 751,1458 769,1458 820,1457 839,1457 898,1457 918,1457 1183,1456 1202,1456 1316,1455 1355,1455 1432,1454 1451,1454 1571,1454 1591,1454 1750,1453 1770,1453 1811,1453 1830,1453 1879,1453 1901,1452 1954,1445"/>
+                <TextEquiv>
+                    <Unicode>ſtellung nachbewilligter Beträge aus dem Dispoſitionsfonds bedingt. Dazu kommen Erſparniſſe bei den Be⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l23" custom="readingOrder {index:22;}">
+                <Coords points="266,1467 1446,1462 1810,1461 1810,1461 1835,1461 1933,1462 1953,1468 1953,1485 1933,1492 819,1498 530,1499 360,1499 266,1497 266,1467"/>
+                <Baseline points="266,1492 418,1492 438,1492 488,1492 508,1492 638,1492 659,1492 853,1491 873,1491 926,1491 947,1491 1065,1490 1084,1490 1124,1489 1144,1489 1188,1489 1207,1489 1335,1488 1355,1488 1407,1488 1427,1487 1702,1486 1722,1486 1791,1486 1810,1486 1953,1480"/>
+                <TextEquiv>
+                    <Unicode>ſoldungen, den Zulagen, Vergütungen und Löhnen, bei der Witwen⸗ und Waiſenverſorgung, beim Ruhelohn</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l24" custom="readingOrder {index:23;}">
+                <Coords points="265,1508 295,1502 400,1500 1269,1496 1683,1495 1683,1495 1930,1495 1954,1497 1954,1520 1923,1521 1731,1527 1342,1529 663,1532 400,1532 265,1526 265,1508"/>
+                <Baseline points="265,1526 319,1526 338,1526 384,1526 400,1526 797,1524 816,1524 861,1524 878,1524 1025,1523 1042,1523 1163,1522 1182,1522 1235,1522 1254,1522 1440,1521 1458,1521 1499,1521 1518,1521 1568,1522 1588,1521 1776,1520 1794,1520 1839,1520 1859,1520 1954,1520"/>
+                <TextEquiv>
+                    <Unicode>und der Hinterbliebenenverſorgung der ſtädtiſchen Arbeiter und Angeſtellten, bei den Bedürfniſſen der Stadt⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l25" custom="readingOrder {index:24;}">
+                <Coords points="265,1539 344,1536 829,1532 829,1532 1038,1532 1038,1558 905,1566 844,1567 640,1568 626,1568 491,1567 265,1562 265,1539"/>
+                <Baseline points="265,1562 640,1561 660,1561 714,1561 735,1560 775,1560 796,1561 1038,1558"/>
+                <TextEquiv>
+                    <Unicode>verordnetenverſammlung und bei „Verſchiedenes“.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l26" custom="readingOrder {index:25;}">
+                <Coords points="406,1571 1366,1566 1694,1565 1694,1565 1780,1565 1954,1572 1954,1591 1870,1599 544,1606 529,1606 484,1605 406,1599 406,1571"/>
+                <Baseline points="406,1599 463,1599 484,1599 598,1598 619,1598 660,1598 681,1598 732,1597 753,1597 914,1597 935,1596 1080,1596 1101,1596 1128,1596 1150,1595 1224,1595 1245,1594 1545,1593 1567,1593 1607,1592 1628,1592 1672,1592 1694,1592 1870,1591 1902,1591 1954,1591"/>
+                <TextEquiv>
+                    <Unicode>Der Zugang bei den einmaligen Ausgaben iſt durch Mehraufwendungen bei der Gewährung von</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l27" custom="readingOrder {index:26;}">
+                <Coords points="265,1607 1538,1601 1538,1601 1547,1601 1590,1610 1590,1629 1547,1636 1487,1637 895,1641 503,1643 394,1643 265,1636 265,1607"/>
+                <Baseline points="265,1636 538,1635 557,1635 611,1635 632,1635 706,1635 727,1635 778,1635 799,1634 895,1634 916,1634 961,1634 981,1634 1122,1633 1144,1633 1356,1631 1376,1631 1590,1629"/>
+                <TextEquiv>
+                    <Unicode>Teuerungszulagen und durch den Beſuch der Londoner Stadtvertreter hervorgerufen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l28" custom="readingOrder {index:27;}">
+                <Coords points="407,1653 1159,1648 1711,1646 1711,1646 1848,1646 1952,1647 1952,1679 1848,1680 747,1686 468,1686 407,1681 407,1653"/>
+                <Baseline points="407,1681 572,1679 601,1679 634,1679 677,1679 792,1680 812,1679 1028,1677 1076,1677 1132,1677 1159,1676 1302,1675 1326,1675 1378,1675 1404,1675 1435,1674 1447,1674 1542,1674 1560,1674 1587,1674 1614,1674 1641,1674 1665,1673 1848,1673 1879,1673 1952,1672"/>
+                <TextEquiv>
+                    <Unicode>Kapitel ⅠⅠ. (Höhere Lehranſtalten). Der Überſchuß von 19 662,25 ℳ iſt hauptſächlich durch</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l29" custom="readingOrder {index:28;}">
+                <Coords points="264,1690 363,1689 1218,1684 1425,1683 1425,1683 1633,1683 1649,1690 1649,1708 1633,1709 1465,1715 1370,1716 1050,1718 884,1719 675,1720 323,1720 264,1715 264,1690"/>
+                <Baseline points="264,1714 508,1714 523,1714 558,1714 575,1714 716,1713 734,1713 789,1713 809,1713 884,1712 906,1712 1065,1711 1085,1711 1126,1711 1146,1711 1195,1710 1218,1710 1405,1709 1425,1709 1512,1709 1534,1709 1649,1708"/>
+                <TextEquiv>
+                    <Unicode>Mehreinnahmen an Schulgeld und durch Erſparniſſe bei den Beſoldungen erzielt worden.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l30" custom="readingOrder {index:29;}">
+                <Coords points="406,1731 563,1730 1291,1726 1590,1725 1902,1724 1902,1724 1932,1724 1954,1725 1954,1750 1844,1757 1440,1760 818,1762 467,1762 406,1757 406,1731"/>
+                <Baseline points="406,1757 571,1756 600,1756 649,1756 702,1756 818,1755 848,1755 1088,1753 1128,1754 1440,1751 1480,1751 1535,1751 1574,1751 1844,1750 1902,1750 1954,1750"/>
+                <TextEquiv>
+                    <Unicode>Kapitel ⅠⅠⅠ. (Höhere Mädchenſchulen, Bürgermädchenſchule und Gemeindeſchulen). Die</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l31" custom="readingOrder {index:30;}">
+                <Coords points="264,1765 390,1764 1711,1758 1711,1758 1937,1758 1954,1760 1954,1783 1937,1789 1794,1790 838,1795 553,1795 410,1794 264,1791 264,1765"/>
+                <Baseline points="264,1790 537,1789 553,1789 606,1789 623,1789 719,1789 732,1789 956,1788 973,1788 1023,1788 1039,1787 1073,1787 1089,1787 1292,1786 1307,1785 1352,1785 1369,1785 1465,1785 1491,1784 1521,1784 1537,1784 1631,1784 1651,1783 1677,1783 1698,1783 1814,1783 1840,1782 1954,1782"/>
+                <TextEquiv>
+                    <Unicode>Mindereinnahmen ſind darauf zurückzuführen, daß an Alterszulagen der Lehrer 31 794,76 ℳ weniger erſtattet</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l32" custom="readingOrder {index:31;}">
+                <Coords points="265,1803 284,1799 427,1798 1239,1794 1732,1792 1732,1792 1925,1792 1953,1799 1953,1817 1827,1824 765,1831 657,1831 284,1830 265,1824 265,1803"/>
+                <Baseline points="265,1818 384,1825 409,1825 450,1825 469,1825 506,1825 526,1825 589,1825 607,1825 765,1824 785,1824 884,1823 905,1823 1035,1822 1056,1822 1166,1821 1185,1821 1220,1821 1239,1821 1380,1820 1401,1819 1436,1819 1455,1819 1507,1818 1526,1818 1641,1818 1660,1818 1893,1817 1917,1817 1953,1817"/>
+                <TextEquiv>
+                    <Unicode>wurden, als im Etat vorgeſehen waren. Dagegen wurden an Schulgeld an den höheren Mädchenſchulen im</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l33" custom="readingOrder {index:32;}">
+                <Coords points="265,1842 386,1834 658,1833 658,1833 892,1833 949,1840 949,1858 892,1866 329,1868 318,1868 265,1867 265,1842"/>
+                <Baseline points="265,1860 365,1860 384,1860 452,1860 474,1860 504,1860 518,1860 569,1860 590,1860 616,1860 639,1860 714,1859 734,1860 949,1858"/>
+                <TextEquiv>
+                    <Unicode>ganzen rund 17 000 ℳ mehr eingenommen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l34" custom="readingOrder {index:33;}">
+                <Coords points="404,1869 1720,1862 1720,1862 1831,1862 1944,1863 1951,1870 1951,1895 1792,1897 1172,1901 654,1904 639,1904 404,1898 404,1869"/>
+                <Baseline points="404,1898 456,1898 474,1898 724,1896 742,1896 783,1896 802,1896 852,1896 871,1896 1079,1895 1097,1894 1242,1893 1261,1893 1312,1892 1331,1892 1399,1891 1420,1891 1468,1891 1481,1891 1531,1890 1552,1890 1578,1890 1600,1890 1654,1890 1674,1890 1857,1890 1877,1890 1951,1890"/>
+                <TextEquiv>
+                    <Unicode>Die Minderausgaben bei den fortdauernden Ausgaben von rund 108 000 ℳ ſind hauptſächlich durch</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l35" custom="readingOrder {index:34;}">
+                <Coords points="264,1907 1567,1900 1802,1899 1802,1899 1810,1899 1953,1907 1953,1925 1917,1934 936,1939 638,1940 264,1940 264,1907"/>
+                <Baseline points="264,1936 423,1935 439,1935 480,1935 496,1935 547,1935 561,1934 709,1934 725,1934 767,1934 784,1934 980,1932 996,1932 1181,1931 1198,1930 1237,1930 1254,1930 1304,1930 1321,1930 1481,1928 1497,1928 1550,1928 1567,1927 1748,1927 1764,1926 1953,1925"/>
+                <TextEquiv>
+                    <Unicode>Erſparniſſe bei den Ausgaben für Beſoldungen, insbeſondere bei den Gemeinde⸗ und Hilfsſchulen, Erſparungen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l36" custom="readingOrder {index:35;}">
+                <Coords points="263,1946 297,1944 1619,1937 1826,1936 1826,1936 1919,1936 1952,1943 1952,1961 1937,1968 844,1975 480,1976 407,1976 282,1970 263,1969 263,1946"/>
+                <Baseline points="263,1963 305,1970 322,1970 373,1970 391,1970 514,1970 533,1969 576,1969 592,1969 749,1969 768,1969 922,1968 943,1968 1191,1966 1210,1966 1263,1966 1284,1966 1484,1964 1503,1964 1556,1964 1576,1964 1650,1963 1670,1963 1805,1962 1826,1962 1952,1961"/>
+                <TextEquiv>
+                    <Unicode>bei den Anſätzen für perſönliche Ausgaben, Unterrichtsmittel und Verſchiedenes und durch geringere Beiträge</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l37" custom="readingOrder {index:36;}">
+                <Coords points="263,1986 329,1978 758,1977 758,1977 767,1977 802,1985 810,1998 810,2002 767,2008 707,2010 448,2011 346,2011 263,2010 263,1986"/>
+                <Baseline points="263,2003 309,2003 329,2003 576,2003 595,2003 810,2002"/>
+                <TextEquiv>
+                    <Unicode>zur Ruhegehaltskaſſe hervorgerufen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l38" custom="readingOrder {index:37;}">
+                <Coords points="404,2012 1274,2007 1465,2006 1781,2005 1804,2005 1936,2002 1960,2008 1962,2034 1925,2036 1420,2039 862,2042 617,2043 518,2043 404,2038 404,2012"/>
+                <Baseline points="404,2038 456,2037 467,2037 668,2036 679,2036 725,2036 736,2036 897,2035 909,2035 1055,2034 1066,2034 1093,2034 1105,2034 1179,2034 1192,2034 1232,2033 1244,2033 1429,2031 1441,2031 1713,2030 1725,2030 1770,2030 1781,2030 1945,2028"/>
+                <TextEquiv>
+                    <Unicode>Die Mehrausgabe der einmaligen Ausgaben iſt durch die nachträgliche Weiterbewilligung der Teuerungs⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l39" custom="readingOrder {index:38;}">
+                <Coords points="262,2053 297,2046 1303,2039 1303,2039 1676,2039 1693,2046 1693,2064 1676,2070 1430,2073 856,2077 339,2078 324,2078 262,2077 262,2053"/>
+                <Baseline points="262,2071 374,2071 394,2071 447,2072 468,2072 508,2071 530,2071 711,2070 731,2070 776,2070 796,2070 890,2070 911,2070 954,2069 973,2069 1013,2069 1033,2069 1203,2068 1223,2068 1268,2067 1289,2067 1512,2065 1532,2065 1693,2064"/>
+                <TextEquiv>
+                    <Unicode>zulagen und die Bewilligung der Koſten für die Einrichtung der Schulzahnklinik entſtanden.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l40" custom="readingOrder {index:39;}">
+                <Coords points="406,2089 495,2088 714,2086 1262,2082 1567,2081 1567,2081 1892,2081 1926,2082 1951,2083 1951,2105 1926,2109 1482,2117 1011,2121 696,2121 466,2120 406,2115 406,2089"/>
+                <Baseline points="406,2115 570,2114 603,2114 646,2113 684,2113 1011,2111 1052,2111 1167,2111 1185,2110 1226,2110 1246,2110 1540,2108 1567,2108 1609,2107 1628,2107 1758,2106 1783,2106 1840,2106 1860,2106 1951,2105"/>
+                <TextEquiv>
+                    <Unicode>Kapitel ⅠⅤ. (Fortbildungsſchulen). Obwohl die Fortbildungsſchulen für Mädchen eine Mehr⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l41" custom="readingOrder {index:40;}">
+                <Coords points="264,2131 278,2123 1577,2116 1828,2115 1828,2115 1850,2115 1952,2119 1952,2127 1939,2141 1919,2149 874,2156 566,2158 345,2158 264,2150 264,2131"/>
+                <Baseline points="264,2145 405,2151 424,2151 477,2150 495,2150 648,2149 667,2149 734,2149 754,2149 781,2149 814,2149 991,2148 1007,2148 1102,2147 1134,2147 1215,2146 1233,2146 1272,2146 1292,2146 1546,2144 1568,2144 1627,2143 1646,2143 1732,2143 1750,2142 1810,2142 1828,2142 1890,2142 1908,2141 1952,2125"/>
+                <TextEquiv>
+                    <Unicode>einnahme von zuſammen 1460 ℳ aufzuweiſen haben, bleibt die Geſamteinnahme doch hinter dem Etat zu⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l42" custom="readingOrder {index:41;}">
+                <Coords points="263,2168 277,2162 297,2160 1208,2154 1718,2151 1718,2151 1951,2151 1951,2177 1872,2185 1355,2190 933,2192 679,2193 316,2193 263,2187 263,2168"/>
+                <Baseline points="263,2187 322,2187 342,2187 401,2187 418,2188 459,2188 479,2187 703,2186 724,2186 766,2186 782,2186 823,2186 835,2186 1050,2184 1067,2184 1120,2184 1137,2184 1394,2181 1411,2181 1458,2180 1473,2180 1585,2179 1599,2179 1626,2179 1646,2179 1700,2179 1718,2179 1760,2179 1777,2179 1817,2179 1835,2178 1951,2177"/>
+                <TextEquiv>
+                    <Unicode>rück, weil die Staatszuſchüſſe für die Kunſtgewerbe⸗ und Handwerkerſchule um 1751,18 ℳ und für die gewerb⸗ </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l43" custom="readingOrder {index:42;}">
+                <Coords points="262,2196 1862,2187 1862,2187 1922,2187 1951,2194 1951,2214 1871,2221 1593,2224 896,2230 283,2230 262,2223 262,2196"/>
+                <Baseline points="262,2223 322,2224 348,2225 401,2225 425,2224 631,2223 657,2223 931,2222 961,2221 1004,2221 1030,2221 1177,2219 1199,2219 1336,2218 1364,2218 1410,2218 1439,2217 1506,2217 1528,2217 1554,2217 1578,2216 1699,2215 1718,2215 1781,2215 1802,2215 1843,2214 1862,2214 1895,2214 1914,2214 1951,2214"/>
+                <TextEquiv>
+                    <Unicode>liche und kaufmänniſche Fortbildungsſchule für männliche Perſonen um 1250 ℳ geringer ſind, als ſie im</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l44" custom="readingOrder {index:43;}">
+                <Coords points="264,2233 435,2233 468,2234 623,2240 623,2259 468,2265 410,2266 394,2266 264,2260 264,2233"/>
+                <Baseline points="264,2259 325,2259 345,2259 504,2259 524,2259 623,2258"/>
+                <TextEquiv>
+                    <Unicode>Etat vorgeſehen waren.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l45" custom="readingOrder {index:44;}">
+                <Coords points="404,2277 1373,2270 1764,2268 1764,2268 1811,2268 1859,2270 1950,2275 1950,2292 1915,2300 810,2307 482,2308 465,2308 404,2304 404,2277"/>
+                <Baseline points="404,2304 568,2301 587,2301 615,2302 631,2302 852,2301 874,2300 926,2300 938,2300 1181,2298 1197,2298 1250,2297 1265,2297 1297,2296 1310,2296 1406,2295 1420,2295 1447,2295 1466,2295 1563,2295 1575,2295 1627,2294 1638,2294 1752,2294 1764,2294 1950,2292"/>
+                <TextEquiv>
+                    <Unicode>Kapitel Ⅴ. (Armenweſen.) Die Mehreinnahmen von 37 687,53 ℳ rühren von höheren Erſtattungen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l46" custom="readingOrder {index:45;}">
+                <Coords points="263,2313 341,2310 885,2306 1445,2303 1823,2302 1823,2302 1897,2302 1950,2309 1950,2326 1914,2334 664,2342 341,2342 263,2335 263,2313"/>
+                <Baseline points="263,2335 307,2335 325,2335 664,2335 680,2335 735,2335 754,2334 799,2335 816,2335 1248,2331 1264,2331 1306,2330 1324,2330 1375,2330 1388,2330 1662,2328 1679,2328 1733,2328 1753,2328 1805,2327 1823,2327 1950,2326"/>
+                <TextEquiv>
+                    <Unicode>der Berufsgenoſſenſchaften und der Landesverſicherungsanſtalten bei den Armenpflegekoſten und von ſonſtigen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l47" custom="readingOrder {index:46;}">
+                <Coords points="264,2344 279,2343 1356,2338 1837,2336 1837,2336 1934,2336 1950,2342 1950,2360 1934,2365 1899,2367 1751,2369 681,2375 596,2375 279,2374 264,2370 264,2344"/>
+                <Baseline points="264,2370 470,2369 485,2369 527,2369 538,2369 681,2368 693,2368 740,2368 755,2368 957,2367 967,2367 1020,2367 1044,2366 1138,2364 1152,2364 1238,2364 1252,2364 1315,2363 1328,2363 1389,2363 1402,2363 1590,2362 1601,2362 1822,2361 1837,2361 1865,2361 1876,2361 1950,2360"/>
+                <TextEquiv>
+                    <Unicode>Verpflichteten für Rechnung des Bürgerhauſes her. Ihnen ſtehen aber auch fortdauernde Mehrausgaben in Höhe</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l48" custom="readingOrder {index:47;}">
+                <Coords points="262,2383 330,2379 812,2375 1408,2371 1588,2370 1816,2369 1816,2369 1893,2369 1905,2370 1939,2375 1948,2389 1948,2400 1875,2401 1500,2405 947,2410 646,2411 533,2411 428,2410 262,2404 262,2383"/>
+                <Baseline points="262,2404 313,2404 330,2404 362,2404 374,2404 470,2404 488,2404 514,2404 533,2404 691,2403 707,2403 747,2403 762,2403 947,2402 963,2402 1004,2402 1019,2402 1070,2401 1085,2401 1208,2400 1223,2400 1370,2399 1388,2399 1572,2398 1588,2398 1630,2398 1646,2399 1745,2396 1759,2396 1788,2396 1803,2395 1948,2394"/>
+                <TextEquiv>
+                    <Unicode>von 42 229,30 ℳ gegenüber, die hauptſächlich bei den Anſätzen betreffend Pflegegelder für Kinder in Anſtalten,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l49" custom="readingOrder {index:48;}">
+                <Coords points="263,2415 295,2414 758,2410 1790,2403 1790,2403 1948,2403 1948,2415 1934,2430 1919,2437 1867,2439 968,2448 721,2448 295,2446 263,2440 263,2415"/>
+                <Baseline points="263,2433 402,2441 424,2441 487,2441 509,2441 551,2440 573,2440 650,2440 672,2440 700,2440 721,2440 1034,2438 1055,2438 1083,2438 1105,2438 1328,2435 1351,2434 1428,2434 1460,2434 1530,2434 1552,2433 1683,2432 1706,2432 1931,2430"/>
+                <TextEquiv>
+                    <Unicode>beſonders aber für ſolche in Familienverpflegung in Charlottenburg ſowie beim Abſchnitt „Krankenpflege“</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l50" custom="readingOrder {index:49;}">
+                <Coords points="263,2458 287,2450 287,2450 498,2450 498,2478 482,2485 436,2485 287,2484 263,2477 263,2458"/>
+                <Baseline points="263,2472 416,2478 436,2478 498,2478"/>
+                <TextEquiv>
+                    <Unicode>entſtanden ſind.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l51" custom="readingOrder {index:50;}">
+                <Coords points="403,2497 493,2496 1411,2489 1849,2486 1849,2486 1914,2486 1950,2494 1950,2512 1914,2514 1602,2522 1041,2527 921,2528 787,2529 464,2529 403,2524 403,2497"/>
+                <Baseline points="403,2524 567,2522 591,2522 625,2522 644,2523 921,2521 944,2521 1012,2520 1029,2520 1100,2519 1118,2519 1261,2518 1278,2518 1374,2517 1392,2517 1637,2515 1665,2515 1700,2514 1725,2514 1792,2514 1809,2513 1863,2513 1883,2513 1950,2512"/>
+                <TextEquiv>
+                    <Unicode>Kapitel ⅤⅠ (Krankenanſtalten) weiſt zwar weſentlich höhere Rückerſtattungen an Kur⸗ und Ver⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l52" custom="readingOrder {index:51;}">
+                <Coords points="261,2539 282,2531 1713,2519 1713,2519 1881,2519 1949,2524 1949,2547 1881,2561 730,2564 318,2564 261,2562 261,2539"/>
+                <Baseline points="261,2558 514,2557 531,2557 584,2557 604,2557 730,2557 752,2557 959,2555 978,2555 1032,2555 1045,2555 1290,2553 1309,2553 1351,2552 1370,2552 1421,2551 1437,2551 1535,2550 1549,2550 1949,2547"/>
+                <TextEquiv>
+                    <Unicode>pflegungsgeldern von ſonſtigen Verpflichteten und Mehreinnahmen bei den Poſten „Dienſtbotenabonnements⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l53" custom="readingOrder {index:52;}">
+                <Coords points="261,2566 1843,2557 1843,2557 1914,2557 1949,2564 1949,2582 1914,2583 1582,2591 784,2598 363,2599 348,2599 261,2592 261,2566"/>
+                <Baseline points="261,2585 392,2592 404,2592 458,2592 472,2592 705,2591 719,2591 747,2590 761,2590 835,2590 849,2590 901,2590 917,2590 948,2589 960,2589 1056,2589 1072,2589 1099,2589 1116,2589 1172,2588 1184,2588 1243,2587 1258,2587 1362,2586 1376,2586 1416,2586 1430,2586 1617,2584 1631,2584 1684,2584 1694,2584 1949,2582"/>
+                <TextEquiv>
+                    <Unicode>beiträge“ und „Verſchiedenes“ in Höhe von 14 559,93 ℳ auf, doch bleiben die Erſtattungen von Armenverbänden</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l54" custom="readingOrder {index:53;}">
+                <Coords points="260,2607 324,2601 1520,2592 1802,2591 1802,2591 1871,2591 1934,2592 1949,2598 1949,2615 1934,2616 1811,2622 1712,2624 741,2630 437,2631 360,2631 260,2625 260,2607"/>
+                <Baseline points="260,2625 307,2625 324,2625 437,2625 453,2625 492,2625 509,2625 562,2625 581,2625 784,2624 802,2624 849,2623 867,2623 980,2622 998,2622 1037,2622 1054,2622 1117,2621 1135,2621 1431,2619 1449,2619 1502,2619 1520,2619 1785,2617 1802,2617 1844,2616 1861,2616 1949,2610"/>
+                <TextEquiv>
+                    <Unicode>um 9354,29 ℳ, von Krankenkaſſen um 5235,99 ℳ, vom Abonnementsverein von Dienſtherrſchaften für kranke</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l55" custom="readingOrder {index:54;}">
+                <Coords points="261,2633 973,2629 1577,2626 1785,2625 1950,2624 1950,2655 1617,2659 1225,2662 730,2664 457,2665 445,2665 277,2664 261,2660 261,2633"/>
+                <Baseline points="261,2660 434,2659 445,2659 477,2659 489,2659 584,2658 595,2658 642,2658 653,2658 767,2657 783,2657 809,2657 826,2657 880,2657 892,2656 945,2656 957,2656 1296,2654 1306,2653 1353,2653 1365,2653 1478,2652 1492,2652 1531,2652 1543,2652 1696,2651 1706,2651 1753,2650 1768,2650 1800,2650 1810,2650 1942,2651"/>
+                <TextEquiv>
+                    <Unicode>Dienſtboten zu Berlin um 6795,50 ℳ und von Berufsgenoſſenſchaften um 5368,74 ℳ, zuſammen um 26 754,52 ℳ</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l56" custom="readingOrder {index:55;}">
+                <Coords points="261,2669 278,2668 1259,2662 1602,2660 1602,2660 1768,2660 1781,2662 1781,2686 1768,2693 666,2702 409,2703 366,2703 261,2701 261,2669"/>
+                <Baseline points="261,2694 347,2695 366,2695 426,2695 446,2695 570,2694 589,2694 683,2693 703,2693 728,2693 749,2693 799,2693 819,2692 862,2692 882,2692 1035,2690 1055,2690 1113,2690 1132,2690 1385,2688 1405,2688 1457,2687 1478,2687 1510,2687 1523,2687 1617,2686 1639,2686 1666,2686 1690,2686 1781,2685"/>
+                <TextEquiv>
+                    <Unicode>hinter dem Etatsſoll zurück, ſo daß ſich zuſammen eine Mindereinnahme von 12 194,59 ℳ ergibt.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l57" custom="readingOrder {index:56;}">
+                <Coords points="404,2703 1845,2693 1845,2693 1914,2693 1948,2701 1948,2719 1878,2727 1704,2729 910,2735 626,2737 603,2737 404,2732 404,2703"/>
+                <Baseline points="404,2731 467,2730 486,2730 536,2730 557,2730 584,2730 603,2730 677,2729 697,2729 749,2729 770,2728 802,2728 814,2728 910,2728 933,2727 959,2727 983,2727 1105,2726 1125,2726 1305,2725 1324,2725 1365,2724 1385,2724 1435,2724 1464,2723 1609,2722 1628,2722 1774,2721 1821,2721 1948,2714"/>
+                <TextEquiv>
+                    <Unicode>Von den in Höhe von 27 971,29 ℳ erzielten Erſparniſſen bei den laufenden Ausgaben entfallen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l58" custom="readingOrder {index:57;}">
+                <Coords points="262,2740 323,2739 1788,2729 1788,2729 1949,2729 1949,2762 1860,2763 1671,2765 1084,2770 732,2772 514,2773 359,2773 262,2765 262,2740"/>
+                <Baseline points="262,2765 294,2765 305,2765 399,2766 420,2766 447,2767 466,2767 514,2766 529,2766 578,2766 594,2766 785,2765 801,2765 921,2764 936,2764 991,2764 1008,2764 1121,2762 1139,2762 1166,2762 1185,2762 1233,2762 1248,2761 1297,2761 1314,2761 1503,2760 1520,2760 1685,2759 1720,2758 1772,2758 1788,2758 1949,2755"/>
+                <TextEquiv>
+                    <Unicode>19 832,91 ℳ auf das Krankenhaus Weſtend und 8138,38 ℳ auf das Krankenhaus Kirchſtraße. Die Erſparniſſe</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l59" custom="readingOrder {index:58;}">
+                <Coords points="261,2776 346,2775 1855,2764 1855,2764 1923,2764 1949,2777 1949,2786 1937,2792 1923,2798 1591,2803 952,2807 436,2810 367,2810 261,2808 261,2776"/>
+                <Baseline points="261,2803 315,2803 329,2803 471,2803 484,2803 526,2803 540,2803 590,2803 604,2803 829,2801 843,2801 886,2801 901,2800 1061,2799 1078,2799 1205,2798 1218,2798 1273,2798 1289,2798 1378,2797 1392,2797 1446,2797 1463,2797 1648,2795 1662,2795 1739,2794 1753,2794 1823,2793 1838,2793 1949,2783"/>
+                <TextEquiv>
+                    <Unicode>ſind allgemein bei den Etatsnummern für Beſoldung, Gehälter und Löhne und Verpflegung ſowie beim Waſſer⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l60" custom="readingOrder {index:59;}">
+                <Coords points="260,2818 308,2812 377,2811 838,2810 838,2810 872,2810 966,2811 1010,2817 1010,2835 898,2842 663,2844 377,2844 260,2838 260,2818"/>
+                <Baseline points="260,2838 400,2838 419,2838 457,2838 478,2838 677,2838 698,2838 817,2837 838,2836 1010,2835"/>
+                <TextEquiv>
+                    <Unicode>verbrauch im Krankenhauſe Weſtend eingetreten.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l61" custom="readingOrder {index:60;}">
+                <Coords points="403,2847 1668,2837 1933,2836 1933,2836 1948,2836 1948,2862 1875,2869 1233,2875 668,2879 652,2879 403,2873 403,2847"/>
+                <Baseline points="403,2872 454,2872 471,2872 522,2872 541,2872 703,2871 721,2871 867,2870 885,2870 939,2870 958,2870 1064,2869 1083,2869 1304,2868 1321,2868 1363,2867 1380,2867 1430,2867 1449,2867 1572,2865 1591,2865 1633,2864 1651,2864 1875,2862 1893,2862 1948,2861"/>
+                <TextEquiv>
+                    <Unicode>Bei den einmaligen Ausgaben ſind geringe Mehrausgaben bei den Anſätzen für Neupflaſterung und</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l62" custom="readingOrder {index:61;}">
+                <Coords points="260,2881 1797,2870 1797,2870 1935,2870 1948,2881 1948,2891 1935,2901 1902,2903 613,2913 465,2914 389,2914 285,2912 260,2907 260,2881"/>
+                <Baseline points="260,2907 465,2906 479,2906 532,2906 548,2906 649,2905 664,2905 711,2905 726,2905 785,2905 802,2905 924,2904 939,2904 986,2904 1000,2904 1089,2903 1104,2903 1328,2902 1344,2901 1385,2901 1401,2901 1445,2900 1462,2900 1638,2899 1653,2898 1727,2898 1741,2898 1853,2897 1868,2896 1948,2888"/>
+                <TextEquiv>
+                    <Unicode>Aſphaltierung von Wegen auf dem Gelände des neuen Krankenhauſes, bei der Beſchaffung eines zweiten Hoch⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l63" custom="readingOrder {index:62;}">
+                <Coords points="260,2917 308,2915 1735,2904 1795,2904 1814,2904 1834,2912 1842,2925 1842,2930 1795,2942 512,2947 308,2947 260,2941 260,2917"/>
+                <Baseline points="260,2941 512,2940 532,2940 575,2940 594,2940 643,2940 663,2940 854,2939 874,2939 1031,2938 1050,2938 1104,2938 1124,2938 1194,2937 1213,2937 1345,2936 1366,2936 1669,2932 1690,2932 1842,2930"/>
+                <TextEquiv>
+                    <Unicode>druckdampfkeſſels für das Krankenhaus Kirchſtraße und beim Abſchnitt „Teuerungszulagen“ erwachſen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l64" custom="readingOrder {index:63;}">
+                <Coords points="401,2958 1895,2947 1921,2947 1932,2948 1947,2954 1947,2975 1765,2981 852,2992 796,2992 588,2991 401,2986 401,2958"/>
+                <Baseline points="401,2986 510,2985 528,2985 692,2984 712,2984 762,2984 785,2983 929,2983 947,2982 1001,2982 1015,2982 1128,2981 1142,2981 1169,2981 1186,2981 1270,2981 1283,2981 1334,2980 1347,2980 1410,2979 1424,2979 1541,2978 1554,2978 1739,2976 1753,2976 1870,2974 1895,2974 1947,2973"/>
+                <TextEquiv>
+                    <Unicode>Beim Kapitel ⅤⅠⅠ (Hochbau) ſind 3069,32 ℳ gegen den Etat weniger vereinnahmt worden. Die</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l65" custom="readingOrder {index:64;}">
+                <Coords points="259,2995 280,2994 1764,2983 1764,2983 1886,2983 1935,2984 1948,2996 1948,3005 1935,3011 1886,3017 1067,3026 566,3027 280,3027 259,3022 259,2995"/>
+                <Baseline points="259,3022 533,3021 550,3021 636,3021 654,3021 729,3021 748,3021 843,3020 861,3020 889,3020 907,3019 957,3019 976,3019 1132,3018 1149,3018 1337,3016 1355,3015 1451,3015 1469,3014 1514,3014 1531,3014 1729,3012 1750,3012 1808,3011 1827,3011 1948,3002"/>
+                <TextEquiv>
+                    <Unicode>Mindereinnahmen haben ihren Grund in den geringeren Erſtattungen ſeitens der Neubaufonds (für Schreib⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l66" custom="readingOrder {index:65;}">
+                <Coords points="259,3033 277,3031 297,3029 1626,3019 1626,3019 1797,3019 1850,3021 1867,3022 1947,3028 1947,3047 1797,3054 1251,3060 1045,3062 759,3064 259,3064 259,3033"/>
+                <Baseline points="259,3057 344,3058 362,3058 409,3058 428,3058 527,3057 549,3057 596,3057 614,3057 831,3056 846,3056 890,3055 905,3055 1073,3054 1092,3054 1251,3053 1274,3053 1328,3052 1345,3052 1390,3052 1406,3051 1475,3051 1495,3051 1867,3047 1891,3047 1947,3047"/>
+                <TextEquiv>
+                    <Unicode>hilfe), des Wirtes des Rathauskellers für verbrauchte Elektrizität und der beim Grundſtückserwerbsfonds ver⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l67" custom="readingOrder {index:66;}">
+                <Coords points="260,3073 275,3067 1905,3055 1905,3055 1915,3055 1933,3058 1948,3065 1948,3084 1915,3090 1225,3096 874,3099 546,3100 420,3100 275,3094 260,3093 260,3073"/>
+                <Baseline points="260,3088 386,3093 402,3093 571,3093 586,3093 630,3093 643,3093 758,3092 774,3092 969,3091 983,3091 1057,3090 1081,3090 1186,3089 1200,3089 1281,3088 1294,3088 1336,3088 1351,3088 1401,3087 1415,3088 1603,3085 1617,3085 1679,3085 1693,3085 1891,3084 1905,3084 1948,3084"/>
+                <TextEquiv>
+                    <Unicode>walteten Grundſtücke für bauliche Unterhaltung uſw., obwohl ihnen bei den Erſtattungen vom Neubaufonds für</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l68" custom="readingOrder {index:67;}">
+                <Coords points="259,3105 287,3102 1017,3099 1017,3099 1124,3099 1145,3100 1145,3124 1124,3131 1117,3133 483,3135 413,3135 287,3134 259,3128 259,3105"/>
+                <Baseline points="259,3122 394,3128 413,3128 483,3128 503,3128 546,3128 565,3128 646,3127 665,3127 718,3127 737,3126 850,3126 872,3125 899,3125 922,3125 1145,3124"/>
+                <TextEquiv>
+                    <Unicode>techniſche Hilfe ein Mehr von 8504,88 ℳ gegenüberſteht.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l69" custom="readingOrder {index:68;}">
+                <Coords points="400,3136 1897,3126 1897,3126 1948,3126 1948,3152 1812,3161 1087,3166 784,3168 501,3168 400,3163 400,3136"/>
+                <Baseline points="400,3163 452,3163 473,3163 613,3162 633,3162 834,3160 855,3160 908,3159 929,3159 979,3159 991,3159 1087,3158 1111,3158 1138,3158 1160,3158 1265,3157 1286,3157 1329,3156 1352,3156 1399,3156 1419,3156 1460,3156 1493,3155 1700,3154 1721,3154 1868,3153 1897,3153 1948,3152"/>
+                <TextEquiv>
+                    <Unicode>Die erhebliche Mehrausgabe von 132 652,38 ℳ verteilt ſich auf die fortdauernden Ausgaben mit</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l70" custom="readingOrder {index:69;}">
+                <Coords points="261,3172 321,3171 575,3169 1859,3161 1859,3161 1894,3161 1947,3168 1947,3186 1894,3194 928,3201 784,3202 357,3202 261,3196 261,3172"/>
+                <Baseline points="261,3190 292,3197 304,3197 397,3196 418,3196 445,3196 465,3196 520,3196 536,3196 584,3195 600,3195 640,3195 657,3195 819,3194 835,3194 982,3194 997,3193 1047,3193 1065,3193 1114,3193 1126,3193 1221,3192 1241,3191 1280,3191 1317,3191 1368,3191 1384,3190 1435,3190 1452,3190 1660,3189 1676,3188 1823,3187 1839,3187 1894,3187 1911,3187 1947,3181"/>
+                <TextEquiv>
+                    <Unicode>14 238,51 ℳ und auf die einmaligen Ausgaben mit 118 413,87 ℳ. Bei den fortdauernden Ausgaben ſind an</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l71" custom="readingOrder {index:70;}">
+                <Coords points="259,3206 335,3203 1773,3195 1773,3195 1843,3195 1935,3196 1946,3205 1946,3214 1919,3227 1666,3230 548,3238 348,3238 259,3231 259,3206"/>
+                <Baseline points="259,3224 310,3232 335,3231 583,3230 604,3230 746,3229 767,3229 808,3229 829,3229 976,3228 999,3228 1042,3228 1071,3227 1228,3226 1250,3226 1397,3225 1428,3225 1574,3223 1596,3223 1666,3223 1697,3223 1752,3222 1773,3222 1946,3211"/>
+                <TextEquiv>
+                    <Unicode>den Überſchreitungen beſonders die Abſchnitte für perſönliche Ausgaben (techniſche Hilfe und Teuerungs⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l72" custom="readingOrder {index:71;}">
+                <Coords points="258,3248 292,3240 1719,3229 1891,3228 1891,3228 1935,3228 1947,3239 1947,3249 1935,3254 1851,3265 973,3270 335,3273 320,3273 258,3272 258,3248"/>
+                <Baseline points="258,3267 392,3266 413,3266 529,3265 551,3265 755,3264 778,3264 973,3263 994,3263 1040,3263 1059,3263 1153,3262 1173,3262 1227,3262 1250,3262 1359,3261 1380,3260 1458,3260 1480,3259 1661,3258 1682,3257 1862,3256 1884,3255 1947,3246"/>
+                <TextEquiv>
+                    <Unicode>zulagen), bauliche Unterhaltung, Unterhaltung der Möbel und Geräte, ſowie Beleuchtung einſchließlich elek⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l73" custom="readingOrder {index:72;}">
+                <Coords points="258,3278 270,3275 556,3272 802,3271 802,3271 906,3271 919,3274 919,3300 906,3306 649,3309 536,3309 284,3308 258,3301 258,3278"/>
+                <Baseline points="258,3295 357,3302 378,3302 454,3302 474,3302 517,3301 536,3301 691,3300 710,3300 773,3299 792,3299 919,3299"/>
+                <TextEquiv>
+                    <Unicode>triſcher Kraft für Fahrſtühle uſw. beteiligt.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>zurückbleibt. Dies erklärt ſich daraus, daß bei der Etatsaufſtellung für 1907 die Einnahmen aus den Überſchüſſen
+der Sonderverwaltungen und den Gemeindeſteuern bereits entſprechend höher veranſchlagt worden ſind. Ein
+Rückgang in der Steigung der Einnahmen iſt nicht eingetreten.
+Der trotzdem günſtige Abſchluß des Ordinariums des Hauptetats iſt hauptſächlich auf die größeren
+Erträge der Gaswerke (216 000 ℳ), der Zinſen von vorübergehend belegten Beſtänden der Stadthauptkaſſe
+(108 000 ℳ) und der geſamten Gemeindeſteuern (972 000 ℳ), ſowie auf eine Erſparnis bei den Koſten für die
+elektriſche Straßenbeleuchtung (93 000 ℳ) zurückzuführen.
+Wie ſich der Überſchuß im einzelnen zuſammenſetzt, geht aus der beigefügten Überſicht, insbeſondere
+deren Spalten 14 und 15, hervor. Danach ſind Zuſchüſſe bei den Kapiteln Ⅴ, ⅤⅠⅠ, ⅤⅠⅠⅠ, ⅠⅩ, ⅩⅠⅠⅠ und ⅩⅠⅤ
+erforderlich geweſen, während die übrigen 9 Kapitel und die Reſtverwaltung Überſchüſſe aufweiſen.
+Die Reſtverwaltung verdankt ihren Überſchuß den Erſparniſſen beim Straßenbau in Höhe
+von rund 57 650 ℳ bzw. 45 850 ℳ = 103 500 ℳ. Dieſen Erſparniſſen ſtehen geringe Mindereinnahmen beim
+Armenweſen, bei den Krankenanſtalten und den Gemeindeſteuern entgegen, ſo daß ſich noch ein Überſchuß von
+80 728,77 ℳ ergibt.
+Kapitel Ⅰ. (Allgemeine Verwaltung). Die Mehreinnahmen erklären ſich aus den größeren
+Überſchüſſen der Gaswerke und des Elektrizitätswerkes, die den Etatsanſchlag um 216 402,30 ℳ. bzw.
+37 741,34 ℳ, zuſammen 254 143,64 ℳ überſchreiten. Aus dem Betriebe der Ladeſtraßenverwaltung
+iſt ein Überſchuß nicht erzielt worden. Der im Etat vorgeſehene Betrag von 17 000 ℳ, mußte daher in Abgang
+geſtellt werden. Der Überſchuß der Waſſerwerke iſt um 25 958,50 ℳ. hinter dem Etatsſoll von 50 000
+zurückgeblieben.
+Die Minderausgaben bei den fortdauernden Ausgaben ſind in der Hauptſache durch die Inabgang⸗
+ſtellung nachbewilligter Beträge aus dem Dispoſitionsfonds bedingt. Dazu kommen Erſparniſſe bei den Be⸗
+ſoldungen, den Zulagen, Vergütungen und Löhnen, bei der Witwen⸗ und Waiſenverſorgung, beim Ruhelohn
+und der Hinterbliebenenverſorgung der ſtädtiſchen Arbeiter und Angeſtellten, bei den Bedürfniſſen der Stadt⸗
+verordnetenverſammlung und bei „Verſchiedenes“.
+Der Zugang bei den einmaligen Ausgaben iſt durch Mehraufwendungen bei der Gewährung von
+Teuerungszulagen und durch den Beſuch der Londoner Stadtvertreter hervorgerufen.
+Kapitel ⅠⅠ. (Höhere Lehranſtalten). Der Überſchuß von 19 662,25 ℳ iſt hauptſächlich durch
+Mehreinnahmen an Schulgeld und durch Erſparniſſe bei den Beſoldungen erzielt worden.
+Kapitel ⅠⅠⅠ. (Höhere Mädchenſchulen, Bürgermädchenſchule und Gemeindeſchulen). Die
+Mindereinnahmen ſind darauf zurückzuführen, daß an Alterszulagen der Lehrer 31 794,76 ℳ weniger erſtattet
+wurden, als im Etat vorgeſehen waren. Dagegen wurden an Schulgeld an den höheren Mädchenſchulen im
+ganzen rund 17 000 ℳ mehr eingenommen.
+Die Minderausgaben bei den fortdauernden Ausgaben von rund 108 000 ℳ ſind hauptſächlich durch
+Erſparniſſe bei den Ausgaben für Beſoldungen, insbeſondere bei den Gemeinde⸗ und Hilfsſchulen, Erſparungen
+bei den Anſätzen für perſönliche Ausgaben, Unterrichtsmittel und Verſchiedenes und durch geringere Beiträge
+zur Ruhegehaltskaſſe hervorgerufen.
+Die Mehrausgabe der einmaligen Ausgaben iſt durch die nachträgliche Weiterbewilligung der Teuerungs⸗
+zulagen und die Bewilligung der Koſten für die Einrichtung der Schulzahnklinik entſtanden.
+Kapitel ⅠⅤ. (Fortbildungsſchulen). Obwohl die Fortbildungsſchulen für Mädchen eine Mehr⸗
+einnahme von zuſammen 1460 ℳ aufzuweiſen haben, bleibt die Geſamteinnahme doch hinter dem Etat zu⸗
+rück, weil die Staatszuſchüſſe für die Kunſtgewerbe⸗ und Handwerkerſchule um 1751,18 ℳ und für die gewerb⸗ 
+liche und kaufmänniſche Fortbildungsſchule für männliche Perſonen um 1250 ℳ geringer ſind, als ſie im
+Etat vorgeſehen waren.
+Kapitel Ⅴ. (Armenweſen.) Die Mehreinnahmen von 37 687,53 ℳ rühren von höheren Erſtattungen
+der Berufsgenoſſenſchaften und der Landesverſicherungsanſtalten bei den Armenpflegekoſten und von ſonſtigen
+Verpflichteten für Rechnung des Bürgerhauſes her. Ihnen ſtehen aber auch fortdauernde Mehrausgaben in Höhe
+von 42 229,30 ℳ gegenüber, die hauptſächlich bei den Anſätzen betreffend Pflegegelder für Kinder in Anſtalten,
+beſonders aber für ſolche in Familienverpflegung in Charlottenburg ſowie beim Abſchnitt „Krankenpflege“
+entſtanden ſind.
+Kapitel ⅤⅠ (Krankenanſtalten) weiſt zwar weſentlich höhere Rückerſtattungen an Kur⸗ und Ver⸗
+pflegungsgeldern von ſonſtigen Verpflichteten und Mehreinnahmen bei den Poſten „Dienſtbotenabonnements⸗
+beiträge“ und „Verſchiedenes“ in Höhe von 14 559,93 ℳ auf, doch bleiben die Erſtattungen von Armenverbänden
+um 9354,29 ℳ, von Krankenkaſſen um 5235,99 ℳ, vom Abonnementsverein von Dienſtherrſchaften für kranke
+Dienſtboten zu Berlin um 6795,50 ℳ und von Berufsgenoſſenſchaften um 5368,74 ℳ, zuſammen um 26 754,52 ℳ
+hinter dem Etatsſoll zurück, ſo daß ſich zuſammen eine Mindereinnahme von 12 194,59 ℳ ergibt.
+Von den in Höhe von 27 971,29 ℳ erzielten Erſparniſſen bei den laufenden Ausgaben entfallen
+19 832,91 ℳ auf das Krankenhaus Weſtend und 8138,38 ℳ auf das Krankenhaus Kirchſtraße. Die Erſparniſſe
+ſind allgemein bei den Etatsnummern für Beſoldung, Gehälter und Löhne und Verpflegung ſowie beim Waſſer⸗
+verbrauch im Krankenhauſe Weſtend eingetreten.
+Bei den einmaligen Ausgaben ſind geringe Mehrausgaben bei den Anſätzen für Neupflaſterung und
+Aſphaltierung von Wegen auf dem Gelände des neuen Krankenhauſes, bei der Beſchaffung eines zweiten Hoch⸗
+druckdampfkeſſels für das Krankenhaus Kirchſtraße und beim Abſchnitt „Teuerungszulagen“ erwachſen.
+Beim Kapitel ⅤⅠⅠ (Hochbau) ſind 3069,32 ℳ gegen den Etat weniger vereinnahmt worden. Die
+Mindereinnahmen haben ihren Grund in den geringeren Erſtattungen ſeitens der Neubaufonds (für Schreib⸗
+hilfe), des Wirtes des Rathauskellers für verbrauchte Elektrizität und der beim Grundſtückserwerbsfonds ver⸗
+walteten Grundſtücke für bauliche Unterhaltung uſw., obwohl ihnen bei den Erſtattungen vom Neubaufonds für
+techniſche Hilfe ein Mehr von 8504,88 ℳ gegenüberſteht.
+Die erhebliche Mehrausgabe von 132 652,38 ℳ verteilt ſich auf die fortdauernden Ausgaben mit
+14 238,51 ℳ und auf die einmaligen Ausgaben mit 118 413,87 ℳ. Bei den fortdauernden Ausgaben ſind an
+den Überſchreitungen beſonders die Abſchnitte für perſönliche Ausgaben (techniſche Hilfe und Teuerungs⸗
+zulagen), bauliche Unterhaltung, Unterhaltung der Möbel und Geräte, ſowie Beleuchtung einſchließlich elek⸗
+triſcher Kraft für Fahrſtühle uſw. beteiligt.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <SeparatorRegion id="r_5" custom="readingOrder {index:3;}">
+            <Coords points="1695,550 1957,550 1957,557 1695,557"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_6" custom="readingOrder {index:4;}">
+            <Coords points="1696,626 1957,626 1957,633 1696,633"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_7" custom="readingOrder {index:5;}">
+            <Coords points="650,499 1672,499 1672,509 650,509"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_8" custom="readingOrder {index:6;}">
+            <Coords points="790,535 1671,535 1671,544 790,544"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_9" custom="readingOrder {index:7;}">
+            <Coords points="1526,578 1670,578 1670,583 1526,583"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_10" custom="readingOrder {index:8;}">
+            <Coords points="1173,612 1668,612 1668,618 1173,618"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_11" custom="readingOrder {index:9;}">
+            <Coords points="333,653 1670,653 1670,665 333,665"/>
+        </SeparatorRegion>
+        <TextRegion id="r4" custom="readingOrder {index:10;} structure {type:T0C0;}">
+            <Coords points="262,480 262,512 1689,512 1689,475"/>
+            <TextLine id="r4l1" custom="readingOrder {index:0;}">
+                <Coords points="271,484 339,479 422,479 422,479 546,484 633,490 633,510 575,512 311,512 271,511 271,484"/>
+                <Baseline points="271,510 316,511 336,511 420,512 439,512 468,511 487,512 561,511 580,510 633,510"/>
+                <TextEquiv>
+                    <Unicode>der Reſte, in Höhe von</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+        <TextRegion id="r5" custom="readingOrder {index:11;} structure {type:T0C0;}">
+            <Coords points="262,512 262,560 1689,554 1689,512"/>
+            <TextLine id="r5l1" custom="readingOrder {index:0;}">
+                <Coords points="271,520 381,512 381,512 541,512 666,519 753,526 753,545 630,553 475,553 271,546 271,520"/>
+                <Baseline points="271,546 331,546 350,546 395,546 413,546 541,547 560,547 588,546 607,546 681,546 700,546 753,545"/>
+                <TextEquiv>
+                    <Unicode>dem der Ausgabe in Höhe von</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+        <TextRegion id="r6" custom="readingOrder {index:12;} structure {type:T0C0;}">
+            <Coords points="262,560 262,596 1689,588 1689,554"/>
+            <TextLine id="r6l1" custom="readingOrder {index:0;}">
+                <Coords points="271,572 366,564 691,562 1271,560 1271,560 1398,560 1465,568 1465,586 1426,589 271,595 271,572"/>
+                <Baseline points="271,590 428,590 443,590 468,590 483,590 566,590 580,589 623,589 638,589 780,589 794,589 838,589 852,589 1050,588 1066,588 1398,586 1412,586 1465,586"/>
+                <TextEquiv>
+                    <Unicode>gegenüber, ſo ergibt ſich gleichfalls der vorberechnete Verwaltungsüberſchuß von</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+        <TextRegion id="r7" custom="readingOrder {index:13;} structure {type:T0C0;}">
+            <Coords points="262,596 262,631 1689,631 1689,588"/>
+            <TextLine id="r7l1" custom="readingOrder {index:0;}">
+                <Coords points="270,599 510,594 618,594 618,594 653,594 1027,596 1151,603 1151,621 887,626 626,629 350,630 334,630 270,623 270,599"/>
+                <Baseline points="270,622 315,622 334,622 418,622 437,622 488,622 510,622 653,622 673,623 719,623 741,623 887,621 904,621 940,621 960,621 1027,621 1044,621 1080,621 1099,621 1151,620"/>
+                <TextEquiv>
+                    <Unicode>der gegen den Überſchuß des Vorjahres — 1906 — von</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+        <TextRegion id="r8" custom="readingOrder {index:14;} structure {type:T0C0;}">
+            <Coords points="262,631 262,668 1689,668 1689,631"/>
+            <TextLine id="r8l1" custom="readingOrder {index:0;}">
+                <Coords points="270,643 323,645 323,666 270,664 270,646"/>
+                <Baseline points="270,659 319,664"/>
+                <TextEquiv>
+                    <Unicode>um</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+        <TextRegion id="r9" custom="readingOrder {index:15;} structure {type:T0C1;}">
+            <Coords points="1689,475 1689,512 1966,512 1966,475"/>
+            <TextLine id="r9l1" custom="readingOrder {index:0;}">
+                <Coords points="1703,478 1903,478 1955,480 1955,505 1903,512 1863,512 1703,506 1703,478"/>
+                <Baseline points="1703,506 1736,506 1748,506 1798,506 1810,506 1903,505 1928,505 1955,505"/>
+                <TextEquiv>
+                    <Unicode>25 563 542,31 ℳ</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+        <TextRegion id="r10" custom="readingOrder {index:16;} structure {type:T0C1;}">
+            <Coords points="1689,512 1689,554 1966,553 1966,512"/>
+            <TextLine id="r10l1" custom="readingOrder {index:0;}">
+                <Coords points="1703,516 1721,515 1953,513 1954,545 1869,547 1863,547 1703,541 1703,516"/>
+                <Baseline points="1703,541 1735,541 1749,541 1798,541 1810,541 1946,543"/>
+                <TextEquiv>
+                    <Unicode>24 198 669,53 „</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+        <TextRegion id="r11" custom="readingOrder {index:17;} structure {type:T0C1;}">
+            <Coords points="1689,554 1689,588 1967,587 1966,553"/>
+            <TextLine id="r11l1" custom="readingOrder {index:0;}">
+                <Coords points="1721,560 1747,559 1747,559 1905,559 1954,561 1954,583 1912,587 1844,587 1721,584 1721,560"/>
+                <Baseline points="1721,584 1734,584 1747,584 1798,584 1810,584 1905,583 1928,583 1954,583"/>
+                <TextEquiv>
+                    <Unicode>1 364 872,78 ℳ</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+        <TextRegion id="r12" custom="readingOrder {index:18;} structure {type:T0C1;}">
+            <Coords points="1689,588 1689,631 1968,631 1967,587"/>
+            <TextLine id="r12l1" custom="readingOrder {index:0;}">
+                <Coords points="1719,594 1860,588 1860,588 1874,588 1896,595 1943,614 1943,623 1860,623 1719,617 1719,594"/>
+                <Baseline points="1719,617 1731,617 1746,617 1795,617 1808,617 1896,617 1931,617 1943,617"/>
+                <TextEquiv>
+                    <Unicode>1 782 727,51 „</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+        <TextRegion id="r13" custom="readingOrder {index:19;} structure {type:T0C1;}">
+            <Coords points="1689,631 1689,668 1969,668 1968,631"/>
+            <TextLine id="r13l1" custom="readingOrder {index:0;}">
+                <Coords points="1747,635 1954,635 1953,658 1872,666 1764,666 1746,658 1746,631"/>
+                <Baseline points="1750,658 1904,659 1934,658 1953,658"/>
+                <TextEquiv>
+                    <Unicode>417 854,73 ℳ</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

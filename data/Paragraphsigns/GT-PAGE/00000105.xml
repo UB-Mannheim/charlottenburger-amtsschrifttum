@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2022-05-06T13:44:12.211+02:00</Created>
+        <LastChange>2023-07-04T14:43:03.448+02:00</LastChange>
+        <Comments>
+                Measurement unit: pixel
+                PrimaryLanguage: 
+                Producer: Transkribus
+            </Comments>
+        <TranskribusMetadata docId="988838" pageId="38236912" pageNr="12" tsid="128718698" status="GT" userId="48446" imgUrl="https://files.transkribus.eu/Get?id=RDJYQTITYJREJGOQPBHJLOKG&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=ELZXEILGKCNWWPMAQEFYOKTO" imageId="30799991"/>
+    </Metadata>
+    <Page imageFilename="00000105.png" imageWidth="2278" imageHeight="3614">
+        <PrintSpace>
+            <Coords points="0,1 2278,1 2278,3614 0,3614"/>
+        </PrintSpace>
+        <ReadingOrder>
+            <OrderedGroup id="ro_1688474641742" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+                <RegionRefIndexed index="1" regionRef="r2"/>
+                <RegionRefIndexed index="2" regionRef="r3"/>
+                <RegionRefIndexed index="3" regionRef="r4"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion type="page-number" id="r1" custom="readingOrder {index:0;} structure {type:page-number;}">
+            <Coords points="1069,171 1124,171 1124,215 1069,215"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="1073,176 1095,176 1118,178 1118,210 1073,210"/>
+                <Baseline points="1073,210 1118,210"/>
+                <TextEquiv>
+                    <Unicode>93</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>93</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r2" custom="readingOrder {index:1;} structure {type:paragraph;}">
+            <Coords points="133,259 1098,259 1098,763 133,763"/>
+            <TextLine id="r2l1" custom="readingOrder {index:0;}">
+                <Coords points="139,274 265,272 555,269 1013,265 1013,265 1031,265 1088,274 1088,298 629,311 149,315 139,315"/>
+                <Baseline points="139,307 216,306 231,306 335,305 347,305 407,305 423,305 498,304 516,304 726,301 744,301 860,299 875,299 930,298 946,298 997,298 1013,298 1088,298"/>
+                <TextEquiv>
+                    <Unicode>ſeits ſollen vor dem Landgericht Berlin III als dem</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l2" custom="readingOrder {index:1;}">
+                <Coords points="141,325 218,318 253,317 416,314 920,310 920,310 1022,310 1045,320 1045,342 835,353 600,356 416,356 141,351"/>
+                <Baseline points="141,351 370,349 396,349 632,347 658,346 879,344 904,344 1045,342"/>
+                <TextEquiv>
+                    <Unicode>vereinbarten Gerichtsſtand ausgetragen werden.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l3" custom="readingOrder {index:2;}">
+                <Coords points="570,405 626,403 626,403 660,403 660,435 585,444 570,444"/>
+                <Baseline points="570,436 585,435 612,435 660,435"/>
+                <TextEquiv>
+                    <Unicode>§ 10.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l4" custom="readingOrder {index:3;}">
+                <Coords points="229,451 317,450 696,446 1007,443 1007,443 1047,443 1089,452 1089,474 1047,477 948,484 732,488 351,491 317,491 229,485"/>
+                <Baseline points="229,484 297,484 317,483 434,482 454,482 526,481 545,481 629,480 649,481 766,479 785,479 848,478 867,478 985,476 1007,476 1089,474"/>
+                <TextEquiv>
+                    <Unicode>Der Fiskus darf ſeine Rechte aus dieſem Ver⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l5" custom="readingOrder {index:4;}">
+                <Coords points="142,499 332,494 1027,487 1027,487 1044,487 1090,496 1090,519 864,530 214,537 196,537 142,529"/>
+                <Baseline points="142,529 233,528 260,528 304,528 332,527 451,526 479,526 706,524 735,524 823,523 850,522 888,522 915,521 1090,519"/>
+                <TextEquiv>
+                    <Unicode>trage an Dritte, insbeſondere einer zu bildenden</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l6" custom="readingOrder {index:5;}">
+                <Coords points="146,541 219,539 908,532 908,532 1047,532 1089,534 1089,563 981,572 676,576 614,576 146,574"/>
+                <Baseline points="146,573 327,572 355,571 430,571 459,570 546,569 573,569 795,567 823,567 858,566 887,566 1001,565 1028,564 1089,563"/>
+                <TextEquiv>
+                    <Unicode>Gemeinde oder einer beſtehenden, in welche das</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l7" custom="readingOrder {index:6;}">
+                <Coords points="143,584 647,577 1020,575 1020,575 1039,575 1075,584 1090,588 1090,600 1075,606 1058,608 975,615 697,620 464,623 212,624 198,624 143,616"/>
+                <Baseline points="143,616 177,616 198,616 212,616 235,616 248,615 269,615 464,614 486,613 605,613 623,612 864,609 884,609 975,608 995,608 1090,597"/>
+                <TextEquiv>
+                    <Unicode>in § 1 bezeichnete Gebiet eingemeindet wird, über⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l8" custom="readingOrder {index:7;}">
+                <Coords points="144,630 478,624 899,618 899,618 1069,618 1090,628 1090,660 1021,661 216,669 197,669 144,660"/>
+                <Baseline points="144,652 269,660 285,659 383,659 405,658 460,658 478,658 648,655 672,655 727,654 753,654 869,653 899,653 1090,651"/>
+                <TextEquiv>
+                    <Unicode>tragen, wenn der Erwerber der Rechte gleichzeitig</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l9" custom="readingOrder {index:8;}">
+                <Coords points="144,672 336,668 823,663 823,663 1046,663 1091,672 1091,695 982,704 965,705 489,710 336,710 144,705"/>
+                <Baseline points="144,705 194,705 234,704 297,704 336,703 600,700 640,699 781,698 823,698 1091,695"/>
+                <TextEquiv>
+                    <Unicode>die den übertragenden Rechten entſprechenden</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l10" custom="readingOrder {index:9;}">
+                <Coords points="148,716 166,715 569,712 569,712 675,712 675,744 383,757 166,757 148,750"/>
+                <Baseline points="148,749 439,746 461,747 675,744"/>
+                <TextEquiv>
+                    <Unicode>Verpflichtungen übernimmt.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>ſeits ſollen vor dem Landgericht Berlin III als dem
+vereinbarten Gerichtsſtand ausgetragen werden.
+§ 10.
+Der Fiskus darf ſeine Rechte aus dieſem Ver⸗
+trage an Dritte, insbeſondere einer zu bildenden
+Gemeinde oder einer beſtehenden, in welche das
+in § 1 bezeichnete Gebiet eingemeindet wird, über⸗
+tragen, wenn der Erwerber der Rechte gleichzeitig
+die den übertragenden Rechten entſprechenden
+Verpflichtungen übernimmt.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r3" custom="readingOrder {index:2;} structure {type:paragraph;}">
+            <Coords points="1111,250 2079,250 2079,753 1111,753"/>
+            <TextLine id="r3l1" custom="readingOrder {index:0;}">
+                <Coords points="1549,261 1591,260 1591,260 1627,260 1639,284 1639,291 1564,299 1549,299"/>
+                <Baseline points="1549,290 1564,290 1591,290 1639,291"/>
+                <TextEquiv>
+                    <Unicode>§ 11.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l2" custom="readingOrder {index:1;}">
+                <Coords points="1205,306 1287,304 1588,302 1891,300 1891,300 1920,300 2070,303 2070,332 2032,341 1363,346 1287,346 1205,339"/>
+                <Baseline points="1205,339 1272,338 1287,338 1481,336 1498,336 1757,334 1770,334 1872,333 1891,333 2070,332"/>
+                <TextEquiv>
+                    <Unicode>Die geſetzlichen Stempelkoſten dieſes Vertrages</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l3" custom="readingOrder {index:2;}">
+                <Coords points="1118,352 1347,348 1471,347 1732,345 1732,345 1827,345 1954,346 2058,354 2069,370 2069,377 2014,386 1752,389 1184,392 1118,392"/>
+                <Baseline points="1118,383 1184,383 1214,383 1279,382 1306,382 1423,381 1451,381 1610,380 1637,380 1847,378 1874,378 1915,377 1941,377 2069,376"/>
+                <TextEquiv>
+                    <Unicode>ſind von beiden Parteien gleichmäßig zu tragen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l4" custom="readingOrder {index:3;}">
+                <Coords points="1551,439 1592,438 1592,438 1630,438 1641,462 1641,469 1566,477 1551,477"/>
+                <Baseline points="1551,468 1566,468 1592,468 1641,469"/>
+                <TextEquiv>
+                    <Unicode>§ 12.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l5" custom="readingOrder {index:4;}">
+                <Coords points="1206,483 1536,478 1536,478 2037,478 2071,487 2071,511 1905,520 1428,523 1300,523 1206,517"/>
+                <Baseline points="1206,516 1271,516 1300,516 1428,515 1468,515 1496,514 1536,514 2071,511"/>
+                <TextEquiv>
+                    <Unicode>Die Felten &amp; Guilleaume⸗Lahmeyerwerke⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l6" custom="readingOrder {index:5;}">
+                <Coords points="1120,530 1138,526 1899,523 1899,523 1996,523 2011,524 2071,531 2071,553 2053,555 1971,563 1840,565 1364,569 1138,569 1120,562"/>
+                <Baseline points="1120,562 1430,558 1455,558 1527,558 1552,557 1670,557 1699,557 1870,556 1899,556 2011,555 2037,554 2071,553"/>
+                <TextEquiv>
+                    <Unicode>Aktiengeſellſchaft tritt dieſem Vertrage, ſoweit er</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l7" custom="readingOrder {index:6;}">
+                <Coords points="1120,574 1199,572 1257,571 1402,569 1777,567 2019,566 2019,566 2051,566 2070,575 2070,598 1954,607 1730,609 1588,610 1375,611 1257,611 1120,605"/>
+                <Baseline points="1120,605 1170,605 1199,604 1375,603 1402,602 1588,601 1613,601 1752,600 1777,600 1914,599 1941,599 1995,598 2019,598 2070,597"/>
+                <TextEquiv>
+                    <Unicode>die Lieferung elektriſcher Energie betrifft, für die</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l8" custom="readingOrder {index:7;}">
+                <Coords points="1121,618 1380,614 1798,611 1798,611 1932,611 2071,613 2071,641 2032,651 1932,652 1453,655 1380,655 1121,650"/>
+                <Baseline points="1121,649 1236,648 1279,648 1337,647 1380,646 1499,645 1540,646 1753,644 1798,644 2071,634"/>
+                <TextEquiv>
+                    <Unicode>Dauer des zurzeit beſtehenden Pachtvertrages</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l9" custom="readingOrder {index:8;}">
+                <Coords points="1120,661 1308,658 1394,657 1619,655 1969,654 1969,654 2017,654 2071,663 2071,686 2017,695 1830,697 1280,702 1203,702 1161,701 1120,694"/>
+                <Baseline points="1120,693 1280,692 1308,692 1366,691 1394,691 1575,689 1603,690 1940,688 1969,687 2071,680"/>
+                <TextEquiv>
+                    <Unicode>bezüglich des ſtädtiſchen Elektrizitätswerkes Char⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l10" custom="readingOrder {index:9;}">
+                <Coords points="1121,706 1227,704 1368,702 1576,701 1576,701 1626,701 1626,734 1540,743 1310,745 1291,745 1121,739"/>
+                <Baseline points="1121,739 1310,736 1334,735 1540,734 1564,734 1626,734"/>
+                <TextEquiv>
+                    <Unicode>lottenburg ausdrücklich bei.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>§ 11.
+Die geſetzlichen Stempelkoſten dieſes Vertrages
+ſind von beiden Parteien gleichmäßig zu tragen.
+§ 12.
+Die Felten &amp; Guilleaume⸗Lahmeyerwerke⸗
+Aktiengeſellſchaft tritt dieſem Vertrage, ſoweit er
+die Lieferung elektriſcher Energie betrifft, für die
+Dauer des zurzeit beſtehenden Pachtvertrages
+bezüglich des ſtädtiſchen Elektrizitätswerkes Char⸗
+lottenburg ausdrücklich bei.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r4" custom="readingOrder {index:3;} structure {type:paragraph;}">
+            <Coords points="680,962 1519,962 1519,1206 680,1206"/>
+            <TextLine id="r4l1" custom="readingOrder {index:0;}">
+                <Coords points="687,975 1293,970 1481,969 1481,969 1500,969 1512,993 1512,999 1500,1001 1391,1010 1126,1014 745,1015 728,1015 687,1009"/>
+                <Baseline points="687,1009 1126,1004 1151,1004 1212,1004 1238,1003 1267,1003 1293,1003 1391,1002 1418,1001 1512,997"/>
+                <TextEquiv>
+                    <Unicode>Charlottenburg, den 4. März 1910.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l2" custom="readingOrder {index:1;}">
+                <Coords points="753,1072 881,1068 881,1068 1406,1068 1449,1078 1462,1092 1462,1102 1406,1110 881,1110 753,1109"/>
+                <Baseline points="753,1109 833,1108 857,1108 1462,1102"/>
+                <TextEquiv>
+                    <Unicode>Der Stadtverordneten⸗Vorſteher.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l3" custom="readingOrder {index:2;}">
+                <Coords points="1029,1158 1110,1157 1110,1157 1172,1157 1243,1164 1243,1190 1172,1198 1110,1198 1029,1192"/>
+                <Baseline points="1029,1192 1243,1190"/>
+                <TextEquiv>
+                    <Unicode>Kaufmann.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Charlottenburg, den 4. März 1910.
+Der Stadtverordneten⸗Vorſteher.
+Kaufmann.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <SeparatorRegion id="r_10" custom="readingOrder {index:4;}">
+            <Coords points="925,197 1002,197 1002,200 925,200"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_11" custom="readingOrder {index:5;}">
+            <Coords points="910,855 1331,855 1331,865 910,865"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_12" custom="readingOrder {index:6;}">
+            <Coords points="1100,272 1108,272 1108,748 1100,748"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_13" custom="readingOrder {index:7;}">
+            <Coords points="2274,3507 2278,3507 2278,3613 2274,3613"/>
+        </SeparatorRegion>
+    </Page>
+</PcGts>

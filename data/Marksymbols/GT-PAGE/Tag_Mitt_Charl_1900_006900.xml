@@ -1,0 +1,892 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2022-02-08T16:24:26.655+01:00</Created>
+        <LastChange>2023-07-04T14:43:25.318+02:00</LastChange>
+        <Comments>
+                Measurement unit: pixel
+                PrimaryLanguage: 
+                Producer: Transkribus
+            </Comments>
+        <TranskribusMetadata docId="918527" pageId="35047879" pageNr="7" tsid="128718772" status="GT" userId="48446" imgUrl="https://files.transkribus.eu/Get?id=BDMRMRXHANZEUKJGKVFHXBJS&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=GTNJXWSHIHMFWTLJIQXTQRLD" imageId="28180392"/>
+    </Metadata>
+    <Page imageFilename="Tag_Mitt_Charl_1900_006900.tif" imageWidth="2405" imageHeight="3679">
+        <PrintSpace>
+            <Coords points="201,139 2306,129 2294,3525 206,3569"/>
+        </PrintSpace>
+        <ReadingOrder>
+            <OrderedGroup id="ro_1688474642670" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+                <RegionRefIndexed index="1" regionRef="r2"/>
+                <RegionRefIndexed index="2" regionRef="r3"/>
+                <RegionRefIndexed index="3" regionRef="r4"/>
+                <RegionRefIndexed index="4" regionRef="r5"/>
+                <RegionRefIndexed index="5" regionRef="r6"/>
+                <RegionRefIndexed index="6" regionRef="r7"/>
+                <RegionRefIndexed index="7" regionRef="r8"/>
+                <RegionRefIndexed index="8" regionRef="r9"/>
+                <RegionRefIndexed index="9" regionRef="r10"/>
+                <RegionRefIndexed index="10" regionRef="r11"/>
+                <RegionRefIndexed index="11" regionRef="r12"/>
+                <RegionRefIndexed index="12" regionRef="r13"/>
+                <RegionRefIndexed index="13" regionRef="r14"/>
+                <RegionRefIndexed index="14" regionRef="r15"/>
+                <RegionRefIndexed index="15" regionRef="r16"/>
+                <RegionRefIndexed index="16" regionRef="r17"/>
+                <RegionRefIndexed index="17" regionRef="r18"/>
+                <RegionRefIndexed index="18" regionRef="r19"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion type="page-number" id="r1" custom="readingOrder {index:0;} structure {type:page-number;}">
+            <Coords points="1252,165 1306,165 1306,230 1252,230"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="1258,181 1279,181 1299,182 1299,213 1258,213 1258,181"/>
+                <Baseline points="1258,213 1299,213"/>
+                <TextEquiv>
+                    <Unicode>31</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>31</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r2" custom="readingOrder {index:1;} structure {type:paragraph;}">
+            <Coords points="444,267 1149,267 1152,357 447,357"/>
+            <TextLine id="r2l1" custom="readingOrder {index:0;}">
+                <Coords points="453,290 900,272 900,272 1092,272 1109,289 1126,322 1126,334 1092,354 900,354 453,349 453,290"/>
+                <Baseline points="453,337 728,336 777,336 982,335 1002,335 1126,334"/>
+                <TextEquiv>
+                    <Unicode>Bisheriger Normal-Etat.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Bisheriger Normal-Etat.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r3" custom="readingOrder {index:2;} structure {type:paragraph;}">
+            <Coords points="1478,267 2055,269 2050,357 1473,355"/>
+            <TextLine id="r3l1" custom="readingOrder {index:0;}">
+                <Coords points="1484,288 1818,282 1818,282 1988,282 2044,286 2044,333 1988,352 1818,352 1484,348 1484,288"/>
+                <Baseline points="1484,335 1647,334 1689,334 1900,333 1923,333 2044,333"/>
+                <TextEquiv>
+                    <Unicode>Neuer Normal-Etat.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Neuer Normal-Etat.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r4" custom="readingOrder {index:3;}">
+            <Coords points="835,442 1722,442 1722,518 835,518"/>
+            <TextLine id="r4l1" custom="readingOrder {index:0;}">
+                <Coords points="849,458 1444,455 1444,455 1697,455 1708,486 1708,494 1641,506 982,507 926,507 849,497 849,458"/>
+                <Baseline points="849,497 897,497 926,497 1138,496 1168,496 1250,496 1277,496 1708,494"/>
+                <TextEquiv>
+                    <Unicode>D. Beamte der Volksbibliothek.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>D. Beamte der Volksbibliothek.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r5" custom="readingOrder {index:4;} structure {type:paragraph;}">
+            <Coords points="307,539 1260,539 1255,757 302,757"/>
+            <TextLine id="r5l1" custom="readingOrder {index:0;}">
+                <Coords points="398,548 676,546 676,546 943,546 977,549 992,557 992,580 977,589 482,591 464,591 398,583 398,548"/>
+                <Baseline points="398,583 517,582 540,581 634,581 658,581 777,580 802,580 992,580"/>
+                <TextEquiv>
+                    <Unicode>Bisher gegen Diäten beſchäftigt:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l2" custom="readingOrder {index:1;}">
+                <Coords points="354,604 403,602 537,600 1170,599 1170,599 1220,599 1220,633 810,643 416,645 403,645 354,633 354,604"/>
+                <Baseline points="354,633 364,633 403,635 457,634 486,634 512,634 537,633 566,633 593,633 644,633 670,633 768,633 799,633 856,633 882,633 909,632 950,632 964,632 992,632 1034,632 1058,633 1145,633 1170,633 1220,633"/>
+                <TextEquiv>
+                    <Unicode>Ⅰ ſeit 1. 4. 98. 3000, ſeit 1. 4 99 3600 ℳ.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l3" custom="readingOrder {index:2;}">
+                <Coords points="354,657 788,653 788,653 839,653 839,688 437,695 423,695 354,687 354,657"/>
+                <Baseline points="354,687 380,687 423,687 437,687 488,687 514,687 539,687 570,687 596,687 638,687 673,686 761,686 788,687 839,688"/>
+                <TextEquiv>
+                    <Unicode>ⅠⅠ „ 1. 4. 98 2000 ℳ.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l4" custom="readingOrder {index:3;}">
+                <Coords points="310,710 807,706 807,706 1069,706 1119,717 1119,740 936,749 404,752 310,752 310,710"/>
+                <Baseline points="310,743 404,742 427,742 498,741 525,741 552,740 577,740 607,739 637,740 720,740 744,740 782,740 807,740 962,740 987,740 1119,740"/>
+                <TextEquiv>
+                    <Unicode>ſollen vom 1. 4. 1900 ab angeſtellt werden.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Bisher gegen Diäten beſchäftigt:
+Ⅰ ſeit 1. 4. 98. 3000, ſeit 1. 4 99 3600 ℳ.
+ⅠⅠ „ 1. 4. 98 2000 ℳ.
+ſollen vom 1. 4. 1900 ab angeſtellt werden.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r6" custom="readingOrder {index:5;} structure {type:paragraph;}">
+            <Coords points="1286,532 2261,535 2261,1031 1286,1028"/>
+            <TextLine id="r6l1" custom="readingOrder {index:0;}">
+                <Coords points="1383,545 1498,543 2156,542 2254,544 2254,580 1928,586 1790,587 1764,587 1558,586 1383,576 1383,545"/>
+                <Baseline points="1383,576 1406,576 1431,577 1654,577 1723,577 1978,576 2013,576 2101,576 2156,577 2251,577"/>
+                <TextEquiv>
+                    <Unicode>Ⅰ. Bibliothekar. Anfangsgehalt 3600 ℳ. —</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r6l2" custom="readingOrder {index:1;}">
+                <Coords points="1293,589 1623,587 1623,587 1673,587 2140,588 2220,589 2253,599 2253,621 2160,631 2068,632 1311,632 1293,631 1293,589"/>
+                <Baseline points="1293,621 1505,622 1523,621 1610,622 1623,622 1673,623 1692,623 1750,622 1767,622 1970,622 1995,622 2068,622 2095,622 2253,621"/>
+                <TextEquiv>
+                    <Unicode>Höchſtgehalt 5400 ℳ. mit Steigungen nach folgender</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r6l3" custom="readingOrder {index:2;}">
+                <Coords points="1294,634 1396,634 1411,644 1411,667 1371,668 1294,668 1294,634"/>
+                <Baseline points="1294,668 1411,667"/>
+                <TextEquiv>
+                    <Unicode>Skala:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r6l4" custom="readingOrder {index:3;}">
+                <Coords points="1293,690 1315,689 1360,688 1527,687 2133,686 2133,686 2161,686 2161,719 1430,720 1315,720 1293,719 1293,690"/>
+                <Baseline points="1293,711 1380,719 1411,719 1512,719 1527,719 1616,719 1645,719 1734,719 1767,719 1857,719 1888,719 1975,719 2008,719 2095,719 2133,719 2161,719"/>
+                <TextEquiv>
+                    <Unicode>3600 3900 4200 4500 4800 5100 5400 ℳ.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r6l5" custom="readingOrder {index:4;}">
+                <Coords points="1315,742 1360,732 2091,730 2091,730 2129,730 2161,731 2230,741 2230,765 2161,773 1386,774 1360,774 1315,765 1315,742"/>
+                <Baseline points="1315,765 1386,765 1445,765 1465,764 1557,764 1576,764 1679,764 1699,764 1793,764 1832,764 1916,764 1955,764 2028,764 2066,764 2091,764 2230,763"/>
+                <TextEquiv>
+                    <Unicode>nach 3 6 9 12 15 18 Jahren.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r6l6" custom="readingOrder {index:5;}">
+                <Coords points="1381,795 1397,794 1445,793 1627,792 1627,792 2048,792 2204,793 2227,794 2249,796 2249,826 2227,835 2210,836 1669,836 1463,835 1381,824 1381,795"/>
+                <Baseline points="1381,816 1419,826 1445,826 1601,827 1627,827 1884,827 1897,826 1985,826 1997,826 2048,827 2078,827 2101,826 2128,826 2249,826"/>
+                <TextEquiv>
+                    <Unicode>ⅠⅠ. Aſſiſtent. Anfangsgehalt 2400 ℳ. — Höchſt⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r6l7" custom="readingOrder {index:6;}">
+                <Coords points="1292,850 1329,839 1547,837 1547,837 1597,837 2138,838 2217,841 2251,849 2251,872 2156,881 1843,882 1292,882 1292,850"/>
+                <Baseline points="1292,872 1396,872 1434,872 1523,871 1547,872 1597,872 1637,871 1696,872 1735,872 1938,872 1981,872 2053,872 2092,872 2251,872"/>
+                <TextEquiv>
+                    <Unicode>gehalt 4500 ℳ mit Steigungen nach folgender</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r6l8" custom="readingOrder {index:7;}">
+                <Coords points="1293,875 1334,875 1396,884 1409,894 1409,917 1334,918 1293,918 1293,875"/>
+                <Baseline points="1293,918 1409,917"/>
+                <TextEquiv>
+                    <Unicode>Skala:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r6l9" custom="readingOrder {index:8;}">
+                <Coords points="1293,938 1861,918 1861,918 1886,918 2194,936 2194,970 2024,976 1911,976 1700,975 1314,970 1293,969 1293,938"/>
+                <Baseline points="1293,961 1380,969 1399,969 1486,969 1503,969 1591,969 1608,969 1707,969 1715,969 1812,969 1821,969 1919,969 1925,969 2151,970 2153,970 2194,970"/>
+                <TextEquiv>
+                    <Unicode>2400 2700 3000 3300, 3600, 3900, 4200, 4500 ℳ.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r6l10" custom="readingOrder {index:9;}">
+                <Coords points="1294,992 1339,983 2115,981 2115,981 2144,981 2179,982 2251,991 2251,1014 2203,1023 1339,1023 1294,1015 1294,992"/>
+                <Baseline points="1294,1015 1367,1014 1438,1013 1457,1013 1539,1013 1558,1013 1632,1013 1652,1013 1736,1013 1775,1013 1851,1013 1891,1013 1953,1013 1991,1013 2049,1013 2090,1013 2115,1013 2251,1014"/>
+                <TextEquiv>
+                    <Unicode>nach 3 6 9 12 15 18 21 Jahren.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Ⅰ. Bibliothekar. Anfangsgehalt 3600 ℳ. —
+Höchſtgehalt 5400 ℳ. mit Steigungen nach folgender
+Skala:
+3600 3900 4200 4500 4800 5100 5400 ℳ.
+nach 3 6 9 12 15 18 Jahren.
+ⅠⅠ. Aſſiſtent. Anfangsgehalt 2400 ℳ. — Höchſt⸗
+gehalt 4500 ℳ mit Steigungen nach folgender
+Skala:
+2400 2700 3000 3300, 3600, 3900, 4200, 4500 ℳ.
+nach 3 6 9 12 15 18 21 Jahren.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r7" custom="readingOrder {index:6;} structure {type:paragraph;}">
+            <Coords points="733,1110 1821,1110 1821,1173 733,1173"/>
+            <TextLine id="r7l1" custom="readingOrder {index:0;}">
+                <Coords points="753,1119 828,1118 938,1117 1139,1116 1139,1116 1762,1116 1807,1128 1807,1154 1762,1166 1111,1168 828,1168 753,1157 753,1119"/>
+                <Baseline points="753,1157 797,1157 828,1157 910,1156 938,1156 1363,1156 1392,1155 1475,1155 1503,1155 1807,1154"/>
+                <TextEquiv>
+                    <Unicode>E. Die Berufsbeamten der Feuerwehr.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>E. Die Berufsbeamten der Feuerwehr.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r8" custom="readingOrder {index:7;} structure {type:paragraph;}">
+            <Coords points="1071,1173 1496,1173 1496,1237 1071,1237"/>
+            <TextLine id="r8l1" custom="readingOrder {index:0;}">
+                <Coords points="1081,1190 1124,1188 1124,1188 1465,1188 1485,1196 1485,1222 1465,1226 1214,1226 1124,1224 1081,1222 1081,1190"/>
+                <Baseline points="1081,1222 1099,1222 1124,1223 1191,1224 1214,1224 1485,1222"/>
+                <TextEquiv>
+                    <Unicode>Ⅰ. Der Branddirektor.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Ⅰ. Der Branddirektor.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r9" custom="readingOrder {index:8;} structure {type:paragraph;}">
+            <Coords points="303,1245 1270,1244 1270,1639 300,1640"/>
+            <TextLine id="r9l1" custom="readingOrder {index:0;}">
+                <Coords points="398,1253 957,1251 957,1251 1263,1251 1263,1285 1083,1294 615,1295 453,1295 398,1287 398,1253"/>
+                <Baseline points="398,1287 654,1285 666,1285 755,1285 767,1285 817,1285 832,1285 873,1285 887,1285 1102,1284 1113,1284 1201,1284 1214,1284 1263,1285"/>
+                <TextEquiv>
+                    <Unicode>Anfangsgehalt 4000 ℳ. — Höchſtgehalt 5700 ℳ.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r9l2" custom="readingOrder {index:1;}">
+                <Coords points="311,1309 332,1299 394,1298 821,1296 821,1296 979,1296 1014,1306 1014,1329 780,1339 554,1340 410,1340 311,1331 311,1309"/>
+                <Baseline points="311,1331 369,1331 394,1331 592,1330 618,1330 690,1330 715,1330 874,1329 898,1329 1014,1329"/>
+                <TextEquiv>
+                    <Unicode>mit Steigungen nach folgender Skala:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r9l3" custom="readingOrder {index:2;}">
+                <Coords points="308,1353 543,1346 543,1346 565,1346 1182,1348 1182,1382 992,1383 458,1384 308,1384 308,1353"/>
+                <Baseline points="308,1383 396,1383 415,1383 503,1382 522,1383 611,1382 629,1382 718,1382 738,1382 825,1382 845,1382 932,1382 949,1382 1012,1381 1028,1381 1116,1382 1132,1382 1182,1382"/>
+                <TextEquiv>
+                    <Unicode>4000 4300 4600 4800 5100 5400 und 5700 ℳ.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r9l4" custom="readingOrder {index:3;}">
+                <Coords points="321,1407 365,1396 556,1395 1127,1393 1127,1393 1197,1393 1263,1404 1263,1427 1197,1436 392,1439 365,1439 321,1430 321,1407"/>
+                <Baseline points="321,1430 392,1429 461,1428 469,1428 556,1427 578,1427 662,1427 681,1427 768,1427 788,1427 872,1427 911,1427 1050,1427 1089,1427 1127,1427 1263,1427"/>
+                <TextEquiv>
+                    <Unicode>nach 2 4 6 9 12 15 Jahren.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r9l5" custom="readingOrder {index:4;}">
+                <Coords points="427,1450 808,1444 842,1444 1088,1449 1171,1444 1166,1485 933,1490 495,1492 477,1492 427,1484 427,1450"/>
+                <Baseline points="427,1483 544,1483 568,1482 715,1482 740,1482 792,1481 808,1481 976,1481 1001,1480 1161,1478"/>
+                <TextEquiv>
+                    <Unicode>Gehalt während der Probezeit 3600 ℳ.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r9l6" custom="readingOrder {index:5;}">
+                <Coords points="399,1503 808,1501 808,1501 1265,1501 1265,1534 1180,1544 791,1545 717,1545 454,1542 399,1537 399,1503"/>
+                <Baseline points="399,1537 512,1536 530,1536 692,1535 717,1535 791,1535 808,1535 991,1535 1016,1535 1180,1534 1202,1534 1265,1534"/>
+                <TextEquiv>
+                    <Unicode>Erhält außerdem freie Wohnung, Feuerung und</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r9l7" custom="readingOrder {index:6;}">
+                <Coords points="310,1549 715,1546 1036,1545 1036,1545 1086,1545 1144,1546 1265,1556 1265,1578 1144,1583 990,1588 582,1589 553,1589 310,1582 310,1549"/>
+                <Baseline points="310,1582 582,1580 627,1579 668,1579 715,1580 990,1579 1036,1579 1161,1579 1203,1579 1265,1578"/>
+                <TextEquiv>
+                    <Unicode>Gasbeleuchtung im penſionsfähigen Werthe von</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r9l8" custom="readingOrder {index:7;}">
+                <Coords points="308,1595 331,1594 384,1592 564,1591 994,1589 994,1589 1043,1589 1254,1590 1264,1616 1264,1621 1213,1633 525,1635 458,1635 308,1625 308,1595"/>
+                <Baseline points="308,1617 373,1625 384,1625 445,1625 458,1625 551,1625 564,1625 827,1624 838,1624 900,1623 912,1623 977,1623 994,1623 1043,1624 1062,1624 1264,1621"/>
+                <TextEquiv>
+                    <Unicode>660 ℳ., freies Leitungswaſſer und 300 ℳ. Kleidergeld.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Anfangsgehalt 4000 ℳ. — Höchſtgehalt 5700 ℳ.
+mit Steigungen nach folgender Skala:
+4000 4300 4600 4800 5100 5400 und 5700 ℳ.
+nach 2 4 6 9 12 15 Jahren.
+Gehalt während der Probezeit 3600 ℳ.
+Erhält außerdem freie Wohnung, Feuerung und
+Gasbeleuchtung im penſionsfähigen Werthe von
+660 ℳ., freies Leitungswaſſer und 300 ℳ. Kleidergeld.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r10" custom="readingOrder {index:9;} structure {type:paragraph;}">
+            <Coords points="1288,1245 2260,1244 2258,1640 1289,1641"/>
+            <TextLine id="r10l1" custom="readingOrder {index:0;}">
+                <Coords points="1384,1250 1754,1249 1754,1249 2252,1249 2252,1283 2052,1291 1545,1292 1496,1292 1439,1291 1384,1284 1384,1250"/>
+                <Baseline points="1384,1284 1640,1282 1653,1282 1742,1282 1754,1282 1805,1282 1820,1282 1861,1281 1874,1283 2090,1282 2103,1282 2191,1282 2201,1282 2252,1283"/>
+                <TextEquiv>
+                    <Unicode>Anfangsgehalt 4800 ℳ. — Höchſtgehalt 6300 ℳ.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r10l2" custom="readingOrder {index:1;}">
+                <Coords points="1293,1305 1316,1295 1378,1294 1811,1293 1811,1293 1828,1293 1927,1294 1968,1296 2004,1304 2004,1326 1768,1336 1399,1336 1293,1328 1293,1305"/>
+                <Baseline points="1293,1327 1353,1327 1378,1327 1581,1327 1606,1326 1678,1326 1703,1326 1862,1326 1887,1326 2004,1326"/>
+                <TextEquiv>
+                    <Unicode>mit Steigungen nach folgender Skala:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r10l3" custom="readingOrder {index:2;}">
+                <Coords points="1320,1349 1499,1348 2097,1346 2097,1346 2145,1346 2145,1380 1320,1380 1320,1349"/>
+                <Baseline points="1320,1380 1409,1380 1455,1379 1542,1379 1589,1379 1676,1378 1723,1378 1810,1379 1857,1379 1944,1379 1991,1379 2079,1379 2097,1379 2145,1380"/>
+                <TextEquiv>
+                    <Unicode>4800 5100 5400 5700 6000 6300 ℳ.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r10l4" custom="readingOrder {index:3;}">
+                <Coords points="1328,1403 1362,1388 1362,1388 1380,1388 2166,1392 2232,1403 2232,1426 2166,1433 1380,1439 1362,1439 1328,1426 1328,1403"/>
+                <Baseline points="1328,1426 1401,1426 1487,1425 1507,1425 1621,1425 1640,1425 1755,1424 1775,1424 1880,1424 1919,1424 2014,1424 2054,1424 2095,1425 2232,1423"/>
+                <TextEquiv>
+                    <Unicode>nach 3 6 9 12 15 Jahren.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r10l5" custom="readingOrder {index:4;}">
+                <Coords points="1384,1446 1751,1445 1751,1445 2086,1445 2205,1446 2249,1457 2249,1479 2205,1483 1831,1488 1433,1488 1384,1480 1384,1446"/>
+                <Baseline points="1384,1479 1502,1479 1517,1479 1664,1479 1683,1479 1733,1479 1751,1479 1914,1478 1932,1478 2019,1478 2058,1478 2097,1478 2134,1479 2249,1479"/>
+                <TextEquiv>
+                    <Unicode>Gehalt während der Probezeit 4200 ℳ. Außer⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r10l6" custom="readingOrder {index:5;}">
+                <Coords points="1296,1491 1789,1490 1789,1490 1813,1490 2250,1491 2250,1523 2219,1524 1660,1533 1513,1533 1296,1525 1296,1491"/>
+                <Baseline points="1296,1525 1361,1524 1387,1524 1660,1524 1694,1523 1736,1523 1772,1523 1897,1524 1931,1523 1991,1522 2022,1522 2087,1521 2112,1521 2152,1523 2188,1523 2250,1523"/>
+                <TextEquiv>
+                    <Unicode>dem Dienſtwohnung im Werthe von 800 ℳ. und</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r10l7" custom="readingOrder {index:6;}">
+                <Coords points="1295,1537 1417,1535 1417,1535 1643,1535 1662,1539 1662,1568 1643,1575 1543,1575 1295,1568 1295,1537"/>
+                <Baseline points="1295,1568 1360,1567 1385,1568 1434,1568 1459,1568 1662,1566"/>
+                <TextEquiv>
+                    <Unicode>300 ℳ. Kleidergeld.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Anfangsgehalt 4800 ℳ. — Höchſtgehalt 6300 ℳ.
+mit Steigungen nach folgender Skala:
+4800 5100 5400 5700 6000 6300 ℳ.
+nach 3 6 9 12 15 Jahren.
+Gehalt während der Probezeit 4200 ℳ. Außer⸗
+dem Dienſtwohnung im Werthe von 800 ℳ. und
+300 ℳ. Kleidergeld.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r11" custom="readingOrder {index:10;} structure {type:paragraph;}">
+            <Coords points="1061,1687 1498,1687 1498,1743 1061,1743"/>
+            <TextLine id="r11l1" custom="readingOrder {index:0;}">
+                <Coords points="1078,1699 1134,1696 1134,1696 1458,1696 1477,1705 1477,1731 1458,1734 1310,1734 1219,1733 1078,1731 1078,1699"/>
+                <Baseline points="1078,1731 1109,1731 1134,1731 1196,1732 1219,1732 1477,1730"/>
+                <TextEquiv>
+                    <Unicode>ⅠⅠ. Die Brandmeiſter.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>ⅠⅠ. Die Brandmeiſter.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r12" custom="readingOrder {index:11;} structure {type:paragraph;}">
+            <Coords points="302,1743 1274,1748 1274,2141 302,2141"/>
+            <TextLine id="r12l1" custom="readingOrder {index:0;}">
+                <Coords points="398,1763 905,1761 905,1761 1264,1761 1264,1794 1051,1803 979,1804 568,1805 452,1805 398,1797 398,1763"/>
+                <Baseline points="398,1797 654,1795 668,1795 754,1794 768,1794 817,1794 833,1794 873,1794 889,1794 1100,1793 1113,1793 1202,1793 1215,1793 1264,1794"/>
+                <TextEquiv>
+                    <Unicode>Anfangsgehalt 2700 ℳ. — Höchſtgehalt 4500 ℳ.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r12l2" custom="readingOrder {index:1;}">
+                <Coords points="310,1819 343,1809 393,1808 753,1806 753,1806 981,1806 1017,1817 1017,1838 783,1848 557,1849 412,1849 310,1841 310,1819"/>
+                <Baseline points="310,1841 368,1841 393,1841 595,1840 621,1840 693,1840 718,1839 876,1839 902,1838 1017,1838"/>
+                <TextEquiv>
+                    <Unicode>mit Steigungen nach folgender Skala:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r12l3" custom="readingOrder {index:2;}">
+                <Coords points="309,1863 333,1862 448,1861 1018,1859 1018,1859 1178,1859 1178,1890 1106,1891 824,1892 491,1893 309,1893 309,1863"/>
+                <Baseline points="309,1893 395,1893 426,1893 514,1892 545,1892 632,1892 663,1892 750,1890 781,1891 868,1891 899,1891 987,1891 1018,1891 1106,1889 1152,1888 1178,1890"/>
+                <TextEquiv>
+                    <Unicode>2700 3000 3300 3600 3900 4200 4500 ℳ.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r12l4" custom="readingOrder {index:3;}">
+                <Coords points="319,1916 364,1905 1125,1903 1125,1903 1197,1903 1264,1913 1264,1936 1197,1945 392,1948 364,1948 319,1939 319,1916"/>
+                <Baseline points="319,1939 392,1939 458,1938 477,1938 580,1938 600,1937 696,1937 716,1937 800,1936 839,1936 921,1936 960,1936 1043,1936 1082,1936 1125,1936 1264,1935"/>
+                <TextEquiv>
+                    <Unicode>nach 3 6 9 12 15 18 Jahren.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r12l5" custom="readingOrder {index:4;}">
+                <Coords points="398,1959 673,1957 883,1956 883,1956 923,1956 1136,1957 1266,1967 1266,1999 1054,2000 463,2001 446,2001 398,1993 398,1959"/>
+                <Baseline points="398,1993 550,1992 576,1991 737,1991 774,1991 851,1991 883,1991 1065,1990 1101,1990 1266,1990"/>
+                <TextEquiv>
+                    <Unicode>Erhalten außerdem freie Wohnung, Feuerung</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r12l6" custom="readingOrder {index:5;}">
+                <Coords points="309,2016 354,2004 434,2002 434,2002 1183,2002 1266,2003 1266,2043 1080,2045 692,2046 434,2046 309,2038 309,2016"/>
+                <Baseline points="309,2038 371,2038 418,2038 692,2036 739,2036 781,2036 829,2036 1103,2035 1142,2035 1266,2035"/>
+                <TextEquiv>
+                    <Unicode>und Gasbeleuchtung im penſionsfähigen Werthe</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r12l7" custom="readingOrder {index:6;}">
+                <Coords points="308,2060 438,2047 1215,2046 1215,2046 1265,2046 1265,2081 937,2089 681,2090 587,2090 308,2082 308,2060"/>
+                <Baseline points="308,2082 370,2082 399,2081 459,2080 488,2081 550,2081 587,2081 681,2081 716,2081 990,2080 1014,2080 1079,2079 1115,2079 1179,2079 1215,2079 1265,2080"/>
+                <TextEquiv>
+                    <Unicode>von 432 ℳ., freies Leitungswaſſer und 300 ℳ.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r12l8" custom="readingOrder {index:7;}">
+                <Coords points="309,2094 394,2093 394,2093 501,2093 511,2119 511,2124 501,2126 451,2135 394,2135 309,2127 309,2094"/>
+                <Baseline points="309,2127 511,2122"/>
+                <TextEquiv>
+                    <Unicode>Kleidergeld.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Anfangsgehalt 2700 ℳ. — Höchſtgehalt 4500 ℳ.
+mit Steigungen nach folgender Skala:
+2700 3000 3300 3600 3900 4200 4500 ℳ.
+nach 3 6 9 12 15 18 Jahren.
+Erhalten außerdem freie Wohnung, Feuerung
+und Gasbeleuchtung im penſionsfähigen Werthe
+von 432 ℳ., freies Leitungswaſſer und 300 ℳ.
+Kleidergeld.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r13" custom="readingOrder {index:12;} structure {type:paragraph;}">
+            <Coords points="1286,1747 2259,1743 2259,2141 1287,2139"/>
+            <TextLine id="r13l1" custom="readingOrder {index:0;}">
+                <Coords points="1379,1759 1766,1758 2073,1758 2179,1760 2259,1754 2255,1795 2181,1797 2038,1800 1415,1803 1381,1804 1379,1759"/>
+                <Baseline points="1379,1793 1640,1792 1652,1792 1766,1792 1802,1792 1818,1792 1858,1792 1873,1792 2088,1792 2100,1791 2250,1789"/>
+                <TextEquiv>
+                    <Unicode>Anfangsgehalt 2800 ℳ. — Höchſtgehalt 4600 ℳ.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r13l2" custom="readingOrder {index:1;}">
+                <Coords points="1295,1815 1315,1806 1377,1805 1639,1804 1639,1804 1925,1804 1966,1805 2001,1814 2001,1837 1766,1846 1455,1846 1295,1837 1295,1815"/>
+                <Baseline points="1295,1837 1352,1837 1377,1837 1579,1837 1604,1837 1676,1837 1701,1837 1860,1837 1885,1836 2001,1836"/>
+                <TextEquiv>
+                    <Unicode>mit Steigungen nach folgender Skala:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r13l3" custom="readingOrder {index:2;}">
+                <Coords points="1294,1859 2135,1851 2170,1851 2172,1890 2128,1892 1294,1890 1294,1859"/>
+                <Baseline points="1294,1890 1382,1889 1415,1889 1502,1889 1536,1889 1623,1889 1656,1889 1746,1889 1776,1890 1865,1889 1897,1889 1986,1889 2019,1889 2135,1889 2167,1889 2170,1889"/>
+                <TextEquiv>
+                    <Unicode>2800 3100 3400 3700 4000 4300 4600 ℳ.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r13l4" custom="readingOrder {index:3;}">
+                <Coords points="1305,1913 1350,1902 2117,1900 2117,1900 2147,1900 2187,1901 2252,1911 2252,1934 2187,1940 2147,1941 1377,1945 1350,1945 1305,1936 1305,1913"/>
+                <Baseline points="1305,1936 1377,1935 1440,1935 1460,1934 1566,1934 1586,1934 1691,1934 1710,1934 1806,1934 1844,1933 1919,1933 1958,1933 2046,1933 2082,1933 2117,1933 2252,1933"/>
+                <TextEquiv>
+                    <Unicode>nach 3 6 9 12 15 18 Jahren.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r13l5" custom="readingOrder {index:4;}">
+                <Coords points="1384,1955 2178,1953 2178,1953 2204,1953 2252,1965 2252,1988 2141,1993 1718,1998 1483,1999 1447,1999 1384,1991 1384,1955"/>
+                <Baseline points="1384,1990 1543,1989 1563,1989 1617,1989 1638,1989 1847,1988 1865,1988 1952,1987 1969,1987 2029,1987 2078,1988 2252,1987"/>
+                <TextEquiv>
+                    <Unicode>Während des Probejahres 2500 ℳ. Außerdem</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r13l6" custom="readingOrder {index:5;}">
+                <Coords points="1295,2001 1458,2000 2234,1998 2234,1998 2252,1998 2252,2033 1566,2043 1395,2044 1383,2044 1295,2035 1295,2001"/>
+                <Baseline points="1295,2034 1566,2034 1591,2034 1634,2034 1652,2034 1778,2033 1803,2033 1863,2032 1889,2032 1954,2031 1971,2031 2020,2033 2039,2033 2102,2031 2120,2031 2185,2030 2201,2031 2252,2033"/>
+                <TextEquiv>
+                    <Unicode>Dienſtwohnung im Werthe von 600 ℳ. und 300 ℳ.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r13l7" custom="readingOrder {index:6;}">
+                <Coords points="1294,2046 1470,2046 1489,2049 1498,2071 1498,2076 1449,2088 1421,2088 1294,2080 1294,2046"/>
+                <Baseline points="1294,2080 1498,2074"/>
+                <TextEquiv>
+                    <Unicode>Kleidergeld.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Anfangsgehalt 2800 ℳ. — Höchſtgehalt 4600 ℳ.
+mit Steigungen nach folgender Skala:
+2800 3100 3400 3700 4000 4300 4600 ℳ.
+nach 3 6 9 12 15 18 Jahren.
+Während des Probejahres 2500 ℳ. Außerdem
+Dienſtwohnung im Werthe von 600 ℳ. und 300 ℳ.
+Kleidergeld.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r14" custom="readingOrder {index:13;} structure {type:paragraph;}">
+            <Coords points="866,2177 1714,2177 1714,2238 866,2238"/>
+            <TextLine id="r14l1" custom="readingOrder {index:0;}">
+                <Coords points="875,2189 944,2187 1404,2186 1404,2186 1646,2186 1689,2194 1699,2211 1699,2221 1541,2230 1031,2230 875,2221 875,2189"/>
+                <Baseline points="875,2221 919,2222 944,2222 1005,2222 1031,2222 1209,2221 1234,2221 1301,2221 1325,2221 1381,2221 1404,2221 1699,2220"/>
+                <TextEquiv>
+                    <Unicode>ⅠⅠⅠ. Die Feldwebel und der Leitungsreviſor.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>ⅠⅠⅠ. Die Feldwebel und der Leitungsreviſor.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r15" custom="readingOrder {index:14;} structure {type:paragraph;}">
+            <Coords points="304,2243 1272,2242 1272,2790 295,2791"/>
+            <TextLine id="r15l1" custom="readingOrder {index:0;}">
+                <Coords points="395,2253 768,2251 1223,2250 1265,2250 1265,2284 1051,2293 635,2296 396,2295 395,2253"/>
+                <Baseline points="395,2286 655,2285 671,2285 755,2284 768,2284 817,2285 831,2285 871,2285 886,2285 1102,2284 1113,2284 1222,2284 1223,2284 1265,2283"/>
+                <TextEquiv>
+                    <Unicode>Anfangsgehalt 1700 ℳ. — Höchſtgehalt 2800 ℳ.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r15l2" custom="readingOrder {index:1;}">
+                <Coords points="311,2309 331,2299 393,2298 651,2296 651,2296 981,2296 1016,2306 1016,2329 781,2340 554,2341 413,2341 311,2332 311,2309"/>
+                <Baseline points="311,2332 368,2332 393,2331 594,2330 618,2330 692,2330 716,2330 876,2330 900,2330 1016,2329"/>
+                <TextEquiv>
+                    <Unicode>mit Steigungen nach folgender Skala:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r15l3" custom="readingOrder {index:2;}">
+                <Coords points="378,2354 397,2353 708,2351 1171,2347 1166,2383 1064,2383 774,2384 392,2385 378,2385 378,2354"/>
+                <Baseline points="378,2384 462,2384 534,2384 618,2384 687,2384 774,2383 844,2383 931,2383 1000,2382 1162,2378"/>
+                <TextEquiv>
+                    <Unicode>1700 1900 2050 2200 2350 ℳ.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r15l4" custom="readingOrder {index:3;}">
+                <Coords points="384,2407 417,2393 417,2393 435,2393 1186,2394 1255,2404 1255,2432 1186,2436 435,2443 417,2443 384,2430 384,2407"/>
+                <Baseline points="384,2430 456,2429 563,2428 583,2428 714,2428 735,2428 860,2427 895,2427 1029,2426 1069,2426 1115,2426 1255,2426"/>
+                <TextEquiv>
+                    <Unicode>nach 3 6 9 12 Jahren,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r15l5" custom="readingOrder {index:4;}">
+                <Coords points="535,2451 579,2450 960,2446 960,2446 1010,2446 1010,2481 623,2482 557,2482 535,2481 535,2451"/>
+                <Baseline points="535,2481 623,2481 692,2481 779,2480 848,2480 936,2480 960,2480 1010,2481"/>
+                <TextEquiv>
+                    <Unicode>2500 2650 2800 ℳ.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r15l6" custom="readingOrder {index:5;}">
+                <Coords points="385,2504 419,2490 419,2490 437,2490 1043,2491 1089,2502 1103,2511 1103,2523 1089,2526 1043,2534 437,2541 419,2541 385,2527 385,2504"/>
+                <Baseline points="385,2527 457,2527 562,2526 603,2526 719,2526 759,2526 872,2525 914,2525 961,2525 1103,2520"/>
+                <TextEquiv>
+                    <Unicode>nach 15 18 21 Jahren.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r15l7" custom="readingOrder {index:6;}">
+                <Coords points="400,2548 533,2546 1083,2544 1083,2544 1125,2544 1166,2545 1266,2548 1266,2586 1246,2587 921,2597 898,2597 474,2589 400,2581 400,2548"/>
+                <Baseline points="400,2581 463,2581 474,2581 648,2580 666,2580 804,2579 818,2579 982,2579 995,2579 1070,2579 1083,2579 1266,2578"/>
+                <TextEquiv>
+                    <Unicode>Die Feldwebel erhalten außerdem freie Wohnung,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r15l8" custom="readingOrder {index:7;}">
+                <Coords points="311,2593 622,2590 1207,2590 1266,2600 1266,2623 1243,2632 833,2634 620,2636 311,2634 311,2593"/>
+                <Baseline points="311,2626 473,2626 508,2626 574,2626 605,2625 880,2624 912,2624 956,2624 989,2624 1266,2623"/>
+                <TextEquiv>
+                    <Unicode>Feuerung und Gasbeleuchtung im penſionsfähigen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r15l9" custom="readingOrder {index:8;}">
+                <Coords points="311,2637 898,2635 1249,2634 1249,2634 1266,2634 1266,2668 1164,2679 768,2679 403,2678 311,2671 311,2637"/>
+                <Baseline points="311,2671 435,2671 469,2671 532,2670 571,2670 637,2670 673,2670 734,2670 768,2670 863,2669 898,2669 1164,2668 1202,2668 1266,2668"/>
+                <TextEquiv>
+                    <Unicode>Werthe von 300 ℳ., freies Leitungswaſſer und</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r15l10" custom="readingOrder {index:9;}">
+                <Coords points="310,2683 926,2671 926,2671 1041,2671 1266,2679 1266,2712 1107,2722 541,2724 366,2724 310,2716 310,2683"/>
+                <Baseline points="310,2716 541,2715 584,2715 659,2715 675,2714 777,2714 801,2714 856,2714 871,2714 1163,2713 1188,2713 1266,2712"/>
+                <TextEquiv>
+                    <Unicode>Dienſtkleider. (Die Stelle des Leitungsreviſors wird</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r15l11" custom="readingOrder {index:10;}">
+                <Coords points="310,2737 409,2729 459,2728 648,2726 774,2725 774,2725 963,2725 963,2765 910,2768 774,2768 351,2760 310,2759 310,2737"/>
+                <Baseline points="310,2759 380,2759 409,2759 436,2759 459,2759 489,2759 517,2759 602,2759 626,2759 665,2759 689,2759 750,2758 774,2758 963,2757"/>
+                <TextEquiv>
+                    <Unicode>vom 1. 4. 1900 ab neu geſchaffen.)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Anfangsgehalt 1700 ℳ. — Höchſtgehalt 2800 ℳ.
+mit Steigungen nach folgender Skala:
+1700 1900 2050 2200 2350 ℳ.
+nach 3 6 9 12 Jahren,
+2500 2650 2800 ℳ.
+nach 15 18 21 Jahren.
+Die Feldwebel erhalten außerdem freie Wohnung,
+Feuerung und Gasbeleuchtung im penſionsfähigen
+Werthe von 300 ℳ., freies Leitungswaſſer und
+Dienſtkleider. (Die Stelle des Leitungsreviſors wird
+vom 1. 4. 1900 ab neu geſchaffen.)</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r16" custom="readingOrder {index:15;} structure {type:paragraph;}">
+            <Coords points="1288,2244 2263,2242 2248,2791 1288,2792"/>
+            <TextLine id="r16l1" custom="readingOrder {index:0;}">
+                <Coords points="1384,2249 1782,2247 1804,2247 2075,2248 2169,2249 2257,2245 2255,2288 2040,2291 1956,2292 1547,2293 1483,2293 1436,2292 1384,2283 1384,2249"/>
+                <Baseline points="1384,2283 1641,2282 1657,2282 1741,2282 1782,2283 1804,2282 1874,2282 2090,2281 2103,2281 2252,2282"/>
+                <TextEquiv>
+                    <Unicode>Anfangsgehalt 1800 ℳ. — Höchſtgehalt 3200 ℳ.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r16l2" custom="readingOrder {index:1;}">
+                <Coords points="1295,2305 1316,2295 1648,2293 1648,2293 1989,2293 2004,2304 2004,2327 1767,2337 1399,2337 1295,2328 1295,2305"/>
+                <Baseline points="1295,2328 1352,2328 1378,2328 1581,2328 1605,2328 1678,2328 1703,2328 1862,2327 1887,2327 2004,2327"/>
+                <TextEquiv>
+                    <Unicode>mit Steigungen nach folgender Skala:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r16l3" custom="readingOrder {index:2;}">
+                <Coords points="1360,2351 1379,2350 1400,2349 2095,2346 2095,2346 2145,2346 2145,2381 1360,2381 1360,2351"/>
+                <Baseline points="1360,2381 1444,2381 1513,2380 1601,2380 1670,2380 1758,2380 1826,2380 1914,2380 1983,2380 2071,2380 2095,2379 2145,2381"/>
+                <TextEquiv>
+                    <Unicode>1800 2000 2200 2400 2600 ℳ.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r16l4" custom="readingOrder {index:3;}">
+                <Coords points="1362,2404 1396,2388 1396,2388 1414,2388 2207,2391 2231,2401 2231,2430 2207,2434 1414,2439 1396,2439 1362,2426 1362,2404"/>
+                <Baseline points="1362,2426 1435,2426 1546,2425 1566,2425 1701,2425 1721,2425 1858,2425 1878,2425 2007,2425 2045,2425 2092,2425 2231,2424"/>
+                <TextEquiv>
+                    <Unicode>nach 3 6 9 12 Jahren,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r16l5" custom="readingOrder {index:4;}">
+                <Coords points="1509,2447 1888,2446 2021,2443 2023,2479 1886,2478 1764,2479 1532,2479 1509,2476 1509,2447"/>
+                <Baseline points="1514,2475 1596,2478 1676,2478 1764,2479 1835,2478 2013,2475"/>
+                <TextEquiv>
+                    <Unicode>2800 3000 3200 ℳ.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r16l6" custom="readingOrder {index:5;}">
+                <Coords points="1362,2501 1396,2486 1396,2486 1415,2486 2036,2488 2101,2499 2101,2528 2036,2532 1415,2538 1396,2538 1362,2524 1362,2501"/>
+                <Baseline points="1362,2524 1435,2524 1536,2523 1575,2523 1705,2523 1743,2523 1873,2523 1913,2523 1961,2523 2101,2522"/>
+                <TextEquiv>
+                    <Unicode>nach 15 18 21 Jahren,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r16l7" custom="readingOrder {index:6;}">
+                <Coords points="1295,2555 1327,2547 1345,2544 1545,2543 1892,2542 1892,2542 2191,2542 2252,2543 2251,2576 2191,2584 1706,2587 1345,2587 1295,2578 1295,2555"/>
+                <Baseline points="1295,2578 1442,2578 1467,2578 1520,2578 1545,2578 1758,2577 1786,2577 1870,2576 1892,2577 1943,2577 1990,2577 2053,2576 2077,2576 2251,2576"/>
+                <TextEquiv>
+                    <Unicode>während des Probejahres 1500 ℳ. Die Feldwebel</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r16l8" custom="readingOrder {index:7;}">
+                <Coords points="1295,2600 1329,2590 2041,2586 2041,2586 2082,2586 2150,2588 2251,2597 2250,2621 2150,2629 1935,2631 1827,2631 1517,2628 1329,2626 1295,2623 1295,2600"/>
+                <Baseline points="1295,2623 1438,2623 1473,2623 1637,2622 1664,2622 1935,2622 1972,2622 2016,2622 2041,2622 2167,2621 2191,2621 2250,2621"/>
+                <TextEquiv>
+                    <Unicode>erhalten außerdem Dienſtwohnung im Werthe von</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r16l9" custom="readingOrder {index:8;}">
+                <Coords points="1294,2635 1550,2633 1550,2633 1594,2633 1718,2634 1737,2635 1771,2645 1780,2660 1780,2665 1771,2667 1651,2675 1550,2675 1294,2667 1294,2635"/>
+                <Baseline points="1294,2667 1361,2667 1385,2667 1435,2667 1461,2667 1525,2667 1550,2667 1780,2663"/>
+                <TextEquiv>
+                    <Unicode>450 ℳ. und Dienſtkleider.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Anfangsgehalt 1800 ℳ. — Höchſtgehalt 3200 ℳ.
+mit Steigungen nach folgender Skala:
+1800 2000 2200 2400 2600 ℳ.
+nach 3 6 9 12 Jahren,
+2800 3000 3200 ℳ.
+nach 15 18 21 Jahren,
+während des Probejahres 1500 ℳ. Die Feldwebel
+erhalten außerdem Dienſtwohnung im Werthe von
+450 ℳ. und Dienſtkleider.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r17" custom="readingOrder {index:16;} structure {type:paragraph;}">
+            <Coords points="896,2814 1675,2814 1675,2905 896,2905"/>
+            <TextLine id="r17l1" custom="readingOrder {index:0;}">
+                <Coords points="908,2843 983,2841 1134,2840 1134,2840 1583,2840 1645,2852 1656,2871 1656,2878 1645,2880 1449,2890 1314,2892 1134,2892 983,2891 908,2882 908,2843"/>
+                <Baseline points="908,2882 954,2880 983,2880 1066,2880 1095,2880 1364,2880 1394,2880 1656,2876"/>
+                <TextEquiv>
+                    <Unicode>F. Die techniſchen Beamten.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>F. Die techniſchen Beamten.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r18" custom="readingOrder {index:17;} structure {type:paragraph;}">
+            <Coords points="303,2914 1274,2914 1274,3329 301,3329"/>
+            <TextLine id="r18l1" custom="readingOrder {index:0;}">
+                <Coords points="363,2933 417,2931 1073,2929 1073,2929 1217,2929 1217,2974 632,2976 610,2976 363,2965 363,2933"/>
+                <Baseline points="363,2965 391,2965 417,2966 483,2968 507,2967 771,2966 794,2966 862,2966 886,2966 942,2966 963,2967 1217,2965"/>
+                <TextEquiv>
+                    <Unicode>Ⅰ. Der Stadtgeometer und der Baningenieur</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r18l2" custom="readingOrder {index:1;}">
+                <Coords points="311,3005 343,2996 527,2994 788,2993 1216,2992 1216,2992 1234,2992 1268,2996 1268,3026 1105,3035 738,3037 721,3037 454,3036 311,3028 311,3005"/>
+                <Baseline points="311,3028 370,3026 397,3026 461,3027 499,3027 595,3028 632,3028 754,3027 788,3027 846,3027 880,3027 999,3026 1033,3026 1180,3026 1216,3026 1268,3026"/>
+                <TextEquiv>
+                    <Unicode>wie B Ⅰ; jedoch beträgt das Gehalt während der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r18l3" custom="readingOrder {index:2;}">
+                <Coords points="311,3039 458,3039 732,3040 742,3065 742,3078 388,3082 311,3082 311,3039"/>
+                <Baseline points="311,3073 472,3072 496,3072 557,3072 581,3072 668,3072 680,3072 742,3073"/>
+                <TextEquiv>
+                    <Unicode>Probezeit nur 3600 ℳ,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r18l4" custom="readingOrder {index:3;}">
+                <Coords points="309,3104 342,3093 342,3093 405,3093 429,3103 429,3127 389,3134 371,3134 309,3127 309,3104"/>
+                <Baseline points="309,3126 429,3127"/>
+                <TextEquiv>
+                    <Unicode>mithin</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r18l5" custom="readingOrder {index:4;}">
+                <Coords points="397,3138 671,3134 689,3134 1269,3131 1269,3187 956,3180 542,3185 397,3181 397,3138"/>
+                <Baseline points="397,3170 654,3170 671,3170 759,3169 787,3168 815,3170 834,3170 873,3170 893,3170 1107,3169 1123,3169 1240,3170 1266,3170 1269,3170"/>
+                <TextEquiv>
+                    <Unicode>Anfangsgehalt 4000 ℳ. — Höchſtgehalt 5700 ℳ.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r18l6" custom="readingOrder {index:5;}">
+                <Coords points="313,3193 333,3182 1000,3182 1021,3190 1025,3202 1026,3218 780,3225 763,3225 415,3224 313,3216 313,3193"/>
+                <Baseline points="313,3215 370,3215 394,3215 593,3215 617,3215 690,3215 715,3215 872,3215 896,3215 1014,3215"/>
+                <TextEquiv>
+                    <Unicode>mit Steigungen nach folgender Skala:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r18l7" custom="readingOrder {index:6;}">
+                <Coords points="312,3237 357,3235 1164,3228 1203,3228 1202,3273 1091,3274 1073,3273 601,3276 312,3268 312,3237"/>
+                <Baseline points="312,3268 400,3268 434,3268 521,3267 555,3267 643,3268 675,3268 765,3268 801,3267 888,3267 923,3268 1010,3269 1043,3268 1139,3268 1165,3269 1204,3269"/>
+                <TextEquiv>
+                    <Unicode>4000 4300 4600 4800 5100 5400 5700 ℳ.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r18l8" custom="readingOrder {index:7;}">
+                <Coords points="313,3291 357,3277 590,3274 1151,3273 1151,3273 1211,3273 1269,3283 1269,3311 1234,3321 1211,3322 357,3322 313,3314 313,3291"/>
+                <Baseline points="313,3314 385,3313 470,3313 489,3312 590,3312 612,3312 713,3312 732,3312 834,3312 854,3312 949,3312 1002,3312 1074,3312 1115,3312 1130,3312 1269,3304"/>
+                <TextEquiv>
+                    <Unicode>nach 2 4 6 9 12 15 Jahren.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Ⅰ. Der Stadtgeometer und der Baningenieur
+wie B Ⅰ; jedoch beträgt das Gehalt während der
+Probezeit nur 3600 ℳ,
+mithin
+Anfangsgehalt 4000 ℳ. — Höchſtgehalt 5700 ℳ.
+mit Steigungen nach folgender Skala:
+4000 4300 4600 4800 5100 5400 5700 ℳ.
+nach 2 4 6 9 12 15 Jahren.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r19" custom="readingOrder {index:18;} structure {type:paragraph;}">
+            <Coords points="1288,2917 2272,2912 2272,3411 1290,3416"/>
+            <TextLine id="r19l1" custom="readingOrder {index:0;}">
+                <Coords points="1407,2931 1462,2929 1862,2923 1862,2923 1984,2923 2132,2930 2150,2937 2150,2963 1984,2975 1862,2975 1654,2971 1462,2966 1407,2963 1407,2931"/>
+                <Baseline points="1407,2963 1436,2964 1462,2965 1528,2966 1554,2965 1801,2963 1810,2963 1984,2963 2005,2963 2071,2963 2095,2963 2150,2963"/>
+                <TextEquiv>
+                    <Unicode>Ⅰ. Der Vermeſſungs⸗Inſpektor und der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r19l2" custom="readingOrder {index:1;}">
+                <Coords points="1583,3013 1604,2974 1662,2973 1662,2973 1888,2973 1950,2982 1950,3009 1834,3016 1751,3018 1662,3018 1583,3015 1583,3013"/>
+                <Baseline points="1583,3014 1950,3009"/>
+                <TextEquiv>
+                    <Unicode>Stadtbauingenieur</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r19l3" custom="readingOrder {index:2;}">
+                <Coords points="1296,3030 1326,3019 1326,3019 1338,3019 1488,3020 1505,3030 1505,3061 1404,3062 1379,3062 1296,3053 1296,3030"/>
+                <Baseline points="1296,3053 1354,3053 1379,3053 1414,3052 1441,3051 1505,3049"/>
+                <TextEquiv>
+                    <Unicode>wie zu B Ⅰ;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r19l4" custom="readingOrder {index:3;}">
+                <Coords points="1298,3084 1327,3073 1327,3073 1375,3073 1389,3074 1411,3084 1411,3107 1375,3116 1358,3116 1298,3106 1298,3084"/>
+                <Baseline points="1298,3106 1411,3107"/>
+                <TextEquiv>
+                    <Unicode>mithin</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r19l5" custom="readingOrder {index:4;}">
+                <Coords points="1373,3125 1368,3119 2229,3118 2258,3118 2258,3174 2229,3174 1499,3170 1442,3168 1387,3161 1372,3161"/>
+                <Baseline points="1380,3159 1659,3160 1805,3159 1824,3159 1864,3159 1883,3159 2094,3157 2111,3157 2229,3156 2256,3158 2258,3158"/>
+                <TextEquiv>
+                    <Unicode>Anfangsgehalt 4500 ℳ. — Höchſtgehalt 6300 ℳ.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r19l6" custom="readingOrder {index:5;}">
+                <Coords points="1299,3182 1318,3172 1445,3171 1908,3170 1908,3170 1957,3170 1969,3172 2004,3180 2004,3203 1770,3214 1416,3214 1299,3209 1299,3182"/>
+                <Baseline points="1299,3205 1356,3205 1381,3205 1582,3206 1607,3206 1680,3204 1705,3204 1865,3204 1889,3204 2004,3203"/>
+                <TextEquiv>
+                    <Unicode>mit Steigungen nach folgender Skala:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r19l7" custom="readingOrder {index:6;}">
+                <Coords points="1297,3227 1342,3226 2157,3218 2189,3218 2189,3263 2159,3264 1320,3259 1297,3257 1297,3227"/>
+                <Baseline points="1297,3257 1385,3258 1419,3258 1508,3257 1543,3257 1631,3257 1667,3257 1755,3257 1790,3257 1877,3257 1912,3257 2000,3257 2040,3257 2157,3256 2185,3256 2189,3256"/>
+                <TextEquiv>
+                    <Unicode>4500 4800 5100 5400 5700 6000 6300 ℳ.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r19l8" custom="readingOrder {index:7;}">
+                <Coords points="1299,3280 1343,3269 2118,3267 2118,3267 2206,3267 2256,3278 2256,3302 2206,3310 1371,3312 1343,3312 1299,3303 1299,3280"/>
+                <Baseline points="1299,3303 1371,3303 1456,3303 1482,3302 1578,3302 1599,3302 1701,3302 1721,3302 1816,3301 1856,3301 1940,3301 1979,3301 2062,3301 2101,3301 2118,3301 2256,3301"/>
+                <TextEquiv>
+                    <Unicode>nach 3 6 9 12 15 18 Jahren.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r19l9" custom="readingOrder {index:8;}">
+                <Coords points="1378,3321 1645,3321 2056,3320 2097,3320 2158,3321 2218,3325 2258,3331 2258,3355 2123,3365 1414,3363 1378,3360"/>
+                <Baseline points="1378,3357 1412,3357 1570,3356 1621,3356 1645,3356 1809,3356 1833,3356 1954,3356 1978,3356 2036,3356 2056,3356 2173,3355 2196,3355 2258,3355"/>
+                <TextEquiv>
+                    <Unicode>Während der Probezeit beträgt das Gehalt nur</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r19l10" custom="readingOrder {index:9;}">
+                <Coords points="1296,3363 1453,3363 1450,3406 1293,3406"/>
+                <Baseline points="1293,3401 1450,3401"/>
+                <TextEquiv>
+                    <Unicode>4200 ℳ.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Ⅰ. Der Vermeſſungs⸗Inſpektor und der
+Stadtbauingenieur
+wie zu B Ⅰ;
+mithin
+Anfangsgehalt 4500 ℳ. — Höchſtgehalt 6300 ℳ.
+mit Steigungen nach folgender Skala:
+4500 4800 5100 5400 5700 6000 6300 ℳ.
+nach 3 6 9 12 15 18 Jahren.
+Während der Probezeit beträgt das Gehalt nur
+4200 ℳ.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <SeparatorRegion id="r_10" custom="readingOrder {index:19;}">
+            <Coords points="1104,199 1210,199 1210,203 1104,203"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_11" custom="readingOrder {index:20;}">
+            <Coords points="1354,199 1446,199 1446,202 1354,202"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_12" custom="readingOrder {index:21;}">
+            <Coords points="1159,394 1398,394 1398,400 1159,400"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_13" custom="readingOrder {index:22;}">
+            <Coords points="1,0 28,0 28,319 1,319"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_14" custom="readingOrder {index:23;}">
+            <Coords points="15,319 28,319 28,1253 15,1253"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_15" custom="readingOrder {index:24;}">
+            <Coords points="24,631 51,631 51,2575 24,2575"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_16" custom="readingOrder {index:25;}">
+            <Coords points="36,2575 51,2575 51,3419 36,3419"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_17" custom="readingOrder {index:26;}">
+            <Coords points="34,357 45,357 45,631 34,631"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_18" custom="readingOrder {index:27;}">
+            <Coords points="1280,3056 1283,3056 1283,3157 1280,3157"/>
+        </SeparatorRegion>
+    </Page>
+</PcGts>

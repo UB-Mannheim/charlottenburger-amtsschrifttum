@@ -1,0 +1,1187 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2022-02-08T16:24:27.888+01:00</Created>
+        <LastChange>2023-07-04T10:09:06.411+02:00</LastChange>
+        <Comments>
+                Measurement unit: pixel
+                PrimaryLanguage: 
+                Producer: Transkribus
+            </Comments>
+        <TranskribusMetadata docId="1434156" pageId="55573686" pageNr="15" tsid="128640431" status="GT" userId="48446" imgUrl="https://files.transkribus.eu/Get?id=NPPLIBMPCPRTRROXUCCOFOML&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=VHCRJPDQEBINAOETPMLBOFHU" imageId="28180400"/>
+    </Metadata>
+    <Page imageFilename="Tag_Mitt_Charl_1919_037900.tif" imageWidth="2307" imageHeight="3576">
+        <PrintSpace>
+            <Coords points="117,104 2174,104 2148,3433 91,3433"/>
+        </PrintSpace>
+        <ReadingOrder>
+            <OrderedGroup id="ro_1688474640774" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+                <RegionRefIndexed index="1" regionRef="r2"/>
+                <RegionRefIndexed index="8" regionRef="r3"/>
+                <RegionRefIndexed index="9" regionRef="r4"/>
+                <RegionRefIndexed index="10" regionRef="r5"/>
+                <RegionRefIndexed index="11" regionRef="r6"/>
+                <RegionRefIndexed index="12" regionRef="r7"/>
+                <RegionRefIndexed index="13" regionRef="r8"/>
+                <RegionRefIndexed index="14" regionRef="r9"/>
+                <RegionRefIndexed index="15" regionRef="r10"/>
+                <RegionRefIndexed index="16" regionRef="r11"/>
+                <RegionRefIndexed index="17" regionRef="r12"/>
+                <RegionRefIndexed index="18" regionRef="r13"/>
+                <RegionRefIndexed index="19" regionRef="r14"/>
+                <RegionRefIndexed index="20" regionRef="r15"/>
+                <RegionRefIndexed index="21" regionRef="r16"/>
+                <RegionRefIndexed index="22" regionRef="r17"/>
+                <RegionRefIndexed index="23" regionRef="r18"/>
+                <RegionRefIndexed index="24" regionRef="r19"/>
+                <RegionRefIndexed index="25" regionRef="r20"/>
+                <RegionRefIndexed index="26" regionRef="r21"/>
+                <RegionRefIndexed index="27" regionRef="r22"/>
+                <RegionRefIndexed index="28" regionRef="r23"/>
+                <RegionRefIndexed index="29" regionRef="r24"/>
+                <RegionRefIndexed index="30" regionRef="r25"/>
+                <RegionRefIndexed index="31" regionRef="r26"/>
+                <RegionRefIndexed index="32" regionRef="r27"/>
+                <RegionRefIndexed index="33" regionRef="r28"/>
+                <RegionRefIndexed index="34" regionRef="r29"/>
+                <RegionRefIndexed index="35" regionRef="r30"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion type="page-number" id="r1" custom="readingOrder {index:0;} structure {type:page-number;}">
+            <Coords points="1135,125 1211,125 1211,170 1135,170"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="1141,131 1184,131 1205,133 1205,164 1186,164 1141,163 1141,131"/>
+                <Baseline points="1141,163 1205,164"/>
+                <TextEquiv>
+                    <Unicode>363</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>363</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r2" custom="readingOrder {index:1;} structure {type:paragraph;}">
+            <Coords points="176,223 1165,223 1151,1604 173,1603"/>
+            <TextLine id="r2l1" custom="readingOrder {index:0;}">
+                <Coords points="508,232 685,232 846,237 855,263 855,271 685,273 508,273 508,232"/>
+                <Baseline points="508,268 685,272 703,271 762,271 779,271 855,271"/>
+                <TextEquiv>
+                    <Unicode>Druckſache Nr. 280.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l2" custom="readingOrder {index:1;}">
+                <Coords points="208,307 345,307 698,309 1137,312 1143,316 1158,330 1158,344 1137,357 725,357 489,356 228,352 208,346 208,307"/>
+                <Baseline points="210,341 349,344 375,344 455,344 487,345 698,348 725,349 849,349 881,349 1158,340"/>
+                <TextEquiv>
+                    <Unicode>Vorlage betr. Verſtärkung einiger Haushaltsplan⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l3" custom="readingOrder {index:2;}">
+                <Coords points="202,364 407,355 787,351 1068,351 1157,363 1157,397 1067,407 634,399 492,396 226,391 202,389 202,364"/>
+                <Baseline points="202,389 372,390 407,390 453,391 491,392 697,394 734,394 752,394 787,395 863,395 886,395 1068,397 1103,397 1157,397"/>
+                <TextEquiv>
+                    <Unicode>nummern im Sonderplan 1 und Erhöhung der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l4" custom="readingOrder {index:3;}">
+                <Coords points="473,402 861,402 880,416 880,441 861,448 473,448 473,402"/>
+                <Baseline points="473,437 880,441"/>
+                <TextEquiv>
+                    <Unicode>Kanaliſationsgebühren.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l5" custom="readingOrder {index:4;}">
+                <Coords points="199,483 611,475 611,475 643,475 713,497 713,521 505,525 270,525 199,516 199,483"/>
+                <Baseline points="199,516 505,519 528,520 590,520 611,520 713,521"/>
+                <TextEquiv>
+                    <Unicode>Urſchriftlich mit Akten</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l6" custom="readingOrder {index:5;}">
+                <Coords points="333,558 400,550 422,549 422,549 432,549 988,550 1016,563 1016,594 496,594 351,583 333,581 333,558"/>
+                <Baseline points="333,575 375,582 400,583 449,583 477,583 1016,587"/>
+                <TextEquiv>
+                    <Unicode>an die Stadtverordnetenverſammlung</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l7" custom="readingOrder {index:6;}">
+                <Coords points="199,601 244,601 466,602 749,605 804,616 804,640 749,647 605,647 372,646 199,635 199,601"/>
+                <Baseline points="199,635 259,636 281,636 350,637 372,637 524,640 546,640 583,639 605,640 804,639"/>
+                <TextEquiv>
+                    <Unicode>mit dem Antrage, zu beſchließen:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l8" custom="readingOrder {index:7;}">
+                <Coords points="242,659 405,652 405,652 573,652 1035,662 1114,671 1138,675 1160,680 1160,695 1138,700 1035,702 847,702 405,700 303,699 242,692 242,659"/>
+                <Baseline points="242,691 270,691 303,692 365,693 381,693 590,696 612,695 628,695 658,696 712,697 741,698 793,697 823,697 1046,699 1075,699 1160,691"/>
+                <TextEquiv>
+                    <Unicode>1. Im Sonderplan 1 für die Kanaliſation wer⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l9" custom="readingOrder {index:8;}">
+                <Coords points="307,703 457,703 755,704 1074,706 1153,710 1153,741 1074,748 915,748 550,747 307,737 307,703"/>
+                <Baseline points="307,737 366,737 427,737 475,738 533,738 755,740 799,741 858,741 915,741 1074,743 1134,741 1153,741"/>
+                <TextEquiv>
+                    <Unicode>den die Ausgabeſätze im Abſchnitt 3</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l10" custom="readingOrder {index:9;}">
+                <Coords points="305,748 441,748 1106,755 1141,766 1152,779 1152,790 1141,792 812,794 804,794 572,790 305,782 305,748"/>
+                <Baseline points="305,782 463,782 492,782 522,784 550,783 581,783 615,783 654,784 669,784 699,784 731,784 770,784 783,784 812,785 842,785 882,785 895,785 924,785 955,785 994,785 1008,786 1034,786 1066,787 1106,788 1120,788 1152,789"/>
+                <TextEquiv>
+                    <Unicode>Nummer 7, 8, 13 a, 13 c, 13 e, 13 f, 13 g,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l11" custom="readingOrder {index:10;}">
+                <Coords points="308,795 329,794 478,790 513,790 1151,799 1151,832 1129,834 991,837 520,834 385,834 308,825 308,795"/>
+                <Baseline points="308,825 347,825 360,826 394,826 422,826 478,826 504,827 513,827 531,827 571,827 583,827 615,828 641,828 681,828 693,828 721,829 749,829 818,831 845,831 909,832 936,831 991,832 1020,832 1066,833 1088,833 1151,832"/>
+                <TextEquiv>
+                    <Unicode>13 h, 14 a, 14 b, 14 c, 14 e und 16; im Ab⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l12" custom="readingOrder {index:11;}">
+                <Coords points="307,838 412,838 663,840 933,843 1084,845 1152,848 1152,879 1084,886 1007,886 307,880 307,838"/>
+                <Baseline points="307,871 412,873 435,873 454,873 485,873 546,874 556,874 736,876 761,877 799,877 825,877 890,878 914,878 954,878 982,879 1152,871"/>
+                <TextEquiv>
+                    <Unicode>ſchnitt 5 die Nummern 11 und 21 insgeſamt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l13" custom="readingOrder {index:12;}">
+                <Coords points="305,893 385,886 385,886 426,886 756,887 772,890 772,923 756,928 617,928 305,918 305,893"/>
+                <Baseline points="305,917 360,918 385,918 450,918 463,918 527,919 551,921 594,921 617,921 772,922"/>
+                <TextEquiv>
+                    <Unicode>um 234 650 ℳ verſtärkt.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l14" custom="readingOrder {index:13;}">
+                <Coords points="237,943 331,943 476,944 1040,950 1133,952 1151,961 1151,985 1133,986 870,990 677,990 399,988 304,985 237,975 237,943"/>
+                <Baseline points="237,967 269,977 304,977 373,978 399,978 542,980 576,981 634,981 659,981 816,983 854,983 893,983 924,984 940,984 980,984 1059,985 1098,985 1151,979"/>
+                <TextEquiv>
+                    <Unicode>2. Zur Deckung des Betrages zu 1 wird der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l15" custom="readingOrder {index:14;}">
+                <Coords points="306,989 481,989 706,992 1005,996 1085,998 1149,1006 1149,1038 986,1038 325,1033 306,1028 306,989"/>
+                <Baseline points="306,1023 481,1025 513,1025 566,1025 600,1026 770,1027 801,1028 853,1028 885,1028 935,1029 968,1029 1149,1031"/>
+                <TextEquiv>
+                    <Unicode>Jahresſatz der Gebühren für die Benutzung</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l16" custom="readingOrder {index:15;}">
+                <Coords points="303,1036 571,1036 827,1037 1078,1043 1117,1045 1131,1046 1149,1053 1149,1076 1117,1084 1065,1084 630,1081 396,1079 303,1069 303,1036"/>
+                <Baseline points="303,1069 357,1070 396,1070 571,1071 612,1072 836,1074 876,1074 927,1075 967,1075 1042,1076 1065,1076 1149,1070"/>
+                <TextEquiv>
+                    <Unicode>der ſtädtiſchen Kanaliſation für das letzte</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l17" custom="readingOrder {index:16;}">
+                <Coords points="302,1081 497,1081 926,1083 1149,1089 1149,1128 1104,1128 632,1127 320,1124 302,1115 302,1081"/>
+                <Baseline points="302,1114 497,1117 539,1117 593,1118 632,1118 926,1120 967,1120 1051,1121 1090,1122 1149,1122"/>
+                <TextEquiv>
+                    <Unicode>Vierteljahr des Rechnungsjahres 1919 auf</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l18" custom="readingOrder {index:17;}">
+                <Coords points="302,1127 368,1127 562,1128 1126,1132 1147,1143 1147,1168 765,1171 718,1171 511,1170 345,1168 302,1158 302,1127"/>
+                <Baseline points="302,1158 397,1160 434,1160 479,1161 511,1161 616,1163 650,1163 765,1163 801,1163 845,1165 875,1165 950,1166 981,1166 1147,1168"/>
+                <TextEquiv>
+                    <Unicode>2,7 % — bisher 1,55 % — vom Gebäude⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l19" custom="readingOrder {index:18;}">
+                <Coords points="299,1181 316,1174 316,1174 638,1174 648,1175 674,1178 674,1209 648,1216 316,1216 299,1205 299,1181"/>
+                <Baseline points="299,1205 530,1208 557,1208 674,1208"/>
+                <TextEquiv>
+                    <Unicode>nutzungswert erhöht.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l20" custom="readingOrder {index:19;}">
+                <Coords points="278,1244 307,1244 540,1246 970,1250 1144,1252 1144,1286 1035,1293 1012,1293 701,1291 441,1289 278,1286 278,1244"/>
+                <Baseline points="278,1279 331,1280 358,1280 388,1280 441,1281 575,1282 601,1282 657,1282 679,1283 839,1284 867,1284 919,1285 944,1285 1053,1286 1080,1286 1144,1277"/>
+                <TextEquiv>
+                    <Unicode>Zu 1. Infolge des Steigens der Löhne und</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l21" custom="readingOrder {index:20;}">
+                <Coords points="190,1289 423,1289 1047,1297 1130,1308 1144,1315 1150,1332 1132,1336 1072,1339 1027,1339 292,1334 190,1323 190,1289"/>
+                <Baseline points="190,1323 242,1324 268,1324 535,1328 557,1328 650,1329 674,1328 746,1328 775,1329 890,1330 914,1330 977,1331 1003,1331 1145,1331"/>
+                <TextEquiv>
+                    <Unicode>der Materialpreiſe, ſowie auch infolge von Repara⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l22" custom="readingOrder {index:21;}">
+                <Coords points="189,1338 323,1336 323,1336 342,1336 1006,1342 1096,1350 1131,1355 1144,1361 1144,1372 1131,1378 1006,1384 885,1384 469,1380 189,1375 189,1338"/>
+                <Baseline points="189,1369 294,1370 323,1370 374,1371 405,1371 440,1371 469,1372 632,1373 665,1374 821,1375 853,1376 1038,1377 1069,1377 1144,1369"/>
+                <TextEquiv>
+                    <Unicode>turen, die in größerem Umfange ausgeführt wer⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l23" custom="readingOrder {index:22;}">
+                <Coords points="186,1381 235,1381 819,1385 990,1387 1061,1388 1096,1390 1143,1393 1143,1423 1061,1430 970,1430 647,1428 305,1423 186,1415 186,1381"/>
+                <Baseline points="186,1415 245,1415 284,1415 429,1418 464,1418 518,1419 553,1419 601,1419 630,1419 828,1421 866,1421 922,1422 948,1422 1143,1423"/>
+                <TextEquiv>
+                    <Unicode>den mußten, als bei Aufſtellung des Haushalts⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l24" custom="readingOrder {index:23;}">
+                <Coords points="185,1431 208,1426 907,1422 907,1422 927,1422 1143,1439 1143,1470 1033,1475 927,1479 907,1479 185,1468 185,1431"/>
+                <Baseline points="185,1459 300,1460 323,1461 374,1461 397,1462 481,1463 507,1463 691,1465 714,1465 834,1467 858,1467 980,1469 1007,1469 1084,1468 1110,1469 1143,1470"/>
+                <TextEquiv>
+                    <Unicode>planes für 1919 vorgeſehen werden konnte, wird es</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l25" custom="readingOrder {index:24;}">
+                <Coords points="184,1474 236,1474 417,1475 1095,1481 1141,1491 1141,1517 1095,1521 1018,1521 768,1519 184,1514 184,1474"/>
+                <Baseline points="184,1508 286,1510 317,1510 417,1511 437,1511 617,1513 648,1513 704,1514 721,1514 948,1516 968,1515 984,1515 1018,1516 1141,1510"/>
+                <TextEquiv>
+                    <Unicode>nötig, einige Nummern des Sonderplans 1 (Kana⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l26" custom="readingOrder {index:25;}">
+                <Coords points="184,1516 223,1516 916,1524 994,1525 1106,1527 1142,1537 1142,1561 1063,1567 977,1567 671,1565 358,1561 318,1560 196,1551 184,1550 184,1516"/>
+                <Baseline points="184,1550 331,1552 358,1552 399,1553 422,1554 603,1556 651,1557 787,1558 802,1558 863,1558 889,1558 1063,1560 1089,1561 1142,1561"/>
+                <TextEquiv>
+                    <Unicode>liſation) zu verſtärken. Infolge der Erhöhung der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l27" custom="readingOrder {index:26;}">
+                <Coords points="184,1563 252,1563 676,1568 732,1580 732,1602 719,1603 633,1603 227,1603 184,1597 184,1563"/>
+                <Baseline points="184,1596 294,1598 318,1598 396,1599 419,1599 568,1601 595,1602 732,1596"/>
+                <TextEquiv>
+                    <Unicode>Löhne muß verſtärkt werden:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Druckſache Nr. 280.&#13;
+Vorlage betr. Verſtärkung einiger Haushaltsplan⸗&#13;
+nummern im Sonderplan 1 und Erhöhung der&#13;
+Kanaliſationsgebühren.&#13;
+Urſchriftlich mit Akten&#13;
+an die Stadtverordnetenverſammlung&#13;
+mit dem Antrage, zu beſchließen:&#13;
+1. Im Sonderplan 1 für die Kanaliſation wer⸗&#13;
+den die Ausgabeſätze im Abſchnitt 3&#13;
+Nummer 7, 8, 13 a, 13 c, 13 e, 13 f, 13 g,&#13;
+13 h, 14 a, 14 b, 14 c, 14 e und 16; im Ab⸗&#13;
+ſchnitt 5 die Nummern 11 und 21 insgeſamt&#13;
+um 234 650 ℳ verſtärkt.&#13;
+2. Zur Deckung des Betrages zu 1 wird der&#13;
+Jahresſatz der Gebühren für die Benutzung&#13;
+der ſtädtiſchen Kanaliſation für das letzte&#13;
+Vierteljahr des Rechnungsjahres 1919 auf&#13;
+2,7 % — bisher 1,55 % — vom Gebäude⸗&#13;
+nutzungswert erhöht.&#13;
+Zu 1. Infolge des Steigens der Löhne und&#13;
+der Materialpreiſe, ſowie auch infolge von Repara⸗&#13;
+turen, die in größerem Umfange ausgeführt wer⸗&#13;
+den mußten, als bei Aufſtellung des Haushalts⸗&#13;
+planes für 1919 vorgeſehen werden konnte, wird es&#13;
+nötig, einige Nummern des Sonderplans 1 (Kana⸗&#13;
+liſation) zu verſtärken. Infolge der Erhöhung der&#13;
+Löhne muß verſtärkt werden:</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <SeparatorRegion id="r_18" custom="readingOrder {index:2;}">
+            <Coords points="793,3285 1113,3285 1113,3297 793,3297"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_19" custom="readingOrder {index:3;}">
+            <Coords points="1793,3298 2112,3298 2112,3310 1793,3310"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_20" custom="readingOrder {index:4;}">
+            <Coords points="0,1 40,1 40,791 0,791"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_22" custom="readingOrder {index:5;}">
+            <Coords points="0,2067 7,2067 7,2538 0,2538"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_23" custom="readingOrder {index:6;}">
+            <Coords points="1166,239 1174,244 1136,3340 1131,3337"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_24" custom="readingOrder {index:7;}">
+            <Coords points="5,2217 6,2217 6,2282 5,2282"/>
+        </SeparatorRegion>
+        <TextRegion id="r3" custom="readingOrder {index:8;} structure {type:T0C0;}">
+            <Coords points="174,1605 172,1703 897,1703 897,1605"/>
+            <TextLine id="r3l1" custom="readingOrder {index:0;}">
+                <Coords points="183,1608 220,1605 490,1605 861,1615 887,1627 887,1650 661,1655 292,1653 267,1653 183,1644 183,1608"/>
+                <Baseline points="183,1644 208,1644 224,1644 242,1644 253,1644 266,1644 270,1644 305,1645 324,1645 350,1645 379,1645 400,1645 430,1645 450,1646 474,1646 500,1646 529,1646 549,1646 579,1647 702,1648 730,1649 783,1650 811,1650 887,1644"/>
+                <TextEquiv>
+                    <Unicode>Abſchn. 3 Nr. 7 (Löhne der Ma⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l2" custom="readingOrder {index:1;}">
+                <Coords points="229,1654 369,1654 599,1657 613,1658 703,1666 703,1697 613,1700 600,1700 256,1698 229,1697"/>
+                <Baseline points="229,1689 393,1690 427,1690 457,1690 470,1690 535,1691 557,1691 613,1692 639,1692 703,1692"/>
+                <TextEquiv>
+                    <Unicode>ſchiniſten, 91 000 ℳ) um</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+        <TextRegion id="r4" custom="readingOrder {index:9;} structure {type:T0C0;}">
+            <Coords points="172,1703 170,1819 897,1819 897,1703"/>
+            <TextLine id="r4l1" custom="readingOrder {index:0;}">
+                <Coords points="180,1716 451,1712 466,1712 886,1725 886,1759 476,1763 452,1764 255,1761 180,1752 180,1716"/>
+                <Baseline points="180,1752 237,1752 255,1753 302,1753 320,1753 355,1754 373,1754 391,1754 418,1754 433,1754 451,1755 482,1755 506,1755 525,1755 549,1755 670,1758 693,1758 746,1760 768,1759 886,1759"/>
+                <TextEquiv>
+                    <Unicode>Abſchn. 3 Nr. 8 (Löhne der Kanal⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l2" custom="readingOrder {index:1;}">
+                <Coords points="226,1774 260,1765 260,1765 588,1765 685,1779 685,1805 602,1809 590,1809 260,1806 226,1798 226,1774"/>
+                <Baseline points="226,1798 372,1800 398,1799 440,1800 453,1800 519,1801 545,1801 602,1802 632,1803 685,1801"/>
+                <TextEquiv>
+                    <Unicode>arbeiter, 98 000 ℳ) um</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+        <TextRegion id="r5" custom="readingOrder {index:10;} structure {type:T0C0;}">
+            <Coords points="170,1819 156,2654 897,2654 897,1819"/>
+            <TextLine id="r5l1" custom="readingOrder {index:0;}">
+                <Coords points="181,1826 433,1822 743,1822 866,1832 885,1845 885,1869 866,1875 743,1879 442,1874 181,1861 181,1826"/>
+                <Baseline points="181,1861 260,1862 295,1862 433,1864 462,1864 477,1864 499,1865 517,1865 555,1865 624,1866 661,1866 723,1866 735,1866 743,1866 771,1867 885,1869"/>
+                <TextEquiv>
+                    <Unicode>Bei Abſchn. 3 Nr. 13 a (Feue⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l2" custom="readingOrder {index:1;}">
+                <Coords points="223,1875 541,1875 885,1880 885,1921 722,1921 223,1919 223,1875"/>
+                <Baseline points="223,1908 541,1911 596,1912 664,1912 722,1913 885,1915"/>
+                <TextEquiv>
+                    <Unicode>rungsmittelbedarf und elektriſche</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l3" custom="readingOrder {index:2;}">
+                <Coords points="223,1917 261,1917 650,1922 779,1924 865,1926 885,1929 885,1958 779,1964 715,1964 544,1963 241,1961 223,1951 223,1917"/>
+                <Baseline points="226,1950 319,1953 336,1953 391,1954 407,1954 469,1955 486,1955 677,1957 694,1957 728,1957 750,1957 817,1958 835,1958 885,1958"/>
+                <TextEquiv>
+                    <Unicode>Kraft für das Pumpwerk Ⅰ) ſind als</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l4" custom="readingOrder {index:3;}">
+                <Coords points="222,1962 500,1950 500,1950 544,1950 791,1967 847,1975 869,1979 883,1986 883,1997 869,2003 791,2010 544,2014 500,2014 244,2005 222,2004 222,1962"/>
+                <Baseline points="222,1996 367,1999 394,1998 453,1998 474,1998 544,1999 558,1999 601,2000 626,2000 791,2005 817,2004 881,2003"/>
+                <TextEquiv>
+                    <Unicode>Planſoll 405 000 ℳ feſtgeſetzt, wo⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l5" custom="readingOrder {index:4;}">
+                <Coords points="223,2009 329,2009 472,2010 840,2014 861,2016 882,2019 882,2050 840,2055 783,2055 624,2054 285,2051 223,2043 223,2009"/>
+                <Baseline points="223,2043 270,2043 285,2043 347,2044 364,2044 420,2045 442,2045 556,2047 576,2047 681,2048 707,2048 759,2048 783,2049 882,2049"/>
+                <TextEquiv>
+                    <Unicode>bei für die Tonne Kohle ein Preis</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l6" custom="readingOrder {index:5;}">
+                <Coords points="221,2060 325,2057 325,2057 439,2057 837,2062 878,2071 878,2095 541,2100 523,2100 241,2089 221,2088 221,2060"/>
+                <Baseline points="221,2088 284,2089 325,2089 365,2090 398,2091 439,2091 478,2092 710,2094 751,2094 878,2095"/>
+                <TextEquiv>
+                    <Unicode>von 83 ℳ angenommen worden</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l7" custom="readingOrder {index:6;}">
+                <Coords points="218,2107 374,2103 374,2103 488,2103 880,2107 880,2149 714,2149 547,2147 393,2145 288,2140 218,2135 218,2107"/>
+                <Baseline points="218,2135 296,2136 343,2137 488,2138 547,2138 655,2139 714,2140 880,2142"/>
+                <TextEquiv>
+                    <Unicode>war, während bisher tatſächlich</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l8" custom="readingOrder {index:7;}">
+                <Coords points="219,2146 328,2146 879,2153 879,2187 779,2193 677,2193 356,2192 237,2190 219,2188 219,2146"/>
+                <Baseline points="219,2182 328,2183 356,2183 475,2184 508,2184 628,2185 658,2186 800,2188 830,2188 879,2187"/>
+                <TextEquiv>
+                    <Unicode>Preiſe gezahlt werden mußten, die</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l9" custom="readingOrder {index:8;}">
+                <Coords points="217,2194 342,2192 852,2188 852,2188 884,2188 884,2242 852,2242 386,2235 265,2230 217,2226 217,2194"/>
+                <Baseline points="217,2226 318,2228 342,2228 395,2228 424,2228 485,2228 513,2229 566,2231 594,2230 655,2230 682,2230 734,2231 763,2231 852,2232 880,2232 884,2232"/>
+                <TextEquiv>
+                    <Unicode>84,60 ℳ, 101 ℳ, 109 ℳ, 126 ℳ</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l10" custom="readingOrder {index:9;}">
+                <Coords points="214,2249 264,2242 434,2240 434,2240 477,2240 708,2244 846,2247 876,2266 876,2275 863,2281 812,2282 708,2284 679,2284 547,2283 345,2279 214,2275 214,2249"/>
+                <Baseline points="214,2274 282,2275 301,2275 419,2275 434,2275 477,2276 489,2276 650,2278 679,2279 749,2280 764,2281 812,2282 829,2281 876,2272"/>
+                <TextEquiv>
+                    <Unicode>und 130,70 ℳ betrugen. Für die be⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l11" custom="readingOrder {index:10;}">
+                <Coords points="218,2293 252,2283 252,2283 262,2283 508,2284 835,2289 867,2290 879,2292 879,2324 867,2330 804,2330 633,2329 325,2327 218,2317 218,2293"/>
+                <Baseline points="218,2317 299,2318 325,2318 508,2320 536,2320 601,2321 633,2321 685,2322 714,2323 772,2323 804,2324 879,2316"/>
+                <TextEquiv>
+                    <Unicode>reits gelieferten und für den Reſt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l12" custom="readingOrder {index:11;}">
+                <Coords points="216,2328 371,2328 721,2333 822,2336 863,2345 878,2353 878,2364 863,2372 721,2375 534,2375 434,2374 310,2372 216,2362 216,2328"/>
+                <Baseline points="216,2362 272,2363 290,2364 415,2365 434,2366 508,2367 526,2367 721,2369 741,2369 878,2370"/>
+                <TextEquiv>
+                    <Unicode>des Jahres noch erforderlich werden⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l13" custom="readingOrder {index:12;}">
+                <Coords points="217,2375 386,2375 726,2379 876,2384 876,2416 622,2422 501,2422 362,2420 217,2410 217,2375"/>
+                <Baseline points="217,2410 276,2410 303,2410 451,2412 479,2412 533,2413 552,2413 664,2414 695,2415 783,2416 813,2416 876,2416"/>
+                <TextEquiv>
+                    <Unicode>den Mengen an Kohle, Koks und</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l14" custom="readingOrder {index:13;}">
+                <Coords points="212,2421 412,2421 516,2422 864,2427 876,2445 876,2456 864,2463 606,2467 569,2467 212,2465 212,2421"/>
+                <Baseline points="212,2455 412,2458 430,2458 551,2460 569,2460 606,2460 626,2460 686,2461 705,2461 794,2462 815,2463 875,2462"/>
+                <TextEquiv>
+                    <Unicode>elektriſchem Strom iſt mit einer Ge⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l15" custom="readingOrder {index:14;}">
+                <Coords points="213,2465 658,2461 741,2461 875,2484 875,2508 855,2515 745,2515 649,2515 213,2508 213,2465"/>
+                <Baseline points="213,2500 434,2503 473,2503 538,2504 577,2504 640,2505 658,2506 741,2508 838,2509 875,2508"/>
+                <TextEquiv>
+                    <Unicode>ſamtausgabe von 520 000 ℳ zu</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l16" custom="readingOrder {index:15;}">
+                <Coords points="210,2524 247,2515 247,2515 348,2515 492,2517 678,2520 860,2523 873,2539 873,2549 860,2556 469,2556 247,2553 210,2548 210,2524"/>
+                <Baseline points="210,2548 348,2551 398,2551 429,2551 469,2553 500,2552 553,2553 604,2553 655,2554 774,2555 824,2556 871,2556"/>
+                <TextEquiv>
+                    <Unicode>rechnen, d. h. die bereits be⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l17" custom="readingOrder {index:16;}">
+                <Coords points="210,2549 212,2555 448,2561 550,2558 698,2559 784,2573 792,2576 792,2598 698,2602 552,2606 480,2606 210,2600"/>
+                <Baseline points="210,2590 367,2592 399,2592 458,2592 480,2592 552,2593 630,2595 698,2596 727,2597 792,2595"/>
+                <TextEquiv>
+                    <Unicode>willigten 405 000 ℳ ſind um</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l18" custom="readingOrder {index:17;}">
+                <Coords points="212,2611 271,2603 420,2603 460,2611 461,2615 457,2641 443,2641 395,2645 212,2645 212,2611"/>
+                <Baseline points="212,2637 251,2638 271,2638 453,2637"/>
+                <TextEquiv>
+                    <Unicode>zu verſtärken.</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+        <TextRegion id="r6" custom="readingOrder {index:11;} structure {type:T0C0;}">
+            <Coords points="156,2654 150,3041 897,3041 897,2654"/>
+            <TextLine id="r6l1" custom="readingOrder {index:0;}">
+                <Coords points="166,2665 200,2665 310,2666 851,2672 873,2684 873,2709 851,2714 613,2714 166,2701 166,2665"/>
+                <Baseline points="166,2700 233,2701 257,2702 331,2702 359,2703 430,2704 456,2704 512,2705 542,2705 595,2705 613,2706 716,2707 745,2708 763,2708 796,2708 873,2709"/>
+                <TextEquiv>
+                    <Unicode>Die Nr. 13 c im Abſchn. 3 (Be⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r6l2" custom="readingOrder {index:1;}">
+                <Coords points="211,2715 246,2713 246,2713 392,2713 848,2720 872,2731 872,2755 481,2757 429,2757 260,2756 211,2747 211,2715"/>
+                <Baseline points="211,2747 392,2750 429,2750 503,2751 529,2751 678,2753 711,2753 767,2754 793,2754 872,2755"/>
+                <TextEquiv>
+                    <Unicode>triebskraft zum Betriebe der Mo⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r6l3" custom="readingOrder {index:2;}">
+                <Coords points="209,2760 655,2760 797,2764 860,2775 872,2782 872,2793 860,2799 797,2806 783,2806 430,2804 209,2793 209,2760"/>
+                <Baseline points="209,2793 301,2794 329,2794 385,2794 411,2795 716,2798 743,2798 797,2799 824,2799 871,2798"/>
+                <TextEquiv>
+                    <Unicode>toren des Hilfspumpwerkes ⅠⅠ) er⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r6l4" custom="readingOrder {index:3;}">
+                <Coords points="205,2805 259,2804 259,2804 294,2804 696,2806 868,2810 868,2845 696,2850 561,2850 372,2848 205,2846 205,2805"/>
+                <Baseline points="205,2838 326,2839 345,2840 451,2840 469,2841 525,2841 539,2841 699,2843 717,2843 772,2844 792,2844 870,2843"/>
+                <TextEquiv>
+                    <Unicode>fordert wegen des Steigens der Oel⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r6l5" custom="readingOrder {index:4;}">
+                <Coords points="205,2855 263,2849 263,2849 303,2849 664,2852 843,2855 868,2866 868,2890 740,2896 645,2896 277,2892 205,2891 205,2855"/>
+                <Baseline points="205,2884 303,2885 330,2885 395,2886 424,2886 478,2887 503,2887 780,2889 806,2890 869,2887"/>
+                <TextEquiv>
+                    <Unicode>preiſe und der minderwertigen Be⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r6l6" custom="readingOrder {index:5;}">
+                <Coords points="207,2895 402,2895 820,2901 868,2912 868,2937 402,2939 239,2939 207,2938 207,2895"/>
+                <Baseline points="207,2929 402,2932 441,2933 499,2934 539,2934 638,2935 680,2935 749,2936 789,2937 868,2937"/>
+                <TextEquiv>
+                    <Unicode>ſchaffenheit des Oeles eine Ver⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r6l7" custom="readingOrder {index:6;}">
+                <Coords points="205,2941 318,2941 606,2943 857,2945 867,2974 867,2986 683,2989 669,2989 257,2986 205,2984 205,2941"/>
+                <Baseline points="205,2976 351,2978 369,2978 434,2979 457,2979 541,2979 564,2980 606,2980 627,2980 683,2980 702,2981 790,2981 813,2981 867,2982"/>
+                <TextEquiv>
+                    <Unicode>ſtärkung von 1000 ℳ auf 2000 ℳ,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r6l8" custom="readingOrder {index:7;}">
+                <Coords points="204,2997 219,2983 235,2983 248,2987 350,2999 350,3025 237,3035 219,3035 204,3023 204,2997"/>
+                <Baseline points="204,3023 345,3025"/>
+                <TextEquiv>
+                    <Unicode>alſo um</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+        <TextRegion id="r7" custom="readingOrder {index:12;} structure {type:T0C0;}">
+            <Coords points="150,3041 146,3293 897,3293 897,3041"/>
+            <TextLine id="r7l1" custom="readingOrder {index:0;}">
+                <Coords points="161,3049 394,3045 433,3045 837,3056 858,3069 868,3084 868,3095 837,3098 438,3098 389,3098 161,3092 161,3049"/>
+                <Baseline points="161,3086 233,3087 256,3087 276,3087 299,3087 314,3087 331,3088 394,3088 423,3088 433,3088 448,3089 467,3089 494,3089 514,3089 536,3089 562,3090 588,3089 656,3090 684,3091 868,3095"/>
+                <TextEquiv>
+                    <Unicode>Für Abſchn. 3 Nr. 13 e (Schmier⸗,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r7l2" custom="readingOrder {index:1;}">
+                <Coords points="203,3096 242,3096 449,3098 721,3103 825,3105 866,3115 866,3140 769,3144 721,3145 708,3145 565,3144 252,3140 203,3138 203,3096"/>
+                <Baseline points="203,3131 293,3133 313,3133 377,3134 396,3134 721,3138 742,3138 780,3138 798,3139 866,3139"/>
+                <TextEquiv>
+                    <Unicode>Putz⸗ und Reinigungsmittel) iſt eine</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r7l3" custom="readingOrder {index:2;}">
+                <Coords points="227,3138 416,3138 874,3150 874,3193 853,3193 227,3188 205,3178 205,3142"/>
+                <Baseline points="205,3178 416,3180 457,3180 523,3181 556,3181 613,3182 626,3182 692,3183 808,3185 874,3186"/>
+                <TextEquiv>
+                    <Unicode>Verſtärkung von 24 600 ℳ auf</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r7l4" custom="readingOrder {index:3;}">
+                <Coords points="200,3189 263,3185 331,3185 478,3191 598,3201 598,3235 331,3239 263,3239 200,3222"/>
+                <Baseline points="200,3222 241,3223 263,3223 331,3225 349,3225 402,3226 434,3227 499,3229 527,3230 583,3230 598,3230"/>
+                <TextEquiv>
+                    <Unicode>25 000 ℳ, alſo um</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r7l5" custom="readingOrder {index:4;}">
+                <Coords points="205,3245 239,3235 239,3235 408,3235 408,3281 300,3281 239,3279 205,3272 205,3245"/>
+                <Baseline points="205,3272 408,3274"/>
+                <TextEquiv>
+                    <Unicode>erforderlich.</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+        <TextRegion id="r8" custom="readingOrder {index:13;} structure {type:T0C1;}">
+            <Coords points="897,1605 897,1703 1146,1703 1148,1606"/>
+            <TextLine id="r8l1" custom="readingOrder {index:0;}">
+                <Coords points="957,1664 1013,1660 1097,1656 1097,1656 1131,1656 1131,1703 1022,1703 957,1695 957,1664"/>
+                <Baseline points="957,1695 995,1696 1010,1696 1097,1696 1129,1696 1131,1696"/>
+                <TextEquiv>
+                    <Unicode>16 000 ℳ</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+        <TextRegion id="r9" custom="readingOrder {index:14;} structure {type:T0C1;}">
+            <Coords points="897,1703 897,1819 1145,1819 1146,1703"/>
+            <TextLine id="r9l1" custom="readingOrder {index:0;}">
+                <Coords points="957,1774 975,1773 1087,1770 1087,1770 1128,1770 1128,1807 1087,1807 957,1805 957,1774"/>
+                <Baseline points="957,1805 995,1805 1009,1805 1074,1806 1087,1806 1128,1807"/>
+                <TextEquiv>
+                    <Unicode>19 500 ℳ</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+        <TextRegion id="r10" custom="readingOrder {index:15;} structure {type:T0C1;}">
+            <Coords points="897,1819 897,2654 1135,2654 1145,1819"/>
+            <TextLine id="r10l1" custom="readingOrder {index:0;}">
+                <Coords points="923,2566 1001,2559 1066,2559 1116,2563 1116,2599 1065,2606 1000,2606 923,2598 923,2566"/>
+                <Baseline points="923,2598 984,2598 1001,2598 1066,2599 1088,2599 1116,2599"/>
+                <TextEquiv>
+                    <Unicode>115 000 ℳ</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+        <TextRegion id="r11" custom="readingOrder {index:16;} structure {type:T0C1;}">
+            <Coords points="897,2654 897,3041 1131,3041 1135,2654"/>
+            <TextLine id="r11l1" custom="readingOrder {index:0;}">
+                <Coords points="961,2998 1083,2992 1116,2992 1116,3041 1026,3041 956,3033 956,3001"/>
+                <Baseline points="956,3030 961,3030 1083,3032 1112,3033 1116,3033"/>
+                <TextEquiv>
+                    <Unicode>1 000 ℳ</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+        <TextRegion id="r12" custom="readingOrder {index:17;} structure {type:T0C1;}">
+            <Coords points="897,3041 897,3293 1129,3293 1131,3041"/>
+            <TextLine id="r12l1" custom="readingOrder {index:0;}">
+                <Coords points="987,3202 1009,3200 1064,3197 1064,3197 1106,3197 1106,3233 1064,3233 987,3232 987,3202"/>
+                <Baseline points="987,3232 1051,3232 1064,3232 1106,3233"/>
+                <TextEquiv>
+                    <Unicode>400 ℳ</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+        <TextRegion id="r13" custom="readingOrder {index:18;} structure {type:T0C0;}">
+            <Coords points="146,3293 145,3363 897,3356 1129,3355 1129,3293 897,3293"/>
+            <TextLine id="r13l1" custom="readingOrder {index:0;}">
+                <Coords points="787,3305 808,3294 808,3294 885,3294 1106,3309 1106,3341 885,3342 808,3342 787,3341 787,3305"/>
+                <Baseline points="787,3341 885,3341 910,3340 970,3340 983,3340 1051,3341 1069,3341 1106,3341"/>
+                <TextEquiv>
+                    <Unicode>Seite 151 900 ℳ</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+        <TextRegion id="r14" custom="readingOrder {index:19;} structure {type:T1C0;}">
+            <Coords points="1180,217 1179,268 1907,287 1907,217"/>
+            <TextLine id="r14l1" custom="readingOrder {index:0;}">
+                <Coords points="1718,246 1756,246 1798,247 1830,251 1886,259 1886,286 1723,282 1718,279 1718,246"/>
+                <Baseline points="1718,279 1886,282"/>
+                <TextEquiv>
+                    <Unicode>Uebertrag</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+        <TextRegion id="r15" custom="readingOrder {index:20;} structure {type:T1C0;}">
+            <Coords points="1179,268 1174,647 1907,666 1907,287"/>
+            <TextLine id="r15l1" custom="readingOrder {index:0;}">
+                <Coords points="1186,282 1305,278 1387,278 1838,293 1879,298 1879,329 1838,331 1433,327 1315,328 1186,317 1186,282"/>
+                <Baseline points="1186,317 1245,318 1281,318 1330,319 1348,319 1402,320 1419,320 1446,320 1483,321 1501,321 1547,321 1598,322 1638,322 1713,324 1749,325 1879,329"/>
+                <TextEquiv>
+                    <Unicode>Bei Abſchn. 3 Nr. 13 f (Geräte</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r15l2" custom="readingOrder {index:1;}">
+                <Coords points="1230,331 1313,330 1474,330 1725,336 1850,341 1879,357 1883,374 1866,373 1850,374 1754,375 1662,375 1313,369 1230,365 1230,331"/>
+                <Baseline points="1230,363 1294,364 1313,364 1564,369 1582,369 1637,370 1654,370 1878,370"/>
+                <TextEquiv>
+                    <Unicode>und Betriebsmittel des Maſchinenbe⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r15l3" custom="readingOrder {index:2;}">
+                <Coords points="1231,374 1263,372 1263,372 1446,372 1635,375 1816,380 1882,382 1882,416 1837,421 1797,421 1392,415 1350,414 1231,405 1231,374"/>
+                <Baseline points="1231,405 1362,407 1392,407 1454,408 1482,408 1567,409 1594,410 1635,411 1663,411 1712,412 1739,413 1882,416"/>
+                <TextEquiv>
+                    <Unicode>triebes) ſind 2500 ℳ als Planſoll</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r15l4" custom="readingOrder {index:3;}">
+                <Coords points="1231,426 1249,417 1249,417 1377,417 1633,420 1846,428 1883,437 1883,461 1866,467 1803,467 1453,464 1285,460 1231,450 1231,426"/>
+                <Baseline points="1231,450 1398,453 1430,454 1506,455 1532,455 1672,457 1701,458 1737,458 1767,459 1883,461"/>
+                <TextEquiv>
+                    <Unicode>eingeſetzt; dieſe Summe iſt infolge</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r15l5" custom="readingOrder {index:4;}">
+                <Coords points="1231,463 1251,463 1397,464 1520,466 1711,470 1849,473 1884,484 1884,507 1711,509 1501,509 1380,506 1340,505 1231,497 1231,463"/>
+                <Baseline points="1231,497 1284,498 1306,498 1452,500 1474,500 1726,503 1747,504 1810,505 1833,506 1884,507"/>
+                <TextEquiv>
+                    <Unicode>der erhöhten Materialpreiſe und der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r15l6" custom="readingOrder {index:5;}">
+                <Coords points="1228,508 1297,508 1415,509 1683,513 1886,517 1886,555 1875,555 1646,554 1251,551 1228,542 1228,508"/>
+                <Baseline points="1228,542 1456,544 1486,545 1525,545 1557,545 1614,546 1646,547 1799,549 1831,550 1886,551"/>
+                <TextEquiv>
+                    <Unicode>Arbeitslöhne in den Fabriken auf</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r15l7" custom="readingOrder {index:6;}">
+                <Coords points="1230,555 1251,554 1341,553 1341,553 1383,553 1461,555 1561,567 1561,591 1461,596 1453,596 1251,587 1230,585 1230,555"/>
+                <Baseline points="1230,585 1316,587 1341,587 1392,588 1419,589 1482,590 1504,591 1561,591"/>
+                <TextEquiv>
+                    <Unicode>7000 ℳ, alſo um</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r15l8" custom="readingOrder {index:7;}">
+                <Coords points="1230,608 1289,599 1289,599 1399,599 1420,601 1459,610 1469,629 1469,637 1399,641 1245,642 1230,642 1230,608"/>
+                <Baseline points="1230,632 1267,633 1289,633 1469,637"/>
+                <TextEquiv>
+                    <Unicode>zu verſtärken.</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+        <TextRegion id="r16" custom="readingOrder {index:21;} structure {type:T1C0;}">
+            <Coords points="1174,647 1162,1633 1907,1648 1907,666"/>
+            <TextLine id="r16l1" custom="readingOrder {index:0;}">
+                <Coords points="1184,670 1349,666 1369,666 1828,677 1885,679 1888,720 1837,720 1388,718 1350,717 1184,706 1184,670"/>
+                <Baseline points="1184,705 1243,706 1271,706 1325,706 1341,706 1388,707 1403,708 1434,708 1459,708 1477,708 1508,708 1524,709 1547,709 1576,709 1602,709 1676,710 1702,711 1884,713"/>
+                <TextEquiv>
+                    <Unicode>Bei Abſchn. 3 Nr. 13 g (Unterhal⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r16l2" custom="readingOrder {index:1;}">
+                <Coords points="1229,720 1454,720 1613,722 1815,725 1873,726 1885,743 1885,753 1873,759 1613,764 1547,764 1266,761 1229,752 1229,720"/>
+                <Baseline points="1229,752 1306,753 1335,753 1388,754 1415,754 1520,755 1547,755 1665,757 1693,757 1748,758 1773,758 1882,758"/>
+                <TextEquiv>
+                    <Unicode>tung der Werke einſchl. der Druck⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r16l3" custom="readingOrder {index:2;}">
+                <Coords points="1227,774 1265,763 1265,763 1304,763 1760,768 1886,780 1886,804 1760,809 1615,809 1265,806 1227,797 1227,774"/>
+                <Baseline points="1227,797 1333,798 1397,799 1435,799 1492,800 1553,801 1615,802 1760,803 1824,804 1886,798"/>
+                <TextEquiv>
+                    <Unicode>rohre) iſt das Planſoll von</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r16l4" custom="readingOrder {index:3;}">
+                <Coords points="1226,811 1416,811 1533,812 1641,813 1826,815 1886,817 1886,857 1577,857 1455,854 1226,842 1226,811"/>
+                <Baseline points="1226,841 1269,842 1281,843 1346,845 1373,845 1416,847 1455,847 1548,847 1575,848 1886,850"/>
+                <TextEquiv>
+                    <Unicode>30 000 ℳ durch Gemeindebeſchluß</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r16l5" custom="readingOrder {index:4;}">
+                <Coords points="1224,855 1595,851 1693,851 1887,864 1887,902 1690,901 1570,898 1224,891 1224,855"/>
+                <Baseline points="1224,890 1342,892 1410,893 1467,893 1538,893 1578,893 1595,893 1693,894 1719,895 1761,896 1829,897 1887,898"/>
+                <TextEquiv>
+                    <Unicode>bereits um 34 000 ℳ auf</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r16l6" custom="readingOrder {index:5;}">
+                <Coords points="1224,901 1283,894 1351,894 1870,906 1886,910 1886,941 1870,947 1381,941 1270,936 1224,932 1224,901"/>
+                <Baseline points="1224,932 1265,933 1283,933 1351,934 1369,934 1412,935 1437,935 1582,937 1607,938 1746,941 1772,940 1807,940 1833,940 1886,941"/>
+                <TextEquiv>
+                    <Unicode>64 000 ℳ verſtärkt worden, es hat</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r16l7" custom="readingOrder {index:6;}">
+                <Coords points="1222,945 1246,945 1489,946 1787,951 1835,953 1886,964 1886,988 1489,990 1348,990 1222,988 1222,945"/>
+                <Baseline points="1222,980 1289,980 1312,981 1489,983 1526,984 1601,984 1634,985 1718,986 1754,986 1886,988"/>
+                <TextEquiv>
+                    <Unicode>ſich inzwiſchen aber beim Nieder⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r16l8" custom="readingOrder {index:7;}">
+                <Coords points="1226,1002 1263,992 1263,992 1340,992 1697,994 1844,999 1887,1006 1887,1033 1340,1035 1276,1035 1226,1025 1226,1002"/>
+                <Baseline points="1226,1019 1340,1027 1378,1028 1435,1028 1476,1029 1697,1032 1736,1032 1782,1033 1825,1033 1887,1033"/>
+                <TextEquiv>
+                    <Unicode>reißen des Mauerwerks an den</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r16l9" custom="readingOrder {index:8;}">
+                <Coords points="1225,1037 1347,1037 1648,1041 1850,1045 1885,1054 1885,1079 1716,1084 1624,1084 1431,1082 1243,1080 1225,1072 1225,1037"/>
+                <Baseline points="1225,1072 1347,1073 1409,1074 1517,1075 1579,1076 1764,1078 1832,1079 1885,1079"/>
+                <TextEquiv>
+                    <Unicode>Keſſeln wegen Vornahme der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r16l10" custom="readingOrder {index:9;}">
+                <Coords points="1223,1082 1448,1082 1784,1088 1863,1090 1886,1091 1886,1124 1784,1130 1746,1130 1558,1129 1223,1126 1223,1082"/>
+                <Baseline points="1223,1117 1522,1120 1558,1120 1686,1122 1721,1122 1784,1123 1821,1123 1886,1124"/>
+                <TextEquiv>
+                    <Unicode>Waſſerdruckprobe gezeigt, daß viel</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r16l11" custom="readingOrder {index:10;}">
+                <Coords points="1221,1139 1245,1127 1245,1127 1290,1127 1433,1129 1754,1134 1769,1135 1843,1142 1883,1146 1883,1170 1754,1175 1585,1175 1347,1174 1245,1171 1221,1164 1221,1139"/>
+                <Baseline points="1221,1163 1309,1164 1329,1164 1526,1166 1552,1167 1784,1169 1807,1170 1883,1170"/>
+                <TextEquiv>
+                    <Unicode>mehr Siederohre ausgewechſelt wer⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r16l12" custom="readingOrder {index:11;}">
+                <Coords points="1221,1174 1602,1170 1857,1170 1882,1192 1882,1216 1854,1225 1612,1223 1327,1218 1221,1208 1221,1174"/>
+                <Baseline points="1221,1208 1280,1208 1303,1209 1433,1213 1456,1212 1509,1212 1535,1212 1752,1214 1767,1215 1882,1216"/>
+                <TextEquiv>
+                    <Unicode>den müſſen, als urſprünglich erwar⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r16l13" custom="readingOrder {index:12;}">
+                <Coords points="1226,1222 1241,1222 1549,1223 1858,1227 1883,1232 1883,1262 1858,1267 1487,1267 1226,1254 1226,1222"/>
+                <Baseline points="1226,1254 1271,1255 1298,1255 1427,1257 1459,1258 1586,1259 1621,1259 1726,1261 1749,1261 1883,1262"/>
+                <TextEquiv>
+                    <Unicode>tet werden konnte; ferner machen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r16l14" custom="readingOrder {index:13;}">
+                <Coords points="1219,1265 1271,1265 1462,1266 1858,1272 1882,1273 1882,1314 1764,1314 1219,1309 1219,1265"/>
+                <Baseline points="1219,1300 1271,1301 1313,1301 1540,1305 1580,1306 1621,1305 1662,1306 1722,1306 1764,1307 1882,1309"/>
+                <TextEquiv>
+                    <Unicode>ſich Reparaturen an den Tauch⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r16l15" custom="readingOrder {index:14;}">
+                <Coords points="1219,1313 1327,1313 1665,1315 1840,1320 1880,1330 1880,1354 1665,1357 1496,1357 1439,1356 1219,1347 1219,1313"/>
+                <Baseline points="1219,1347 1327,1348 1355,1348 1413,1349 1439,1349 1665,1352 1693,1353 1723,1354 1748,1353 1796,1352 1822,1353 1880,1354"/>
+                <TextEquiv>
+                    <Unicode>kolben des Pumpwerkes Ⅰ, an den</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r16l16" custom="readingOrder {index:15;}">
+                <Coords points="1222,1358 1241,1357 1241,1357 1465,1357 1876,1358 1876,1406 1693,1406 1241,1402 1222,1392 1222,1358"/>
+                <Baseline points="1222,1392 1486,1395 1514,1395 1574,1396 1605,1396 1876,1400"/>
+                <TextEquiv>
+                    <Unicode>Kreiſelpumpen des Zwiſchenpump⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r16l17" custom="readingOrder {index:16;}">
+                <Coords points="1223,1409 1242,1404 1242,1404 1338,1404 1599,1408 1704,1412 1882,1420 1882,1452 1599,1453 1565,1453 1242,1439 1223,1438 1223,1409"/>
+                <Baseline points="1223,1438 1338,1439 1367,1440 1432,1440 1465,1441 1535,1441 1565,1441 1882,1445"/>
+                <TextEquiv>
+                    <Unicode>werkes und eine Neuausmauerung</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r16l18" custom="readingOrder {index:17;}">
+                <Coords points="1221,1450 1511,1450 1647,1451 1859,1456 1878,1467 1878,1492 1859,1498 1837,1498 1609,1497 1243,1487 1221,1485 1221,1450"/>
+                <Baseline points="1221,1485 1285,1486 1311,1485 1511,1487 1543,1488 1676,1489 1704,1490 1810,1491 1837,1492 1878,1492"/>
+                <TextEquiv>
+                    <Unicode>des Generators daſelbſt nötig, ſo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r16l19" custom="readingOrder {index:18;}">
+                <Coords points="1217,1497 1260,1496 1749,1492 1823,1492 1880,1501 1880,1537 1814,1541 1744,1543 1336,1541 1260,1538 1217,1530 1217,1497"/>
+                <Baseline points="1217,1529 1279,1530 1311,1531 1479,1534 1507,1534 1580,1535 1607,1535 1662,1535 1689,1535 1731,1535 1749,1534 1823,1536 1838,1537 1880,1537"/>
+                <TextEquiv>
+                    <Unicode>daß insgeſamt ſtatt der 64 000 ℳ</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r16l20" custom="readingOrder {index:19;}">
+                <Coords points="1217,1544 1275,1538 1344,1538 1858,1549 1877,1560 1877,1584 1858,1589 1776,1592 1360,1586 1276,1582 1217,1575 1217,1544"/>
+                <Baseline points="1217,1575 1257,1576 1275,1576 1344,1577 1362,1578 1405,1578 1431,1579 1625,1581 1652,1582 1787,1583 1813,1583 1877,1584"/>
+                <TextEquiv>
+                    <Unicode>79 000 ℳ erforderlich werden, alſo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r16l21" custom="readingOrder {index:20;}">
+                <Coords points="1213,1598 1233,1588 1267,1588 1511,1590 1598,1602 1598,1628 1507,1633 1323,1633 1213,1622 1213,1598"/>
+                <Baseline points="1213,1616 1267,1623 1299,1624 1507,1626 1535,1626 1598,1626"/>
+                <TextEquiv>
+                    <Unicode>ein Mehrbedarf von</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+        <TextRegion id="r17" custom="readingOrder {index:22;} structure {type:T1C0;}">
+            <Coords points="1162,1633 1156,2112 1907,2138 1907,1648"/>
+            <TextLine id="r17l1" custom="readingOrder {index:0;}">
+                <Coords points="1171,1659 1650,1663 1679,1663 1838,1667 1877,1673 1877,1702 1859,1708 1682,1709 1649,1705 1300,1702 1171,1694 1171,1659"/>
+                <Baseline points="1171,1694 1236,1694 1259,1695 1291,1695 1300,1695 1379,1695 1391,1695 1425,1696 1453,1696 1471,1696 1491,1697 1572,1697 1602,1697 1661,1698 1677,1698 1680,1698 1707,1699 1877,1702"/>
+                <TextEquiv>
+                    <Unicode>Bei Abſchn. 3 Nr. 13 h (Sonſtige</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r17l2" custom="readingOrder {index:1;}">
+                <Coords points="1214,1705 1669,1701 1669,1701 1741,1701 1857,1714 1876,1717 1876,1748 1741,1755 1669,1755 1232,1747 1214,1740 1214,1705"/>
+                <Baseline points="1214,1740 1480,1743 1511,1743 1575,1744 1610,1744 1649,1744 1669,1744 1741,1746 1753,1746 1796,1746 1824,1747 1876,1747"/>
+                <TextEquiv>
+                    <Unicode>Betriebskoſten) ſind 10 000 ℳ als</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r17l3" custom="readingOrder {index:2;}">
+                <Coords points="1214,1751 1252,1751 1435,1753 1801,1758 1844,1759 1875,1760 1875,1793 1232,1793 1214,1792 1214,1751"/>
+                <Baseline points="1214,1785 1360,1787 1385,1787 1536,1790 1563,1790 1699,1792 1746,1792 1801,1793 1827,1793 1875,1793"/>
+                <TextEquiv>
+                    <Unicode>Planſoll bewilligt worden. Da die</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r17l4" custom="readingOrder {index:3;}">
+                <Coords points="1213,1797 1549,1797 1840,1804 1875,1814 1875,1839 1840,1844 1236,1844 1213,1832 1213,1797"/>
+                <Baseline points="1213,1831 1708,1837 1807,1839 1875,1832"/>
+                <TextEquiv>
+                    <Unicode>Kanaliſationsverwaltung ihre</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r17l5" custom="readingOrder {index:4;}">
+                <Coords points="1207,1863 1207,1861 1211,1843 1211,1843 1320,1843 1479,1844 1786,1850 1837,1852 1877,1855 1877,1886 1741,1891 1627,1891 1249,1886 1211,1877 1207,1863"/>
+                <Baseline points="1214,1875 1399,1880 1479,1881 1505,1881 1592,1883 1627,1883 1786,1885 1823,1886 1877,1886"/>
+                <TextEquiv>
+                    <Unicode>Schlacken nicht mehr koſtenfrei los</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r17l6" custom="readingOrder {index:5;}">
+                <Coords points="1213,1895 1244,1891 1244,1891 1375,1891 1727,1894 1837,1898 1874,1902 1874,1932 1780,1938 1598,1938 1295,1927 1244,1925 1213,1923 1213,1895"/>
+                <Baseline points="1213,1923 1302,1925 1333,1925 1393,1926 1431,1926 1466,1927 1503,1927 1551,1928 1580,1929 1780,1931 1818,1932 1874,1932"/>
+                <TextEquiv>
+                    <Unicode>wird, wie es bei Aufſtellung des</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r17l7" custom="readingOrder {index:6;}">
+                <Coords points="1209,1934 1414,1934 1818,1943 1861,1953 1875,1960 1875,1971 1861,1977 1818,1983 1808,1983 1621,1982 1233,1977 1209,1969 1209,1934"/>
+                <Baseline points="1209,1968 1440,1971 1457,1972 1530,1974 1550,1975 1605,1974 1621,1974 1695,1975 1713,1975 1790,1976 1808,1977 1873,1976"/>
+                <TextEquiv>
+                    <Unicode>Sonderplans noch der Fall war, ſon⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r17l8" custom="readingOrder {index:7;}">
+                <Coords points="1211,1981 1344,1981 1553,1983 1872,1988 1872,2029 1683,2029 1307,2023 1211,2015 1211,1981"/>
+                <Baseline points="1211,2014 1285,2015 1307,2016 1360,2017 1382,2017 1488,2018 1507,2019 1589,2020 1611,2020 1761,2023 1785,2023 1872,2025"/>
+                <TextEquiv>
+                    <Unicode>dern für teures Geld abfahren muß,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r17l9" custom="readingOrder {index:8;}">
+                <Coords points="1212,2024 1221,2024 1548,2029 1813,2035 1834,2036 1875,2045 1875,2069 1813,2075 1702,2075 1626,2074 1269,2069 1212,2061 1212,2024"/>
+                <Baseline points="1212,2061 1241,2062 1269,2063 1308,2064 1335,2063 1413,2064 1440,2064 1601,2066 1626,2066 1664,2067 1702,2068 1872,2068"/>
+                <TextEquiv>
+                    <Unicode>ſo iſt dieſe Nummer zu verſtärken</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r17l10" custom="readingOrder {index:9;}">
+                <Coords points="1209,2081 1252,2073 1482,2073 1588,2077 1669,2088 1678,2092 1678,2114 1669,2115 1588,2119 1554,2119 1252,2115 1209,2106"/>
+                <Baseline points="1213,2106 1266,2107 1292,2107 1333,2107 1347,2107 1412,2108 1438,2109 1492,2110 1522,2111 1588,2112 1613,2113 1678,2112"/>
+                <TextEquiv>
+                    <Unicode>auf 17 500 ℳ, alſo um</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+        <TextRegion id="r18" custom="readingOrder {index:23;} structure {type:T1C0;}">
+            <Coords points="1156,2112 1151,2513 1907,2529 1907,2138"/>
+            <TextLine id="r18l1" custom="readingOrder {index:0;}">
+                <Coords points="1164,2144 1337,2140 1356,2140 1851,2152 1870,2155 1870,2188 1851,2191 1365,2192 1339,2192 1164,2179 1164,2144"/>
+                <Baseline points="1164,2179 1224,2180 1258,2180 1310,2181 1328,2181 1375,2182 1393,2182 1423,2182 1454,2183 1473,2183 1513,2183 1584,2183 1618,2184 1692,2186 1733,2186 1868,2183"/>
+                <TextEquiv>
+                    <Unicode>Bei Abſchn. 3 Nr. 14 a (Beklei⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r18l2" custom="readingOrder {index:1;}">
+                <Coords points="1208,2192 1226,2192 1469,2194 1792,2198 1853,2200 1872,2204 1872,2234 1792,2239 1747,2239 1618,2238 1408,2236 1251,2233 1208,2225 1208,2192"/>
+                <Baseline points="1209,2222 1314,2226 1370,2226 1390,2227 1582,2229 1607,2230 1716,2232 1735,2232 1792,2233 1813,2233 1872,2234"/>
+                <TextEquiv>
+                    <Unicode>dung des Perſonals) erhöht ſich das</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r18l3" custom="readingOrder {index:2;}">
+                <Coords points="1206,2235 1352,2235 1789,2243 1835,2247 1870,2256 1870,2280 1789,2285 1675,2285 1226,2278 1206,2274 1206,2235"/>
+                <Baseline points="1206,2270 1352,2272 1383,2272 1446,2273 1478,2273 1566,2274 1596,2274 1639,2275 1669,2276 1789,2278 1816,2279 1870,2280"/>
+                <TextEquiv>
+                    <Unicode>Planſoll von 7700 ℳ infolge der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r18l4" custom="readingOrder {index:3;}">
+                <Coords points="1202,2282 1408,2282 1783,2289 1828,2293 1851,2303 1862,2322 1862,2332 1623,2332 1202,2325 1202,2282"/>
+                <Baseline points="1202,2318 1408,2322 1424,2322 1488,2323 1500,2323 1605,2324 1622,2324 1862,2327"/>
+                <TextEquiv>
+                    <Unicode>Beſchaffung von neuen Kanalſtiefeln,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r18l5" custom="readingOrder {index:4;}">
+                <Coords points="1204,2330 1310,2328 1310,2328 1398,2328 1553,2329 1815,2336 1846,2339 1869,2346 1869,2370 1782,2370 1310,2369 1204,2360 1204,2330"/>
+                <Baseline points="1204,2360 1398,2364 1445,2365 1630,2367 1681,2368 1733,2369 1782,2370 1869,2364"/>
+                <TextEquiv>
+                    <Unicode>vermehrter Reparatur der alten</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r18l6" custom="readingOrder {index:5;}">
+                <Coords points="1202,2372 1286,2368 1304,2368 1851,2384 1870,2394 1870,2418 1573,2421 1502,2421 1288,2417 1202,2407 1202,2372"/>
+                <Baseline points="1202,2406 1336,2409 1360,2409 1549,2413 1575,2413 1649,2415 1673,2416 1793,2417 1817,2417 1870,2418"/>
+                <TextEquiv>
+                    <Unicode>Stiefel, namentlich aber infolge der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r18l7" custom="readingOrder {index:6;}">
+                <Coords points="1204,2419 1292,2419 1547,2424 1750,2428 1825,2430 1869,2439 1871,2471 1805,2470 1204,2461 1204,2419"/>
+                <Baseline points="1204,2452 1306,2455 1343,2455 1455,2458 1491,2459 1547,2460 1581,2460 1635,2461 1673,2461 1781,2463 1809,2463 1869,2464"/>
+                <TextEquiv>
+                    <Unicode>hohen Preiſe für die Bekleidung</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r18l8" custom="readingOrder {index:7;}">
+                <Coords points="1204,2474 1248,2466 1393,2462 1393,2462 1421,2462 1584,2470 1667,2481 1667,2506 1584,2512 1421,2516 1393,2516 1248,2507 1204,2498 1204,2474"/>
+                <Baseline points="1204,2498 1261,2499 1290,2499 1329,2500 1348,2500 1421,2502 1433,2502 1485,2503 1515,2504 1584,2505 1610,2505 1667,2505"/>
+                <TextEquiv>
+                    <Unicode>auf 26 700 ℳ, alſo um</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+        <TextRegion id="r19" custom="readingOrder {index:24;} structure {type:T1C0;}">
+            <Coords points="1151,2513 1147,2805 1907,2818 1907,2529"/>
+            <TextLine id="r19l1" custom="readingOrder {index:0;}">
+                <Coords points="1159,2527 1325,2519 1345,2519 1850,2535 1867,2541 1867,2572 1850,2575 1348,2574 1324,2572 1159,2562 1159,2527"/>
+                <Baseline points="1159,2562 1219,2562 1245,2563 1300,2563 1316,2563 1365,2564 1380,2564 1410,2565 1438,2565 1458,2565 1485,2566 1503,2566 1525,2566 1556,2566 1586,2567 1662,2569 1688,2569 1867,2572"/>
+                <TextEquiv>
+                    <Unicode>Bei Abſchn. 3 Nr. 14 b (Betriebs⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r19l2" custom="readingOrder {index:1;}">
+                <Coords points="1203,2573 1251,2573 1755,2580 1864,2583 1864,2623 1663,2623 1203,2610 1203,2573"/>
+                <Baseline points="1203,2608 1308,2609 1327,2609 1392,2610 1413,2610 1530,2613 1554,2613 1599,2613 1621,2614 1864,2619"/>
+                <TextEquiv>
+                    <Unicode>mittel und Geräte im Kanalbetrieb)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r19l3" custom="readingOrder {index:2;}">
+                <Coords points="1204,2630 1237,2620 1237,2620 1384,2620 1587,2623 1698,2626 1726,2627 1843,2635 1866,2640 1866,2664 1757,2670 1683,2670 1345,2664 1237,2662 1204,2654 1204,2630"/>
+                <Baseline points="1204,2654 1311,2656 1331,2656 1384,2657 1408,2657 1459,2657 1479,2658 1632,2660 1656,2660 1775,2662 1798,2663 1866,2664"/>
+                <TextEquiv>
+                    <Unicode>erhöht ſich die Ausgabe infolge ver⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r19l4" custom="readingOrder {index:3;}">
+                <Coords points="1201,2676 1252,2667 1252,2667 1269,2667 1458,2668 1782,2672 1867,2685 1867,2717 1728,2717 1252,2710 1201,2700 1201,2676"/>
+                <Baseline points="1201,2700 1337,2703 1377,2703 1611,2707 1655,2707 1867,2709"/>
+                <TextEquiv>
+                    <Unicode>mehrter Reparaturen, Anſchaffung</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r19l5" custom="readingOrder {index:4;}">
+                <Coords points="1200,2715 1313,2713 1313,2713 1446,2713 1865,2720 1865,2755 1671,2765 1652,2765 1351,2757 1200,2747 1200,2715"/>
+                <Baseline points="1200,2747 1298,2748 1313,2748 1482,2751 1499,2751 1530,2751 1549,2752 1612,2753 1629,2753 1696,2754 1714,2754 1801,2755 1822,2755 1865,2755"/>
+                <TextEquiv>
+                    <Unicode>neuer Schläuche u. dgl. von 6500 ℳ</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r19l6" custom="readingOrder {index:5;}">
+                <Coords points="1199,2769 1243,2761 1430,2759 1472,2759 1672,2763 1676,2803 1548,2803 1243,2801 1199,2793"/>
+                <Baseline points="1199,2793 1258,2793 1285,2793 1323,2793 1339,2793 1402,2793 1430,2793 1483,2795 1513,2796 1577,2797 1606,2798 1676,2799"/>
+                <TextEquiv>
+                    <Unicode>auf 16 500 ℳ, alſo um</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+        <TextRegion id="r20" custom="readingOrder {index:25;} structure {type:T1C0;}">
+            <Coords points="1147,2805 1144,3094 1907,3112 1907,2818"/>
+            <TextLine id="r20l1" custom="readingOrder {index:0;}">
+                <Coords points="1156,2821 1329,2817 1349,2817 1841,2828 1862,2831 1862,2869 1841,2872 1373,2868 1335,2871 1156,2856 1156,2821"/>
+                <Baseline points="1156,2856 1218,2857 1250,2857 1300,2857 1318,2858 1364,2858 1383,2858 1410,2858 1437,2859 1456,2859 1482,2859 1553,2859 1580,2860 1650,2861 1677,2862 1861,2863"/>
+                <TextEquiv>
+                    <Unicode>Bei Abſchn. 3 Nr. 14 c (Unterhal⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r20l2" custom="readingOrder {index:1;}">
+                <Coords points="1200,2872 1372,2869 1372,2869 1510,2869 1780,2874 1831,2877 1861,2895 1861,2905 1849,2913 1780,2918 1743,2918 1395,2914 1261,2912 1200,2903 1200,2872"/>
+                <Baseline points="1200,2903 1278,2904 1302,2905 1353,2906 1372,2907 1535,2907 1561,2907 1637,2908 1660,2909 1780,2911 1802,2912 1863,2913"/>
+                <TextEquiv>
+                    <Unicode>tung der Anlagen) tritt infolge Er⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r20l3" custom="readingOrder {index:2;}">
+                <Coords points="1199,2931 1199,2928 1201,2915 1201,2915 1259,2915 1686,2919 1864,2925 1864,2960 1599,2961 1556,2961 1239,2958 1201,2957 1199,2931"/>
+                <Baseline points="1202,2950 1351,2951 1402,2952 1425,2952 1532,2953 1556,2954 1611,2954 1632,2955 1772,2958 1794,2959 1864,2960"/>
+                <TextEquiv>
+                    <Unicode>höhung der Löhne für Maurer und</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r20l4" custom="readingOrder {index:3;}">
+                <Coords points="1202,2961 1223,2961 1555,2962 1820,2970 1843,2971 1862,2981 1862,3006 1820,3012 1809,3012 1650,3011 1311,3007 1202,2995 1202,2961"/>
+                <Baseline points="1202,2995 1256,2996 1288,2996 1555,3001 1585,3001 1778,3004 1809,3005 1862,3006"/>
+                <TextEquiv>
+                    <Unicode>der Materialpreiſe, namentlich für</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r20l5" custom="readingOrder {index:4;}">
+                <Coords points="1200,3007 1241,3007 1526,3010 1562,3011 1760,3017 1816,3023 1861,3028 1861,3053 1674,3056 1653,3056 1200,3051 1200,3007"/>
+                <Baseline points="1200,3042 1378,3044 1405,3045 1472,3046 1497,3046 1674,3049 1709,3050 1760,3051 1798,3052 1861,3053"/>
+                <TextEquiv>
+                    <Unicode>Eiſenzeug, eine Erhöhung ein von</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r20l6" custom="readingOrder {index:5;}">
+                <Coords points="1199,3055 1531,3050 1531,3050 1606,3050 1773,3061 1858,3073 1858,3097 1773,3102 1629,3105 1437,3100 1199,3088 1199,3055"/>
+                <Baseline points="1199,3088 1286,3088 1330,3089 1349,3089 1387,3089 1444,3089 1472,3090 1513,3090 1531,3091 1606,3092 1621,3093 1675,3094 1705,3094 1773,3095 1803,3096 1858,3097"/>
+                <TextEquiv>
+                    <Unicode>9000 ℳ auf 23 000 ℳ, alſo um</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+        <TextRegion id="r21" custom="readingOrder {index:26;} structure {type:T1C0;}">
+            <Coords points="1144,3094 1142,3301 1907,3302 1907,3112"/>
+            <TextLine id="r21l1" custom="readingOrder {index:0;}">
+                <Coords points="1153,3107 1360,3103 1395,3103 1703,3114 1757,3116 1858,3128 1858,3152 1757,3158 1410,3153 1363,3154 1173,3144 1153,3141 1153,3107"/>
+                <Baseline points="1153,3141 1200,3143 1227,3143 1248,3144 1265,3144 1277,3144 1297,3144 1360,3144 1388,3145 1395,3145 1409,3145 1427,3145 1453,3145 1469,3145 1493,3146 1519,3146 1542,3146 1612,3147 1635,3148 1775,3151 1796,3151 1857,3152"/>
+                <TextEquiv>
+                    <Unicode>bei Abſchn. 3 Nr. 14 e (Abfuhr von</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r21l2" custom="readingOrder {index:1;}">
+                <Coords points="1195,3153 1261,3153 1810,3162 1825,3165 1860,3175 1860,3199 1810,3205 1750,3205 1481,3202 1346,3200 1241,3193 1195,3188 1195,3153"/>
+                <Baseline points="1198,3187 1304,3190 1323,3190 1446,3192 1465,3193 1554,3194 1578,3194 1697,3196 1717,3196 1860,3199"/>
+                <TextEquiv>
+                    <Unicode>Sand, Papier uſw.) infolge erhöhter</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r21l3" custom="readingOrder {index:2;}">
+                <Coords points="1197,3200 1381,3200 1745,3205 1859,3211 1859,3251 1802,3251 1323,3246 1197,3244 1197,3200"/>
+                <Baseline points="1197,3236 1381,3238 1437,3239 1499,3239 1556,3240 1644,3241 1702,3242 1745,3243 1802,3244 1859,3245"/>
+                <TextEquiv>
+                    <Unicode>Fuhrlöhne von 4000 ℳ auf</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r21l4" custom="readingOrder {index:3;}">
+                <Coords points="1198,3250 1259,3243 1330,3243 1472,3251 1585,3260 1585,3295 1330,3299 1259,3299 1198,3282"/>
+                <Baseline points="1198,3282 1240,3283 1259,3283 1330,3284 1346,3284 1398,3285 1429,3286 1494,3287 1520,3287 1576,3288 1585,3288"/>
+                <TextEquiv>
+                    <Unicode>10 000 ℳ, alſo um</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+        <TextRegion id="r22" custom="readingOrder {index:27;} structure {type:T1C1;}">
+            <Coords points="1907,217 1907,287 2145,293 2145,217"/>
+            <TextLine id="r22l1" custom="readingOrder {index:0;}">
+                <Coords points="1926,251 1942,251 2115,252 2115,284 2064,285 2022,285 1948,284 1926,281 1926,251"/>
+                <Baseline points="1926,281 1986,282 2001,283 2064,284 2079,284 2115,276"/>
+                <TextEquiv>
+                    <Unicode>151 900 ℳ</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+        <TextRegion id="r23" custom="readingOrder {index:28;} structure {type:T1C1;}">
+            <Coords points="1907,287 1907,666 2145,672 2145,293"/>
+            <TextLine id="r23l1" custom="readingOrder {index:0;}">
+                <Coords points="1980,549 2125,554 2123,604 1978,599"/>
+                <Baseline points="1978,594 2123,599"/>
+                <TextEquiv>
+                    <Unicode>4 500 ℳ</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+        <TextRegion id="r24" custom="readingOrder {index:29;} structure {type:T1C1;}">
+            <Coords points="1907,666 1907,1648 2145,1652 2145,672"/>
+            <TextLine id="r24l1" custom="readingOrder {index:0;}">
+                <Coords points="1949,1586 2122,1584 2123,1634 1950,1636"/>
+                <Baseline points="1950,1631 2123,1629"/>
+                <TextEquiv>
+                    <Unicode>15 000 ℳ</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+        <TextRegion id="r25" custom="readingOrder {index:30;} structure {type:T1C1;}">
+            <Coords points="1907,1648 1907,2138 2145,2146 2145,1652"/>
+            <TextLine id="r25l1" custom="readingOrder {index:0;}">
+                <Coords points="1965,2085 2086,2077 2086,2077 2120,2077 2120,2133 2086,2133 1965,2116 1965,2085"/>
+                <Baseline points="1965,2116 1983,2116 1997,2116 2086,2118 2117,2119 2120,2119"/>
+                <TextEquiv>
+                    <Unicode>7 500 ℳ</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+        <TextRegion id="r26" custom="readingOrder {index:31;} structure {type:T1C1;}">
+            <Coords points="1907,2138 1907,2529 2145,2534 2145,2146"/>
+            <TextLine id="r26l1" custom="readingOrder {index:0;}">
+                <Coords points="1939,2479 1994,2475 2081,2471 2081,2471 2114,2471 2114,2526 2081,2526 1939,2510 1939,2479"/>
+                <Baseline points="1939,2510 1977,2510 1991,2511 2081,2511 2112,2512 2114,2512"/>
+                <TextEquiv>
+                    <Unicode>19 000 ℳ</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+        <TextRegion id="r27" custom="readingOrder {index:32;} structure {type:T1C1;}">
+            <Coords points="1907,2529 1907,2818 2145,2822 2145,2534"/>
+            <TextLine id="r27l1" custom="readingOrder {index:0;}">
+                <Coords points="1936,2773 1954,2771 1995,2769 2080,2765 2080,2765 2112,2765 2112,2819 2080,2819 1936,2803 1936,2773"/>
+                <Baseline points="1936,2803 1977,2804 1987,2804 2080,2804 2108,2804 2112,2804"/>
+                <TextEquiv>
+                    <Unicode>10 000 ℳ</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+        <TextRegion id="r28" custom="readingOrder {index:33;} structure {type:T1C1;}">
+            <Coords points="1907,2818 1907,3112 2145,3118 2145,2822"/>
+            <TextLine id="r28l1" custom="readingOrder {index:0;}">
+                <Coords points="1929,3067 1988,3064 2069,3060 2069,3060 2105,3060 2105,3114 2069,3114 1929,3098 1929,3067"/>
+                <Baseline points="1929,3098 1970,3098 1982,3098 2069,3099 2102,3099 2105,3099"/>
+                <TextEquiv>
+                    <Unicode>14 000 ℳ</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+        <TextRegion id="r29" custom="readingOrder {index:34;} structure {type:T1C1;}">
+            <Coords points="1907,3112 1907,3302 2145,3302 2145,3118"/>
+            <TextLine id="r29l1" custom="readingOrder {index:0;}">
+                <Coords points="1948,3260 1987,3256 2074,3252 2074,3252 2104,3252 2104,3302 2018,3302 1948,3292 1948,3260"/>
+                <Baseline points="1948,3292 1968,3292 1981,3292 2074,3293 2101,3293 2104,3293"/>
+                <TextEquiv>
+                    <Unicode>6 000 ℳ</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+        <TextRegion id="r30" custom="readingOrder {index:35;} structure {type:T1C0;}">
+            <Coords points="1142,3301 1142,3384 1907,3385 2145,3386 2145,3302 1907,3302"/>
+            <TextLine id="r30l1" custom="readingOrder {index:0;}">
+                <Coords points="1775,3318 1796,3317 1796,3317 1837,3317 2099,3322 2099,3353 2046,3355 1927,3355 1796,3354 1775,3353 1775,3318"/>
+                <Baseline points="1775,3353 1869,3353 1905,3353 1968,3352 1980,3352 2046,3355 2061,3354 2099,3353"/>
+                <TextEquiv>
+                    <Unicode>Seite 227 900 ℳ</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>
