@@ -6,7 +6,7 @@
         <LastChange>2023-07-04T14:43:02.885+02:00</LastChange>
         <Comments>
                 Measurement unit: pixel
-                PrimaryLanguage: 
+                PrimaryLanguage:
                 Producer: Transkribus
             </Comments>
         <TranskribusMetadata docId="988838" pageId="38236909" pageNr="11" tsid="128718697" status="GT" userId="48446" imgUrl="https://files.transkribus.eu/Get?id=VYHVNJSLYFWFOVLXGRFHTVSQ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=MJLYJDGWXTPMFPZLWRYROBDH" imageId="30799988"/>
@@ -482,7 +482,7 @@
                 <Coords points="291,3052 312,3052 642,3053 684,3053 684,3096 252,3094 252,3062"/>
                 <Baseline points="252,3085 375,3086 401,3087 684,3089"/>
                 <TextEquiv>
-                    <Unicode>gebene Kilowattſtunde </Unicode>
+                    <Unicode>gebene Kilowattſtunde</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r2l65" custom="readingOrder {index:64;}">
@@ -605,7 +605,7 @@ Kilowattſtunden hinaus für jede Kilo⸗
 wattſtunde
 B. für jede für Kraftzwecke und für die
 öffentliche Straßenbeleuchtung abge⸗
-gebene Kilowattſtunde 
+gebene Kilowattſtunde
 10 „
 Der Energieverbrauch für Beleuchtungszwecke
 des vom 1. April bis zum 31. März laufenden Ge⸗
