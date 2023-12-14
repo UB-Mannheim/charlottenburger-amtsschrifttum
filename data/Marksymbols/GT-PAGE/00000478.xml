@@ -85,7 +85,7 @@ Transkribus</Creator>
                 <Coords points="297,474 450,472 599,471 809,470 809,470 1170,470 1170,502 1043,511 392,513 318,513 297,506 297,474"/>
                 <Baseline points="297,506 392,505 417,505 490,504 515,504 572,503 599,503 690,503 716,503 784,503 809,503 1078,503 1102,502 1170,502"/>
                 <TextEquiv>
-                    <Unicode>Dazu tritt der Wert van Erweiterungs⸗ und</Unicode>
+                    <Unicode>Dazu tritt der Wert von Erweiterungs⸗ und</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r2l8" custom="readingOrder {index:7;}">
@@ -225,7 +225,7 @@ Transkribus</Creator>
                 <Coords points="210,1360 330,1359 593,1357 932,1356 932,1356 1172,1356 1172,1389 943,1396 853,1397 545,1398 330,1398 210,1391 210,1360"/>
                 <Baseline points="210,1391 266,1391 278,1391 545,1389 552,1389 667,1389 674,1389 853,1388 861,1388 943,1388 952,1388 1172,1389"/>
                 <TextEquiv>
-                    <Unicode>der Geſamtzugang bei der Abteilunglauf 4860 442 ℳℳ.</Unicode>
+                    <Unicode>der Geſamtzugang bei der Abteilung I auf 4860 442 ℳℳ.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r2l28" custom="readingOrder {index:27;}">
@@ -351,7 +351,7 @@ Transkribus</Creator>
                 <Coords points="297,2158 314,2150 314,2150 779,2150 1139,2154 1172,2163 1172,2187 1037,2195 779,2202 314,2202 297,2192 297,2158"/>
                 <Baseline points="297,2191 358,2191 379,2191 441,2190 457,2190 614,2189 635,2189 687,2188 702,2188 779,2187 795,2186 822,2188 847,2188 930,2188 948,2187 1172,2187"/>
                 <TextEquiv>
-                    <Unicode>Bei der AbteilungIIAusſtehende</Unicode>
+                    <Unicode>Bei der Abteilung II Ausſtehende</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r2l46" custom="readingOrder {index:45;}">
@@ -567,7 +567,7 @@ Transkribus</Creator>
                 <Coords points="1289,379 1320,379 2064,380 2134,390 2161,395 2161,407 2134,414 2064,422 1699,423 1680,423 1289,413 1289,379"/>
                 <Baseline points="1289,413 1378,413 1422,413 1699,413 1742,412 1823,411 1866,412 1909,412 1953,413 2156,415"/>
                 <TextEquiv>
-                    <Unicode>Die Abteilung 1ⅠI — Kaſſen⸗</Unicode>
+                    <Unicode>Die Abteilung IⅠI — Kaſſen⸗</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r3l6" custom="readingOrder {index:5;}">
@@ -644,7 +644,7 @@ Transkribus</Creator>
                 <Coords points="1292,868 1313,862 1313,862 1781,862 2140,868 2159,877 2159,901 2037,908 1781,913 1313,913 1292,902 1292,868"/>
                 <Baseline points="1292,901 1355,901 1373,901 1423,901 1453,901 1605,900 1632,900 1679,899 1700,899 1781,899 1798,899 1820,899 1849,900 2003,900 2019,900 2093,900 2122,901 2159,901"/>
                 <TextEquiv>
-                    <Unicode>Bei der AbteilungIV—Ausſtehende</Unicode>
+                    <Unicode>Bei der Abteilung IV—Ausſtehende</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r3l17" custom="readingOrder {index:16;}">
