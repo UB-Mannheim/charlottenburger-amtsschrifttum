@@ -103,14 +103,14 @@
                 <Coords points="354,604 403,602 537,600 1170,599 1170,599 1220,599 1220,633 810,643 416,645 403,645 354,633 354,604"/>
                 <Baseline points="354,633 364,633 403,635 457,634 486,634 512,634 537,633 566,633 593,633 644,633 670,633 768,633 799,633 856,633 882,633 909,632 950,632 964,632 992,632 1034,632 1058,633 1145,633 1170,633 1220,633"/>
                 <TextEquiv>
-                    <Unicode>Ⅰ ſeit 1. 4. 98. 3000, ſeit 1. 4 99 3600 ℳ.</Unicode>
+                    <Unicode>I ſeit 1. 4. 98. 3000, ſeit 1. 4 99 3600 ℳ.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r5l3" custom="readingOrder {index:2;}">
                 <Coords points="354,657 788,653 788,653 839,653 839,688 437,695 423,695 354,687 354,657"/>
                 <Baseline points="354,687 380,687 423,687 437,687 488,687 514,687 539,687 570,687 596,687 638,687 673,686 761,686 788,687 839,688"/>
                 <TextEquiv>
-                    <Unicode>ⅠⅠ „ 1. 4. 98 2000 ℳ.</Unicode>
+                    <Unicode>II „ 1. 4. 98 2000 ℳ.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r5l4" custom="readingOrder {index:3;}">
@@ -122,8 +122,8 @@
             </TextLine>
             <TextEquiv>
                 <Unicode>Bisher gegen Diäten beſchäftigt:
-Ⅰ ſeit 1. 4. 98. 3000, ſeit 1. 4 99 3600 ℳ.
-ⅠⅠ „ 1. 4. 98 2000 ℳ.
+I ſeit 1. 4. 98. 3000, ſeit 1. 4 99 3600 ℳ.
+II „ 1. 4. 98 2000 ℳ.
 ſollen vom 1. 4. 1900 ab angeſtellt werden.</Unicode>
             </TextEquiv>
         </TextRegion>
@@ -133,7 +133,7 @@
                 <Coords points="1383,545 1498,543 2156,542 2254,544 2254,580 1928,586 1790,587 1764,587 1558,586 1383,576 1383,545"/>
                 <Baseline points="1383,576 1406,576 1431,577 1654,577 1723,577 1978,576 2013,576 2101,576 2156,577 2251,577"/>
                 <TextEquiv>
-                    <Unicode>Ⅰ. Bibliothekar. Anfangsgehalt 3600 ℳ. —</Unicode>
+                    <Unicode>I. Bibliothekar. Anfangsgehalt 3600 ℳ. –</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r6l2" custom="readingOrder {index:1;}">
@@ -168,7 +168,7 @@
                 <Coords points="1381,795 1397,794 1445,793 1627,792 1627,792 2048,792 2204,793 2227,794 2249,796 2249,826 2227,835 2210,836 1669,836 1463,835 1381,824 1381,795"/>
                 <Baseline points="1381,816 1419,826 1445,826 1601,827 1627,827 1884,827 1897,826 1985,826 1997,826 2048,827 2078,827 2101,826 2128,826 2249,826"/>
                 <TextEquiv>
-                    <Unicode>ⅠⅠ. Aſſiſtent. Anfangsgehalt 2400 ℳ. — Höchſt⸗</Unicode>
+                    <Unicode>II. Aſſiſtent. Anfangsgehalt 2400 ℳ. – Höchſt⸗</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r6l7" custom="readingOrder {index:6;}">
@@ -200,12 +200,12 @@
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
-                <Unicode>Ⅰ. Bibliothekar. Anfangsgehalt 3600 ℳ. —
+                <Unicode>I. Bibliothekar. Anfangsgehalt 3600 ℳ. –
 Höchſtgehalt 5400 ℳ. mit Steigungen nach folgender
 Skala:
 3600 3900 4200 4500 4800 5100 5400 ℳ.
 nach 3 6 9 12 15 18 Jahren.
-ⅠⅠ. Aſſiſtent. Anfangsgehalt 2400 ℳ. — Höchſt⸗
+II. Aſſiſtent. Anfangsgehalt 2400 ℳ. – Höchſt⸗
 gehalt 4500 ℳ mit Steigungen nach folgender
 Skala:
 2400 2700 3000 3300, 3600, 3900, 4200, 4500 ℳ.
@@ -231,11 +231,11 @@ nach 3 6 9 12 15 18 21 Jahren.</Unicode>
                 <Coords points="1081,1190 1124,1188 1124,1188 1465,1188 1485,1196 1485,1222 1465,1226 1214,1226 1124,1224 1081,1222 1081,1190"/>
                 <Baseline points="1081,1222 1099,1222 1124,1223 1191,1224 1214,1224 1485,1222"/>
                 <TextEquiv>
-                    <Unicode>Ⅰ. Der Branddirektor.</Unicode>
+                    <Unicode>I. Der Branddirektor.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
-                <Unicode>Ⅰ. Der Branddirektor.</Unicode>
+                <Unicode>I. Der Branddirektor.</Unicode>
             </TextEquiv>
         </TextRegion>
         <TextRegion type="paragraph" id="r9" custom="readingOrder {index:8;} structure {type:paragraph;}">
@@ -244,7 +244,7 @@ nach 3 6 9 12 15 18 21 Jahren.</Unicode>
                 <Coords points="398,1253 957,1251 957,1251 1263,1251 1263,1285 1083,1294 615,1295 453,1295 398,1287 398,1253"/>
                 <Baseline points="398,1287 654,1285 666,1285 755,1285 767,1285 817,1285 832,1285 873,1285 887,1285 1102,1284 1113,1284 1201,1284 1214,1284 1263,1285"/>
                 <TextEquiv>
-                    <Unicode>Anfangsgehalt 4000 ℳ. — Höchſtgehalt 5700 ℳ.</Unicode>
+                    <Unicode>Anfangsgehalt 4000 ℳ. – Höchſtgehalt 5700 ℳ.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r9l2" custom="readingOrder {index:1;}">
@@ -297,7 +297,7 @@ nach 3 6 9 12 15 18 21 Jahren.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
-                <Unicode>Anfangsgehalt 4000 ℳ. — Höchſtgehalt 5700 ℳ.
+                <Unicode>Anfangsgehalt 4000 ℳ. – Höchſtgehalt 5700 ℳ.
 mit Steigungen nach folgender Skala:
 4000 4300 4600 4800 5100 5400 und 5700 ℳ.
 nach 2 4 6 9 12 15 Jahren.
@@ -313,7 +313,7 @@ Gasbeleuchtung im penſionsfähigen Werthe von
                 <Coords points="1384,1250 1754,1249 1754,1249 2252,1249 2252,1283 2052,1291 1545,1292 1496,1292 1439,1291 1384,1284 1384,1250"/>
                 <Baseline points="1384,1284 1640,1282 1653,1282 1742,1282 1754,1282 1805,1282 1820,1282 1861,1281 1874,1283 2090,1282 2103,1282 2191,1282 2201,1282 2252,1283"/>
                 <TextEquiv>
-                    <Unicode>Anfangsgehalt 4800 ℳ. — Höchſtgehalt 6300 ℳ.</Unicode>
+                    <Unicode>Anfangsgehalt 4800 ℳ. – Höchſtgehalt 6300 ℳ.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r10l2" custom="readingOrder {index:1;}">
@@ -359,7 +359,7 @@ Gasbeleuchtung im penſionsfähigen Werthe von
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
-                <Unicode>Anfangsgehalt 4800 ℳ. — Höchſtgehalt 6300 ℳ.
+                <Unicode>Anfangsgehalt 4800 ℳ. – Höchſtgehalt 6300 ℳ.
 mit Steigungen nach folgender Skala:
 4800 5100 5400 5700 6000 6300 ℳ.
 nach 3 6 9 12 15 Jahren.
@@ -374,11 +374,11 @@ dem Dienſtwohnung im Werthe von 800 ℳ. und
                 <Coords points="1078,1699 1134,1696 1134,1696 1458,1696 1477,1705 1477,1731 1458,1734 1310,1734 1219,1733 1078,1731 1078,1699"/>
                 <Baseline points="1078,1731 1109,1731 1134,1731 1196,1732 1219,1732 1477,1730"/>
                 <TextEquiv>
-                    <Unicode>ⅠⅠ. Die Brandmeiſter.</Unicode>
+                    <Unicode>II. Die Brandmeiſter.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
-                <Unicode>ⅠⅠ. Die Brandmeiſter.</Unicode>
+                <Unicode>II. Die Brandmeiſter.</Unicode>
             </TextEquiv>
         </TextRegion>
         <TextRegion type="paragraph" id="r12" custom="readingOrder {index:11;} structure {type:paragraph;}">
@@ -387,7 +387,7 @@ dem Dienſtwohnung im Werthe von 800 ℳ. und
                 <Coords points="398,1763 905,1761 905,1761 1264,1761 1264,1794 1051,1803 979,1804 568,1805 452,1805 398,1797 398,1763"/>
                 <Baseline points="398,1797 654,1795 668,1795 754,1794 768,1794 817,1794 833,1794 873,1794 889,1794 1100,1793 1113,1793 1202,1793 1215,1793 1264,1794"/>
                 <TextEquiv>
-                    <Unicode>Anfangsgehalt 2700 ℳ. — Höchſtgehalt 4500 ℳ.</Unicode>
+                    <Unicode>Anfangsgehalt 2700 ℳ. – Höchſtgehalt 4500 ℳ.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r12l2" custom="readingOrder {index:1;}">
@@ -440,7 +440,7 @@ dem Dienſtwohnung im Werthe von 800 ℳ. und
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
-                <Unicode>Anfangsgehalt 2700 ℳ. — Höchſtgehalt 4500 ℳ.
+                <Unicode>Anfangsgehalt 2700 ℳ. – Höchſtgehalt 4500 ℳ.
 mit Steigungen nach folgender Skala:
 2700 3000 3300 3600 3900 4200 4500 ℳ.
 nach 3 6 9 12 15 18 Jahren.
@@ -456,7 +456,7 @@ Kleidergeld.</Unicode>
                 <Coords points="1379,1759 1766,1758 2073,1758 2179,1760 2259,1754 2255,1795 2181,1797 2038,1800 1415,1803 1381,1804 1379,1759"/>
                 <Baseline points="1379,1793 1640,1792 1652,1792 1766,1792 1802,1792 1818,1792 1858,1792 1873,1792 2088,1792 2100,1791 2250,1789"/>
                 <TextEquiv>
-                    <Unicode>Anfangsgehalt 2800 ℳ. — Höchſtgehalt 4600 ℳ.</Unicode>
+                    <Unicode>Anfangsgehalt 2800 ℳ. – Höchſtgehalt 4600 ℳ.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r13l2" custom="readingOrder {index:1;}">
@@ -502,7 +502,7 @@ Kleidergeld.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
-                <Unicode>Anfangsgehalt 2800 ℳ. — Höchſtgehalt 4600 ℳ.
+                <Unicode>Anfangsgehalt 2800 ℳ. – Höchſtgehalt 4600 ℳ.
 mit Steigungen nach folgender Skala:
 2800 3100 3400 3700 4000 4300 4600 ℳ.
 nach 3 6 9 12 15 18 Jahren.
@@ -517,11 +517,11 @@ Kleidergeld.</Unicode>
                 <Coords points="875,2189 944,2187 1404,2186 1404,2186 1646,2186 1689,2194 1699,2211 1699,2221 1541,2230 1031,2230 875,2221 875,2189"/>
                 <Baseline points="875,2221 919,2222 944,2222 1005,2222 1031,2222 1209,2221 1234,2221 1301,2221 1325,2221 1381,2221 1404,2221 1699,2220"/>
                 <TextEquiv>
-                    <Unicode>ⅠⅠⅠ. Die Feldwebel und der Leitungsreviſor.</Unicode>
+                    <Unicode>III. Die Feldwebel und der Leitungsreviſor.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
-                <Unicode>ⅠⅠⅠ. Die Feldwebel und der Leitungsreviſor.</Unicode>
+                <Unicode>III. Die Feldwebel und der Leitungsreviſor.</Unicode>
             </TextEquiv>
         </TextRegion>
         <TextRegion type="paragraph" id="r15" custom="readingOrder {index:14;} structure {type:paragraph;}">
@@ -530,7 +530,7 @@ Kleidergeld.</Unicode>
                 <Coords points="395,2253 768,2251 1223,2250 1265,2250 1265,2284 1051,2293 635,2296 396,2295 395,2253"/>
                 <Baseline points="395,2286 655,2285 671,2285 755,2284 768,2284 817,2285 831,2285 871,2285 886,2285 1102,2284 1113,2284 1222,2284 1223,2284 1265,2283"/>
                 <TextEquiv>
-                    <Unicode>Anfangsgehalt 1700 ℳ. — Höchſtgehalt 2800 ℳ.</Unicode>
+                    <Unicode>Anfangsgehalt 1700 ℳ. – Höchſtgehalt 2800 ℳ.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r15l2" custom="readingOrder {index:1;}">
@@ -604,7 +604,7 @@ Kleidergeld.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
-                <Unicode>Anfangsgehalt 1700 ℳ. — Höchſtgehalt 2800 ℳ.
+                <Unicode>Anfangsgehalt 1700 ℳ. – Höchſtgehalt 2800 ℳ.
 mit Steigungen nach folgender Skala:
 1700 1900 2050 2200 2350 ℳ.
 nach 3 6 9 12 Jahren,
@@ -623,7 +623,7 @@ vom 1. 4. 1900 ab neu geſchaffen.)</Unicode>
                 <Coords points="1384,2249 1782,2247 1804,2247 2075,2248 2169,2249 2257,2245 2255,2288 2040,2291 1956,2292 1547,2293 1483,2293 1436,2292 1384,2283 1384,2249"/>
                 <Baseline points="1384,2283 1641,2282 1657,2282 1741,2282 1782,2283 1804,2282 1874,2282 2090,2281 2103,2281 2252,2282"/>
                 <TextEquiv>
-                    <Unicode>Anfangsgehalt 1800 ℳ. — Höchſtgehalt 3200 ℳ.</Unicode>
+                    <Unicode>Anfangsgehalt 1800 ℳ. – Höchſtgehalt 3200 ℳ.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r16l2" custom="readingOrder {index:1;}">
@@ -683,7 +683,7 @@ vom 1. 4. 1900 ab neu geſchaffen.)</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
-                <Unicode>Anfangsgehalt 1800 ℳ. — Höchſtgehalt 3200 ℳ.
+                <Unicode>Anfangsgehalt 1800 ℳ. – Höchſtgehalt 3200 ℳ.
 mit Steigungen nach folgender Skala:
 1800 2000 2200 2400 2600 ℳ.
 nach 3 6 9 12 Jahren,
@@ -713,14 +713,14 @@ erhalten außerdem Dienſtwohnung im Werthe von
                 <Coords points="363,2933 417,2931 1073,2929 1073,2929 1217,2929 1217,2974 632,2976 610,2976 363,2965 363,2933"/>
                 <Baseline points="363,2965 391,2965 417,2966 483,2968 507,2967 771,2966 794,2966 862,2966 886,2966 942,2966 963,2967 1217,2965"/>
                 <TextEquiv>
-                    <Unicode>Ⅰ. Der Stadtgeometer und der Baningenieur</Unicode>
+                    <Unicode>I. Der Stadtgeometer und der Baningenieur</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r18l2" custom="readingOrder {index:1;}">
                 <Coords points="311,3005 343,2996 527,2994 788,2993 1216,2992 1216,2992 1234,2992 1268,2996 1268,3026 1105,3035 738,3037 721,3037 454,3036 311,3028 311,3005"/>
                 <Baseline points="311,3028 370,3026 397,3026 461,3027 499,3027 595,3028 632,3028 754,3027 788,3027 846,3027 880,3027 999,3026 1033,3026 1180,3026 1216,3026 1268,3026"/>
                 <TextEquiv>
-                    <Unicode>wie B Ⅰ; jedoch beträgt das Gehalt während der</Unicode>
+                    <Unicode>wie B I; jedoch beträgt das Gehalt während der</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r18l3" custom="readingOrder {index:2;}">
@@ -741,7 +741,7 @@ erhalten außerdem Dienſtwohnung im Werthe von
                 <Coords points="397,3138 671,3134 689,3134 1269,3131 1269,3187 956,3180 542,3185 397,3181 397,3138"/>
                 <Baseline points="397,3170 654,3170 671,3170 759,3169 787,3168 815,3170 834,3170 873,3170 893,3170 1107,3169 1123,3169 1240,3170 1266,3170 1269,3170"/>
                 <TextEquiv>
-                    <Unicode>Anfangsgehalt 4000 ℳ. — Höchſtgehalt 5700 ℳ.</Unicode>
+                    <Unicode>Anfangsgehalt 4000 ℳ. – Höchſtgehalt 5700 ℳ.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r18l6" custom="readingOrder {index:5;}">
@@ -766,11 +766,11 @@ erhalten außerdem Dienſtwohnung im Werthe von
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
-                <Unicode>Ⅰ. Der Stadtgeometer und der Baningenieur
-wie B Ⅰ; jedoch beträgt das Gehalt während der
+                <Unicode>I. Der Stadtgeometer und der Baningenieur
+wie B I; jedoch beträgt das Gehalt während der
 Probezeit nur 3600 ℳ,
 mithin
-Anfangsgehalt 4000 ℳ. — Höchſtgehalt 5700 ℳ.
+Anfangsgehalt 4000 ℳ. – Höchſtgehalt 5700 ℳ.
 mit Steigungen nach folgender Skala:
 4000 4300 4600 4800 5100 5400 5700 ℳ.
 nach 2 4 6 9 12 15 Jahren.</Unicode>
@@ -782,7 +782,7 @@ nach 2 4 6 9 12 15 Jahren.</Unicode>
                 <Coords points="1407,2931 1462,2929 1862,2923 1862,2923 1984,2923 2132,2930 2150,2937 2150,2963 1984,2975 1862,2975 1654,2971 1462,2966 1407,2963 1407,2931"/>
                 <Baseline points="1407,2963 1436,2964 1462,2965 1528,2966 1554,2965 1801,2963 1810,2963 1984,2963 2005,2963 2071,2963 2095,2963 2150,2963"/>
                 <TextEquiv>
-                    <Unicode>Ⅰ. Der Vermeſſungs⸗Inſpektor und der</Unicode>
+                    <Unicode>I. Der Vermeſſungs⸗Inſpektor und der</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r19l2" custom="readingOrder {index:1;}">
@@ -796,7 +796,7 @@ nach 2 4 6 9 12 15 Jahren.</Unicode>
                 <Coords points="1296,3030 1326,3019 1326,3019 1338,3019 1488,3020 1505,3030 1505,3061 1404,3062 1379,3062 1296,3053 1296,3030"/>
                 <Baseline points="1296,3053 1354,3053 1379,3053 1414,3052 1441,3051 1505,3049"/>
                 <TextEquiv>
-                    <Unicode>wie zu B Ⅰ;</Unicode>
+                    <Unicode>wie zu B I;</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r19l4" custom="readingOrder {index:3;}">
@@ -810,7 +810,7 @@ nach 2 4 6 9 12 15 Jahren.</Unicode>
                 <Coords points="1373,3125 1368,3119 2229,3118 2258,3118 2258,3174 2229,3174 1499,3170 1442,3168 1387,3161 1372,3161"/>
                 <Baseline points="1380,3159 1659,3160 1805,3159 1824,3159 1864,3159 1883,3159 2094,3157 2111,3157 2229,3156 2256,3158 2258,3158"/>
                 <TextEquiv>
-                    <Unicode>Anfangsgehalt 4500 ℳ. — Höchſtgehalt 6300 ℳ.</Unicode>
+                    <Unicode>Anfangsgehalt 4500 ℳ. – Höchſtgehalt 6300 ℳ.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r19l6" custom="readingOrder {index:5;}">
@@ -849,11 +849,11 @@ nach 2 4 6 9 12 15 Jahren.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
-                <Unicode>Ⅰ. Der Vermeſſungs⸗Inſpektor und der
+                <Unicode>I. Der Vermeſſungs⸗Inſpektor und der
 Stadtbauingenieur
-wie zu B Ⅰ;
+wie zu B I;
 mithin
-Anfangsgehalt 4500 ℳ. — Höchſtgehalt 6300 ℳ.
+Anfangsgehalt 4500 ℳ. – Höchſtgehalt 6300 ℳ.
 mit Steigungen nach folgender Skala:
 4500 4800 5100 5400 5700 6000 6300 ℳ.
 nach 3 6 9 12 15 18 Jahren.

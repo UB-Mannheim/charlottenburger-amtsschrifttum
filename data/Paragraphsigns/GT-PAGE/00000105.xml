@@ -3,20 +3,20 @@
     <Metadata>
         <Creator>Transkribus</Creator>
         <Created>2022-05-06T13:44:12.211+02:00</Created>
-        <LastChange>2023-07-04T14:43:03.448+02:00</LastChange>
+        <LastChange>2024-02-19T13:41:25.257+01:00</LastChange>
         <Comments>
                 Measurement unit: pixel
                 PrimaryLanguage: 
                 Producer: Transkribus
             </Comments>
-        <TranskribusMetadata docId="988838" pageId="38236912" pageNr="12" tsid="128718698" status="GT" userId="48446" imgUrl="https://files.transkribus.eu/Get?id=RDJYQTITYJREJGOQPBHJLOKG&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=ELZXEILGKCNWWPMAQEFYOKTO" imageId="30799991"/>
+        <TranskribusMetadata docId="988838" pageId="38236912" pageNr="12" tsid="149048563" status="GT" userId="99551" imgUrl="https://files.transkribus.eu/Get?id=RDJYQTITYJREJGOQPBHJLOKG&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=GNKYSBUVMJSEMOPXYBSBYLUZ" imageId="30799991"/>
     </Metadata>
     <Page imageFilename="00000105.png" imageWidth="2278" imageHeight="3614">
         <PrintSpace>
             <Coords points="0,1 2278,1 2278,3614 0,3614"/>
         </PrintSpace>
         <ReadingOrder>
-            <OrderedGroup id="ro_1688474641742" caption="Regions reading order">
+            <OrderedGroup id="ro_1708346586200" caption="Regions reading order">
                 <RegionRefIndexed index="0" regionRef="r1"/>
                 <RegionRefIndexed index="1" regionRef="r2"/>
                 <RegionRefIndexed index="2" regionRef="r3"/>
@@ -81,15 +81,15 @@
                 </TextEquiv>
             </TextLine>
             <TextLine id="r2l7" custom="readingOrder {index:6;}">
-                <Coords points="143,584 647,577 1020,575 1020,575 1039,575 1075,584 1090,588 1090,600 1075,606 1058,608 975,615 697,620 464,623 212,624 198,624 143,616"/>
-                <Baseline points="143,616 177,616 198,616 212,616 235,616 248,615 269,615 464,614 486,613 605,613 623,612 864,609 884,609 975,608 995,608 1090,597"/>
+                <Coords points="143,584 647,577 1020,575 1039,575 1075,579 1092,583 1092,600 1089,615 1057,617 975,615 697,620 464,623 212,624 198,624 143,616"/>
+                <Baseline points="143,616 177,616 198,616 212,616 235,616 248,615 269,615 464,614 486,613 605,613 623,612 864,609 884,609 975,608 995,608 1091,605"/>
                 <TextEquiv>
                     <Unicode>in § 1 bezeichnete Gebiet eingemeindet wird, über⸗</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r2l8" custom="readingOrder {index:7;}">
                 <Coords points="144,630 478,624 899,618 899,618 1069,618 1090,628 1090,660 1021,661 216,669 197,669 144,660"/>
-                <Baseline points="144,652 269,660 285,659 383,659 405,658 460,658 478,658 648,655 672,655 727,654 753,654 869,653 899,653 1090,651"/>
+                <Baseline points="146,659 269,660 285,659 383,659 405,658 460,658 478,658 648,655 672,655 727,654 753,654 869,653 899,653 1090,651"/>
                 <TextEquiv>
                     <Unicode>tragen, wenn der Erwerber der Rechte gleichzeitig</Unicode>
                 </TextEquiv>
@@ -174,14 +174,14 @@ Verpflichtungen übernimmt.</Unicode>
             </TextLine>
             <TextLine id="r3l8" custom="readingOrder {index:7;}">
                 <Coords points="1121,618 1380,614 1798,611 1798,611 1932,611 2071,613 2071,641 2032,651 1932,652 1453,655 1380,655 1121,650"/>
-                <Baseline points="1121,649 1236,648 1279,648 1337,647 1380,646 1499,645 1540,646 1753,644 1798,644 2071,634"/>
+                <Baseline points="1121,649 1236,648 1279,648 1337,647 1380,646 1499,645 1540,646 1753,644 1798,644 2070,640"/>
                 <TextEquiv>
                     <Unicode>Dauer des zurzeit beſtehenden Pachtvertrages</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r3l9" custom="readingOrder {index:8;}">
                 <Coords points="1120,661 1308,658 1394,657 1619,655 1969,654 1969,654 2017,654 2071,663 2071,686 2017,695 1830,697 1280,702 1203,702 1161,701 1120,694"/>
-                <Baseline points="1120,693 1280,692 1308,692 1366,691 1394,691 1575,689 1603,690 1940,688 1969,687 2071,680"/>
+                <Baseline points="1120,693 1280,692 1308,692 1366,691 1394,691 1575,689 1603,690 1940,688 1969,687 2071,685"/>
                 <TextEquiv>
                     <Unicode>bezüglich des ſtädtiſchen Elektrizitätswerkes Char⸗</Unicode>
                 </TextEquiv>
@@ -210,7 +210,7 @@ lottenburg ausdrücklich bei.</Unicode>
             <Coords points="680,962 1519,962 1519,1206 680,1206"/>
             <TextLine id="r4l1" custom="readingOrder {index:0;}">
                 <Coords points="687,975 1293,970 1481,969 1481,969 1500,969 1512,993 1512,999 1500,1001 1391,1010 1126,1014 745,1015 728,1015 687,1009"/>
-                <Baseline points="687,1009 1126,1004 1151,1004 1212,1004 1238,1003 1267,1003 1293,1003 1391,1002 1418,1001 1512,997"/>
+                <Baseline points="687,1009 1126,1004 1151,1004 1212,1004 1238,1003 1267,1003 1293,1003 1391,1002 1418,1001 1512,999"/>
                 <TextEquiv>
                     <Unicode>Charlottenburg, den 4. März 1910.</Unicode>
                 </TextEquiv>

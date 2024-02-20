@@ -3,20 +3,20 @@
     <Metadata>
         <Creator>Transkribus</Creator>
         <Created>2022-05-06T13:44:11.093+02:00</Created>
-        <LastChange>2023-07-04T14:42:57.376+02:00</LastChange>
+        <LastChange>2024-02-19T11:13:07.898+01:00</LastChange>
         <Comments>
                 Measurement unit: pixel
                 PrimaryLanguage: 
                 Producer: Transkribus
             </Comments>
-        <TranskribusMetadata docId="988838" pageId="38236878" pageNr="3" tsid="128718664" status="GT" userId="48446" imgUrl="https://files.transkribus.eu/Get?id=PWRLUBVKAYMOJJMCRVKCZTOL&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=LPVJNBYPDMGNHVWTSZVHKBWQ" imageId="30799957"/>
+        <TranskribusMetadata docId="988838" pageId="38236878" pageNr="3" tsid="149038317" status="GT" userId="99551" imgUrl="https://files.transkribus.eu/Get?id=PWRLUBVKAYMOJJMCRVKCZTOL&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=ZHTJLXRWXJRFBXBZACCLKVYV" imageId="30799957"/>
     </Metadata>
     <Page imageFilename="00000031.png" imageWidth="2278" imageHeight="3614">
         <PrintSpace>
             <Coords points="146,118 2278,118 2278,3614 146,3614"/>
         </PrintSpace>
         <ReadingOrder>
-            <OrderedGroup id="ro_1688474641674" caption="Regions reading order">
+            <OrderedGroup id="ro_1708346586187" caption="Regions reading order">
                 <RegionRefIndexed index="0" regionRef="r1"/>
                 <RegionRefIndexed index="1" regionRef="r2"/>
                 <RegionRefIndexed index="2" regionRef="r3"/>
@@ -39,8 +39,8 @@
         <TextRegion type="paragraph" id="r2" custom="readingOrder {index:1;} structure {type:paragraph;}">
             <Coords points="165,201 1136,201 1136,1193 165,1193"/>
             <TextLine id="r2l1" custom="readingOrder {index:0;}">
-                <Coords points="180,210 259,209 259,209 510,209 755,210 971,212 1050,215 1130,223 1130,246 971,254 945,254 259,251 180,243"/>
-                <Baseline points="180,243 242,243 259,243 434,243 479,243 553,244 581,244 771,244 786,244 844,245 860,245 931,245 945,245 1050,246 1065,246 1130,240"/>
+                <Coords points="180,210 259,209 510,209 755,210 971,212 1050,215 1130,223 1131,252 971,254 945,254 259,251 180,243"/>
+                <Baseline points="180,243 242,243 259,243 434,243 479,243 553,244 581,244 771,244 786,244 844,245 860,245 931,245 945,245 1050,246 1065,246 1129,245"/>
                 <TextEquiv>
                     <Unicode>407 erſichtlich. Das Grundſtück hat eine Front von</Unicode>
                 </TextEquiv>
@@ -49,12 +49,12 @@
                 <Coords points="179,256 267,250 267,250 357,250 1065,258 1128,267 1128,288 1093,299 357,303 267,303 179,287"/>
                 <Baseline points="179,287 260,287 267,287 308,288 320,288 374,288 385,288 650,288 659,288 726,288 740,288 808,289 828,289 917,290 931,290 995,290 1014,290 1065,289 1080,289 1128,288"/>
                 <TextEquiv>
-                    <Unicode>20m an der Bismarckſtraße und eine Größe von 985 qm</Unicode>
+                    <Unicode>20 m an der Bismarckſtraße und eine Größe von 985 qm</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r2l3" custom="readingOrder {index:2;}">
                 <Coords points="179,307 200,299 275,298 275,298 316,298 747,299 934,300 1029,301 1093,302 1129,304 1129,333 1113,342 833,342 319,339 179,331"/>
-                <Baseline points="179,331 256,331 275,330 372,331 395,332 660,332 705,332 775,333 793,333 973,334 999,334 1129,325"/>
+                <Baseline points="179,331 256,331 275,330 372,331 395,332 660,332 705,332 775,333 793,333 973,334 999,334 1126,333"/>
                 <TextEquiv>
                     <Unicode>oder 69,44 Quadratruten. Der Kaufpreis beträgt</Unicode>
                 </TextEquiv>
@@ -75,7 +75,7 @@
             </TextLine>
             <TextLine id="r2l6" custom="readingOrder {index:5;}">
                 <Coords points="181,430 457,430 913,432 1105,434 1127,443 1127,467 1105,475 1042,475 203,473 181,465"/>
-                <Baseline points="181,464 457,465 493,465 561,465 599,465 655,465 695,465 913,466 953,467 1127,461"/>
+                <Baseline points="181,464 457,465 493,465 561,465 599,465 655,465 695,465 913,466 953,467 1126,464"/>
                 <TextEquiv>
                     <Unicode>Stadtgemeinde und der Berliniſchen Bodenge⸗</Unicode>
                 </TextEquiv>
@@ -96,7 +96,7 @@
             </TextLine>
             <TextLine id="r2l9" custom="readingOrder {index:8;}">
                 <Coords points="177,564 890,564 1084,567 1125,576 1125,598 948,606 781,606 277,605 177,596"/>
-                <Baseline points="177,596 234,596 251,596 443,596 461,596 513,596 530,596 586,596 604,596 948,597 966,597 1033,598 1053,598 1125,592"/>
+                <Baseline points="177,596 234,596 251,596 443,596 461,596 513,596 530,596 586,596 604,596 948,597 966,597 1033,598 1053,598 1124,597"/>
                 <TextEquiv>
                     <Unicode>des Magiſtrats bei der Faſſadengeſtaltung und eine</Unicode>
                 </TextEquiv>
@@ -109,8 +109,8 @@
                 </TextEquiv>
             </TextLine>
             <TextLine id="r2l11" custom="readingOrder {index:10;}">
-                <Coords points="178,652 234,651 343,650 343,650 844,650 1022,653 1111,663 1124,667 1124,679 1111,686 844,691 343,691 178,682"/>
-                <Baseline points="178,682 216,683 234,683 290,684 311,684 440,683 458,683 632,683 651,683 858,685 879,685 1124,676"/>
+                <Coords points="178,652 234,651 343,650 844,650 1022,653 1113,657 1129,663 1131,690 1111,686 844,691 343,691 178,682"/>
+                <Baseline points="178,682 216,683 234,683 290,684 311,684 440,683 458,683 632,683 651,683 858,685 879,685 1126,683"/>
                 <TextEquiv>
                     <Unicode>11 der Offerte beſonders getroffenen Vereinbarun⸗</Unicode>
                 </TextEquiv>
@@ -187,7 +187,7 @@
             </TextLine>
             <TextEquiv>
                 <Unicode>407 erſichtlich. Das Grundſtück hat eine Front von
-20m an der Bismarckſtraße und eine Größe von 985 qm
+20 m an der Bismarckſtraße und eine Größe von 985 qm
 oder 69,44 Quadratruten. Der Kaufpreis beträgt
 141 000 ℳ., d. h. rund 2030 ℳ für eine Quadrat⸗
 rute. Das Angebot entſpricht dem zwiſchen der
@@ -289,22 +289,22 @@ IX E 2039/09.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r3l12" custom="readingOrder {index:11;}">
-                <Coords points="165,1800 188,1792 197,1790 197,1790 232,1790 439,1791 938,1796 1079,1798 1115,1808 1115,1830 938,1837 908,1837 284,1833 197,1830 165,1823"/>
-                <Baseline points="165,1823 248,1823 266,1824 439,1825 459,1825 607,1827 630,1827 710,1828 730,1828 825,1829 844,1829 938,1829 958,1829 1022,1830 1041,1830 1115,1824"/>
+                <Coords points="165,1800 188,1792 197,1790 232,1790 439,1791 938,1796 1079,1798 1115,1808 1116,1837 938,1837 908,1837 284,1833 197,1830 165,1823"/>
+                <Baseline points="165,1823 248,1823 266,1824 439,1825 459,1825 607,1827 630,1827 710,1828 730,1828 825,1829 844,1829 938,1829 958,1829 1022,1830 1041,1830 1114,1830"/>
                 <TextEquiv>
                     <Unicode>nicht perſönlich bekannt, wird indes durch den dem</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r3l13" custom="readingOrder {index:12;}">
-                <Coords points="164,1843 211,1836 312,1835 312,1835 444,1835 775,1839 855,1840 1070,1843 1115,1852 1115,1874 1070,1883 1009,1883 263,1876 164,1867"/>
-                <Baseline points="164,1867 444,1869 470,1869 576,1871 601,1871 775,1872 801,1873 984,1874 1009,1874 1115,1868"/>
+                <Coords points="164,1843 211,1836 312,1835 444,1835 775,1839 855,1840 1070,1843 1115,1852 1120,1884 1070,1883 1009,1883 263,1876 164,1867"/>
+                <Baseline points="164,1867 444,1869 470,1869 576,1871 601,1871 775,1872 801,1873 984,1874 1009,1874 1115,1873"/>
                 <TextEquiv>
                     <Unicode>unterzeichneten Notar perſönlich bekannten Herrn</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r3l14" custom="readingOrder {index:13;}">
-                <Coords points="164,1879 266,1879 957,1885 1060,1886 1100,1896 1114,1901 1114,1912 1100,1918 1060,1926 1042,1926 805,1925 560,1923 242,1920 164,1913"/>
-                <Baseline points="164,1913 448,1914 468,1914 580,1915 599,1915 785,1917 805,1917 844,1917 865,1917 992,1918 1013,1918 1114,1909"/>
+                <Coords points="164,1879 266,1879 957,1885 1060,1886 1100,1888 1116,1893 1118,1915 1117,1926 1060,1926 1042,1926 805,1925 560,1923 242,1920 164,1913"/>
+                <Baseline points="164,1913 448,1914 468,1914 580,1915 599,1915 785,1917 805,1917 844,1917 865,1917 992,1918 1013,1918 1114,1916"/>
                 <TextEquiv>
                     <Unicode>Kommerzienrat Georg Haberland zu Berlin, Char⸗</Unicode>
                 </TextEquiv>
@@ -332,7 +332,7 @@ IX E 2039/09.</Unicode>
             </TextLine>
             <TextLine id="r3l18" custom="readingOrder {index:17;}">
                 <Coords points="252,2053 406,2053 931,2058 1002,2059 1046,2069 1046,2092 931,2098 799,2098 640,2097 247,2093 247,2057"/>
-                <Baseline points="247,2091 459,2086 485,2087 674,2089 696,2089 763,2089 787,2090 1046,2092"/>
+                <Baseline points="250,2084 459,2086 485,2087 674,2089 696,2089 763,2089 787,2090 1046,2092"/>
                 <TextEquiv>
                     <Unicode>Vorgeleſen, genehmigt und unterſchrieben</Unicode>
                 </TextEquiv>
@@ -345,15 +345,15 @@ IX E 2039/09.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r3l20" custom="readingOrder {index:19;}">
-                <Coords points="249,2140 325,2140 936,2146 1076,2148 1113,2158 1113,2181 1095,2182 818,2187 662,2187 267,2181 249,2172"/>
-                <Baseline points="249,2172 399,2174 423,2174 526,2175 548,2176 604,2176 625,2176 882,2180 905,2180 1012,2181 1032,2181 1113,2175"/>
+                <Coords points="249,2140 325,2140 936,2146 1076,2148 1113,2158 1117,2182 1094,2186 818,2187 662,2187 267,2181 249,2172"/>
+                <Baseline points="249,2172 399,2174 423,2174 526,2175 548,2176 604,2176 625,2176 882,2180 905,2180 1012,2181 1032,2181 1112,2179"/>
                 <TextEquiv>
                     <Unicode>Dadurch erhält der unterzeichnete Notar über</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r3l21" custom="readingOrder {index:20;}">
                 <Coords points="161,2183 278,2183 731,2186 905,2191 963,2193 963,2224 905,2232 788,2232 498,2229 249,2224 161,2215"/>
-                <Baseline points="161,2215 213,2216 249,2216 374,2218 407,2218 465,2219 498,2219 731,2222 765,2223 963,2216"/>
+                <Baseline points="161,2215 213,2216 249,2216 374,2218 407,2218 465,2219 498,2219 731,2222 765,2223 962,2222"/>
                 <TextEquiv>
                     <Unicode>die Perſon des Erſchienenen Gewißheit.</Unicode>
                 </TextEquiv>
@@ -394,8 +394,8 @@ IX E 2039/09.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r3l27" custom="readingOrder {index:26;}">
-                <Coords points="161,2497 261,2493 261,2493 279,2493 724,2496 1098,2502 1110,2517 1110,2528 1098,2534 724,2539 446,2539 371,2535 161,2523"/>
-                <Baseline points="161,2523 226,2524 261,2525 336,2527 371,2527 410,2528 446,2529 724,2530 760,2531 804,2532 839,2533 895,2533 933,2534 1110,2525"/>
+                <Coords points="161,2497 261,2493 279,2493 724,2496 1098,2502 1110,2517 1114,2539 1100,2539 724,2539 446,2539 371,2535 161,2523"/>
+                <Baseline points="161,2523 226,2524 261,2525 336,2527 371,2527 410,2528 446,2529 724,2530 760,2531 804,2532 839,2533 895,2533 933,2534 1111,2532"/>
                 <TextEquiv>
                     <Unicode>von dem zu Charlottenburg an der Bismarck⸗</Unicode>
                 </TextEquiv>
@@ -408,8 +408,8 @@ IX E 2039/09.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r3l29" custom="readingOrder {index:28;}">
-                <Coords points="159,2587 204,2578 204,2578 217,2578 579,2582 1095,2589 1110,2604 1110,2615 1095,2629 1006,2629 355,2624 204,2618 159,2610"/>
-                <Baseline points="159,2610 217,2612 248,2612 325,2614 355,2615 579,2617 612,2618 782,2618 813,2619 876,2619 907,2619 971,2621 1006,2622 1110,2612"/>
+                <Coords points="159,2587 204,2578 217,2578 579,2582 1095,2589 1111,2596 1115,2627 1095,2629 1006,2629 355,2624 204,2618 159,2610"/>
+                <Baseline points="159,2610 217,2612 248,2612 325,2614 355,2615 579,2617 612,2618 782,2618 813,2619 876,2619 907,2619 971,2621 1006,2622 1112,2621"/>
                 <TextEquiv>
                     <Unicode>auf dem überreichten Lageplan mit den Buch⸗</Unicode>
                 </TextEquiv>
@@ -423,14 +423,14 @@ IX E 2039/09.</Unicode>
             </TextLine>
             <TextLine id="r3l31" custom="readingOrder {index:30;}">
                 <Coords points="245,2667 290,2667 1028,2676 1109,2677 1109,2709 1063,2717 787,2717 381,2713 245,2701"/>
-                <Baseline points="245,2692 315,2702 342,2703 512,2705 537,2705 573,2706 598,2706 665,2706 687,2706 751,2707 777,2707 957,2709 984,2709 1028,2709 1052,2709 1109,2701"/>
+                <Baseline points="250,2700 315,2702 342,2703 512,2705 537,2705 573,2706 598,2706 665,2706 687,2706 751,2707 777,2707 957,2709 984,2709 1028,2709 1052,2709 1109,2707"/>
                 <TextEquiv>
                     <Unicode>Der Lageplan iſt von mir vollzogen. Er ſoll</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r3l32" custom="readingOrder {index:31;}">
-                <Coords points="159,2709 197,2709 1048,2720 1109,2723 1109,2754 1094,2763 941,2763 387,2760 237,2753 159,2741"/>
-                <Baseline points="159,2733 215,2746 237,2746 338,2747 360,2748 601,2751 624,2751 725,2752 748,2752 919,2753 941,2753 1109,2754"/>
+                <Coords points="159,2709 197,2709 1048,2720 1109,2723 1109,2754 1094,2763 941,2763 387,2760 237,2753 154,2750"/>
+                <Baseline points="158,2742 220,2742 249,2742 338,2747 360,2748 601,2751 624,2751 725,2752 748,2752 919,2753 941,2753 1109,2754"/>
                 <TextEquiv>
                     <Unicode>der erſten Ausfertigung dieſes Angebots beigefügt</Unicode>
                 </TextEquiv>
@@ -481,12 +481,12 @@ IX E 2039/09.</Unicode>
                 <Coords points="242,3067 274,3067 1040,3075 1081,3077 1106,3086 1106,3110 889,3115 570,3115 345,3113 242,3101"/>
                 <Baseline points="242,3101 313,3102 345,3103 527,3106 558,3107 595,3107 627,3108 685,3108 721,3107 779,3107 794,3107 914,3108 945,3109 1040,3109 1070,3109 1106,3110"/>
                 <TextEquiv>
-                    <Unicode>Der Kaufpreis iſt auf 141 000,— Mark in</Unicode>
+                    <Unicode>Der Kaufpreis iſt auf 141 000,– Mark in</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r3l40" custom="readingOrder {index:39;}">
-                <Coords points="156,3108 272,3108 1086,3116 1092,3121 1106,3135 1106,3148 1092,3162 1086,3167 1047,3167 362,3160 182,3146 156,3142"/>
-                <Baseline points="156,3142 309,3146 341,3147 874,3153 907,3153 1003,3153 1034,3154 1106,3144"/>
+                <Coords points="156,3108 272,3108 1086,3116 1096,3115 1107,3119 1111,3146 1108,3162 1086,3167 1047,3167 362,3160 182,3146 156,3142"/>
+                <Baseline points="156,3142 309,3146 341,3147 874,3153 907,3153 1003,3153 1034,3154 1107,3152"/>
                 <TextEquiv>
                     <Unicode>Worten: Hunderteinundvierzigtauſend Mark feſt⸗</Unicode>
                 </TextEquiv>
@@ -500,7 +500,7 @@ IX E 2039/09.</Unicode>
             </TextLine>
             <TextLine id="r3l42" custom="readingOrder {index:41;}">
                 <Coords points="241,3198 270,3198 1059,3208 1105,3209 1105,3242 776,3245 232,3245 232,3204"/>
-                <Baseline points="232,3243 367,3235 386,3236 474,3237 494,3238 539,3238 559,3239 609,3239 634,3239 850,3241 873,3239 911,3240 925,3240 989,3241 1007,3241 1105,3242"/>
+                <Baseline points="236,3232 367,3235 386,3236 474,3237 494,3238 539,3238 559,3239 609,3239 634,3239 850,3241 873,3239 911,3240 925,3240 989,3241 1007,3241 1105,3242"/>
                 <TextEquiv>
                     <Unicode>Käufer zahlt an die Verkäuferin 15 000 Mark</Unicode>
                 </TextEquiv>
@@ -551,7 +551,7 @@ Flächeninhalt von 69,37 Quadratruten.
 Die Verkäuferin kommt für Größe, Güte und
 Beſchaffenheit der verkauften Parzelle nicht auf.
 § 2.
-Der Kaufpreis iſt auf 141 000,— Mark in
+Der Kaufpreis iſt auf 141 000,– Mark in
 Worten: Hunderteinundvierzigtauſend Mark feſt⸗
 geſetzt und wird wie folgt belegt:
 Käufer zahlt an die Verkäuferin 15 000 Mark
@@ -631,15 +631,15 @@ binnen einer Woche.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r4l11" custom="readingOrder {index:10;}">
-                <Coords points="1211,654 1411,654 1699,655 1899,656 2086,657 2107,658 2107,691 2064,699 2031,699 1569,697 1335,695 1211,685"/>
-                <Baseline points="1211,677 1238,686 1263,686 1314,686 1335,686 1455,687 1473,687 1531,688 1551,688 1814,689 1832,690 1915,690 1933,690 2107,691"/>
+                <Coords points="1211,654 1411,654 1699,655 1899,656 2086,657 2107,658 2107,691 2064,699 2031,699 1569,697 1335,695 1207,692"/>
+                <Baseline points="1210,685 1238,686 1263,686 1314,686 1335,686 1455,687 1473,687 1531,688 1551,688 1814,689 1832,690 1915,690 1933,690 2107,691"/>
                 <TextEquiv>
                     <Unicode>1. die Zinſen des Reſtkaufgeldes nicht innerhalb</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r4l12" custom="readingOrder {index:11;}">
                 <Coords points="1263,707 1281,699 1403,698 1403,698 1468,698 2056,701 2107,705 2107,735 2056,744 1952,744 1403,740 1263,731"/>
-                <Baseline points="1263,730 1353,731 1374,731 1487,732 1506,732 1583,733 1603,733 1659,733 1677,733 1915,734 1936,735 2107,727"/>
+                <Baseline points="1263,730 1353,731 1374,731 1487,732 1506,732 1583,733 1603,733 1659,733 1677,733 1915,734 1936,735 2106,734"/>
                 <TextEquiv>
                     <Unicode>einer Woche nach der jedesmaligen Fälligkeit</Unicode>
                 </TextEquiv>
@@ -652,15 +652,15 @@ binnen einer Woche.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r4l14" custom="readingOrder {index:13;}">
-                <Coords points="1208,787 1386,787 1955,790 2033,793 2106,800 2106,823 2014,832 1932,832 1698,831 1359,829 1230,820 1208,818"/>
-                <Baseline points="1208,810 1237,819 1263,819 1313,820 1359,820 1717,822 1762,822 1839,823 1884,823 2106,817"/>
+                <Coords points="1208,787 1386,787 1955,790 2033,793 2106,800 2106,823 2014,832 1932,832 1698,831 1359,829 1227,827 1203,823"/>
+                <Baseline points="1209,817 1234,818 1263,819 1313,820 1359,820 1717,822 1762,822 1839,823 1884,823 2106,817"/>
                 <TextEquiv>
                     <Unicode>2. die Zwangsverwaltung oder Zwangsver⸗</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r4l15" custom="readingOrder {index:14;}">
-                <Coords points="1260,831 1275,831 1792,833 1989,834 2066,836 2092,844 2107,849 2107,861 2092,868 1945,875 1875,875 1424,873 1318,872 1260,871"/>
-                <Baseline points="1260,863 1443,864 1472,864 1552,865 1580,865 1632,865 1661,866 1825,866 1858,866 2008,867 2037,868 2107,858"/>
+                <Coords points="1260,831 1275,831 1792,833 1989,834 2066,836 2092,839 2108,846 2110,858 2113,874 1945,875 1875,875 1424,873 1318,872 1260,871"/>
+                <Baseline points="1260,863 1443,864 1472,864 1552,865 1580,865 1632,865 1661,866 1825,866 1858,866 2008,867 2037,868 2107,866"/>
                 <TextEquiv>
                     <Unicode>ſteigerung über die verkaufte Parzelle ein⸗</Unicode>
                 </TextEquiv>
@@ -764,8 +764,8 @@ binnen einer Woche.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r4l30" custom="readingOrder {index:29;}">
-                <Coords points="1235,1499 1417,1499 2054,1504 2090,1508 2105,1519 2105,1531 2090,1537 2054,1546 1991,1546 1373,1540 1235,1532"/>
-                <Baseline points="1235,1532 1305,1532 1330,1532 1455,1533 1477,1533 1669,1535 1690,1535 1746,1535 1769,1535 1836,1536 1860,1536 1947,1537 1971,1537 2105,1528"/>
+                <Coords points="1235,1499 1417,1499 2054,1504 2090,1508 2106,1512 2109,1530 2109,1543 2054,1546 1991,1546 1373,1540 1235,1532"/>
+                <Baseline points="1235,1532 1305,1532 1330,1532 1455,1533 1477,1533 1669,1535 1690,1535 1746,1535 1769,1535 1836,1536 1860,1536 1947,1537 1971,1537 2105,1536"/>
                 <TextEquiv>
                     <Unicode>Der Käufer unterwirft ſich und ſeine Rechts⸗</Unicode>
                 </TextEquiv>
@@ -785,15 +785,15 @@ binnen einer Woche.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r4l33" custom="readingOrder {index:32;}">
-                <Coords points="1147,1638 1240,1633 1339,1632 1339,1632 1447,1632 1993,1637 2031,1638 2103,1641 2103,1670 2063,1680 1973,1680 1514,1675 1339,1673 1254,1672 1147,1664"/>
-                <Baseline points="1147,1664 1212,1664 1240,1664 1309,1665 1339,1665 1481,1667 1514,1667 1663,1668 1692,1669 1759,1669 1776,1669 1825,1669 1853,1669 1920,1670 1949,1670 2103,1662"/>
+                <Coords points="1147,1638 1240,1633 1339,1632 1447,1632 1993,1637 2031,1638 2106,1636 2111,1679 2063,1680 1973,1680 1514,1675 1339,1673 1254,1672 1147,1664"/>
+                <Baseline points="1147,1664 1212,1664 1240,1664 1309,1665 1339,1665 1481,1667 1514,1667 1663,1668 1692,1669 1759,1669 1776,1669 1825,1669 1853,1669 1920,1670 1949,1670 2103,1669"/>
                 <TextEquiv>
                     <Unicode>von ihm erkaufte Parzelle und in ſein ſonſtiges</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r4l34" custom="readingOrder {index:33;}">
-                <Coords points="1149,1675 1178,1675 1990,1681 2087,1682 2102,1696 2102,1708 2087,1715 2000,1723 1919,1723 1276,1717 1149,1709"/>
-                <Baseline points="1149,1708 1340,1709 1373,1710 1408,1710 1443,1710 1499,1710 1534,1711 1648,1711 1684,1712 1747,1712 1782,1713 1833,1713 1869,1713 2102,1705"/>
+                <Coords points="1149,1675 1178,1675 1990,1681 2087,1682 2106,1688 2106,1705 2108,1723 2000,1723 1919,1723 1276,1717 1149,1709"/>
+                <Baseline points="1149,1708 1340,1709 1373,1710 1408,1710 1443,1710 1499,1710 1534,1711 1648,1711 1684,1712 1747,1712 1782,1713 1833,1713 1869,1713 2103,1712"/>
                 <TextEquiv>
                     <Unicode>Vermögen in der Weiſe, daß die Zwangsvoll⸗</Unicode>
                 </TextEquiv>
@@ -841,8 +841,8 @@ binnen einer Woche.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r4l41" custom="readingOrder {index:40;}">
-                <Coords points="1142,1989 1214,1983 1214,1983 1312,1983 1787,1987 2005,1989 2058,1990 2097,2000 2097,2022 2079,2023 1787,2027 1768,2027 1499,2025 1301,2022 1142,2015"/>
-                <Baseline points="1142,2015 1277,2015 1301,2015 1380,2016 1406,2016 1473,2017 1499,2017 1588,2018 1614,2018 1698,2019 1723,2019 1787,2020 1812,2020 1869,2021 1886,2021 2025,2022 2041,2022 2097,2016"/>
+                <Coords points="1142,1989 1214,1983 1312,1983 1787,1987 2005,1989 2058,1990 2102,1993 2105,2026 2079,2029 1787,2027 1768,2027 1499,2025 1301,2022 1142,2015"/>
+                <Baseline points="1142,2015 1277,2015 1301,2015 1380,2016 1406,2016 1473,2017 1499,2017 1588,2018 1614,2018 1698,2019 1723,2019 1787,2020 1812,2020 1869,2021 1886,2021 2025,2022 2041,2022 2096,2020"/>
                 <TextEquiv>
                     <Unicode>worden ſind, und zwar ohne daß der Eintritt der</Unicode>
                 </TextEquiv>
@@ -911,8 +911,8 @@ binnen einer Woche.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r4l51" custom="readingOrder {index:50;}">
-                <Coords points="1142,2485 1291,2485 1479,2486 1776,2490 1922,2492 2055,2495 2094,2508 2094,2520 2079,2527 2017,2534 1986,2534 1142,2526"/>
-                <Baseline points="1142,2518 1291,2519 1317,2519 1361,2520 1389,2520 1545,2521 1573,2521 1671,2522 1694,2522 1856,2524 1883,2525 1961,2526 1986,2526 2094,2517"/>
+                <Coords points="1142,2485 1291,2485 1479,2486 1776,2490 1922,2492 2055,2495 2099,2497 2100,2526 2080,2532 2017,2534 1986,2534 1142,2526"/>
+                <Baseline points="1142,2518 1291,2519 1317,2519 1361,2520 1389,2520 1545,2521 1573,2521 1671,2522 1694,2522 1856,2524 1883,2525 1961,2526 1986,2526 2094,2523"/>
                 <TextEquiv>
                     <Unicode>Parzelle an Bauland einen größeren oder gerin⸗</Unicode>
                 </TextEquiv>
@@ -933,7 +933,7 @@ binnen einer Woche.</Unicode>
             </TextLine>
             <TextLine id="r4l54" custom="readingOrder {index:53;}">
                 <Coords points="1139,2626 1157,2618 1264,2617 1264,2617 1460,2617 1720,2620 1972,2623 2095,2627 2095,2657 2066,2658 1792,2661 1780,2661 1264,2659 1139,2649"/>
-                <Baseline points="1139,2649 1248,2650 1264,2650 1470,2651 1487,2651 1553,2652 1569,2652 1653,2653 1669,2653 1764,2654 1780,2654 1834,2655 1849,2655 1900,2656 1925,2656 2095,2649"/>
+                <Baseline points="1139,2649 1248,2650 1264,2650 1470,2651 1487,2651 1553,2652 1569,2652 1653,2653 1669,2653 1764,2654 1780,2654 1834,2655 1849,2655 1900,2656 1925,2656 2093,2653"/>
                 <TextEquiv>
                     <Unicode>einem Einheitsſatz von 2050 Mark für die Quadrat⸗</Unicode>
                 </TextEquiv>
@@ -953,8 +953,8 @@ binnen einer Woche.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r4l57" custom="readingOrder {index:56;}">
-                <Coords points="1140,2749 1417,2749 1746,2752 1963,2755 2079,2760 2093,2773 2093,2784 2079,2792 1963,2800 1813,2800 1534,2797 1229,2792 1140,2784"/>
-                <Baseline points="1140,2784 1450,2785 1465,2785 1501,2785 1517,2785 1796,2788 1813,2788 2013,2791 2029,2791 2093,2781"/>
+                <Coords points="1140,2749 1417,2749 1746,2752 1963,2755 2079,2760 2093,2773 2100,2798 2085,2796 1963,2800 1813,2800 1534,2797 1229,2792 1140,2784"/>
+                <Baseline points="1140,2784 1450,2785 1465,2785 1501,2785 1517,2785 1796,2788 1813,2788 2013,2791 2029,2791 2093,2788"/>
                 <TextEquiv>
                     <Unicode>Vermeſſungsamt in Charlottenburg feſtgeſtellte tat⸗</Unicode>
                 </TextEquiv>
@@ -967,8 +967,8 @@ binnen einer Woche.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r4l59" custom="readingOrder {index:58;}">
-                <Coords points="1136,2838 1154,2838 1569,2839 1902,2843 2016,2845 2034,2846 2079,2857 2093,2861 2093,2873 2079,2879 2034,2887 1996,2887 1421,2881 1136,2870"/>
-                <Baseline points="1136,2870 1316,2871 1340,2872 1377,2872 1404,2872 1569,2874 1621,2874 1691,2875 1715,2875 1911,2877 1938,2878 2093,2870"/>
+                <Coords points="1136,2838 1154,2838 1569,2839 1902,2843 2016,2845 2034,2846 2077,2844 2099,2851 2098,2876 2100,2882 2034,2887 1996,2887 1421,2881 1136,2870"/>
+                <Baseline points="1136,2870 1316,2871 1340,2872 1377,2872 1404,2872 1569,2874 1621,2874 1691,2875 1715,2875 1911,2877 1938,2878 2095,2877"/>
                 <TextEquiv>
                     <Unicode>dratmeter in Betracht. Der tatſächliche Flächen⸗</Unicode>
                 </TextEquiv>
@@ -1023,8 +1023,8 @@ binnen einer Woche.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r4l67" custom="readingOrder {index:66;}">
-                <Coords points="1132,3253 1284,3253 1602,3256 2074,3262 2098,3276 2098,3289 2074,3296 1834,3303 1775,3303 1147,3295 1132,3287"/>
-                <Baseline points="1132,3287 1284,3288 1294,3288 1363,3289 1373,3289 1518,3290 1539,3290 1663,3292 1672,3292 1741,3293 1755,3293 1871,3294 1883,3295 1942,3295 1953,3295 2098,3285"/>
+                <Coords points="1132,3253 1284,3253 1602,3256 2074,3262 2100,3261 2104,3299 2073,3302 1834,3303 1775,3303 1147,3295 1132,3287"/>
+                <Baseline points="1132,3287 1284,3288 1294,3288 1363,3289 1373,3289 1518,3290 1539,3290 1663,3292 1672,3292 1741,3293 1755,3293 1871,3294 1883,3295 1942,3295 1953,3295 2099,3294"/>
                 <TextEquiv>
                     <Unicode>beſchafft ſein werden. Nutzen und Laſten des Grund⸗</Unicode>
                 </TextEquiv>

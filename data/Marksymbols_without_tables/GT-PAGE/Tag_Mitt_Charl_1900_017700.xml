@@ -68,14 +68,14 @@
                 <Coords points="315,256 555,253 555,253 986,253 1176,254 1176,288 1133,296 836,297 380,298 315,298 315,256"/>
                 <Baseline points="315,290 389,289 419,289 448,289 478,289 517,290 555,289 836,287 876,287 932,287 968,287 1025,287 1063,287 1176,288"/>
                 <TextEquiv>
-                    <Unicode>Poſ. 2. — Waſſerverbrauch auf den Schul⸗</Unicode>
+                    <Unicode>Poſ. 2. – Waſſerverbrauch auf den Schul⸗</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r2l2" custom="readingOrder {index:1;}">
                 <Coords points="314,311 384,300 1042,298 1042,298 1092,298 1176,300 1176,340 524,343 314,343 314,311"/>
                 <Baseline points="314,334 524,334 558,334 597,334 627,333 776,332 805,332 866,331 902,331 942,331 953,331 1018,330 1042,332 1092,332 1121,332 1176,333"/>
                 <TextEquiv>
-                    <Unicode>grundſtücken — ermäßigt von 10 800 ℳ. auf</Unicode>
+                    <Unicode>grundſtücken – ermäßigt von 10 800 ℳ. auf</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r2l3" custom="readingOrder {index:2;}">
@@ -89,7 +89,7 @@
                 <Coords points="226,389 681,386 681,386 1045,386 1175,398 1175,420 1045,428 487,430 419,430 226,422 226,389"/>
                 <Baseline points="226,422 330,421 355,421 384,421 419,421 500,420 529,420 577,420 603,420 637,419 663,419 1045,421 1066,420 1105,420 1132,420 1175,420"/>
                 <TextEquiv>
-                    <Unicode>Titel 8. Poſ. 11. — Fahrräderreparaturen — er⸗</Unicode>
+                    <Unicode>Titel 8. Poſ. 11. – Fahrräderreparaturen – er⸗</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r2l5" custom="readingOrder {index:4;}">
@@ -103,7 +103,7 @@
                 <Coords points="312,478 601,476 601,476 1034,476 1068,478 1173,486 1173,509 1053,519 675,519 312,517 312,478"/>
                 <Baseline points="312,511 393,510 427,509 475,508 522,509 562,509 601,509 795,509 834,509 874,509 916,509 1068,509 1112,510 1173,508"/>
                 <TextEquiv>
-                    <Unicode>Poſ. 13. — Insgemein — ermäßigt von</Unicode>
+                    <Unicode>Poſ. 13. – Insgemein – ermäßigt von</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r2l7" custom="readingOrder {index:6;}">
@@ -117,21 +117,21 @@
                 <Coords points="224,567 463,566 754,565 754,565 1133,565 1172,575 1172,598 871,606 580,609 463,609 224,600 224,567"/>
                 <Baseline points="224,600 326,599 352,599 380,599 406,598 447,599 463,599 654,598 673,598 735,598 754,598 942,598 959,598 1172,597"/>
                 <TextEquiv>
-                    <Unicode>Titel 9. — Herſtellung von elektriſchen Läutewerken</Unicode>
+                    <Unicode>Titel 9. – Herſtellung von elektriſchen Läutewerken</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r2l9" custom="readingOrder {index:8;}">
                 <Coords points="310,612 786,605 786,605 808,605 1109,609 1172,610 1172,642 1160,649 1035,652 808,656 786,656 310,644 310,612"/>
                 <Baseline points="310,644 344,644 377,644 432,644 468,643 786,642 794,642 808,642 830,642 894,642 924,642 966,642 1005,642 1172,642"/>
                 <TextEquiv>
-                    <Unicode>in den Gemeindeſchulen Ⅰ und ⅠⅠ, Peſtalozzi</Unicode>
+                    <Unicode>in den Gemeindeſchulen I und II, Peſtalozzi</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r2l10" custom="readingOrder {index:9;}">
                 <Coords points="312,656 645,654 645,654 1173,654 1173,687 1143,694 895,696 645,696 396,693 312,688 312,656"/>
                 <Baseline points="312,688 429,688 469,687 579,687 626,687 895,686 929,685 1001,685 1050,686 1173,678"/>
                 <TextEquiv>
-                    <Unicode>Straße 89/90, Gemeindeſchule ⅩⅠⅠ, Sophie</Unicode>
+                    <Unicode>Straße 89/90, Gemeindeſchule XII, Sophie</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r2l11" custom="readingOrder {index:10;}">
@@ -145,7 +145,7 @@
                 <Coords points="310,744 425,743 1004,742 1004,742 1022,742 1113,743 1174,753 1174,776 1150,783 1060,785 425,785 310,775 310,744"/>
                 <Baseline points="310,775 398,775 425,775 593,776 617,776 738,775 760,775 805,775 825,775 865,775 884,775 948,775 972,775 1022,775 1046,775 1113,776 1137,776 1174,776"/>
                 <TextEquiv>
-                    <Unicode>ⅩⅠⅤ, Peſtalozzi Straße 40 — 640 ℳ. ſind zu</Unicode>
+                    <Unicode>XIV, Peſtalozzi Straße 40 – 640 ℳ. ſind zu</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r2l13" custom="readingOrder {index:12;}">
@@ -159,7 +159,7 @@
                 <Coords points="222,833 609,831 609,831 740,831 1149,832 1171,842 1171,865 740,874 588,874 248,867 222,866 222,833"/>
                 <Baseline points="222,866 324,866 353,865 400,865 438,865 478,865 514,866 740,866 779,865 830,865 870,865 996,865 1034,865 1074,865 1116,865 1171,865"/>
                 <TextEquiv>
-                    <Unicode>Titel 19. — Nachſchleifen der Ventile an den</Unicode>
+                    <Unicode>Titel 19. – Nachſchleifen der Ventile an den</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r2l15" custom="readingOrder {index:14;}">
@@ -173,14 +173,14 @@
                 <Coords points="374,922 959,921 1005,921 1018,947 1018,952 1005,954 852,962 508,963 304,961 304,920"/>
                 <Baseline points="307,953 522,954 546,954 608,954 633,954 698,954 749,953 766,953 797,953 852,953 872,953 940,953 959,954 1018,951"/>
                 <TextEquiv>
-                    <Unicode>— ermäßigt von 850 ℳ. auf 400 ℳ.</Unicode>
+                    <Unicode>– ermäßigt von 850 ℳ. auf 400 ℳ.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r2l17" custom="readingOrder {index:16;}">
                 <Coords points="220,966 492,965 492,965 1130,965 1170,976 1170,998 1130,1005 925,1007 804,1007 220,999 220,966"/>
                 <Baseline points="220,999 325,998 349,998 400,998 425,998 466,998 492,998 566,998 600,998 686,999 710,999 882,998 913,998 966,998 990,998 1037,998 1062,998 1170,998"/>
                 <TextEquiv>
-                    <Unicode>Titel 22. — Bau einer Turnhalle für die höhere</Unicode>
+                    <Unicode>Titel 22. – Bau einer Turnhalle für die höhere</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r2l18" custom="readingOrder {index:17;}">
@@ -194,7 +194,7 @@
                 <Coords points="306,1066 394,1057 415,1056 765,1054 765,1054 1000,1054 1040,1065 1050,1081 1050,1086 1040,1088 1000,1094 877,1096 842,1096 306,1088 306,1066"/>
                 <Baseline points="306,1088 367,1088 394,1088 478,1087 503,1087 542,1087 570,1087 609,1087 623,1087 739,1087 765,1088 813,1088 842,1088 877,1088 902,1087 1050,1084"/>
                 <TextEquiv>
-                    <Unicode>von 1899 — 27 625,01 ℳ zu ſtreichen.</Unicode>
+                    <Unicode>von 1899 – 27 625,01 ℳ zu ſtreichen.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r2l20" custom="readingOrder {index:19;}">
@@ -208,7 +208,7 @@
                 <Coords points="220,1162 938,1162 1170,1163 1170,1204 415,1204 220,1195 220,1162"/>
                 <Baseline points="220,1195 326,1195 354,1194 379,1194 415,1193 496,1195 523,1195 551,1194 579,1194 613,1194 646,1194 719,1196 736,1196 788,1196 812,1196 984,1196 1003,1196 1170,1196"/>
                 <TextEquiv>
-                    <Unicode>Titel 1. Poſ. 1. — Von der ſtädtiſchen Sparkaſſe</Unicode>
+                    <Unicode>Titel 1. Poſ. 1. – Von der ſtädtiſchen Sparkaſſe</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r2l22" custom="readingOrder {index:21;}">
@@ -222,7 +222,7 @@
                 <Coords points="304,1262 322,1254 436,1252 989,1251 989,1251 1116,1251 1148,1252 1171,1256 1171,1292 1116,1293 1064,1293 458,1292 304,1284 304,1262"/>
                 <Baseline points="304,1284 411,1284 436,1284 538,1284 553,1285 673,1285 695,1285 735,1284 760,1284 799,1284 824,1284 887,1283 906,1283 972,1284 989,1284 1039,1284 1064,1284 1171,1285"/>
                 <TextEquiv>
-                    <Unicode>räume Spree Straße 16 — von 450 ℳ. erhöht</Unicode>
+                    <Unicode>räume Spree Straße 16 – von 450 ℳ. erhöht</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r2l24" custom="readingOrder {index:23;}">
@@ -236,7 +236,7 @@
                 <Coords points="304,1340 671,1339 671,1339 833,1339 1128,1341 1169,1343 1169,1374 1014,1383 351,1383 304,1381 304,1340"/>
                 <Baseline points="304,1373 385,1373 404,1372 433,1372 453,1372 492,1373 511,1373 583,1374 602,1373 653,1373 671,1373 844,1373 861,1373 1030,1373 1047,1373 1070,1373 1086,1373 1169,1374"/>
                 <TextEquiv>
-                    <Unicode>Poſ. 2. — Von der ſtädtiſchen Sparkaſſe Ⅰ. Rate</Unicode>
+                    <Unicode>Poſ. 2. – Von der ſtädtiſchen Sparkaſſe I. Rate</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r2l26" custom="readingOrder {index:25;}">
@@ -257,14 +257,14 @@
                 <Coords points="304,1475 749,1474 749,1474 841,1474 898,1485 898,1507 848,1516 690,1516 352,1514 304,1507 304,1475"/>
                 <Baseline points="304,1507 413,1507 441,1507 479,1506 509,1506 592,1506 616,1506 665,1507 690,1507 725,1507 749,1507 898,1506"/>
                 <TextEquiv>
-                    <Unicode>Koſten — 1200 ℳ. zu ſtreichen.</Unicode>
+                    <Unicode>Koſten – 1200 ℳ. zu ſtreichen.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r2l29" custom="readingOrder {index:28;}">
                 <Coords points="303,1519 1128,1519 1169,1529 1169,1552 659,1561 303,1561 303,1519"/>
                 <Baseline points="303,1552 389,1550 415,1550 445,1551 464,1551 503,1551 524,1552 622,1552 646,1552 698,1552 722,1552 876,1552 894,1552 1169,1552"/>
                 <TextEquiv>
-                    <Unicode>Poſ. 3. — Erlös für verkaufte Baumaterialien</Unicode>
+                    <Unicode>Poſ. 3. – Erlös für verkaufte Baumaterialien</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r2l30" custom="readingOrder {index:29;}">
@@ -275,35 +275,35 @@
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
-                <Unicode>Poſ. 2. — Waſſerverbrauch auf den Schul⸗
-grundſtücken — ermäßigt von 10 800 ℳ. auf
+                <Unicode>Poſ. 2. – Waſſerverbrauch auf den Schul⸗
+grundſtücken – ermäßigt von 10 800 ℳ. auf
 9 100 ℳ
-Titel 8. Poſ. 11. — Fahrräderreparaturen — er⸗
+Titel 8. Poſ. 11. – Fahrräderreparaturen – er⸗
 mäßigt von 1000 ℳ. auf 500 ℳ.
-Poſ. 13. — Insgemein — ermäßigt von
+Poſ. 13. – Insgemein – ermäßigt von
 1400 ℳ. auf 800 ℳ.
-Titel 9. — Herſtellung von elektriſchen Läutewerken
-in den Gemeindeſchulen Ⅰ und ⅠⅠ, Peſtalozzi
-Straße 89/90, Gemeindeſchule ⅩⅠⅠ, Sophie
+Titel 9. – Herſtellung von elektriſchen Läutewerken
+in den Gemeindeſchulen I und II, Peſtalozzi
+Straße 89/90, Gemeindeſchule XII, Sophie
 Charlotten Straße 69/70 und Gemeindeſchule
-ⅩⅠⅤ, Peſtalozzi Straße 40 — 640 ℳ. ſind zu
+XIV, Peſtalozzi Straße 40 – 640 ℳ. ſind zu
 ſtreichen.
-Titel 19. — Nachſchleifen der Ventile an den
+Titel 19. – Nachſchleifen der Ventile an den
 Heine⸗Keſſeln der ſtädtiſchen Centralheizungen
-— ermäßigt von 850 ℳ. auf 400 ℳ.
-Titel 22. — Bau einer Turnhalle für die höhere
+– ermäßigt von 850 ℳ. auf 400 ℳ.
+Titel 22. – Bau einer Turnhalle für die höhere
 Mädchenſchule, Rückerſtattung an die Anleihe
-von 1899 — 27 625,01 ℳ zu ſtreichen.
+von 1899 – 27 625,01 ℳ zu ſtreichen.
 Einnahme. Seite 14.
-Titel 1. Poſ. 1. — Von der ſtädtiſchen Sparkaſſe
+Titel 1. Poſ. 1. – Von der ſtädtiſchen Sparkaſſe
 für Heizung und Beleuchtung der Geſchäfts⸗
-räume Spree Straße 16 — von 450 ℳ. erhöht
+räume Spree Straße 16 – von 450 ℳ. erhöht
 auf 600 ℳ.
-Poſ. 2. — Von der ſtädtiſchen Sparkaſſe Ⅰ. Rate
+Poſ. 2. – Von der ſtädtiſchen Sparkaſſe I. Rate
 der für den Anbau eines Seitenflügels an das
 Sparkaſſengebäude Spree Straße 16 entſtandenen
-Koſten — 1200 ℳ. zu ſtreichen.
-Poſ. 3. — Erlös für verkaufte Baumaterialien
+Koſten – 1200 ℳ. zu ſtreichen.
+Poſ. 3. – Erlös für verkaufte Baumaterialien
 erhöht von 300 ℳ. auf 4000 ℳ</Unicode>
             </TextEquiv>
         </TextRegion>
@@ -313,7 +313,7 @@ erhöht von 300 ℳ. auf 4000 ℳ</Unicode>
                 <Coords points="575,1635 608,1635 808,1636 808,1675 663,1686 639,1686 575,1679 575,1635"/>
                 <Baseline points="575,1679 736,1676 765,1676 808,1675"/>
                 <TextEquiv>
-                    <Unicode>Kapitel Ⅴ.</Unicode>
+                    <Unicode>Kapitel V.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r3l2" custom="readingOrder {index:1;}">
@@ -331,7 +331,7 @@ erhöht von 300 ℳ. auf 4000 ℳ</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
-                <Unicode>Kapitel Ⅴ.&#13;
+                <Unicode>Kapitel V.&#13;
 Berichterſtatter die Herren Ströhler und Heiſe.&#13;
 A. Fortdauernde Ausgaben. Seite 111.</Unicode>
             </TextEquiv>
@@ -342,7 +342,7 @@ A. Fortdauernde Ausgaben. Seite 111.</Unicode>
                 <Coords points="214,1813 446,1813 1081,1814 1168,1825 1168,1848 797,1865 769,1865 417,1856 214,1846 214,1813"/>
                 <Baseline points="214,1846 317,1846 343,1846 368,1846 417,1846 499,1847 549,1847 554,1847 583,1847 622,1847 641,1847 814,1847 839,1847 926,1847 945,1847 984,1847 1003,1847 1081,1847 1105,1848 1168,1848"/>
                 <TextEquiv>
-                    <Unicode>Titel 1. Poſ. 1. — Techniſche Hilfe — wird von</Unicode>
+                    <Unicode>Titel 1. Poſ. 1. – Techniſche Hilfe – wird von</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r4l2" custom="readingOrder {index:1;}">
@@ -363,7 +363,7 @@ A. Fortdauernde Ausgaben. Seite 111.</Unicode>
                 <Coords points="301,1956 454,1955 501,1955 1168,1956 1168,1991 1010,1999 432,1999 301,1990 301,1956"/>
                 <Baseline points="301,1990 485,1990 510,1990 550,1990 577,1990 683,1990 707,1990 768,1990 790,1990 876,1991 889,1991 938,1991 955,1990 1010,1990 1021,1990 1108,1990 1118,1990 1168,1991"/>
                 <TextEquiv>
-                    <Unicode>Steinſetzer — erhöht von 9500 ℳ. auf 9900 ℳ.</Unicode>
+                    <Unicode>Steinſetzer – erhöht von 9500 ℳ. auf 9900 ℳ.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r4l5" custom="readingOrder {index:4;}">
@@ -395,10 +395,10 @@ A. Fortdauernde Ausgaben. Seite 111.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
-                <Unicode>Titel 1. Poſ. 1. — Techniſche Hilfe — wird von
+                <Unicode>Titel 1. Poſ. 1. – Techniſche Hilfe – wird von
 10 000 ℳ. herabgeſetzt auf 9320 ℳ.
 Titel 1. Poſ. 3. Löhne der Kämmereiarbeiter und
-Steinſetzer — erhöht von 9500 ℳ. auf 9900 ℳ.
+Steinſetzer – erhöht von 9500 ℳ. auf 9900 ℳ.
 Die Erläuterung zu dieſer Poſition iſt wie
 folgt abzuändern.
 Zu Poſ. 3. Wegen der Beiträge zur Kranken⸗ und
@@ -411,7 +411,7 @@ Invaliditätsverſicherung vergl. Titel 1. Poſ. 4.</Unicode>
                 <Coords points="214,2804 242,2804 903,2806 1080,2807 1126,2810 1165,2817 1165,2840 1061,2850 646,2850 441,2847 395,2846 214,2837 214,2804"/>
                 <Baseline points="214,2837 316,2837 340,2837 369,2837 395,2838 477,2839 506,2839 551,2838 568,2838 610,2841 628,2841 861,2840 886,2840 937,2840 954,2840 1165,2840"/>
                 <TextEquiv>
-                    <Unicode>Titel 2. Poſ. 1a. — Unterhaltung der gepflaſterten</Unicode>
+                    <Unicode>Titel 2. Poſ. 1a. – Unterhaltung der gepflaſterten</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r5l2" custom="readingOrder {index:1;}">
@@ -425,7 +425,7 @@ Invaliditätsverſicherung vergl. Titel 1. Poſ. 4.</Unicode>
                 <Coords points="301,2894 357,2894 1065,2896 1166,2897 1166,2938 1065,2940 871,2940 360,2937 301,2927 301,2894"/>
                 <Baseline points="301,2927 392,2928 428,2929 467,2929 512,2930 574,2929 623,2929 735,2930 774,2930 824,2930 871,2930 1065,2930 1110,2930 1166,2930"/>
                 <TextEquiv>
-                    <Unicode>Wege — von 70 000 ℳ. herabgeſetzt auf</Unicode>
+                    <Unicode>Wege – von 70 000 ℳ. herabgeſetzt auf</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r5l4" custom="readingOrder {index:3;}">
@@ -439,7 +439,7 @@ Invaliditätsverſicherung vergl. Titel 1. Poſ. 4.</Unicode>
                 <Coords points="214,2982 257,2982 1065,2986 1163,2991 1166,3023 869,3028 852,3028 471,3026 424,3025 214,3015 214,2982"/>
                 <Baseline points="214,3014 322,3015 348,3015 376,3016 424,3016 506,3016 536,3017 560,3017 581,3017 611,3017 636,3019 869,3019 893,3019 945,3019 968,3019 1161,3019"/>
                 <TextEquiv>
-                    <Unicode>Titel 5. Poſ. 1. — Unterhaltung der Brücken —</Unicode>
+                    <Unicode>Titel 5. Poſ. 1. – Unterhaltung der Brücken –</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r5l6" custom="readingOrder {index:5;}">
@@ -492,11 +492,11 @@ Invaliditätsverſicherung vergl. Titel 1. Poſ. 4.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
-                <Unicode>Titel 2. Poſ. 1a. — Unterhaltung der gepflaſterten
+                <Unicode>Titel 2. Poſ. 1a. – Unterhaltung der gepflaſterten
 und chauſſirten Straßen, ſowie der öffentlichen
-Wege — von 70 000 ℳ. herabgeſetzt auf
+Wege – von 70 000 ℳ. herabgeſetzt auf
 60 000 ℳ.
-Titel 5. Poſ. 1. — Unterhaltung der Brücken —
+Titel 5. Poſ. 1. – Unterhaltung der Brücken –
 von 2 500 ℳ. erhöht auf 3250 ℳ.
 B. Einmalige Ausgaben.
 Es iſt beantragt
@@ -631,7 +631,7 @@ Regulirung einen beſonderen Vortheil erlangen,</Unicode>
                 <Coords points="1199,1012 1471,1011 1764,1010 1764,1010 2138,1010 2155,1020 2155,1042 2138,1046 1735,1053 1724,1053 1569,1052 1199,1045 1199,1012"/>
                 <Baseline points="1199,1045 1301,1045 1330,1045 1379,1044 1406,1043 1445,1043 1471,1044 1735,1043 1764,1043 1815,1043 1844,1043 2003,1043 2035,1043 2155,1042"/>
                 <TextEquiv>
-                    <Unicode>Titel 18. — Neupflaſterung der Grolman Straße</Unicode>
+                    <Unicode>Titel 18. – Neupflaſterung der Grolman Straße</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r6l19" custom="readingOrder {index:18;}">
@@ -645,7 +645,7 @@ Regulirung einen beſonderen Vortheil erlangen,</Unicode>
                 <Coords points="1306,1101 1589,1099 2032,1098 2062,1098 2084,1099 2154,1101 2163,1141 2062,1142 1660,1143 1397,1143 1306,1135 1306,1101"/>
                 <Baseline points="1306,1135 1372,1135 1397,1135 1548,1134 1573,1134 1852,1133 1878,1133 1935,1133 1960,1133 2154,1133"/>
                 <TextEquiv>
-                    <Unicode>dem ſüdlichen Pflaſteranſchluß mit Asphalt —</Unicode>
+                    <Unicode>dem ſüdlichen Pflaſteranſchluß mit Asphalt –</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r6l21" custom="readingOrder {index:20;}">
@@ -666,7 +666,7 @@ Regulirung einen beſonderen Vortheil erlangen,</Unicode>
                 <Coords points="1200,1237 1236,1236 1591,1234 2035,1233 2035,1233 2138,1233 2155,1244 2155,1266 2138,1271 1759,1276 1591,1276 1200,1269 1200,1237"/>
                 <Baseline points="1200,1269 1303,1269 1328,1269 1379,1268 1417,1268 1458,1268 1495,1268 1759,1267 1800,1267 1851,1267 1889,1267 1995,1266 2035,1266 2155,1266"/>
                 <TextEquiv>
-                    <Unicode>Titel 20. — Neupflaſterung der Cauer Straße</Unicode>
+                    <Unicode>Titel 20. – Neupflaſterung der Cauer Straße</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r6l24" custom="readingOrder {index:23;}">
@@ -680,7 +680,7 @@ Regulirung einen beſonderen Vortheil erlangen,</Unicode>
                 <Coords points="1306,1326 1421,1324 1538,1323 1538,1323 1656,1323 1696,1334 1706,1350 1706,1355 1656,1365 1555,1366 1367,1366 1357,1365 1306,1359 1306,1326"/>
                 <Baseline points="1306,1359 1446,1357 1472,1357 1511,1357 1538,1357 1706,1355"/>
                 <TextEquiv>
-                    <Unicode>Asphalt — geſtrichen.</Unicode>
+                    <Unicode>Asphalt – geſtrichen.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r6l26" custom="readingOrder {index:25;}">
@@ -701,7 +701,7 @@ Regulirung einen beſonderen Vortheil erlangen,</Unicode>
                 <Coords points="1200,1460 1235,1459 1893,1456 1893,1456 2093,1456 2156,1460 2156,1488 2136,1497 2093,1498 1503,1500 1474,1500 1200,1492 1200,1460"/>
                 <Baseline points="1200,1492 1303,1492 1328,1492 1379,1491 1406,1491 1447,1491 1474,1491 1668,1490 1704,1490 1789,1490 1828,1490 2156,1488"/>
                 <TextEquiv>
-                    <Unicode>Titel 23. — Herſtellung eines Verbindungsweges</Unicode>
+                    <Unicode>Titel 23. – Herſtellung eines Verbindungsweges</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r6l29" custom="readingOrder {index:28;}">
@@ -736,7 +736,7 @@ Regulirung einen beſonderen Vortheil erlangen,</Unicode>
                 <Coords points="1198,1682 1836,1679 1836,1679 2138,1679 2156,1689 2156,1712 2138,1715 1736,1722 1615,1722 1536,1721 1198,1716 1198,1682"/>
                 <Baseline points="1198,1716 1304,1716 1329,1715 1381,1714 1409,1714 1448,1715 1474,1714 1736,1713 1761,1713 1811,1713 1836,1713 2020,1712 2036,1712 2156,1712"/>
                 <TextEquiv>
-                    <Unicode>Titel 24. — Neupflaſterung der Eislebener Straße</Unicode>
+                    <Unicode>Titel 24. – Neupflaſterung der Eislebener Straße</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r6l34" custom="readingOrder {index:33;}">
@@ -750,7 +750,7 @@ Regulirung einen beſonderen Vortheil erlangen,</Unicode>
                 <Coords points="1305,1772 1354,1771 1539,1769 1937,1768 2154,1769 2162,1810 2028,1809 1800,1813 1522,1813 1342,1810 1305,1804 1305,1772"/>
                 <Baseline points="1305,1804 1486,1804 1522,1804 1800,1802 1841,1802 1899,1801 1937,1801 2154,1802"/>
                 <TextEquiv>
-                    <Unicode>definitiven Pflaſteranſchluß mit Asphalt —</Unicode>
+                    <Unicode>definitiven Pflaſteranſchluß mit Asphalt –</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r6l36" custom="readingOrder {index:35;}">
@@ -785,7 +785,7 @@ Regulirung einen beſonderen Vortheil erlangen,</Unicode>
                 <Coords points="1199,2041 1291,2040 1427,2039 2023,2035 2153,2031 2163,2058 2162,2073 2087,2077 1495,2081 1447,2081 1199,2074 1199,2041"/>
                 <Baseline points="1199,2073 1302,2072 1328,2072 1378,2071 1427,2072 1628,2071 1668,2071 1719,2070 1758,2070 1877,2069 1918,2068 1957,2067 2004,2068 2156,2067"/>
                 <TextEquiv>
-                    <Unicode>Titel 24. Regulirung der Straße 7b Abth. Ⅴ</Unicode>
+                    <Unicode>Titel 24. Regulirung der Straße 7b Abth. V</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r6l41" custom="readingOrder {index:40;}">
@@ -1009,29 +1009,29 @@ Titel 17 ſoll lauten „Neupflaſterung der Bayreuther
 Straße zwiſchen Kleiſt Straße und Augsburger
 Straße mit Asphalt“ und wird erhöht von
 17 300 ℳ. auf 64 000 ℳ.
-Titel 18. — Neupflaſterung der Grolman Straße
+Titel 18. – Neupflaſterung der Grolman Straße
 zwiſchen Schiller⸗ bezw. Schlüter Straße und
-dem ſüdlichen Pflaſteranſchluß mit Asphalt —
+dem ſüdlichen Pflaſteranſchluß mit Asphalt –
 geſtrichen.
 Titel 19 wird Titel 18.
-Titel 20. — Neupflaſterung der Cauer Straße
+Titel 20. – Neupflaſterung der Cauer Straße
 zwiſchen Berliner⸗ und Fraunhofer Straße mit
-Asphalt — geſtrichen.
+Asphalt – geſtrichen.
 Titel 21 wird Titel 19.
 Titel 22 wird Titel 20.
-Titel 23. — Herſtellung eines Verbindungsweges
+Titel 23. – Herſtellung eines Verbindungsweges
 in der Verlängerung der Faſanen Straße zwiſchen
 Kurfürſten Allee und Garten Ufer einſchließlich
 Entwäſſerung und Beleuchtung wird Titel 21
 und von 48 150 ℳ. ermäßigt auf 42 800 ℳ.
-Titel 24. — Neupflaſterung der Eislebener Straße
+Titel 24. – Neupflaſterung der Eislebener Straße
 zwiſchen Nürnberger Straße und dem weſtlichen
-definitiven Pflaſteranſchluß mit Asphalt —
+definitiven Pflaſteranſchluß mit Asphalt –
 wird geſtrichen.
 Titel 25 wird Titel 22.
 Titel 26 wird Titel 23.
 Neu einzuſtellen ſind:
-Titel 24. Regulirung der Straße 7b Abth. Ⅴ
+Titel 24. Regulirung der Straße 7b Abth. V
 und der Straße 7a zwiſchen Kaiſer Friedrich
 Straße und Straße 7b : 52 000 ℳ.
 Titel 25. Neupflaſterung der Gardes du Corps

@@ -84,7 +84,7 @@
                 <Coords points="274,558 372,558 1056,565 1127,580 1127,612 1020,612 622,606 442,599 274,590 274,558"/>
                 <Baseline points="274,590 315,590 341,591 719,598 747,598 820,599 849,599 1127,603"/>
                 <TextEquiv>
-                    <Unicode>ⅠⅠ. Straßenreinigung und Beſprengung.</Unicode>
+                    <Unicode>II. Straßenreinigung und Beſprengung.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r2l8" custom="readingOrder {index:7;}">
@@ -308,7 +308,7 @@
                 <Coords points="205,1998 740,1998 994,2004 994,2044 740,2046 621,2048 205,2030 205,1998"/>
                 <Baseline points="205,2030 311,2031 334,2032 354,2032 379,2033 419,2033 443,2034 624,2036 740,2038 748,2038 990,2042"/>
                 <TextEquiv>
-                    <Unicode>Titel 6 — „Bekleidungskammer“ —</Unicode>
+                    <Unicode>Titel 6 – „Bekleidungskammer“ –</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r2l40" custom="readingOrder {index:39;}">
@@ -469,7 +469,7 @@
                 <Coords points="188,3158 218,3158 671,3162 1063,3166 1124,3168 1137,3186 1137,3195 1124,3212 1046,3212 452,3207 188,3192 188,3158"/>
                 <Baseline points="188,3192 293,3194 318,3194 323,3194 339,3194 380,3195 394,3195 671,3198 683,3198 724,3199 739,3199 820,3200 833,3200 864,3202 901,3204 1137,3192"/>
                 <TextEquiv>
-                    <Unicode>Titel 1 — Feuerlöſchweſen — Poſ. 3. „Inanſpruch⸗</Unicode>
+                    <Unicode>Titel 1 – Feuerlöſchweſen – Poſ. 3. „Inanſpruch⸗</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r2l63" custom="readingOrder {index:62;}">
@@ -500,7 +500,7 @@ geräthe einſchl. der Dampfſpritzen“ von
 6040 ℳ. erhöht auf 6540 ℳ.
 Poſ. 14. „Brennmaterialien“ von 2000 ℳ.
 herabgeſetzt auf 1700 ℳ.
-ⅠⅠ. Straßenreinigung und Beſprengung.
+II. Straßenreinigung und Beſprengung.
 Titel 3 „Perſönliche Ausgaben“.
 Poſ. 3. „Lohn für 8 Kolonnenführer“ zu
 ändern in 9 Kolonnenführer.
@@ -532,7 +532,7 @@ Poſ. 5. „Anbringung der Miller'ſchen Spreng⸗
 vorrichtung an 2 vorhandene Sprengwagen
 700 ℳ.“ geſtrichen (vgl. einmalige Aus⸗
 gaben).
-Titel 6 — „Bekleidungskammer“ —
+Titel 6 – „Bekleidungskammer“ –
 Poſ. 1c. Beſchaffung von Kleidungsſtücken
 für 5 Aufſeher und 139 Arbeiter der
 Straßenreinigung 3333 ℳ. in Folge
@@ -555,7 +555,7 @@ Titel 12 neu einzuſetzen „Anbringung der Miller'ſchen
 Sprengvorrichtung an 8 vorhandenen
 Sprengwagen 2800 ℳ.“
 Einnahme.
-Titel 1 — Feuerlöſchweſen — Poſ. 3. „Inanſpruch⸗
+Titel 1 – Feuerlöſchweſen – Poſ. 3. „Inanſpruch⸗
 nahme der Feuerwehr außerhalb des Feuer⸗
 löſchdienſtes“ von 2200 ℳ. herabgeſetzt auf
 1100 ℳ.</Unicode>
@@ -573,7 +573,7 @@ löſchdienſtes“ von 2200 ℳ. herabgeſetzt auf
                 <Coords points="1560,283 1704,283 1784,286 1797,316 1797,326 1704,335 1586,335 1560,327 1560,283"/>
                 <Baseline points="1560,326 1718,326 1745,326 1797,326"/>
                 <TextEquiv>
-                    <Unicode>Kapitel Ⅹ.</Unicode>
+                    <Unicode>Kapitel X.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r3l2" custom="readingOrder {index:1;}">
@@ -724,7 +724,7 @@ löſchdienſtes“ von 2200 ℳ. herabgeſetzt auf
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
-                <Unicode>Kapitel Ⅹ.
+                <Unicode>Kapitel X.
 Berichterſtatter Herr Stadtverordneter Boerner.
 Ausgabe Seite 3.
 Titel 1 Parkverwaltung.

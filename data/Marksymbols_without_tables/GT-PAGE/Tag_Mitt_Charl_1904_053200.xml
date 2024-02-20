@@ -90,7 +90,7 @@
                 <Coords points="223,464 333,463 333,463 404,463 1004,467 1095,477 1095,502 1004,511 718,511 354,507 223,499 223,464"/>
                 <Baseline points="223,498 297,498 333,498 536,499 573,499 636,500 680,501 1004,502 1043,502 1095,502"/>
                 <TextEquiv>
-                    <Unicode>Die Abteilung ⅠⅠⅠ, „Kaſſenbarbeſtände am</Unicode>
+                    <Unicode>Die Abteilung III, „Kaſſenbarbeſtände am</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r2l9" custom="readingOrder {index:8;}">
@@ -139,7 +139,7 @@
                 <Coords points="137,779 183,776 183,776 374,776 662,777 970,779 1093,780 1093,814 970,820 639,820 302,817 137,810 137,779"/>
                 <Baseline points="137,810 278,810 302,809 374,809 401,810 443,810 468,810 671,811 695,811 725,811 749,811 791,811 815,812 999,813 1034,813 1093,814"/>
                 <TextEquiv>
-                    <Unicode>terialien uſw. — Abteilung Ⅴ — entſprechen mit</Unicode>
+                    <Unicode>terialien uſw. – Abteilung V – entſprechen mit</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r2l16" custom="readingOrder {index:15;}">
@@ -167,7 +167,7 @@
                 <Coords points="137,954 1064,950 1092,950 1092,1003 1060,999 639,998 137,992 137,954"/>
                 <Baseline points="137,986 313,987 327,987 394,988 420,988 443,988 454,988 655,989 676,989 713,989 738,990 756,990 772,990 832,990 848,990 909,990 920,990 1064,991 1091,991 1092,991"/>
                 <TextEquiv>
-                    <Unicode>Inventars uſw. — Abteilung ⅤⅠ — von 189 261,37 ℳ</Unicode>
+                    <Unicode>Inventars uſw. – Abteilung VI – von 189 261,37 ℳ</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r2l20" custom="readingOrder {index:19;}">
@@ -181,7 +181,7 @@
                 <Coords points="225,1043 243,1042 410,1042 1027,1045 1089,1055 1089,1079 1027,1088 708,1087 566,1084 243,1075 225,1074 225,1043"/>
                 <Baseline points="225,1066 284,1075 307,1075 358,1075 381,1075 581,1076 598,1076 647,1077 667,1077 888,1078 902,1078 1089,1079"/>
                 <TextEquiv>
-                    <Unicode>Bei der Abteilung ⅠⅤ „Ausſtehende Einnahme⸗</Unicode>
+                    <Unicode>Bei der Abteilung IV „Ausſtehende Einnahme⸗</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r2l22" custom="readingOrder {index:21;}">
@@ -230,21 +230,21 @@
                 <Coords points="134,1356 163,1350 163,1350 185,1350 999,1354 1086,1356 1086,1389 1008,1392 879,1394 522,1394 233,1391 134,1382 134,1356"/>
                 <Baseline points="134,1382 248,1383 273,1383 290,1383 327,1383 560,1385 599,1386 658,1386 694,1386 711,1386 727,1387 792,1387 805,1387 925,1388 956,1388 1008,1388 1042,1388 1086,1389"/>
                 <TextEquiv>
-                    <Unicode>teilung Ⅰ „Grundbeſitz“ von 2 344 677,63 ℳ, bei</Unicode>
+                    <Unicode>teilung I „Grundbeſitz“ von 2 344 677,63 ℳ, bei</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r2l29" custom="readingOrder {index:28;}">
                 <Coords points="133,1395 221,1394 221,1394 385,1394 732,1397 933,1400 968,1401 1087,1410 1087,1433 847,1440 795,1440 357,1435 153,1427 133,1426 133,1395"/>
                 <Baseline points="133,1426 182,1427 221,1427 385,1428 424,1429 459,1429 508,1429 732,1431 778,1432 975,1432 1026,1432 1087,1432"/>
                 <TextEquiv>
-                    <Unicode>der Abteilung ⅠⅠ „Ausſtehende Kapitalien“ von</Unicode>
+                    <Unicode>der Abteilung II „Ausſtehende Kapitalien“ von</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r2l30" custom="readingOrder {index:29;}">
                 <Coords points="135,1444 157,1443 333,1439 333,1439 385,1439 1049,1443 1086,1454 1086,1478 1049,1483 744,1485 728,1485 256,1476 135,1471 135,1444"/>
                 <Baseline points="135,1471 175,1471 190,1471 308,1471 333,1472 385,1472 423,1473 468,1473 503,1473 555,1474 578,1474 744,1476 769,1476 822,1477 847,1477 1086,1478"/>
                 <TextEquiv>
-                    <Unicode>68 087,80 ℳ, bei der Abteilung ⅠⅠⅠ „Kaſſenbarbe⸗</Unicode>
+                    <Unicode>68 087,80 ℳ, bei der Abteilung III „Kaſſenbarbe⸗</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r2l31" custom="readingOrder {index:30;}">
@@ -258,14 +258,14 @@
                 <Coords points="135,1531 165,1527 165,1527 242,1527 464,1528 846,1531 980,1533 1100,1535 1100,1560 1072,1566 1020,1572 1004,1572 707,1571 223,1569 135,1559 135,1531"/>
                 <Baseline points="135,1559 251,1560 277,1559 324,1559 348,1560 576,1563 601,1564 846,1565 879,1565 930,1566 953,1566 1067,1563"/>
                 <TextEquiv>
-                    <Unicode>teilung ⅠⅤ „Ausſtehende Einnahmereſte am Jahres⸗</Unicode>
+                    <Unicode>teilung IV „Ausſtehende Einnahmereſte am Jahres⸗</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r2l33" custom="readingOrder {index:32;}">
                 <Coords points="133,1570 181,1570 595,1573 1044,1577 1086,1580 1086,1611 1044,1615 915,1618 885,1618 133,1610 133,1570"/>
                 <Baseline points="133,1602 255,1603 280,1604 341,1604 360,1604 400,1605 416,1605 534,1606 551,1606 595,1607 612,1607 656,1608 680,1608 731,1609 748,1609 915,1608 950,1608 960,1609 979,1609 1086,1611"/>
                 <TextEquiv>
-                    <Unicode>ſchluß“ von 90 569,39 ℳ bei der Abteilung Ⅴ „Wert</Unicode>
+                    <Unicode>ſchluß“ von 90 569,39 ℳ bei der Abteilung V „Wert</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r2l34" custom="readingOrder {index:33;}">
@@ -279,7 +279,7 @@
                 <Coords points="134,1667 180,1659 180,1659 276,1659 553,1660 1030,1665 1085,1670 1085,1704 535,1704 157,1692 134,1691 134,1667"/>
                 <Baseline points="134,1691 197,1691 231,1692 276,1692 311,1692 362,1693 395,1693 561,1695 587,1695 632,1696 669,1697 774,1697 810,1698 865,1698 900,1698 1085,1699"/>
                 <TextEquiv>
-                    <Unicode>und bei der Abteilung ⅤⅠ „Wert des Mobiliars,</Unicode>
+                    <Unicode>und bei der Abteilung VI „Wert des Mobiliars,</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r2l36" custom="readingOrder {index:35;}">
@@ -300,7 +300,7 @@
                 <Coords points="223,1792 280,1792 852,1796 985,1799 1089,1809 1089,1834 852,1839 563,1839 241,1825 223,1824 223,1792"/>
                 <Baseline points="223,1824 280,1825 305,1825 355,1826 378,1827 580,1829 604,1829 621,1829 647,1829 880,1831 907,1831 1025,1833 1049,1833 1089,1834"/>
                 <TextEquiv>
-                    <Unicode>Bei der Abteilung Ⅰ „Grundbeſitz“ werden an</Unicode>
+                    <Unicode>Bei der Abteilung I „Grundbeſitz“ werden an</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r2l39" custom="readingOrder {index:38;}">
@@ -384,7 +384,7 @@
                 <Coords points="131,2325 167,2322 167,2322 211,2322 449,2323 998,2328 1084,2332 1084,2363 998,2370 948,2370 192,2367 131,2356 131,2325"/>
                 <Baseline points="131,2356 273,2356 298,2356 332,2356 369,2356 592,2358 616,2359 814,2360 852,2360 912,2360 948,2360 998,2361 1024,2362 1084,2363"/>
                 <TextEquiv>
-                    <Unicode>teilung ⅠⅠ „Ausſtehende Kapitalien“ ſetzt ſich aus</Unicode>
+                    <Unicode>teilung II „Ausſtehende Kapitalien“ ſetzt ſich aus</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r2l51" custom="readingOrder {index:50;}">
@@ -447,7 +447,7 @@
                 <Coords points="218,2721 349,2721 988,2724 1084,2739 1084,2763 988,2767 503,2767 218,2755 218,2721"/>
                 <Baseline points="218,2755 279,2755 319,2755 521,2757 559,2757 613,2757 661,2758 988,2761 1033,2762 1084,2762"/>
                 <TextEquiv>
-                    <Unicode>Die Abteilung ⅠⅠⅠ „Kaſſenbarbeſtände am</Unicode>
+                    <Unicode>Die Abteilung III „Kaſſenbarbeſtände am</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r2l60" custom="readingOrder {index:59;}">
@@ -496,7 +496,7 @@
                 <Coords points="130,3048 187,3032 187,3032 236,3032 889,3039 1085,3042 1085,3083 1066,3084 944,3084 216,3079 130,3076 130,3048"/>
                 <Baseline points="130,3068 161,3068 187,3068 398,3070 421,3070 469,3071 495,3071 537,3071 561,3072 624,3072 647,3071 689,3072 704,3072 821,3074 845,3074 889,3074 912,3075 1008,3076 1031,3076 1085,3077"/>
                 <TextEquiv>
-                    <Unicode>— Abteilung ⅠⅤ — von 90 569,39 ℳ ergibt ſich</Unicode>
+                    <Unicode>– Abteilung IV – von 90 569,39 ℳ ergibt ſich</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r2l67" custom="readingOrder {index:66;}">
@@ -517,14 +517,14 @@
                 <Coords points="215,3168 281,3168 920,3173 977,3175 1017,3175 1088,3185 1087,3218 977,3220 967,3220 302,3212 209,3210 209,3170"/>
                 <Baseline points="209,3207 281,3207 303,3207 405,3207 430,3207 480,3208 501,3208 698,3210 717,3210 920,3211 943,3211 1082,3211"/>
                 <TextEquiv>
-                    <Unicode>Die Werte der Naturalien, Materialien uſw. —</Unicode>
+                    <Unicode>Die Werte der Naturalien, Materialien uſw. –</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r2l70" custom="readingOrder {index:69;}">
                 <Coords points="129,3209 334,3209 1006,3221 1085,3232 1085,3258 1062,3268 942,3268 243,3260 163,3259 129,3252 129,3209"/>
                 <Baseline points="129,3252 334,3251 376,3251 389,3251 423,3252 467,3252 501,3252 686,3254 720,3254 777,3255 811,3255 907,3256 942,3256 1085,3258"/>
                 <TextEquiv>
-                    <Unicode>Abteilung Ⅴ — entſprechen mit ihrem geringen</Unicode>
+                    <Unicode>Abteilung V – entſprechen mit ihrem geringen</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
@@ -535,37 +535,37 @@ rückgangs der Inhaberpapiere. Außerdem ſind bei
 der einſtweiligen Kapitalanſammlung 1047,73 ℳ
 vom Sparguthaben abgehoben und Wertpapiere im
 Nennwert von 4900 ℳ verkauft worden.
-Die Abteilung ⅠⅠⅠ, „Kaſſenbarbeſtände am
+Die Abteilung III, „Kaſſenbarbeſtände am
 Jahresſchluß“ weiſt einen Zugang von 3 174 161,40 ℳ
 auf und zwar haben ſich gegen das Vorjahr erhöht:
 der Beſtand des Ordinariums des Hauptetats um
 527 717,41 ℳ, der Beſtand des Extraordinariums
 des Hauptetats um 2 617 528,48 ℳ und die Aſſervate
 um 28 915,51 ℳ. Die Werte der Naturalien, Ma⸗
-terialien uſw. — Abteilung Ⅴ — entſprechen mit
+terialien uſw. – Abteilung V – entſprechen mit
 ihrem Zugange von 50 340,19 ℳ den Feſtſtellungen
 am 31. März d. Js.
 Der Zugang bei den Werten des Mobiliars,
-Inventars uſw. — Abteilung ⅤⅠ — von 189 261,37 ℳ
+Inventars uſw. – Abteilung VI – von 189 261,37 ℳ
 iſt auf Neuanſchaffungen zurückzuführen.
-Bei der Abteilung ⅠⅤ „Ausſtehende Einnahme⸗
+Bei der Abteilung IV „Ausſtehende Einnahme⸗
 reſte am Jahresſchluß“ ergibt ſich aus der Gegen⸗
 überſtellung der Einnahmereſte laut Jahresabſchluß
 für 1903 mit denen für 1902 ein Abgang von
 23 785,75 ℳ.
 B. Kanaliſationsverwaltung. Gegenüber
 dem Vorjahr ſind Zugänge eingetreten bei der Ab⸗
-teilung Ⅰ „Grundbeſitz“ von 2 344 677,63 ℳ, bei
-der Abteilung ⅠⅠ „Ausſtehende Kapitalien“ von
-68 087,80 ℳ, bei der Abteilung ⅠⅠⅠ „Kaſſenbarbe⸗
+teilung I „Grundbeſitz“ von 2 344 677,63 ℳ, bei
+der Abteilung II „Ausſtehende Kapitalien“ von
+68 087,80 ℳ, bei der Abteilung III „Kaſſenbarbe⸗
 ſtände am Jahresſchluß“ von 85 950,88 ℳ, bei der Ab⸗
-teilung ⅠⅤ „Ausſtehende Einnahmereſte am Jahres⸗
-ſchluß“ von 90 569,39 ℳ bei der Abteilung Ⅴ „Wert
+teilung IV „Ausſtehende Einnahmereſte am Jahres⸗
+ſchluß“ von 90 569,39 ℳ bei der Abteilung V „Wert
 der Naturalien, Materialien uſw.“ von 6877,60 ℳ
-und bei der Abteilung ⅤⅠ „Wert des Mobiliars,
+und bei der Abteilung VI „Wert des Mobiliars,
 Inventars uſw.“ von 5870,51 ℳ, zuſammen von
 2 602 033,81 ℳ.
-Bei der Abteilung Ⅰ „Grundbeſitz“ werden an
+Bei der Abteilung I „Grundbeſitz“ werden an
 Zugängen 151 500 ℳ für den Neubau der Zwiſchen⸗
 pumpſtation am Nonnendamm, 21 352 ℳ und
 1 578 935 ℳ für den Neuerwerb von Rieſellände⸗
@@ -577,7 +577,7 @@ und 230 ℳ Wertverminderung bei den Grundſtücken
 und 286 421,50 ℳ Abſchreibungen bei den unter⸗
 irdiſchen Kanaliſationsanlagen.
 Der Zugang von 68 087,80 ℳ bei der Ab⸗
-teilung ⅠⅠ „Ausſtehende Kapitalien“ ſetzt ſich aus
+teilung II „Ausſtehende Kapitalien“ ſetzt ſich aus
 reinen Zugängen in Höhe von 111 817,63 ℳ und
 43 729,83 ℳ Abgängen zuſammen. Die Reinzu⸗
 gänge ſind durch Neuanlegungen für den Reſervefonds
@@ -586,18 +586,18 @@ der Lagerplatzverwaltung hervorgerufen, wohingegen
 der noch einziehbare Reſt an einmaligen Kanaliſations⸗
 beiträgen ſich gegen das Vorjahr um 43 729,83 ℳ
 verringert hat.
-Die Abteilung ⅠⅠⅠ „Kaſſenbarbeſtände am
+Die Abteilung III „Kaſſenbarbeſtände am
 Jahresſchluß“ weiſt einen Zugang von 85 950,88 ℳ
 auf und zwar haben ſich gegen das Vorjahr erhöht:
 der Beſtand des Ordinariums des Sonderetats der
 Kanaliſationsverwaltung um 33 070,39 ℳ und die
 Aſſervate um 52 880,49 ℳ.
 Der Zugang bei den ausſtehenden Einnahmereſten
-— Abteilung ⅠⅤ — von 90 569,39 ℳ ergibt ſich
+– Abteilung IV – von 90 569,39 ℳ ergibt ſich
 aus dem Vergleich des Jahresabſchluſſes für 1903
 mit dem für 1902.
-Die Werte der Naturalien, Materialien uſw. —
-Abteilung Ⅴ — entſprechen mit ihrem geringen</Unicode>
+Die Werte der Naturalien, Materialien uſw. –
+Abteilung V – entſprechen mit ihrem geringen</Unicode>
             </TextEquiv>
         </TextRegion>
         <TextRegion type="paragraph" id="r3" custom="readingOrder {index:2;} structure {type:paragraph;}">
@@ -620,7 +620,7 @@ Abteilung Ⅴ — entſprechen mit ihrem geringen</Unicode>
                 <Coords points="1126,245 1198,244 1802,244 2093,250 2093,281 1959,289 1783,289 1230,283 1126,279 1126,245"/>
                 <Baseline points="1126,279 1180,279 1198,279 1386,277 1403,277 1581,277 1599,277 1673,278 1697,278 1741,278 1757,278 1959,280 1975,280 2086,279"/>
                 <TextEquiv>
-                    <Unicode>des Mobiliars, Inventars uſw. — Abteilung ⅤⅠ —</Unicode>
+                    <Unicode>des Mobiliars, Inventars uſw. – Abteilung VI –</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r3l4" custom="readingOrder {index:3;}">
@@ -655,7 +655,7 @@ Abteilung Ⅴ — entſprechen mit ihrem geringen</Unicode>
                 <Coords points="1124,467 1567,466 1567,466 1866,466 2064,468 2087,472 2087,502 2064,508 1866,509 1145,509 1124,502 1124,467"/>
                 <Baseline points="1124,502 1317,501 1352,501 1495,500 1530,500 1576,500 1611,500 1662,500 1699,500 1866,502 1894,501 1944,501 1983,500 2087,502"/>
                 <TextEquiv>
-                    <Unicode>Abſchnittes betragen bei der Abteilung ⅠⅤ „Aus⸗</Unicode>
+                    <Unicode>Abſchnittes betragen bei der Abteilung IV „Aus⸗</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r3l9" custom="readingOrder {index:8;}">
@@ -669,7 +669,7 @@ Abteilung Ⅴ — entſprechen mit ihrem geringen</Unicode>
                 <Coords points="1123,567 1169,558 1260,556 1412,555 1412,555 1498,555 2067,556 2086,561 2086,594 1562,597 1412,597 1123,592 1123,567"/>
                 <Baseline points="1123,592 1187,591 1224,591 1271,591 1306,591 1359,591 1393,590 1562,589 1586,588 1635,589 1672,589 1777,590 1814,590 1866,590 1898,590 2086,592"/>
                 <TextEquiv>
-                    <Unicode>und bei der Abteilung ⅤⅠ „Wert des Mobiliars,</Unicode>
+                    <Unicode>und bei der Abteilung VI „Wert des Mobiliars,</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r3l11" custom="readingOrder {index:10;}">
@@ -690,14 +690,14 @@ Abteilung Ⅴ — entſprechen mit ihrem geringen</Unicode>
                 <Coords points="1122,700 1152,691 1470,690 1470,690 1938,690 2047,697 2090,701 2090,724 1960,731 1638,732 1229,733 1181,733 1122,725 1122,700"/>
                 <Baseline points="1122,725 1229,725 1276,725 1322,725 1369,724 1422,724 1470,724 1638,724 1687,723 1695,723 1743,723 1980,724 2028,724 2090,724"/>
                 <TextEquiv>
-                    <Unicode>wieſen bei der Abteilung Ⅰ „Grundbeſitz“ von</Unicode>
+                    <Unicode>wieſen bei der Abteilung I „Grundbeſitz“ von</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r3l14" custom="readingOrder {index:13;}">
                 <Coords points="1122,741 1344,734 1344,734 2037,734 2088,745 2088,768 2037,776 1830,777 1813,777 1267,774 1122,769 1122,741"/>
                 <Baseline points="1122,769 1185,769 1200,769 1319,768 1344,768 1390,768 1412,768 1477,768 1510,768 1555,768 1572,768 1637,767 1660,767 1830,767 1854,767 1908,768 1942,768 2088,768"/>
                 <TextEquiv>
-                    <Unicode>351 064,51 ℳ und bei der Abteilung ⅠⅠⅠ „Kaſſen⸗</Unicode>
+                    <Unicode>351 064,51 ℳ und bei der Abteilung III „Kaſſen⸗</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r3l15" custom="readingOrder {index:14;}">
@@ -725,7 +725,7 @@ Abteilung Ⅴ — entſprechen mit ihrem geringen</Unicode>
                 <Coords points="1210,914 1300,912 1300,912 2037,912 2088,922 2088,946 2037,955 1841,956 1371,957 1354,957 1300,955 1210,948 1210,914"/>
                 <Baseline points="1210,948 1278,948 1300,947 1435,947 1472,947 1518,947 1552,947 1606,947 1635,947 1841,947 1865,947 1914,947 1938,947 2088,940"/>
                 <TextEquiv>
-                    <Unicode>Der Zugang bei der Abteilung ⅠⅤ „Außen⸗</Unicode>
+                    <Unicode>Der Zugang bei der Abteilung IV „Außen⸗</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r3l19" custom="readingOrder {index:18;}">
@@ -746,7 +746,7 @@ Abteilung Ⅴ — entſprechen mit ihrem geringen</Unicode>
                 <Coords points="1209,1047 1370,1046 1370,1046 2017,1046 2074,1055 2086,1071 2086,1082 1945,1087 1578,1089 1561,1089 1209,1080 1209,1047"/>
                 <Baseline points="1209,1080 1268,1080 1293,1080 1345,1080 1370,1080 1578,1079 1604,1079 1652,1079 1678,1079 1784,1079 1817,1079 1870,1079 1895,1080 2086,1082"/>
                 <TextEquiv>
-                    <Unicode>Bei der Abteilung ⅤⅠ „Wert des Mobiliars,</Unicode>
+                    <Unicode>Bei der Abteilung VI „Wert des Mobiliars,</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r3l22" custom="readingOrder {index:21;}">
@@ -781,7 +781,7 @@ Abteilung Ⅴ — entſprechen mit ihrem geringen</Unicode>
                 <Coords points="1117,1270 1156,1268 1156,1268 2062,1268 2082,1278 2082,1302 2062,1303 1868,1312 1853,1312 1394,1311 1203,1310 1117,1301 1117,1270"/>
                 <Baseline points="1117,1301 1261,1302 1287,1302 1304,1302 1331,1302 1565,1302 1603,1302 1638,1302 1662,1302 1824,1302 1853,1302 1893,1302 1918,1302 2082,1302"/>
                 <TextEquiv>
-                    <Unicode>teilung Ⅰ „Grundbeſitz“ iſt folgendes zu bemerken.</Unicode>
+                    <Unicode>teilung I „Grundbeſitz“ iſt folgendes zu bemerken.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r3l27" custom="readingOrder {index:26;}">
@@ -830,7 +830,7 @@ Abteilung Ⅴ — entſprechen mit ihrem geringen</Unicode>
                 <Coords points="1116,1581 1145,1579 1145,1579 1376,1579 1735,1580 1966,1581 2059,1582 2083,1591 2083,1616 1735,1623 1553,1623 1201,1621 1116,1611 1116,1581"/>
                 <Baseline points="1116,1611 1232,1612 1256,1612 1307,1612 1331,1612 1491,1614 1514,1614 1735,1614 1759,1614 1890,1614 1939,1615 2001,1615 2025,1615 2083,1616"/>
                 <TextEquiv>
-                    <Unicode>teilung ⅤⅠ beſonders nachgewieſen werden. Um den</Unicode>
+                    <Unicode>teilung VI beſonders nachgewieſen werden. Um den</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r3l34" custom="readingOrder {index:33;}">
@@ -865,7 +865,7 @@ Abteilung Ⅴ — entſprechen mit ihrem geringen</Unicode>
                 <Coords points="1119,1801 1139,1800 1139,1800 1165,1800 1984,1802 2084,1814 2084,1839 1984,1843 1511,1844 1327,1844 1139,1834 1119,1832 1119,1801"/>
                 <Baseline points="1119,1824 1165,1833 1211,1834 1262,1835 1302,1835 1511,1835 1551,1835 1605,1836 1655,1836 1984,1839 2030,1839 2084,1839"/>
                 <TextEquiv>
-                    <Unicode>bei der Abteilung ⅠⅠⅠ „Kaſſenbarbeſtände am</Unicode>
+                    <Unicode>bei der Abteilung III „Kaſſenbarbeſtände am</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r3l39" custom="readingOrder {index:38;}">
@@ -907,14 +907,14 @@ Abteilung Ⅴ — entſprechen mit ihrem geringen</Unicode>
                 <Coords points="1120,2067 1325,2067 1593,2068 1840,2069 1939,2071 1976,2073 2084,2082 2084,2107 1851,2111 1822,2111 1570,2110 1297,2108 1140,2101 1120,2100 1120,2067"/>
                 <Baseline points="1120,2100 1166,2100 1202,2100 1253,2101 1277,2101 1445,2101 1470,2102 1504,2102 1530,2102 1758,2104 1781,2104 1983,2106 2021,2106 2084,2107"/>
                 <TextEquiv>
-                    <Unicode>bei der Abteilung ⅠⅠ „Ausſtehende Kapitalien“ von</Unicode>
+                    <Unicode>bei der Abteilung II „Ausſtehende Kapitalien“ von</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r3l45" custom="readingOrder {index:44;}">
                 <Coords points="1119,2117 1164,2116 1340,2113 1433,2112 1433,2112 1479,2112 1974,2115 2032,2117 2070,2127 2083,2133 2083,2144 2070,2151 1974,2158 1916,2158 1614,2156 1263,2149 1141,2144 1119,2143 1119,2117"/>
                 <Baseline points="1119,2143 1182,2143 1197,2143 1315,2144 1340,2145 1400,2145 1433,2145 1479,2146 1513,2146 1565,2146 1593,2146 1762,2148 1787,2148 1843,2148 1879,2149 2083,2141"/>
                 <TextEquiv>
-                    <Unicode>339 463,05 ℳ, bei der Abteilung ⅠⅠⅠ „Kaſſenbar⸗</Unicode>
+                    <Unicode>339 463,05 ℳ, bei der Abteilung III „Kaſſenbar⸗</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r3l46" custom="readingOrder {index:45;}">
@@ -928,14 +928,14 @@ Abteilung Ⅴ — entſprechen mit ihrem geringen</Unicode>
                 <Coords points="1118,2198 1360,2198 1504,2199 1920,2203 2042,2205 2083,2216 2083,2240 1360,2242 1344,2242 1118,2231 1118,2198"/>
                 <Baseline points="1118,2230 1169,2231 1193,2231 1360,2233 1404,2233 1413,2233 1442,2233 1547,2234 1572,2234 1622,2235 1645,2235 1847,2237 1873,2237 2083,2239"/>
                 <TextEquiv>
-                    <Unicode>der Abteilung Ⅴ „Wert der Naturalien, Materialien</Unicode>
+                    <Unicode>der Abteilung V „Wert der Naturalien, Materialien</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r3l48" custom="readingOrder {index:47;}">
                 <Coords points="1115,2250 1139,2241 1139,2241 1150,2241 1564,2244 1734,2246 1894,2248 2083,2251 2083,2283 2006,2291 1879,2291 1139,2279 1115,2275 1115,2250"/>
                 <Baseline points="1115,2274 1208,2275 1235,2275 1296,2276 1321,2276 1362,2276 1376,2276 1495,2277 1520,2278 1564,2278 1588,2279 1652,2280 1688,2280 1734,2280 1763,2281 1814,2281 1837,2281 2006,2283 2031,2283 2083,2283"/>
                 <TextEquiv>
-                    <Unicode>uſw.“ von 50 280,55 ℳ und bei der Abteilung ⅤⅠ</Unicode>
+                    <Unicode>uſw.“ von 50 280,55 ℳ und bei der Abteilung VI</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r3l49" custom="readingOrder {index:48;}">
@@ -963,14 +963,14 @@ Abteilung Ⅴ — entſprechen mit ihrem geringen</Unicode>
                 <Coords points="1116,2421 1152,2419 1152,2419 1160,2419 1452,2420 1963,2427 2082,2438 2082,2462 1963,2469 1890,2469 1585,2467 1434,2464 1134,2453 1116,2452 1116,2421"/>
                 <Baseline points="1116,2452 1160,2452 1194,2453 1245,2453 1284,2454 1452,2455 1487,2456 1505,2456 1544,2457 1778,2459 1821,2460 1855,2460 1890,2460 1979,2461 2019,2462 2082,2462"/>
                 <TextEquiv>
-                    <Unicode>bei der Abteilung Ⅰ „Grundbeſitz“ in Höhe von</Unicode>
+                    <Unicode>bei der Abteilung I „Grundbeſitz“ in Höhe von</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r3l53" custom="readingOrder {index:52;}">
                 <Coords points="1116,2468 1281,2465 1324,2465 1484,2466 1720,2468 1969,2472 2065,2474 2082,2483 2082,2508 2004,2514 1158,2505 1116,2496 1116,2468"/>
                 <Baseline points="1116,2496 1178,2497 1193,2497 1256,2498 1281,2498 1324,2499 1348,2499 1412,2500 1438,2500 1484,2501 1508,2501 1559,2502 1583,2502 1752,2503 1773,2504 1824,2504 1851,2504 2082,2507"/>
                 <TextEquiv>
-                    <Unicode>115 226 ℳ und bei der Abteilung ⅠⅤ „Ausſtehende</Unicode>
+                    <Unicode>115 226 ℳ und bei der Abteilung IV „Ausſtehende</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r3l54" custom="readingOrder {index:53;}">
@@ -1005,7 +1005,7 @@ Abteilung Ⅴ — entſprechen mit ihrem geringen</Unicode>
                 <Coords points="1114,2686 1186,2686 1565,2690 1840,2693 1921,2695 2080,2702 2080,2730 1921,2735 1880,2736 1728,2736 1472,2733 1139,2729 1114,2721 1114,2686"/>
                 <Baseline points="1114,2720 1320,2722 1337,2722 1371,2723 1388,2723 1439,2723 1453,2724 1594,2725 1612,2726 1666,2726 1679,2726 1975,2729 1994,2729 2080,2730"/>
                 <TextEquiv>
-                    <Unicode>Abteilung ⅠⅠ am Schluſſe des Rechnungsjahres 1903</Unicode>
+                    <Unicode>Abteilung II am Schluſſe des Rechnungsjahres 1903</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r3l59" custom="readingOrder {index:58;}">
@@ -1019,14 +1019,14 @@ Abteilung Ⅴ — entſprechen mit ihrem geringen</Unicode>
                 <Coords points="1115,2772 1194,2776 1360,2776 1905,2780 2053,2785 2080,2786 2080,2819 2053,2820 1905,2824 1593,2824 1215,2819 1114,2808 1114,2783"/>
                 <Baseline points="1114,2808 1158,2809 1194,2810 1360,2811 1407,2812 1457,2812 1493,2813 1568,2814 1593,2814 1905,2818 1934,2818 1979,2818 2009,2819 2080,2810"/>
                 <TextEquiv>
-                    <Unicode>im Vorjahre. In dem Kaſſenbarbeſtande — Ab⸗</Unicode>
+                    <Unicode>im Vorjahre. In dem Kaſſenbarbeſtande – Ab⸗</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r3l61" custom="readingOrder {index:60;}">
                 <Coords points="1114,2822 1152,2820 1152,2820 1162,2820 2080,2829 2080,2864 1966,2867 1677,2868 1637,2868 1240,2864 1114,2854 1114,2822"/>
                 <Baseline points="1114,2853 1257,2854 1288,2855 1340,2855 1375,2856 1427,2857 1466,2858 1586,2859 1626,2860 1677,2859 1714,2860 1777,2860 1812,2861 1876,2861 1891,2861 2011,2863 2036,2864 2080,2864"/>
                 <TextEquiv>
-                    <Unicode>teilung ⅠⅠⅠ —, welcher ſich von 606 440,82 ℳ</Unicode>
+                    <Unicode>teilung III –, welcher ſich von 606 440,82 ℳ</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r3l62" custom="readingOrder {index:61;}">
@@ -1054,14 +1054,14 @@ Abteilung Ⅴ — entſprechen mit ihrem geringen</Unicode>
                 <Coords points="1204,3000 1245,3000 1913,3007 1971,3009 2010,3009 2086,3021 2087,3049 1971,3049 1245,3043 1204,3043 1204,3000"/>
                 <Baseline points="1204,3035 1267,3035 1283,3035 1385,3036 1408,3036 1460,3037 1484,3037 1686,3040 1705,3041 1913,3042 1936,3042 2077,3040"/>
                 <TextEquiv>
-                    <Unicode>Die Werte der Naturalien, Materialien uſw. —</Unicode>
+                    <Unicode>Die Werte der Naturalien, Materialien uſw. –</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r3l66" custom="readingOrder {index:65;}">
                 <Coords points="1114,3043 1281,3043 1975,3052 2080,3064 2080,3089 2000,3097 1932,3095 1257,3089 1114,3081 1114,3043"/>
                 <Baseline points="1114,3077 1316,3080 1340,3080 1370,3081 1386,3081 1430,3082 1446,3082 1633,3085 1656,3085 1715,3086 1737,3086 1835,3087 1850,3087 2000,3088 2017,3088 2080,3089"/>
                 <TextEquiv>
-                    <Unicode>Abteilung Ⅴ — entſprechen mit ihrem Zugange von</Unicode>
+                    <Unicode>Abteilung V – entſprechen mit ihrem Zugange von</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r3l67" custom="readingOrder {index:66;}">
@@ -1082,7 +1082,7 @@ Abteilung Ⅴ — entſprechen mit ihrem geringen</Unicode>
                 <Coords points="1113,3177 1142,3177 2033,3188 2064,3198 2077,3206 2077,3217 2064,3224 1926,3231 1514,3226 1113,3218 1113,3177"/>
                 <Baseline points="1113,3213 1293,3216 1316,3216 1389,3217 1413,3217 1457,3218 1489,3218 1697,3221 1727,3221 1778,3222 1800,3222 1844,3222 1869,3222 1926,3223 1949,3223 2058,3221"/>
                 <TextEquiv>
-                    <Unicode>Inventars uſw. — Abteilung ⅤⅠ — auf Neuan⸗</Unicode>
+                    <Unicode>Inventars uſw. – Abteilung VI – auf Neuan⸗</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r3l70" custom="readingOrder {index:69;}">
@@ -1095,73 +1095,73 @@ Abteilung Ⅴ — entſprechen mit ihrem geringen</Unicode>
             <TextEquiv>
                 <Unicode>Zugang von 6877,60 ℳ den Feſtſtellungen am&#13;
 31. März d. Js., während der Zugang bei dem Werte&#13;
-des Mobiliars, Inventars uſw. — Abteilung ⅤⅠ —&#13;
+des Mobiliars, Inventars uſw. – Abteilung VI –&#13;
 von 5870,51 ℳ auf Neuanſchaffungen, insbeſondere&#13;
 für Inventar und maſchinelle Anlagen auf dem Pump⸗&#13;
 werk am Nonnendamm zurückzuführen iſt.&#13;
 C. Elektrizitätswerk. Die Zugänge dieſes&#13;
-Abſchnittes betragen bei der Abteilung ⅠⅤ „Aus⸗&#13;
+Abſchnittes betragen bei der Abteilung IV „Aus⸗&#13;
 ſtehende Einnahmereſte am Jahresſchluß“ 110 ℳ&#13;
-und bei der Abteilung ⅤⅠ „Wert des Mobiliars,&#13;
+und bei der Abteilung VI „Wert des Mobiliars,&#13;
 Inventars uſw.“ 312 466,54 ℳ, zuſammen&#13;
 312 576,54 ℳ. Dagegen werden Abgänge nachge⸗&#13;
-wieſen bei der Abteilung Ⅰ „Grundbeſitz“ von&#13;
-351 064,51 ℳ und bei der Abteilung ⅠⅠⅠ „Kaſſen⸗&#13;
+wieſen bei der Abteilung I „Grundbeſitz“ von&#13;
+351 064,51 ℳ und bei der Abteilung III „Kaſſen⸗&#13;
 barbeſtände am Jahresſchluß“ von 2097,59 ℳ, zu⸗&#13;
 ſammen von 353 162,10 ℳ, ſodaß ſich eine Ver⸗&#13;
 mögensverminderung von 40 585,56 ℳ ergibt.&#13;
-Der Zugang bei der Abteilung ⅠⅤ „Außen⸗&#13;
+Der Zugang bei der Abteilung IV „Außen⸗&#13;
 ſtehende Einnahmereſte am Jahresſchluß“ von 110 ℳ&#13;
 entſpricht dem Ergebnis des Jahresabſchluſſes für 1903.&#13;
-Bei der Abteilung ⅤⅠ „Wert des Mobiliars,&#13;
+Bei der Abteilung VI „Wert des Mobiliars,&#13;
 Inventars uſw.“ iſt der Zugang von 312 466,54 ℳ&#13;
 durch Neuanſchaffungen für maſchinelle Anlagen ſowie&#13;
 für Inventar und Werkzeuge hervorgerufen.&#13;
 Zum Abgang von 351 064,51 ℳ bei der Ab⸗&#13;
-teilung Ⅰ „Grundbeſitz“ iſt folgendes zu bemerken.&#13;
+teilung I „Grundbeſitz“ iſt folgendes zu bemerken.&#13;
 Als Wert der Gebäude iſt im Vorjahr der von der&#13;
 Grundeigentums⸗Deputation angegebene Feuerkaſſen⸗&#13;
 wert angenommen worden. Nachträglich hat ſich&#13;
 aber herausgeſtellt, daß der Feuerkaſſenwert ſich nicht&#13;
 allein auf die Gebäude, ſondern auch auf die Ma⸗&#13;
 ſchinen bezog, die im Vermögenslagerbuch unter Ab⸗&#13;
-teilung ⅤⅠ beſonders nachgewieſen werden. Um den&#13;
+teilung VI beſonders nachgewieſen werden. Um den&#13;
 Feuerkaſſenwert der Maſchinen iſt mithin der Wert&#13;
 des Grundbeſitzes im Vorjahr zu hoch angegeben&#13;
 worden. Dies iſt nunmehr durch entſprechende Ab⸗&#13;
 gangsſtellung richtiggeſtellt worden. Der Abgang&#13;
-bei der Abteilung ⅠⅠⅠ „Kaſſenbarbeſtände am&#13;
+bei der Abteilung III „Kaſſenbarbeſtände am&#13;
 Jahresſchluß“ von 2097,59 ℳ ergibt ſich aus dem&#13;
 Wegfall des Beſtandes des Extraordinariums des&#13;
 Elektrizitätsetats.&#13;
 D. Gasanſtaltsverwaltung. Gegenüber den&#13;
 Abſchlußzahlen des Vorjahres ſind Zugänge eingetreten&#13;
-bei der Abteilung ⅠⅠ „Ausſtehende Kapitalien“ von&#13;
-339 463,05 ℳ, bei der Abteilung ⅠⅠⅠ „Kaſſenbar⸗&#13;
+bei der Abteilung II „Ausſtehende Kapitalien“ von&#13;
+339 463,05 ℳ, bei der Abteilung III „Kaſſenbar⸗&#13;
 beſtände am Jahresſchluß“ von 185 031,62 ℳ, bei&#13;
-der Abteilung Ⅴ „Wert der Naturalien, Materialien&#13;
-uſw.“ von 50 280,55 ℳ und bei der Abteilung ⅤⅠ&#13;
+der Abteilung V „Wert der Naturalien, Materialien&#13;
+uſw.“ von 50 280,55 ℳ und bei der Abteilung VI&#13;
 „Wert des Mobiliars, Inventars uſw.“ von 43 193,26 ℳ&#13;
 zuſammen 617 968,48 ℳ. Demgegenüber ſtehen&#13;
 Abgänge von insgeſamt 248 599,85 ℳ und zwar&#13;
-bei der Abteilung Ⅰ „Grundbeſitz“ in Höhe von&#13;
-115 226 ℳ und bei der Abteilung ⅠⅤ „Ausſtehende&#13;
+bei der Abteilung I „Grundbeſitz“ in Höhe von&#13;
+115 226 ℳ und bei der Abteilung IV „Ausſtehende&#13;
 Einnahmereſte am Jahresſchluß“ in Höhe von&#13;
 133 373,85 ℳ, ſodaß ein Vermögenszuwachs von&#13;
 noch 369 368,63 ℳ verbleibt.&#13;
 Als „Ausſtehende Kapitalien“ werden bei der&#13;
-Abteilung ⅠⅠ am Schluſſe des Rechnungsjahres 1903&#13;
+Abteilung II am Schluſſe des Rechnungsjahres 1903&#13;
 457 740,94 ℳ nachgewieſen, gegen 118 277,89 ℳ&#13;
-im Vorjahre. In dem Kaſſenbarbeſtande — Ab⸗&#13;
-teilung ⅠⅠⅠ —, welcher ſich von 606 440,82 ℳ&#13;
+im Vorjahre. In dem Kaſſenbarbeſtande – Ab⸗&#13;
+teilung III –, welcher ſich von 606 440,82 ℳ&#13;
 auf 791 472,44 ℳ, mithin um 185 031,62 ℳ erhöht&#13;
 hat, ſind auch die von den Gasabnehmern beſtellten&#13;
 Sicherheiten im Betrage von 286 913,99 ℳ enthalten.&#13;
-Die Werte der Naturalien, Materialien uſw. —&#13;
-Abteilung Ⅴ — entſprechen mit ihrem Zugange von&#13;
+Die Werte der Naturalien, Materialien uſw. –&#13;
+Abteilung V – entſprechen mit ihrem Zugange von&#13;
 50 280,55 ℳ den Feſtſtellungen am 31. März d. J.,&#13;
 während der Zugang bei dem Werte des Mobiliars,&#13;
-Inventars uſw. — Abteilung ⅤⅠ — auf Neuan⸗&#13;
+Inventars uſw. – Abteilung VI – auf Neuan⸗&#13;
 ſchaffungen zurückzuführen iſt.</Unicode>
             </TextEquiv>
         </TextRegion>

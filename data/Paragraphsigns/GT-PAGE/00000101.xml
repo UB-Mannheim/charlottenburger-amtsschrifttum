@@ -3,20 +3,20 @@
     <Metadata>
         <Creator>Transkribus</Creator>
         <Created>2022-05-06T13:44:11.712+02:00</Created>
-        <LastChange>2023-07-04T14:43:00.737+02:00</LastChange>
+        <LastChange>2024-02-19T11:51:11.045+01:00</LastChange>
         <Comments>
                 Measurement unit: pixel
                 PrimaryLanguage: 
                 Producer: Transkribus
             </Comments>
-        <TranskribusMetadata docId="988838" pageId="38236899" pageNr="8" tsid="128718682" status="GT" userId="48446" imgUrl="https://files.transkribus.eu/Get?id=MXDNYQWWINVIYDOGKJLVDHFD&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=MWONMUQLCLOLSMCKXYNANNZW" imageId="30799978"/>
+        <TranskribusMetadata docId="988838" pageId="38236899" pageNr="8" tsid="149042012" status="GT" userId="99551" imgUrl="https://files.transkribus.eu/Get?id=MXDNYQWWINVIYDOGKJLVDHFD&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=XFQJBOVCXYZLELPBQCHCSDYD" imageId="30799978"/>
     </Metadata>
     <Page imageFilename="00000101.png" imageWidth="2278" imageHeight="3614">
         <PrintSpace>
             <Coords points="186,55 2170,55 2168,3270 184,3270"/>
         </PrintSpace>
         <ReadingOrder>
-            <OrderedGroup id="ro_1688474641712" caption="Regions reading order">
+            <OrderedGroup id="ro_1708346586194" caption="Regions reading order">
                 <RegionRefIndexed index="0" regionRef="r1"/>
                 <RegionRefIndexed index="1" regionRef="r2"/>
                 <RegionRefIndexed index="2" regionRef="r3"/>
@@ -39,14 +39,14 @@
             <Coords points="184,162 1159,161 1176,3263 184,3270"/>
             <TextLine id="r2l1" custom="readingOrder {index:0;}">
                 <Coords points="657,169 678,169 692,173 692,207 679,207 657,202"/>
-                <Baseline points="657,193 692,207"/>
+                <Baseline points="657,201 691,199"/>
                 <TextEquiv>
                     <Unicode>b)</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r2l2" custom="readingOrder {index:1;}">
-                <Coords points="279,216 606,212 1046,207 1046,207 1140,207 1154,221 1154,234 1140,248 1007,252 451,259 279,259"/>
-                <Baseline points="279,251 451,249 490,248 566,247 606,247 771,245 790,245 1007,242 1046,242 1154,230"/>
+                <Coords points="279,216 606,212 1046,207 1140,207 1158,211 1157,248 1140,248 1007,252 451,259 279,259"/>
+                <Baseline points="279,251 451,249 490,248 566,247 606,247 771,245 790,245 1007,242 1046,242 1155,241"/>
                 <TextEquiv>
                     <Unicode>Zwiſchen dem Königlich Preußiſchen Forſt⸗</Unicode>
                 </TextEquiv>
@@ -88,21 +88,21 @@
             </TextLine>
             <TextLine id="r2l8" custom="readingOrder {index:7;}">
                 <Coords points="201,529 330,526 1033,520 1033,520 1154,520 1154,552 1078,561 910,564 575,567 463,568 239,569 224,569 201,561"/>
-                <Baseline points="201,553 283,561 308,561 612,558 635,558 691,557 718,557 995,554 1020,553 1078,553 1103,553 1154,552"/>
+                <Baseline points="203,561 283,561 308,561 612,558 635,558 691,557 718,557 995,554 1020,553 1078,553 1103,553 1154,552"/>
                 <TextEquiv>
                     <Unicode>bzw. Rechtsnachfolger der Stadtgemeinde auf die</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r2l9" custom="readingOrder {index:8;}">
-                <Coords points="203,573 843,566 1052,565 1052,565 1073,565 1139,573 1154,577 1154,589 1139,596 1115,597 637,609 566,610 495,610 203,606"/>
-                <Baseline points="203,606 319,605 343,605 408,603 433,602 474,602 495,602 637,601 662,601 741,599 768,598 795,599 823,599 963,597 989,596 1073,594 1095,596 1154,586"/>
+                <Coords points="203,573 843,566 1052,565 1073,565 1139,573 1156,574 1157,598 1139,596 1112,605 637,609 566,610 495,610 203,606"/>
+                <Baseline points="203,606 319,605 343,605 408,603 433,602 474,602 495,602 637,601 662,601 741,599 768,598 795,599 823,599 963,597 989,596 1073,594 1095,596 1155,593"/>
                 <TextEquiv>
                     <Unicode>Dauer von 50 Jahren, vom 1. Oktober 1910 an⸗</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r2l10" custom="readingOrder {index:9;}">
                 <Coords points="202,617 886,609 1093,608 1093,608 1112,608 1154,610 1154,640 1064,648 609,654 282,658 263,658 202,657"/>
-                <Baseline points="202,650 358,648 386,648 451,647 477,647 529,646 555,645 631,644 658,643 709,643 740,643 943,641 972,640 1064,640 1093,640 1154,632"/>
+                <Baseline points="202,650 358,648 386,648 451,647 477,647 529,646 555,645 631,644 658,643 709,643 740,643 943,641 972,640 1064,640 1093,640 1152,637"/>
                 <TextEquiv>
                     <Unicode>fangend, alſo bis zum 30. September 1960, das</Unicode>
                 </TextEquiv>
@@ -123,7 +123,7 @@
             </TextLine>
             <TextLine id="r2l13" custom="readingOrder {index:12;}">
                 <Coords points="203,752 218,750 441,745 701,743 935,742 935,742 1001,742 1154,751 1154,773 1109,783 630,786 441,786 203,782"/>
-                <Baseline points="203,774 278,782 319,781 376,780 419,780 630,777 672,777 876,775 919,775 1010,774 1050,774 1154,773"/>
+                <Baseline points="205,781 278,782 319,781 376,780 419,780 630,777 672,777 876,775 919,775 1010,774 1050,774 1154,773"/>
                 <TextEquiv>
                     <Unicode>teile des Gutsbezirks Grunewald Forſt gegen</Unicode>
                 </TextEquiv>
@@ -136,15 +136,15 @@
                 </TextEquiv>
             </TextLine>
             <TextLine id="r2l15" custom="readingOrder {index:14;}">
-                <Coords points="203,838 534,833 994,830 994,830 1055,830 1139,839 1154,844 1154,855 1139,862 1095,871 756,873 393,875 374,875 203,869"/>
-                <Baseline points="203,869 254,869 277,869 449,867 474,867 641,865 665,865 843,864 866,864 933,863 958,863 1154,852"/>
+                <Coords points="203,838 534,833 994,830 1055,830 1139,832 1154,837 1156,867 1139,869 1095,871 756,873 393,875 374,875 203,869"/>
+                <Baseline points="203,869 254,869 277,869 449,867 474,867 641,865 665,865 843,864 866,864 933,863 958,863 1154,859"/>
                 <TextEquiv>
                     <Unicode>die innerhalb desſelben gelegenen und anzulegen⸗</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r2l16" custom="readingOrder {index:15;}">
-                <Coords points="193,881 423,878 846,874 846,874 1130,874 1154,876 1154,905 1130,907 693,916 644,917 368,920 315,920 193,913"/>
-                <Baseline points="193,913 265,912 287,912 398,911 423,911 582,910 607,910 712,909 733,909 799,908 823,908 963,907 982,907 1044,906 1067,906 1154,897"/>
+                <Coords points="200,881 423,878 846,874 1130,874 1154,876 1154,905 1130,907 693,916 644,917 368,920 315,920 198,918"/>
+                <Baseline points="203,913 265,912 287,912 398,911 423,911 582,910 607,910 712,909 733,909 799,908 823,908 963,907 982,907 1044,906 1067,906 1154,902"/>
                 <TextEquiv>
                     <Unicode>den Wege, Straßen, Plätze und Brücken mit Gas⸗</Unicode>
                 </TextEquiv>
@@ -214,7 +214,7 @@
             </TextLine>
             <TextLine id="r2l26" custom="readingOrder {index:25;}">
                 <Coords points="205,1321 956,1316 956,1316 1135,1316 1154,1325 1154,1348 907,1358 636,1361 287,1361 246,1360 205,1353"/>
-                <Baseline points="205,1345 362,1353 395,1353 492,1352 522,1352 575,1352 605,1351 655,1351 685,1351 907,1349 939,1349 1154,1348"/>
+                <Baseline points="207,1351 362,1353 395,1353 492,1352 522,1352 575,1352 605,1351 655,1351 685,1351 907,1349 939,1349 1154,1348"/>
                 <TextEquiv>
                     <Unicode>beſtehen, wenn für die bezeichneten Gebietsteile</Unicode>
                 </TextEquiv>
@@ -241,15 +241,15 @@
                 </TextEquiv>
             </TextLine>
             <TextLine id="r2l30" custom="readingOrder {index:29;}">
-                <Coords points="204,1496 408,1493 566,1492 863,1491 863,1491 1131,1491 1154,1501 1154,1531 1131,1532 511,1534 408,1534 226,1528 204,1527"/>
-                <Baseline points="204,1519 341,1527 408,1527 532,1526 566,1526 695,1525 729,1525 810,1525 845,1525 962,1524 995,1524 1154,1523"/>
+                <Coords points="204,1496 408,1493 566,1492 863,1491 1131,1491 1154,1501 1154,1531 1131,1532 511,1534 408,1534 225,1536 203,1535"/>
+                <Baseline points="205,1526 341,1527 408,1527 532,1526 566,1526 695,1525 729,1525 810,1525 845,1525 962,1524 995,1524 1154,1523"/>
                 <TextEquiv>
                     <Unicode>bandes. Ebenſo bleiben dieſe Rechte beſtehen,</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r2l31" custom="readingOrder {index:30;}">
                 <Coords points="207,1547 326,1539 397,1538 687,1536 687,1536 1075,1536 1155,1545 1155,1567 1131,1568 621,1579 439,1579 207,1572"/>
-                <Baseline points="207,1572 304,1572 326,1571 376,1571 397,1571 621,1570 644,1570 859,1569 881,1569 989,1568 1011,1568 1155,1561"/>
+                <Baseline points="207,1572 304,1572 326,1571 376,1571 397,1571 621,1570 644,1570 859,1569 881,1569 989,1568 1011,1568 1154,1566"/>
                 <TextEquiv>
                     <Unicode>wenn die bezeichneten Gebietsteile einem anderen</Unicode>
                 </TextEquiv>
@@ -270,14 +270,14 @@
             </TextLine>
             <TextLine id="r2l34" custom="readingOrder {index:33;}">
                 <Coords points="205,1682 283,1672 614,1670 939,1669 939,1669 1157,1669 1157,1700 1132,1701 1068,1702 220,1712 205,1712"/>
-                <Baseline points="205,1705 244,1705 283,1705 457,1704 497,1704 574,1703 614,1703 898,1702 939,1702 1157,1692"/>
+                <Baseline points="205,1705 244,1705 283,1705 457,1704 497,1704 574,1703 614,1703 898,1702 939,1702 1154,1698"/>
                 <TextEquiv>
                     <Unicode>zu bildenden oder einverleibenden Kommunal⸗</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r2l35" custom="readingOrder {index:34;}">
-                <Coords points="206,1723 264,1716 374,1715 374,1715 490,1715 567,1717 567,1747 490,1756 416,1756 228,1749 206,1748"/>
-                <Baseline points="206,1741 350,1748 374,1748 567,1747"/>
+                <Coords points="206,1723 264,1716 374,1715 490,1715 567,1717 567,1747 490,1756 416,1756 221,1754 199,1753"/>
+                <Baseline points="206,1747 350,1748 374,1748 567,1747"/>
                 <TextEquiv>
                     <Unicode>verband begründet.</Unicode>
                 </TextEquiv>
@@ -298,7 +298,7 @@
             </TextLine>
             <TextLine id="r2l38" custom="readingOrder {index:37;}">
                 <Coords points="206,1894 389,1892 495,1891 951,1889 951,1889 1030,1889 1120,1890 1158,1899 1158,1921 1030,1930 420,1933 402,1933 333,1932 206,1926"/>
-                <Baseline points="206,1926 241,1926 268,1925 464,1924 495,1924 644,1924 672,1923 710,1923 737,1923 843,1923 872,1923 907,1923 936,1923 1074,1922 1102,1922 1158,1915"/>
+                <Baseline points="206,1926 241,1926 268,1925 464,1924 495,1924 644,1924 672,1923 710,1923 737,1923 843,1923 872,1923 907,1923 936,1923 1074,1922 1102,1922 1157,1921"/>
                 <TextEquiv>
                     <Unicode>in denjenigen Straßen zu legen, in welchen der</Unicode>
                 </TextEquiv>
@@ -311,8 +311,8 @@
                 </TextEquiv>
             </TextLine>
             <TextLine id="r2l40" custom="readingOrder {index:39;}">
-                <Coords points="211,1981 231,1980 713,1978 962,1977 962,1977 1139,1977 1158,1980 1158,2008 1084,2016 666,2018 231,2018 211,2013"/>
-                <Baseline points="211,2012 511,2010 532,2010 691,2010 713,2010 820,2009 841,2009 904,2009 926,2009 1084,2009 1107,2009 1158,2001"/>
+                <Coords points="211,1981 231,1980 713,1978 962,1977 1139,1977 1158,1980 1160,2018 1084,2016 666,2018 231,2018 211,2013"/>
+                <Baseline points="211,2012 511,2010 532,2010 691,2010 713,2010 820,2009 841,2009 904,2009 926,2009 1084,2009 1107,2009 1157,2008"/>
                 <TextEquiv>
                     <Unicode>Straßenlaternen verlangt, jedoch nur inſoweit, als</Unicode>
                 </TextEquiv>
@@ -325,8 +325,8 @@
                 </TextEquiv>
             </TextLine>
             <TextLine id="r2l42" custom="readingOrder {index:41;}">
-                <Coords points="207,2072 339,2065 583,2064 583,2064 1159,2064 1159,2097 1111,2105 1028,2106 667,2106 339,2105 207,2098"/>
-                <Baseline points="207,2091 272,2098 296,2098 495,2097 530,2097 539,2097 564,2097 639,2097 667,2097 847,2097 871,2097 916,2097 965,2097 1077,2097 1101,2097 1159,2097"/>
+                <Coords points="207,2072 339,2065 583,2064 1159,2064 1159,2097 1111,2105 1028,2106 667,2106 339,2105 202,2106"/>
+                <Baseline points="207,2099 272,2098 296,2098 495,2097 530,2097 539,2097 564,2097 639,2097 667,2097 847,2097 871,2097 916,2097 965,2097 1077,2097 1101,2097 1159,2097"/>
                 <TextEquiv>
                     <Unicode>von mindeſtens 8 cbm garantiert iſt. Indes ſoll</Unicode>
                 </TextEquiv>
@@ -347,7 +347,7 @@
             </TextLine>
             <TextLine id="r2l45" custom="readingOrder {index:44;}">
                 <Coords points="208,2199 331,2199 354,2209 354,2231 331,2240 282,2240 208,2231"/>
-                <Baseline points="208,2223 354,2231"/>
+                <Baseline points="206,2230 354,2231"/>
                 <TextEquiv>
                     <Unicode>belegen.</Unicode>
                 </TextEquiv>
@@ -360,15 +360,15 @@
                 </TextEquiv>
             </TextLine>
             <TextLine id="r2l47" custom="readingOrder {index:46;}">
-                <Coords points="211,2297 232,2288 330,2286 330,2286 1141,2286 1160,2296 1160,2318 1141,2326 330,2326 211,2319"/>
-                <Baseline points="211,2313 287,2319 330,2319 590,2318 630,2318 666,2318 706,2318 845,2318 886,2318 936,2318 978,2318 1160,2318"/>
+                <Coords points="211,2297 232,2288 330,2286 1141,2286 1160,2296 1160,2318 1141,2326 330,2326 205,2325"/>
+                <Baseline points="210,2319 287,2319 330,2319 590,2318 630,2318 666,2318 706,2318 845,2318 886,2318 936,2318 978,2318 1160,2318"/>
                 <TextEquiv>
                     <Unicode>oder Straßenteilen, in welchen die öffentliche</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r2l48" custom="readingOrder {index:47;}">
-                <Coords points="212,2332 233,2330 528,2329 528,2329 810,2329 1146,2330 1161,2344 1161,2355 1146,2371 233,2371 212,2365"/>
-                <Baseline points="212,2364 436,2362 466,2362 558,2362 589,2362 661,2362 690,2362 771,2361 799,2361 898,2361 927,2362 1004,2363 1033,2363 1161,2352"/>
+                <Coords points="212,2332 233,2330 528,2329 810,2329 1146,2330 1165,2334 1163,2369 1146,2371 233,2371 212,2365"/>
+                <Baseline points="212,2364 436,2362 466,2362 558,2362 589,2362 661,2362 690,2362 771,2361 799,2361 898,2361 927,2362 1004,2363 1033,2363 1161,2361"/>
                 <TextEquiv>
                     <Unicode>Beleuchtung durch Gas nicht ſofort nach Fertig⸗</Unicode>
                 </TextEquiv>
@@ -381,8 +381,8 @@
                 </TextEquiv>
             </TextLine>
             <TextLine id="r2l50" custom="readingOrder {index:49;}">
-                <Coords points="208,2421 222,2420 779,2418 779,2418 921,2418 1146,2419 1162,2434 1162,2445 1146,2452 921,2459 311,2460 222,2460 208,2453"/>
-                <Baseline points="208,2453 245,2453 269,2453 311,2453 338,2453 402,2452 427,2452 462,2452 490,2452 564,2451 590,2451 683,2451 711,2451 921,2450 951,2450 1048,2452 1076,2452 1162,2442"/>
+                <Coords points="208,2421 222,2420 779,2418 921,2418 1146,2419 1163,2422 1166,2449 1160,2460 921,2459 311,2460 222,2460 208,2453"/>
+                <Baseline points="208,2453 245,2453 269,2453 311,2453 338,2453 402,2452 427,2452 462,2452 490,2452 564,2451 590,2451 683,2451 711,2451 921,2450 951,2450 1048,2452 1076,2452 1161,2451"/>
                 <TextEquiv>
                     <Unicode>iſt ſie nur in dem Falle verpflichtet, wenn min⸗</Unicode>
                 </TextEquiv>
@@ -423,8 +423,8 @@
                 </TextEquiv>
             </TextLine>
             <TextLine id="r2l56" custom="readingOrder {index:55;}">
-                <Coords points="213,2686 699,2683 699,2683 953,2683 1105,2684 1148,2694 1163,2698 1163,2711 1148,2717 1105,2725 324,2726 305,2726 213,2717"/>
-                <Baseline points="213,2717 269,2717 305,2717 430,2718 469,2718 511,2718 549,2718 570,2718 607,2718 663,2718 699,2717 958,2717 998,2717 1163,2707"/>
+                <Coords points="213,2686 699,2683 953,2683 1105,2684 1152,2684 1167,2688 1164,2716 1149,2722 1105,2725 324,2726 305,2726 213,2717"/>
+                <Baseline points="213,2717 269,2717 305,2717 430,2718 469,2718 511,2718 549,2718 570,2718 607,2718 663,2718 699,2717 958,2717 998,2717 1163,2715"/>
                 <TextEquiv>
                     <Unicode>der ganzen (d. i. der beiderſeitigen) Straßen⸗</Unicode>
                 </TextEquiv>
@@ -493,8 +493,8 @@
                 </TextEquiv>
             </TextLine>
             <TextLine id="r2l66" custom="readingOrder {index:65;}">
-                <Coords points="299,3173 941,3173 1124,3174 1153,3177 1167,3188 1167,3200 1153,3208 941,3215 698,3216 431,3216 299,3214"/>
-                <Baseline points="299,3206 354,3206 377,3206 564,3208 591,3208 751,3208 777,3208 812,3207 835,3207 976,3207 1001,3207 1052,3207 1078,3207 1167,3197"/>
+                <Coords points="299,3173 941,3173 1124,3174 1159,3176 1173,3187 1174,3206 1160,3214 941,3215 698,3216 431,3216 299,3214"/>
+                <Baseline points="299,3206 354,3206 377,3206 564,3208 591,3208 751,3208 777,3208 812,3207 835,3207 976,3207 1001,3207 1052,3207 1078,3207 1168,3205"/>
                 <TextEquiv>
                     <Unicode>In ſämtlichen Straßen, in welchen die Gas⸗</Unicode>
                 </TextEquiv>
@@ -615,7 +615,7 @@ beleuchtung eingeführt wird, werden die Laternen</Unicode>
             </TextLine>
             <TextLine id="r3l6" custom="readingOrder {index:5;}">
                 <Coords points="1182,412 1216,404 1390,400 1755,395 1991,393 1991,393 2130,393 2146,395 2146,425 2130,435 1918,438 1681,440 1246,443 1216,443 1182,435"/>
-                <Baseline points="1182,429 1285,435 1303,435 1371,434 1390,434 1471,433 1489,433 1681,431 1701,431 1972,427 1991,427 2146,425"/>
+                <Baseline points="1183,434 1285,435 1303,435 1371,434 1390,434 1471,433 1489,433 1681,431 1701,431 1972,427 1991,427 2146,425"/>
                 <TextEquiv>
                     <Unicode>netzes und aller benötigten Zubehörungen geſchieht</Unicode>
                 </TextEquiv>
@@ -643,14 +643,14 @@ beleuchtung eingeführt wird, werden die Laternen</Unicode>
             </TextLine>
             <TextLine id="r3l10" custom="readingOrder {index:9;}">
                 <Coords points="1183,580 1965,572 1965,572 2130,572 2147,574 2147,604 2130,613 1789,617 1372,619 1317,619 1183,612"/>
-                <Baseline points="1183,604 1236,613 1264,612 1372,611 1402,611 1560,610 1589,610 1829,607 1859,607 1937,606 1965,606 2147,604"/>
+                <Baseline points="1183,612 1238,613 1264,612 1372,611 1402,611 1560,610 1589,610 1829,607 1859,607 1937,606 1965,606 2147,604"/>
                 <TextEquiv>
                     <Unicode>bei dieſen Arbeiten aufgebrochen oder beſchädigt</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r3l11" custom="readingOrder {index:10;}">
                 <Coords points="1184,631 1204,624 1813,616 1813,616 2118,616 2146,626 2146,666 1204,666 1184,657"/>
-                <Baseline points="1184,650 1327,656 1345,656 1443,655 1461,655 1512,654 1530,654 1625,653 1638,653 1726,652 1738,652 1963,650 1979,650 2146,649"/>
+                <Baseline points="1184,657 1327,656 1345,656 1443,655 1461,655 1512,654 1530,654 1625,653 1638,653 1726,652 1738,652 1963,650 1979,650 2146,649"/>
                 <TextEquiv>
                     <Unicode>werden, ſowie die dabei etwa beſchädigten Straßen⸗</Unicode>
                 </TextEquiv>
@@ -699,7 +699,7 @@ beleuchtung eingeführt wird, werden die Laternen</Unicode>
             </TextLine>
             <TextLine id="r3l18" custom="readingOrder {index:17;}">
                 <Coords points="1182,934 1546,930 2049,927 2049,927 2102,927 2147,937 2147,968 2027,970 1248,975 1208,975 1182,966"/>
-                <Baseline points="1182,958 1258,966 1280,966 1358,966 1377,966 1507,965 1527,964 1719,963 1740,963 1812,962 1833,962 2027,961 2049,960 2147,960"/>
+                <Baseline points="1185,966 1258,966 1280,966 1358,966 1377,966 1507,965 1527,964 1719,963 1740,963 1812,962 1833,962 2027,961 2049,960 2147,960"/>
                 <TextEquiv>
                     <Unicode>liche oder private Intereſſen eine zeitweilige Weg⸗</Unicode>
                 </TextEquiv>
@@ -713,21 +713,21 @@ beleuchtung eingeführt wird, werden die Laternen</Unicode>
             </TextLine>
             <TextLine id="r3l20" custom="readingOrder {index:19;}">
                 <Coords points="1183,1030 1529,1022 1720,1019 1963,1016 1963,1016 2115,1016 2133,1017 2147,1019 2147,1049 2115,1059 1360,1065 1236,1065 1183,1057"/>
-                <Baseline points="1183,1057 1461,1055 1493,1055 1561,1054 1595,1054 1777,1052 1811,1052 1932,1051 1963,1051 2147,1041"/>
+                <Baseline points="1183,1057 1461,1055 1493,1055 1561,1054 1595,1054 1777,1052 1811,1052 1932,1051 1963,1051 2146,1047"/>
                 <TextEquiv>
                     <Unicode>weggenommen und demnächſt wieder hergeſtellt</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r3l21" custom="readingOrder {index:20;}">
                 <Coords points="1184,1074 1207,1068 1867,1062 2063,1061 2063,1061 2127,1061 2146,1071 2146,1095 2127,1102 1996,1104 1886,1105 1327,1108 1207,1108 1184,1101"/>
-                <Baseline points="1184,1094 1327,1101 1351,1100 1419,1100 1443,1100 1542,1099 1565,1099 1673,1098 1695,1097 1826,1097 1847,1097 2041,1095 2063,1095 2146,1095"/>
+                <Baseline points="1185,1101 1327,1101 1351,1100 1419,1100 1443,1100 1542,1099 1565,1099 1673,1098 1695,1097 1826,1097 1847,1097 2041,1095 2063,1095 2146,1095"/>
                 <TextEquiv>
                     <Unicode>werden, und zwar, ſofern private Intereſſen dieſe</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r3l22" custom="readingOrder {index:21;}">
                 <Coords points="1183,1112 1467,1110 1806,1108 2013,1107 2013,1107 2080,1107 2147,1116 2147,1138 2101,1147 1593,1151 1503,1151 1222,1145 1183,1144"/>
-                <Baseline points="1183,1136 1341,1144 1369,1144 1548,1142 1573,1142 1692,1141 1719,1141 1779,1141 1806,1141 1926,1140 1952,1140 2147,1138"/>
+                <Baseline points="1183,1143 1341,1144 1369,1144 1548,1142 1573,1142 1692,1141 1719,1141 1779,1141 1806,1141 1926,1140 1952,1140 2147,1138"/>
                 <TextEquiv>
                     <Unicode>Arbeiten verurſacht haben, auf Koſten desjenigen</Unicode>
                 </TextEquiv>
@@ -804,7 +804,7 @@ beleuchtung eingeführt wird, werden die Laternen</Unicode>
             </TextLine>
             <TextLine id="r3l33" custom="readingOrder {index:32;}">
                 <Coords points="1189,1678 1237,1669 1522,1666 1522,1666 1876,1666 2106,1667 2150,1670 2150,1698 2115,1707 1632,1708 1272,1708 1189,1701"/>
-                <Baseline points="1189,1700 1255,1700 1272,1700 1358,1700 1374,1700 1438,1700 1455,1700 1494,1700 1509,1700 1701,1699 1719,1699 1943,1699 1961,1699 2150,1691"/>
+                <Baseline points="1189,1700 1255,1700 1272,1700 1358,1700 1374,1700 1438,1700 1455,1700 1494,1700 1509,1700 1701,1699 1719,1699 1943,1699 1961,1699 2147,1697"/>
                 <TextEquiv>
                     <Unicode>und zwar neu zu beſchaffen, aufzuſtellen, ordnungs⸗</Unicode>
                 </TextEquiv>
@@ -824,8 +824,8 @@ beleuchtung eingeführt wird, werden die Laternen</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r3l36" custom="readingOrder {index:35;}">
-                <Coords points="1189,1800 1347,1799 1649,1798 1649,1798 1947,1798 2012,1799 2151,1809 2151,1831 2122,1832 1877,1840 1216,1841 1189,1841"/>
-                <Baseline points="1189,1832 1306,1832 1347,1832 1607,1832 1649,1832 2050,1832 2091,1832 2151,1825"/>
+                <Coords points="1189,1800 1347,1799 1649,1798 1947,1798 2012,1799 2151,1802 2156,1836 2120,1838 1877,1840 1216,1841 1189,1841"/>
+                <Baseline points="1189,1832 1306,1832 1347,1832 1607,1832 1649,1832 2050,1832 2090,1832 2151,1831"/>
                 <TextEquiv>
                     <Unicode>Fiskus feſtzuſetzenden Beleuchtungskalender an⸗</Unicode>
                 </TextEquiv>
@@ -846,7 +846,7 @@ beleuchtung eingeführt wird, werden die Laternen</Unicode>
             </TextLine>
             <TextLine id="r3l39" custom="readingOrder {index:38;}">
                 <Coords points="1277,1933 1565,1932 1565,1932 2050,1932 2107,1935 2151,1943 2151,1965 2092,1973 2017,1974 1938,1974 1298,1972 1277,1966"/>
-                <Baseline points="1277,1966 1475,1964 1502,1964 1543,1965 1565,1965 1729,1965 1753,1965 1832,1965 1857,1965 1914,1965 1938,1965 2151,1959"/>
+                <Baseline points="1277,1966 1475,1964 1502,1964 1543,1965 1565,1965 1729,1965 1753,1965 1832,1965 1857,1965 1914,1965 1938,1965 2148,1964"/>
                 <TextEquiv>
                     <Unicode>Späteſtens 30 Minuten nach der feſtgeſetzten</Unicode>
                 </TextEquiv>
@@ -880,8 +880,8 @@ beleuchtung eingeführt wird, werden die Laternen</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r3l44" custom="readingOrder {index:43;}">
-                <Coords points="1276,2153 1513,2152 1513,2152 1651,2152 2114,2154 2153,2169 2153,2181 2137,2188 1972,2195 1629,2195 1449,2192 1276,2186"/>
-                <Baseline points="1276,2186 1339,2186 1362,2186 1729,2186 1749,2186 1830,2187 1849,2187 1926,2187 1945,2187 2065,2188 2083,2188 2153,2178"/>
+                <Coords points="1276,2153 1513,2152 1651,2152 2114,2154 2152,2157 2159,2188 2143,2195 1972,2195 1629,2195 1449,2192 1276,2186"/>
+                <Baseline points="1276,2186 1339,2186 1362,2186 1729,2186 1749,2186 1830,2187 1849,2187 1926,2187 1945,2187 2065,2188 2083,2188 2153,2187"/>
                 <TextEquiv>
                     <Unicode>Die Straßenbeleuchtung wird dem Fiskus ein⸗</Unicode>
                 </TextEquiv>
@@ -904,7 +904,7 @@ beleuchtung eingeführt wird, werden die Laternen</Unicode>
                 <Coords points="1191,2288 1269,2285 1269,2285 1433,2285 1651,2286 1704,2287 1729,2289 1729,2319 1651,2326 1615,2327 1411,2327 1212,2325 1191,2315"/>
                 <Baseline points="1191,2315 1305,2317 1332,2318 1366,2318 1393,2318 1571,2318 1597,2318 1729,2319"/>
                 <TextEquiv>
-                    <Unicode>3,25 ? in Rechnung geſtellt.</Unicode>
+                    <Unicode>3,25 ₰ in Rechnung geſtellt.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r3l48" custom="readingOrder {index:47;}">
@@ -915,8 +915,8 @@ beleuchtung eingeführt wird, werden die Laternen</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r3l49" custom="readingOrder {index:48;}">
-                <Coords points="1190,2374 1423,2374 1913,2375 2052,2376 2140,2380 2155,2391 2155,2403 2120,2419 1976,2419 1190,2415"/>
-                <Baseline points="1190,2407 1246,2407 1287,2407 1343,2407 1385,2407 1503,2407 1545,2407 1578,2407 1621,2407 1913,2409 1955,2409 2155,2400"/>
+                <Coords points="1190,2374 1423,2374 1913,2375 2052,2376 2140,2380 2158,2382 2159,2417 2120,2419 1976,2419 1190,2415"/>
+                <Baseline points="1190,2407 1246,2407 1287,2407 1343,2407 1385,2407 1503,2407 1545,2407 1578,2407 1621,2407 1913,2409 1955,2409 2153,2409"/>
                 <TextEquiv>
                     <Unicode>hat der Fiskus in vierteljährlichen Nachtrags⸗</Unicode>
                 </TextEquiv>
@@ -937,14 +937,14 @@ beleuchtung eingeführt wird, werden die Laternen</Unicode>
             </TextLine>
             <TextLine id="r3l52" custom="readingOrder {index:51;}">
                 <Coords points="1279,2552 1418,2552 1969,2555 2113,2556 2157,2559 2157,2588 2077,2596 1946,2596 1396,2594 1279,2585"/>
-                <Baseline points="1279,2585 1343,2585 1378,2585 1659,2586 1689,2586 1726,2586 1757,2587 1834,2587 1865,2587 2157,2580"/>
+                <Baseline points="1279,2585 1343,2585 1378,2585 1659,2586 1689,2586 1726,2586 1757,2587 1834,2587 1865,2587 2154,2586"/>
                 <TextEquiv>
                     <Unicode>Die Stadtgemeinde iſt dem Domänenfiskus</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r3l53" custom="readingOrder {index:52;}">
-                <Coords points="1191,2605 1241,2597 1288,2596 1288,2596 1599,2596 2112,2600 2156,2610 2156,2632 1996,2640 1793,2640 1442,2639 1288,2635 1191,2629"/>
-                <Baseline points="1191,2628 1258,2629 1288,2629 1412,2629 1442,2629 1750,2630 1781,2631 1996,2632 2025,2632 2062,2632 2093,2632 2156,2626"/>
+                <Coords points="1191,2605 1241,2597 1288,2596 1599,2596 2112,2600 2156,2610 2158,2640 1996,2640 1793,2640 1442,2639 1288,2635 1191,2629"/>
+                <Baseline points="1191,2628 1258,2629 1288,2629 1412,2629 1442,2629 1750,2630 1781,2631 1996,2632 2025,2632 2062,2632 2093,2632 2154,2631"/>
                 <TextEquiv>
                     <Unicode>und ſeinem Rechtsnachfolger verpflichtet, in den</Unicode>
                 </TextEquiv>
@@ -978,22 +978,22 @@ beleuchtung eingeführt wird, werden die Laternen</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r3l58" custom="readingOrder {index:57;}">
-                <Coords points="1192,2828 1235,2819 1235,2819 1313,2819 1856,2821 2085,2824 2146,2825 2160,2839 2160,2850 2146,2857 1856,2863 1771,2863 1235,2860 1192,2852"/>
-                <Baseline points="1192,2852 1367,2852 1391,2853 1545,2854 1568,2854 1642,2854 1664,2854 1704,2855 1725,2855 1856,2856 1900,2856 1964,2856 1987,2856 2160,2847"/>
+                <Coords points="1192,2828 1235,2819 1313,2819 1856,2821 2085,2824 2146,2825 2160,2839 2162,2855 2148,2862 1856,2863 1771,2863 1235,2860 1192,2852"/>
+                <Baseline points="1192,2852 1367,2852 1391,2853 1545,2854 1568,2854 1642,2854 1664,2854 1704,2855 1725,2855 1856,2856 1900,2856 1964,2856 1987,2856 2158,2856"/>
                 <TextEquiv>
                     <Unicode>umfaſſen, jederzeit Gas zu liefern. Ein unmittel⸗</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r3l59" custom="readingOrder {index:58;}">
-                <Coords points="1192,2863 1445,2863 2107,2868 2146,2869 2161,2883 2161,2896 2146,2901 2114,2908 1581,2908 1356,2904 1192,2895"/>
-                <Baseline points="1192,2895 1288,2896 1301,2896 1467,2896 1481,2897 1540,2897 1556,2897 1796,2899 1811,2899 1893,2900 1908,2900 1963,2900 1976,2900 2027,2900 2043,2900 2161,2892"/>
+                <Coords points="1192,2863 1445,2863 2107,2868 2146,2869 2161,2883 2161,2896 2164,2909 2114,2908 1581,2908 1356,2904 1192,2895"/>
+                <Baseline points="1192,2895 1288,2896 1301,2896 1467,2896 1481,2897 1540,2897 1556,2897 1796,2899 1811,2899 1893,2900 1908,2900 1963,2900 1976,2900 2027,2900 2043,2900 2160,2901"/>
                 <TextEquiv>
                     <Unicode>barer Anſpruch auf Gaslieferung wird für die einzel⸗</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r3l60" custom="readingOrder {index:59;}">
-                <Coords points="1193,2916 1272,2907 1303,2906 1303,2906 1430,2906 1848,2909 2130,2912 2161,2915 2161,2944 2099,2946 1848,2953 1430,2957 1272,2957 1193,2939"/>
-                <Baseline points="1193,2938 1258,2939 1272,2939 1463,2941 1472,2942 1639,2942 1648,2942 1733,2943 1742,2943 1938,2945 1963,2945 2028,2945 2041,2945 2161,2936"/>
+                <Coords points="1193,2916 1272,2907 1303,2906 1430,2906 1848,2909 2130,2912 2161,2915 2165,2950 2100,2950 1848,2953 1430,2957 1272,2957 1193,2939"/>
+                <Baseline points="1193,2938 1258,2939 1272,2939 1463,2941 1472,2942 1639,2942 1648,2942 1733,2943 1742,2943 1938,2945 1963,2945 2028,2945 2041,2945 2161,2943"/>
                 <TextEquiv>
                     <Unicode>nen Abnehmer hierdurch nicht begründet. Die Stadt⸗</Unicode>
                 </TextEquiv>
@@ -1007,7 +1007,7 @@ beleuchtung eingeführt wird, werden die Laternen</Unicode>
             </TextLine>
             <TextLine id="r3l62" custom="readingOrder {index:61;}">
                 <Coords points="1194,2996 1305,2992 1325,2992 2116,3002 2162,3012 2162,3035 2048,3043 1366,3042 1304,3040 1193,3035"/>
-                <Baseline points="1194,3029 1398,3031 1431,3031 1509,3031 1541,3032 1593,3032 1627,3033 1820,3034 1851,3034 1935,3035 1967,3035 2162,3029"/>
+                <Baseline points="1194,3029 1398,3031 1431,3031 1509,3031 1541,3032 1593,3032 1627,3033 1820,3034 1851,3034 1935,3035 1967,3035 2160,3034"/>
                 <TextEquiv>
                     <Unicode>bewährung oder wo Vorgärten nicht vorhanden</Unicode>
                 </TextEquiv>
@@ -1020,8 +1020,8 @@ beleuchtung eingeführt wird, werden die Laternen</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r3l64" custom="readingOrder {index:63;}">
-                <Coords points="1194,3096 1244,3087 1473,3087 2162,3093 2162,3125 2136,3126 1822,3132 1218,3129 1195,3129"/>
-                <Baseline points="1194,3119 1262,3119 1284,3120 1349,3120 1369,3120 1412,3121 1430,3121 1473,3121 1495,3121 1553,3122 1576,3122 1695,3124 1715,3124 1772,3124 1792,3124 1904,3125 1925,3125 2003,3125 2026,3125 2162,3117"/>
+                <Coords points="1194,3096 1244,3087 1473,3087 2162,3093 2165,3131 2131,3136 1822,3132 1218,3129 1195,3129"/>
+                <Baseline points="1194,3119 1262,3119 1284,3120 1349,3120 1369,3120 1412,3121 1430,3121 1473,3121 1495,3121 1553,3122 1576,3122 1695,3124 1715,3124 1772,3124 1792,3124 1904,3125 1925,3125 2003,3125 2026,3125 2161,3125"/>
                 <TextEquiv>
                     <Unicode>und von da ab auf Koſten der Haus⸗ oder Grund⸗</Unicode>
                 </TextEquiv>
@@ -1034,8 +1034,8 @@ beleuchtung eingeführt wird, werden die Laternen</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r3l66" custom="readingOrder {index:65;}">
-                <Coords points="1283,3175 1458,3175 2117,3181 2162,3190 2162,3213 2072,3221 1972,3223 1867,3223 1563,3220 1381,3217 1283,3208"/>
-                <Baseline points="1283,3208 1355,3208 1381,3209 1501,3210 1527,3210 1689,3212 1713,3212 1783,3212 1809,3213 1987,3213 2013,3214 2072,3214 2099,3214 2162,3207"/>
+                <Coords points="1283,3175 1458,3175 2117,3181 2162,3190 2162,3220 2072,3221 1972,3223 1867,3223 1563,3220 1381,3217 1283,3208"/>
+                <Baseline points="1283,3208 1355,3208 1381,3209 1501,3210 1527,3210 1689,3212 1713,3212 1783,3212 1809,3213 1987,3213 2013,3214 2072,3214 2099,3214 2162,3213"/>
                 <TextEquiv>
                     <Unicode>Der Fiskus bewilligt und beantragt auf den</Unicode>
                 </TextEquiv>
@@ -1094,7 +1094,7 @@ pro Laterne ergeben.
 Die Straßenbeleuchtung wird dem Fiskus ein⸗
 ſchließlich Bedienung und Verſorgung der Laternen
 für jede Straßenflamme und Brennſtunde mit
-3,25 ? in Rechnung geſtellt.
+3,25 ₰ in Rechnung geſtellt.
 Die hiernach ſich ergebenden Rechnungsbeträge
 hat der Fiskus in vierteljährlichen Nachtrags⸗
 zahlungen an die Stadtgemeinde zu begleichen.

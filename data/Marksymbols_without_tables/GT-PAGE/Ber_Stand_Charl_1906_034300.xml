@@ -184,19 +184,19 @@
                 <Coords points="251,227 435,223 1370,215 1813,212 1813,212 1854,212 1854,246 1831,253 1569,257 603,267 419,267 251,261 251,227"/>
                 <Baseline points="251,261 310,261 343,261 654,258 686,258 1059,254 1101,254 1183,253 1230,253 1569,249 1612,248 1746,247 1779,246 1854,245"/>
                 <TextEquiv>
-                    <Unicode>ⅤⅠ. Techniſcher Hilfsarbeiter des Statiſtiſchen Amts (wie</Unicode>
+                    <Unicode>VI. Techniſcher Hilfsarbeiter des Statiſtiſchen Amts (wie</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r2l2" custom="readingOrder {index:1;}">
                 <Coords points="411,271 818,264 1593,259 1593,259 1774,259 1785,284 1785,292 1774,300 1566,304 1150,309 500,312 432,312 411,306 411,271"/>
                 <Baseline points="411,305 518,304 542,304 618,304 644,304 701,303 727,303 1204,299 1229,298 1284,298 1309,297 1359,297 1385,296 1566,294 1593,294 1785,292"/>
                 <TextEquiv>
-                    <Unicode>Klaſſe ⅠⅠⅠb des Normal⸗Beſoldungs⸗Etats für die ſtädtiſchen Beamten).</Unicode>
+                    <Unicode>Klaſſe IIIb des Normal⸗Beſoldungs⸗Etats für die ſtädtiſchen Beamten).</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
-                <Unicode>ⅤⅠ. Techniſcher Hilfsarbeiter des Statiſtiſchen Amts (wie&#13;
-Klaſſe ⅠⅠⅠb des Normal⸗Beſoldungs⸗Etats für die ſtädtiſchen Beamten).</Unicode>
+                <Unicode>VI. Techniſcher Hilfsarbeiter des Statiſtiſchen Amts (wie&#13;
+Klaſſe IIIb des Normal⸗Beſoldungs⸗Etats für die ſtädtiſchen Beamten).</Unicode>
             </TextEquiv>
         </TextRegion>
         <TextRegion type="paragraph" id="r3" custom="readingOrder {index:2;} structure {type:paragraph;}">
@@ -205,19 +205,19 @@ Klaſſe ⅠⅠⅠb des Normal⸗Beſoldungs⸗Etats für die ſtädtiſchen Bea
                 <Coords points="701,766 800,765 913,764 1529,759 1529,759 1630,759 1630,799 1548,801 1109,804 924,805 913,805 701,799 701,766"/>
                 <Baseline points="701,797 777,798 800,798 1257,795 1279,795 1630,792"/>
                 <TextEquiv>
-                    <Unicode>ⅤⅠⅠ. Waiſeninſpektor (Generalvormund).</Unicode>
+                    <Unicode>VII. Waiſeninſpektor (Generalvormund).</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r3l2" custom="readingOrder {index:1;}">
                 <Coords points="258,817 304,815 404,813 689,808 1369,804 1369,804 1659,804 1659,843 1450,847 1236,849 377,856 258,856 258,817"/>
                 <Baseline points="258,850 333,849 352,849 455,847 471,847 545,846 560,846 619,846 636,845 1113,841 1131,841 1184,840 1201,840 1251,840 1269,840 1450,838 1468,838 1659,836"/>
                 <TextEquiv>
-                    <Unicode>(wie Klaſſe ⅠⅠⅠa des Normal⸗Beſoldungs⸗Etats für die ſtädtiſchen Beamten).</Unicode>
+                    <Unicode>(wie Klaſſe IIIa des Normal⸗Beſoldungs⸗Etats für die ſtädtiſchen Beamten).</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
-                <Unicode>ⅤⅠⅠ. Waiſeninſpektor (Generalvormund).
-(wie Klaſſe ⅠⅠⅠa des Normal⸗Beſoldungs⸗Etats für die ſtädtiſchen Beamten).</Unicode>
+                <Unicode>VII. Waiſeninſpektor (Generalvormund).
+(wie Klaſſe IIIa des Normal⸗Beſoldungs⸗Etats für die ſtädtiſchen Beamten).</Unicode>
             </TextEquiv>
         </TextRegion>
         <TextRegion type="paragraph" id="r4" custom="readingOrder {index:3;} structure {type:paragraph;}">
@@ -226,7 +226,7 @@ Klaſſe ⅠⅠⅠb des Normal⸗Beſoldungs⸗Etats für die ſtädtiſchen Bea
                 <Coords points="307,1301 383,1306 877,1300 1607,1293 1867,1292 1879,1292 1916,1294 1947,1301 1947,1324 1879,1332 1771,1333 1038,1339 905,1340 877,1340 262,1340 256,1309"/>
                 <Baseline points="266,1336 383,1337 725,1334 762,1334 842,1333 877,1333 1185,1330 1221,1330 1303,1329 1329,1329 1833,1325 1867,1324 1947,1324"/>
                 <TextEquiv>
-                    <Unicode>ⅤⅠⅠⅠ. Verwalterin der Zweigſtelle des Arbeitsnachweiſes für</Unicode>
+                    <Unicode>VIII. Verwalterin der Zweigſtelle des Arbeitsnachweiſes für</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r4l2" custom="readingOrder {index:1;}">
@@ -240,13 +240,13 @@ Klaſſe ⅠⅠⅠb des Normal⸗Beſoldungs⸗Etats für die ſtädtiſchen Bea
                 <Coords points="348,1396 393,1394 457,1392 839,1386 1709,1381 1709,1381 1831,1381 1831,1422 1606,1426 1514,1426 348,1431 348,1396"/>
                 <Baseline points="348,1430 423,1429 457,1428 563,1427 609,1427 624,1426 657,1426 715,1425 747,1425 1225,1420 1257,1420 1311,1419 1343,1419 1393,1419 1425,1418 1606,1417 1640,1416 1831,1414"/>
                 <TextEquiv>
-                    <Unicode>(wie Klaſſe Ⅴ des Normal⸗Beſoldungs⸗Etats für die ſtädtiſchen Beamten.)</Unicode>
+                    <Unicode>(wie Klaſſe V des Normal⸗Beſoldungs⸗Etats für die ſtädtiſchen Beamten.)</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
-                <Unicode>ⅤⅠⅠⅠ. Verwalterin der Zweigſtelle des Arbeitsnachweiſes für&#13;
+                <Unicode>VIII. Verwalterin der Zweigſtelle des Arbeitsnachweiſes für&#13;
 Dienſtbotenvermittlung.&#13;
-(wie Klaſſe Ⅴ des Normal⸗Beſoldungs⸗Etats für die ſtädtiſchen Beamten.)</Unicode>
+(wie Klaſſe V des Normal⸗Beſoldungs⸗Etats für die ſtädtiſchen Beamten.)</Unicode>
             </TextEquiv>
         </TextRegion>
         <TextRegion type="paragraph" id="r5" custom="readingOrder {index:4;} structure {type:paragraph;}">
@@ -255,7 +255,7 @@ Dienſtbotenvermittlung.&#13;
                 <Coords points="721,1889 815,1888 1251,1884 1251,1884 1463,1884 1485,1892 1485,1915 1463,1926 1027,1926 721,1919 721,1889"/>
                 <Baseline points="721,1919 785,1920 815,1920 1485,1915"/>
                 <TextEquiv>
-                    <Unicode>ⅠⅩ. Bibliotheksgehilfinnen.</Unicode>
+                    <Unicode>IX. Bibliotheksgehilfinnen.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r5l2" custom="readingOrder {index:1;}">
@@ -266,7 +266,7 @@ Dienſtbotenvermittlung.&#13;
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
-                <Unicode>ⅠⅩ. Bibliotheksgehilfinnen.&#13;
+                <Unicode>IX. Bibliotheksgehilfinnen.&#13;
 (mit bibliothekariſcher Ausbildung).</Unicode>
             </TextEquiv>
         </TextRegion>
@@ -297,7 +297,7 @@ des Beſoldungsdienſtalters außer Betracht.</Unicode>
                 <Coords points="268,2612 1846,2603 1846,2603 1857,2603 1924,2613 1951,2618 1951,2630 1924,2637 1767,2645 1709,2647 718,2654 346,2654 268,2644 268,2612"/>
                 <Baseline points="268,2644 311,2644 346,2645 936,2644 971,2644 1306,2641 1337,2641 1414,2640 1444,2640 1528,2640 1562,2639 1951,2627"/>
                 <TextEquiv>
-                    <Unicode>Ⅹ. Privatdienſtgehilfen, Gehilfinnen für das Pflegeſtellen⸗</Unicode>
+                    <Unicode>X. Privatdienſtgehilfen, Gehilfinnen für das Pflegeſtellen⸗</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r7l2" custom="readingOrder {index:1;}">
@@ -308,7 +308,7 @@ des Beſoldungsdienſtalters außer Betracht.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
-                <Unicode>Ⅹ. Privatdienſtgehilfen, Gehilfinnen für das Pflegeſtellen⸗&#13;
+                <Unicode>X. Privatdienſtgehilfen, Gehilfinnen für das Pflegeſtellen⸗&#13;
 weſen und die Generalvormundſchaft.</Unicode>
             </TextEquiv>
         </TextRegion>

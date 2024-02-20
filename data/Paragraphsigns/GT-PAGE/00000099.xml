@@ -3,20 +3,20 @@
     <Metadata>
         <Creator>Transkribus</Creator>
         <Created>2022-05-06T13:44:11.463+02:00</Created>
-        <LastChange>2023-07-04T14:42:59.354+02:00</LastChange>
+        <LastChange>2024-02-19T11:27:25.242+01:00</LastChange>
         <Comments>
                 Measurement unit: pixel
                 PrimaryLanguage: 
                 Producer: Transkribus
             </Comments>
-        <TranskribusMetadata docId="988838" pageId="38236891" pageNr="6" tsid="128718674" status="GT" userId="48446" imgUrl="https://files.transkribus.eu/Get?id=WLMXPEINGPEOCCEUPJEAFMIY&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=QBMBEAVGNGFQLCABICJZQMZG" imageId="30799970"/>
+        <TranskribusMetadata docId="988838" pageId="38236891" pageNr="6" tsid="149039993" status="GT" userId="99551" imgUrl="https://files.transkribus.eu/Get?id=WLMXPEINGPEOCCEUPJEAFMIY&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=GMHSPINNGFJDSFZKLEXYSLIJ" imageId="30799970"/>
     </Metadata>
     <Page imageFilename="00000099.png" imageWidth="2278" imageHeight="3614">
         <PrintSpace>
             <Coords points="152,98 2111,98 2111,3296 152,3296"/>
         </PrintSpace>
         <ReadingOrder>
-            <OrderedGroup id="ro_1688474641697" caption="Regions reading order">
+            <OrderedGroup id="ro_1708346586191" caption="Regions reading order">
                 <RegionRefIndexed index="0" regionRef="r1"/>
                 <RegionRefIndexed index="1" regionRef="r2"/>
                 <RegionRefIndexed index="2" regionRef="r3"/>
@@ -52,22 +52,22 @@
                 </TextEquiv>
             </TextLine>
             <TextLine id="r2l3" custom="readingOrder {index:2;}">
-                <Coords points="167,287 257,286 730,282 730,282 998,282 1104,290 1118,294 1118,306 1104,313 1079,321 820,324 556,326 280,328 247,328 167,321"/>
-                <Baseline points="167,321 373,319 393,319 432,318 453,318 611,317 633,316 683,316 703,316 864,315 882,315 998,314 1018,314 1118,303"/>
+                <Coords points="167,287 257,286 730,282 998,282 1108,288 1122,292 1122,315 1108,322 1079,321 820,324 556,326 280,328 247,328 167,321"/>
+                <Baseline points="167,321 373,319 393,319 432,318 453,318 611,317 633,316 683,316 703,316 864,315 882,315 998,314 1018,314 1121,312"/>
                 <TextEquiv>
                     <Unicode>Baugruben zu erfolgen, die möglichſt ſchmal anzu⸗</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r2l4" custom="readingOrder {index:3;}">
-                <Coords points="165,332 319,330 401,329 511,328 778,326 1036,325 1036,325 1102,325 1118,338 1118,350 1102,358 1082,359 896,367 595,370 215,373 197,373 165,364"/>
-                <Baseline points="165,364 260,364 280,363 360,363 401,363 466,362 487,362 681,360 702,360 757,360 778,360 1016,358 1036,358 1118,347"/>
+                <Coords points="165,332 319,330 401,329 511,328 778,326 1036,325 1102,325 1118,338 1122,356 1106,364 1083,365 896,367 595,370 215,373 197,373 165,364"/>
+                <Baseline points="165,364 260,364 280,363 360,363 401,363 466,362 487,362 681,360 702,360 757,360 778,360 1016,358 1036,358 1117,357"/>
                 <TextEquiv>
                     <Unicode>legen ſind. Ein Nachgeben der benachbarten Erd⸗</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r2l5" custom="readingOrder {index:4;}">
                 <Coords points="165,386 183,375 543,372 963,369 963,369 1102,369 1118,383 1118,395 1102,409 870,412 588,414 245,416 183,416 165,409"/>
-                <Baseline points="165,409 289,408 317,408 353,407 380,407 513,406 543,406 640,405 669,405 721,405 751,404 914,403 944,403 1118,392"/>
+                <Baseline points="165,409 289,408 317,408 353,407 380,407 513,406 543,406 640,405 669,405 721,405 751,404 914,403 944,403 1117,398"/>
                 <TextEquiv>
                     <Unicode>maſſen iſt hierbei, ſowie bei etwaigen Ausbeſſe⸗</Unicode>
                 </TextEquiv>
@@ -102,7 +102,7 @@
             </TextLine>
             <TextLine id="r2l10" custom="readingOrder {index:9;}">
                 <Coords points="166,616 204,606 1058,599 1058,599 1101,599 1117,601 1117,631 1101,640 565,645 242,647 204,647 166,640"/>
-                <Baseline points="166,640 242,639 263,639 319,639 337,639 565,637 587,637 706,635 726,635 850,634 870,634 1027,633 1047,632 1117,623"/>
+                <Baseline points="166,640 242,639 263,639 319,639 337,639 565,637 587,637 706,635 726,635 850,634 870,634 1027,633 1047,632 1118,631"/>
                 <TextEquiv>
                     <Unicode>auch der überſchüſſige Boden binnen weiteren acht</Unicode>
                 </TextEquiv>
@@ -144,14 +144,14 @@
             </TextLine>
             <TextLine id="r2l16" custom="readingOrder {index:15;}">
                 <Coords points="166,889 200,878 439,876 1009,874 1009,874 1102,874 1116,888 1116,900 1102,914 906,916 373,918 200,918 166,912"/>
-                <Baseline points="166,912 410,910 430,910 627,909 651,908 906,907 927,907 987,907 1009,907 1116,897"/>
+                <Baseline points="166,912 410,910 430,910 627,909 651,908 906,907 927,907 987,907 1009,907 1112,904"/>
                 <TextEquiv>
                     <Unicode>ausdrücklicher ſchriftlicher Genehmigung des Forſt⸗</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r2l17" custom="readingOrder {index:16;}">
                 <Coords points="166,923 431,920 769,919 769,919 900,919 1116,927 1116,950 1016,960 178,963 166,963"/>
-                <Baseline points="166,955 268,955 281,955 346,954 359,954 415,954 431,954 707,953 719,953 755,952 769,952 900,952 914,952 1116,944"/>
+                <Baseline points="166,955 268,955 281,955 346,954 359,954 415,954 431,954 707,953 719,953 755,952 769,952 900,952 914,952 1117,949"/>
                 <TextEquiv>
                     <Unicode>fiskus von der Stadtgemeinde in Angriff genommen</Unicode>
                 </TextEquiv>
@@ -206,8 +206,8 @@
                 </TextEquiv>
             </TextLine>
             <TextLine id="r2l25" custom="readingOrder {index:24;}">
-                <Coords points="253,1320 346,1319 996,1317 996,1317 1084,1317 1114,1319 1114,1348 1084,1349 776,1359 450,1360 346,1360 253,1353"/>
-                <Baseline points="253,1353 322,1353 346,1352 540,1351 562,1351 598,1351 619,1351 801,1350 826,1350 891,1350 915,1350 970,1349 996,1349 1114,1340"/>
+                <Coords points="253,1320 346,1319 996,1317 1084,1317 1114,1319 1117,1353 1087,1354 776,1359 450,1360 346,1360 253,1353"/>
+                <Baseline points="253,1353 322,1353 346,1352 540,1351 562,1351 598,1351 619,1351 801,1350 826,1350 891,1350 915,1350 970,1349 996,1349 1112,1347"/>
                 <TextEquiv>
                     <Unicode>Der Forſtfiskus iſt berechtigt, von der Stadt⸗</Unicode>
                 </TextEquiv>
@@ -241,8 +241,8 @@
                 </TextEquiv>
             </TextLine>
             <TextLine id="r2l30" custom="readingOrder {index:29;}">
-                <Coords points="253,1601 343,1600 1004,1598 1004,1598 1103,1598 1117,1612 1117,1623 1103,1630 908,1639 467,1642 448,1642 253,1633"/>
-                <Baseline points="253,1633 317,1633 343,1633 619,1632 640,1632 696,1632 718,1632 778,1631 800,1631 908,1631 931,1631 981,1631 1004,1631 1117,1620"/>
+                <Coords points="253,1601 343,1600 1004,1598 1103,1598 1117,1612 1117,1623 1116,1634 908,1639 467,1642 448,1642 253,1633"/>
+                <Baseline points="253,1633 317,1633 343,1633 619,1632 640,1632 696,1632 718,1632 778,1631 800,1631 908,1631 931,1631 981,1631 1004,1631 1115,1627"/>
                 <TextEquiv>
                     <Unicode>Die Stadtgemeinde hat das Recht, die Druck⸗</Unicode>
                 </TextEquiv>
@@ -255,8 +255,8 @@
                 </TextEquiv>
             </TextLine>
             <TextLine id="r2l32" custom="readingOrder {index:31;}">
-                <Coords points="164,1692 196,1690 218,1689 764,1687 764,1687 1078,1687 1116,1701 1116,1712 1102,1718 1078,1726 980,1727 524,1729 218,1729 164,1721"/>
-                <Baseline points="164,1721 297,1721 321,1721 377,1721 400,1721 642,1720 665,1720 741,1720 764,1720 980,1719 1003,1719 1116,1709"/>
+                <Coords points="164,1692 196,1690 218,1689 764,1687 1078,1687 1116,1701 1116,1712 1121,1723 1078,1726 980,1727 524,1729 218,1729 164,1721"/>
+                <Baseline points="164,1721 297,1721 321,1721 377,1721 400,1721 642,1720 665,1720 741,1720 764,1720 980,1719 1003,1719 1114,1716"/>
                 <TextEquiv>
                     <Unicode>triebes, der Unterhaltung oder Erneuerung aufzu⸗</Unicode>
                 </TextEquiv>
@@ -360,8 +360,8 @@
                 </TextEquiv>
             </TextLine>
             <TextLine id="r2l47" custom="readingOrder {index:46;}">
-                <Coords points="166,2419 769,2417 769,2417 996,2417 1062,2424 1099,2429 1114,2433 1114,2445 1099,2452 996,2458 368,2460 187,2460 166,2452"/>
-                <Baseline points="166,2452 368,2452 397,2452 453,2452 482,2452 620,2450 649,2450 730,2450 758,2450 835,2450 862,2450 1015,2451 1043,2451 1114,2442"/>
+                <Coords points="166,2419 769,2417 996,2417 1062,2424 1105,2422 1117,2433 1117,2445 1121,2457 996,2458 368,2460 187,2460 166,2452"/>
+                <Baseline points="166,2452 368,2452 397,2452 453,2452 482,2452 620,2450 649,2450 730,2450 758,2450 835,2450 862,2450 1015,2451 1043,2451 1115,2448"/>
                 <TextEquiv>
                     <Unicode>Entleerung der Leitung ganz oder teilweiſe ver⸗</Unicode>
                 </TextEquiv>
@@ -381,8 +381,8 @@
                 </TextEquiv>
             </TextLine>
             <TextLine id="r2l50" custom="readingOrder {index:49;}">
-                <Coords points="165,2552 690,2550 690,2550 863,2550 1016,2551 1079,2552 1114,2568 1114,2580 1098,2585 863,2591 594,2593 505,2593 239,2592 165,2591"/>
-                <Baseline points="165,2584 196,2584 226,2584 338,2584 368,2584 431,2584 459,2584 594,2584 624,2583 662,2583 690,2583 863,2583 892,2583 959,2583 984,2583 1035,2584 1059,2584 1114,2577"/>
+                <Coords points="165,2552 690,2550 863,2550 1016,2551 1079,2552 1115,2552 1115,2587 1099,2592 863,2591 594,2593 505,2593 239,2592 165,2591"/>
+                <Baseline points="165,2584 196,2584 226,2584 338,2584 368,2584 431,2584 459,2584 594,2584 624,2583 662,2583 690,2583 863,2583 892,2583 959,2583 984,2583 1035,2584 1059,2584 1114,2583"/>
                 <TextEquiv>
                     <Unicode>ſo ſchnell wie möglich zu beſeitigen und die be⸗</Unicode>
                 </TextEquiv>
@@ -458,8 +458,8 @@
                 </TextEquiv>
             </TextLine>
             <TextLine id="r2l61" custom="readingOrder {index:60;}">
-                <Coords points="165,3119 180,3110 950,3109 950,3109 971,3109 1099,3110 1115,3125 1115,3137 1099,3144 988,3151 385,3160 180,3160 165,3150"/>
-                <Baseline points="165,3143 385,3144 399,3144 590,3146 606,3146 669,3146 684,3146 936,3144 950,3144 1032,3143 1049,3143 1115,3134"/>
+                <Coords points="165,3119 180,3110 950,3109 971,3109 1099,3110 1119,3125 1119,3137 1121,3148 988,3151 385,3160 180,3160 165,3150"/>
+                <Baseline points="165,3143 385,3144 399,3144 590,3146 606,3146 669,3146 684,3146 936,3144 950,3144 1032,3143 1049,3143 1116,3140"/>
                 <TextEquiv>
                     <Unicode>grundſätzlich verlangen, daß Einrichtungen bzw. Ab⸗</Unicode>
                 </TextEquiv>
@@ -579,7 +579,7 @@ Beziehung einwandsfrei geſtaltet werden.</Unicode>
                 <Coords points="1146,322 1250,315 1250,315 1273,315 2063,319 2101,329 2101,352 1273,369 1250,369 1211,365 1146,357"/>
                 <Baseline points="1146,357 1250,356 1273,356 1281,356 1463,355 1501,355 1568,354 1606,354 1695,354 1734,354 1813,353 1848,352 1917,352 1955,352 2006,352 2044,352 2101,352"/>
                 <TextEquiv>
-                    <Unicode>burg — Spandau) ſind beim Bau und bei der</Unicode>
+                    <Unicode>burg – Spandau) ſind beim Bau und bei der</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r3l5" custom="readingOrder {index:4;}">
@@ -611,8 +611,8 @@ Beziehung einwandsfrei geſtaltet werden.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r3l9" custom="readingOrder {index:8;}">
-                <Coords points="1149,546 1458,544 1879,542 1879,542 2062,542 2099,551 2099,573 1951,583 1340,587 1255,587 1149,582"/>
-                <Baseline points="1149,580 1426,577 1458,577 1658,576 1686,576 1755,575 1787,575 1846,575 1879,576 2012,574 2043,574 2099,567"/>
+                <Coords points="1149,546 1458,544 1879,542 2062,542 2099,551 2103,579 1951,583 1340,587 1255,587 1149,582"/>
+                <Baseline points="1149,580 1426,577 1458,577 1658,576 1686,576 1755,575 1787,575 1846,575 1879,576 2012,574 2043,574 2100,573"/>
                 <TextEquiv>
                     <Unicode>Stadtgemeinde verpflichtet ſich, vor Beginn der</Unicode>
                 </TextEquiv>
@@ -674,8 +674,8 @@ Beziehung einwandsfrei geſtaltet werden.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r3l18" custom="readingOrder {index:17;}">
-                <Coords points="1144,1033 1675,1024 1675,1024 1815,1024 2099,1031 2099,1060 1815,1078 1675,1078 1287,1073 1144,1065"/>
-                <Baseline points="1144,1057 1182,1065 1208,1065 1482,1065 1506,1065 1585,1065 1621,1065 1815,1063 1828,1063 1994,1062 2022,1061 2099,1052"/>
+                <Coords points="1144,1033 1675,1024 1815,1024 2099,1031 2105,1065 1815,1078 1675,1078 1287,1073 1144,1065"/>
+                <Baseline points="1144,1057 1182,1065 1208,1065 1482,1065 1506,1065 1585,1065 1621,1065 1815,1063 1828,1063 1994,1062 2022,1061 2099,1060"/>
                 <TextEquiv>
                     <Unicode>B. Aufnahme der Schmutzwäſſer aus</Unicode>
                 </TextEquiv>
@@ -716,8 +716,8 @@ Beziehung einwandsfrei geſtaltet werden.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r3l24" custom="readingOrder {index:23;}">
-                <Coords points="1146,1351 2012,1348 2012,1348 2082,1348 2098,1362 2098,1374 2082,1381 1834,1391 1213,1392 1194,1392 1146,1385"/>
-                <Baseline points="1146,1384 1315,1384 1356,1384 1451,1382 1493,1382 1507,1381 1546,1381 1600,1382 1639,1382 1834,1381 1876,1381 2098,1371"/>
+                <Coords points="1146,1351 2012,1348 2082,1348 2098,1362 2100,1380 2084,1387 1834,1391 1213,1392 1194,1392 1146,1385"/>
+                <Baseline points="1146,1384 1315,1384 1356,1384 1451,1382 1493,1382 1507,1381 1546,1381 1600,1382 1639,1382 1834,1381 1876,1381 2097,1379"/>
                 <TextEquiv>
                     <Unicode>Lageplan Blatt 1 rot angelegten Grunewald⸗</Unicode>
                 </TextEquiv>
@@ -730,8 +730,8 @@ Beziehung einwandsfrei geſtaltet werden.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r3l26" custom="readingOrder {index:25;}">
-                <Coords points="1144,1438 1427,1437 1748,1436 1748,1436 2042,1436 2083,1445 2098,1449 2098,1461 2083,1467 2060,1475 1662,1478 1427,1478 1144,1477"/>
-                <Baseline points="1144,1470 1211,1470 1240,1470 1276,1470 1305,1470 1355,1469 1386,1469 1700,1469 1730,1469 1955,1468 1985,1468 2098,1458"/>
+                <Coords points="1144,1438 1427,1437 1748,1436 2042,1436 2083,1445 2098,1449 2098,1461 2105,1473 2060,1475 1662,1478 1427,1478 1144,1477"/>
+                <Baseline points="1144,1470 1211,1470 1240,1470 1276,1470 1305,1470 1355,1469 1386,1469 1700,1469 1730,1469 1955,1468 1985,1468 2098,1465"/>
                 <TextEquiv>
                     <Unicode>ſoll, in die Charlottenburger Kanaliſation aufzu⸗</Unicode>
                 </TextEquiv>
@@ -745,14 +745,14 @@ Beziehung einwandsfrei geſtaltet werden.</Unicode>
             </TextLine>
             <TextLine id="r3l28" custom="readingOrder {index:27;}">
                 <Coords points="1146,1526 1719,1524 2015,1523 2015,1523 2049,1523 2082,1524 2098,1526 2098,1555 2082,1564 1412,1567 1224,1567 1146,1558"/>
-                <Baseline points="1146,1550 1412,1558 1450,1558 1679,1558 1719,1558 1817,1557 1855,1557 1976,1556 2015,1556 2098,1547"/>
+                <Baseline points="1149,1554 1412,1558 1450,1558 1679,1558 1719,1558 1817,1557 1855,1557 1976,1556 2015,1556 2094,1557"/>
                 <TextEquiv>
                     <Unicode>Niederſchlägen herſtammen, ſowie andere nicht</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r3l29" custom="readingOrder {index:28;}">
-                <Coords points="1146,1577 1287,1571 1399,1569 1949,1568 1949,1568 2019,1568 2083,1572 2099,1583 2099,1594 2083,1600 1993,1609 1694,1611 1336,1611 1168,1604 1146,1603"/>
-                <Baseline points="1146,1603 1389,1603 1399,1603 1532,1603 1549,1603 1611,1603 1623,1603 1722,1602 1735,1602 1803,1602 1821,1602 2099,1591"/>
+                <Coords points="1146,1577 1287,1571 1399,1569 1949,1568 2019,1568 2083,1572 2099,1583 2099,1594 2099,1602 2009,1611 1694,1611 1336,1611 1168,1604 1146,1603"/>
+                <Baseline points="1146,1603 1389,1603 1399,1603 1532,1603 1549,1603 1611,1603 1623,1603 1722,1602 1735,1602 1803,1602 1821,1602 2095,1597"/>
                 <TextEquiv>
                     <Unicode>verunreinigte Wäſſer, wie Kühl⸗ und Kondenſations⸗</Unicode>
                 </TextEquiv>
@@ -856,8 +856,8 @@ Beziehung einwandsfrei geſtaltet werden.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r3l44" custom="readingOrder {index:43;}">
-                <Coords points="1143,2284 1199,2284 1882,2285 2058,2288 2098,2290 2098,2318 1965,2327 1436,2327 1143,2324"/>
-                <Baseline points="1143,2317 1210,2317 1240,2317 1276,2317 1305,2317 1355,2318 1389,2318 1696,2318 1725,2318 1802,2318 1832,2318 2010,2318 2040,2319 2098,2311"/>
+                <Coords points="1143,2284 1199,2284 1882,2285 2058,2288 2098,2290 2101,2329 1965,2327 1436,2327 1143,2324"/>
+                <Baseline points="1143,2317 1210,2317 1240,2317 1276,2317 1305,2317 1355,2318 1389,2318 1696,2318 1725,2318 1802,2318 1832,2318 2010,2318 2040,2319 2099,2320"/>
                 <TextEquiv>
                     <Unicode>ſind in die Sonderleitungen zum Abfangen des</Unicode>
                 </TextEquiv>
@@ -912,8 +912,8 @@ Beziehung einwandsfrei geſtaltet werden.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r3l52" custom="readingOrder {index:51;}">
-                <Coords points="1229,2638 1269,2638 2044,2640 2100,2645 2100,2668 2084,2681 2044,2682 1701,2682 1346,2681 1305,2679 1229,2672"/>
-                <Baseline points="1229,2672 1293,2672 1305,2672 1533,2673 1545,2673 1601,2673 1612,2673 1923,2674 1938,2674 2100,2662"/>
+                <Coords points="1229,2638 1269,2638 2044,2640 2100,2645 2100,2668 2102,2683 2044,2682 1701,2682 1346,2681 1305,2679 1229,2672"/>
+                <Baseline points="1229,2672 1293,2672 1305,2672 1533,2673 1545,2673 1601,2673 1612,2673 1923,2674 1938,2674 2097,2669"/>
                 <TextEquiv>
                     <Unicode>Die Höchſtmenge der aufzunehmenden Schmutz⸗</Unicode>
                 </TextEquiv>
@@ -933,8 +933,8 @@ Beziehung einwandsfrei geſtaltet werden.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r3l55" custom="readingOrder {index:54;}">
-                <Coords points="1230,2825 1506,2825 1961,2827 2016,2829 2084,2839 2100,2843 2100,2855 2084,2862 1964,2872 1230,2865 1223,2865 1223,2829"/>
-                <Baseline points="1223,2866 1294,2859 1316,2859 1581,2860 1598,2860 1667,2860 1685,2861 1721,2861 1740,2861 1791,2861 1809,2861 1969,2862 1989,2862 2100,2852"/>
+                <Coords points="1230,2825 1506,2825 1961,2827 2016,2829 2084,2839 2100,2843 2100,2855 2100,2867 1964,2872 1230,2865 1223,2865 1223,2829"/>
+                <Baseline points="1227,2858 1294,2859 1316,2859 1581,2860 1598,2860 1667,2860 1685,2861 1721,2861 1740,2861 1791,2861 1809,2861 1969,2862 1989,2862 2097,2861"/>
                 <TextEquiv>
                     <Unicode>Die Schmutzwäſſer ſind in die ſtädtiſche Kana⸗</Unicode>
                 </TextEquiv>
@@ -947,8 +947,8 @@ Beziehung einwandsfrei geſtaltet werden.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r3l57" custom="readingOrder {index:56;}">
-                <Coords points="1143,2914 1404,2913 1404,2913 1447,2913 1970,2915 2060,2918 2100,2920 2100,2949 2001,2958 1240,2964 1221,2964 1143,2955"/>
-                <Baseline points="1143,2943 1184,2944 1200,2944 1296,2945 1311,2946 1389,2947 1404,2947 1576,2948 1591,2948 1732,2949 1749,2949 2025,2949 2041,2950 2100,2941"/>
+                <Coords points="1143,2914 1404,2913 1447,2913 1970,2915 2060,2918 2100,2920 2105,2957 2001,2958 1240,2964 1221,2964 1143,2955"/>
+                <Baseline points="1143,2943 1184,2944 1200,2944 1296,2945 1311,2946 1389,2947 1404,2947 1576,2948 1591,2948 1732,2949 1749,2949 2025,2949 2041,2950 2100,2949"/>
                 <TextEquiv>
                     <Unicode>+ 32,69 nach Maßgabe näherer Beſtimmungen des</Unicode>
                 </TextEquiv>
@@ -1006,7 +1006,7 @@ Beziehung einwandsfrei geſtaltet werden.</Unicode>
                 <Unicode>§ 11.
 Bei der Überführung der Rohrleitungen über
 das Eiſenbahngelände (Anſchlußbahn Charlotten⸗
-burg — Spandau) ſind beim Bau und bei der
+burg – Spandau) ſind beim Bau und bei der
 Unterhaltung der Rohrleitungen die im Intereſſe
 der Sicherheit des Eiſenbahnbetriebes bei ähnlichen
 Anlagen üblichen, von der Eiſenbahnverwaltung

@@ -99,14 +99,14 @@
                 <Coords points="102,539 321,539 1242,543 1419,547 1431,563 1431,575 1419,582 739,584 477,584 231,583 102,581 102,539"/>
                 <Baseline points="102,573 269,574 286,574 338,574 362,575 408,575 424,575 739,576 773,575 778,575 809,575 871,576 906,576 915,576 940,576 982,577 1007,577 1053,577 1070,577 1271,580 1297,580 1346,581 1370,581 1431,572"/>
                 <TextEquiv>
-                    <Unicode>Zuſchlags für die Klaſſenſteuerſtufen 1 und 2 — die Einkommen bis ein⸗</Unicode>
+                    <Unicode>Zuſchlags für die Klaſſenſteuerſtufen 1 und 2 – die Einkommen bis ein⸗</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r2l10" custom="readingOrder {index:9;}">
                 <Coords points="104,584 265,584 1019,587 1266,589 1430,598 1430,626 1387,634 1372,634 133,627 104,625 104,584"/>
                 <Baseline points="104,618 265,619 290,618 353,618 370,619 420,620 446,620 605,620 629,620 673,620 696,621 748,621 766,621 821,620 844,620 881,620 901,620 1053,621 1077,621 1130,623 1146,623 1266,624 1285,625 1430,626"/>
                 <TextEquiv>
-                    <Unicode>ſchließlich 900 ℳ. betreffend — für das ⅠⅠ. Semeſter des Jahres 1891/92</Unicode>
+                    <Unicode>ſchließlich 900 ℳ. betreffend – für das II. Semeſter des Jahres 1891/92</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r2l11" custom="readingOrder {index:10;}">
@@ -120,7 +120,7 @@
                 <Coords points="102,682 119,673 119,673 262,673 1386,678 1430,692 1430,716 1386,717 935,718 364,719 348,719 176,717 102,708 102,682"/>
                 <Baseline points="102,708 152,708 176,708 331,709 348,709 386,710 403,710 578,710 605,710 645,710 671,710 732,711 747,711 984,711 1003,711 1043,712 1060,712 1430,715"/>
                 <TextEquiv>
-                    <Unicode>ein günſtiges zu betrachten. — Die Iſt⸗Einnahme an Gemeindeeinkommen⸗</Unicode>
+                    <Unicode>ein günſtiges zu betrachten. – Die Iſt⸗Einnahme an Gemeindeeinkommen⸗</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r2l13" custom="readingOrder {index:12;}">
@@ -183,7 +183,7 @@
                 <Coords points="97,1073 128,1073 978,1078 1425,1083 1425,1117 1314,1119 1053,1120 468,1120 140,1117 97,1109 97,1073"/>
                 <Baseline points="97,1108 246,1109 282,1109 354,1109 379,1109 423,1110 448,1110 757,1111 786,1112 849,1112 880,1112 912,1112 948,1112 1070,1113 1094,1113 1122,1113 1153,1114 1314,1116 1362,1117 1425,1117"/>
                 <TextEquiv>
-                    <Unicode>Angaben über die Steuerverhältniſſe ſind in Anlage ⅠⅠ enthalten. Die</Unicode>
+                    <Unicode>Angaben über die Steuerverhältniſſe ſind in Anlage II enthalten. Die</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r2l22" custom="readingOrder {index:21;}">
@@ -309,7 +309,7 @@
                 <Coords points="83,1891 115,1891 1163,1894 1307,1895 1373,1896 1412,1906 1412,1930 1163,1937 1058,1937 97,1932 83,1930 83,1891"/>
                 <Baseline points="83,1924 134,1924 164,1924 255,1924 290,1923 349,1922 367,1922 478,1924 505,1925 555,1927 586,1926 749,1926 779,1926 1163,1928 1189,1928 1230,1928 1257,1928 1331,1929 1356,1929 1412,1930"/>
                 <TextEquiv>
-                    <Unicode>ſich allein 690 584,17 ℳ. einmalige Canaliſationsabgaben. — Von den</Unicode>
+                    <Unicode>ſich allein 690 584,17 ℳ. einmalige Canaliſationsabgaben. – Von den</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r2l40" custom="readingOrder {index:39;}">
@@ -386,7 +386,7 @@
                 <Coords points="74,2381 108,2381 1405,2388 1405,2421 1317,2423 1204,2425 913,2428 887,2428 74,2417 74,2381"/>
                 <Baseline points="74,2417 126,2415 150,2415 205,2416 229,2416 361,2417 387,2417 436,2417 457,2417 642,2418 666,2418 698,2418 724,2418 795,2419 822,2419 997,2419 1025,2419 1036,2419 1060,2419 1119,2419 1137,2419 1249,2420 1266,2421 1317,2423 1342,2421 1405,2421"/>
                 <TextEquiv>
-                    <Unicode>für den Neubau der Gasanſtalt ⅠⅠ incl. Bauzinſen 1 530 826,49 ℳ. und</Unicode>
+                    <Unicode>für den Neubau der Gasanſtalt II incl. Bauzinſen 1 530 826,49 ℳ. und</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r2l51" custom="readingOrder {index:50;}">
@@ -435,7 +435,7 @@
                 <Coords points="71,2707 119,2703 119,2703 148,2703 1075,2708 1177,2709 1402,2712 1402,2746 1254,2754 1124,2754 119,2746 71,2735 71,2707"/>
                 <Baseline points="71,2735 88,2735 119,2736 313,2739 351,2739 498,2740 528,2740 574,2741 604,2741 632,2741 662,2741 775,2743 805,2742 868,2743 898,2743 926,2743 951,2743 1075,2744 1104,2744 1254,2744 1282,2745 1314,2745 1343,2745 1402,2745"/>
                 <TextEquiv>
-                    <Unicode>7 Stiftungen, darunter die v. Platen und v. Lentzcke Stiftung ⅠⅠ mit</Unicode>
+                    <Unicode>7 Stiftungen, darunter die v. Platen und v. Lentzcke Stiftung II mit</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r2l58" custom="readingOrder {index:57;}">
@@ -559,10 +559,10 @@ demnach insgeſammt um 134 738,14 ℳ, nämlich von 176 813,73 ℳ. auf
 42 075,59 ℳ. Letztere Summe kann als wirklicher Reinüberſchuß des
 Rechnungsjahres 1891/92 angeſehen werden. Wenn man erwägt, daß die
 ſtädtiſchen Behörden von der Einziehung des Gemeinde⸗Einkommenſteuer⸗
-Zuſchlags für die Klaſſenſteuerſtufen 1 und 2 — die Einkommen bis ein⸗
-ſchließlich 900 ℳ. betreffend — für das ⅠⅠ. Semeſter des Jahres 1891/92
+Zuſchlags für die Klaſſenſteuerſtufen 1 und 2 – die Einkommen bis ein⸗
+ſchließlich 900 ℳ. betreffend – für das II. Semeſter des Jahres 1891/92
 Abſtand genommen haben, ſo iſt das erzielte wirthſchaftliche Reſultat als
-ein günſtiges zu betrachten. — Die Iſt⸗Einnahme an Gemeindeeinkommen⸗
+ein günſtiges zu betrachten. – Die Iſt⸗Einnahme an Gemeindeeinkommen⸗
 ſteuer hat bei dem bisherigen Satz von 150 % Zuſchlag zur Klaſſen⸗ und
 klaſſifizirten Einkommenſteuer 1 302 225,41 ℳ. abzüglich 26 527,42 ℳ.
 Rückzahlungen, mithin 1 275 697,99 ℳ. betragen. Da der Etat eine
@@ -571,7 +571,7 @@ Einkommenſteuer eine Mindereinnahme von 82 502,01 ℳ. erzielt worden.
 Dagegen überſteigen die Iſt⸗Einnahmen bei den Zuſchlägen zur Grund⸗
 ſteuer bezw. Gebäudeſteuer (60 %) und bei der Hundeſteuer die Etatsanſätze
 um bezw. 4,85 ℳ., 10 725,39 ℳ. und 850,40 ℳ. Nähere ſtatiſtiſche
-Angaben über die Steuerverhältniſſe ſind in Anlage ⅠⅠ enthalten. Die
+Angaben über die Steuerverhältniſſe ſind in Anlage II enthalten. Die
 Mindereinnahme aus der Steuerverwaltung, welche ſich nach Vorſtehendem
 noch auf 70 921,37 ℳ. beziffert, findet reichlich ihre Deckung in den
 Mehreinnahmen aus dem Ueberweiſungsgeſetz vom 14. Mai 1885 und
@@ -589,7 +589,7 @@ Das Extraordinarium ſchließt pro 1891/92 mit einer Ausgabe
 von 4 186 495,32 ℳ., ab. Hiervon ſind 3 305 433,24 ℳ. aus Mitteln
 der 1889er Anleihe und die übrigen 881 062,08 ℳ. aus den eigenen
 Einnahmen des Extraordinariums gedeckt. Unter den letzteren befinden
-ſich allein 690 584,17 ℳ. einmalige Canaliſationsabgaben. — Von den
+ſich allein 690 584,17 ℳ. einmalige Canaliſationsabgaben. – Von den
 Ausgaben des Extraordinariums entfallen auf den Bau von Schulhäuſern pp.
 incl. Ausſtattung 559 974,46 ℳ, (darunter für die höhere Bürgerſchule
 263 057,50 ℳ., für die Gemeindeſchule in der Sophie Charlotten Straße
@@ -600,14 +600,14 @@ beſondere auf den Bau der Ladeſtraße am Charlottenburger Ufer und die
 verlängerte Wallſtraße 162 995,87 ℳ. und auf den Bau des Feuerwehr⸗
 dienſtgebäudes 3 438,96 ℳ. Im Uebrigen ſind ausgegeben für die Amor⸗
 tiſation der 1874er Anleihe pp. 127 200 ℳ, für Grunderwerb 327 653,50 ℳ.,
-für den Neubau der Gasanſtalt ⅠⅠ incl. Bauzinſen 1 530 826,49 ℳ. und
+für den Neubau der Gasanſtalt II incl. Bauzinſen 1 530 826,49 ℳ. und
 für Verſchiedenes 415 777,19 ℳ.
 Bei den unter Verwaltung der Stadtgemeinde ſtehenden 26 Stif⸗
 tungen und Legaten pp. ſind in dem Berichtsjahre insgeſammt an
 Zinſen pp. 62 392,96 ℳ. vereinnahmt und für Zwecke der Stiftungen
 hiervon 60 492,24 ℳ. verausgabt worden, ſo daß an Beſtänden zuſammen
 1 900,72 ℳ. in das Rechnungsjahr 1892/93 übertragen ſind. Hieran ſind
-7 Stiftungen, darunter die v. Platen und v. Lentzcke Stiftung ⅠⅠ mit
+7 Stiftungen, darunter die v. Platen und v. Lentzcke Stiftung II mit
 1 457,94 ℳ. betheiligt.
 Der Geſammt Geldverkehr in der Stadt Haupt Kaſſe hat ſich
 im Jahre 1891/92 in der Weiſe geſtaltet, daß einſchließlich der Aſſervate
@@ -653,7 +653,7 @@ und 900 ℳ. baar, Bau Kautionen 557 677,95 ℳ. Dokumente, 1 384,45 ℳ.</Unico
                 <Coords points="1597,341 1630,341 2028,343 2265,346 2606,351 2807,355 2823,356 2823,390 2735,398 2717,398 1694,387 1597,376 1597,341"/>
                 <Baseline points="1597,376 1671,377 1694,377 1856,378 1878,379 2096,381 2112,381 2323,383 2346,384 2437,385 2457,385 2511,386 2532,386 2606,387 2630,387 2753,389 2774,389 2823,390"/>
                 <TextEquiv>
-                    <Unicode>Das geſammte Kämmerei Vermögen belief ſich nach Anlage ⅠⅠⅠ</Unicode>
+                    <Unicode>Das geſammte Kämmerei Vermögen belief ſich nach Anlage III</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r3l5" custom="readingOrder {index:4;}">
@@ -702,7 +702,7 @@ und 900 ℳ. baar, Bau Kautionen 557 677,95 ℳ. Dokumente, 1 384,45 ℳ.</Unico
                 <Coords points="1487,657 1532,653 1532,653 1556,653 2397,661 2819,668 2819,704 2431,707 2361,707 1720,700 1532,696 1487,687 1487,657"/>
                 <Baseline points="1487,687 1652,689 1675,689 1895,691 1920,691 1989,692 2015,692 2135,693 2152,694 2207,694 2232,694 2318,695 2334,695 2431,696 2446,697 2531,697 2557,698 2597,698 2610,698 2673,699 2686,699 2751,700 2767,700 2819,700"/>
                 <TextEquiv>
-                    <Unicode>treffenden Nachweiſung (cfr. Anlage ⅠⅤ) Ende März 1892 15 888 450 ℳ.</Unicode>
+                    <Unicode>treffenden Nachweiſung (cfr. Anlage IV) Ende März 1892 15 888 450 ℳ.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r3l12" custom="readingOrder {index:11;}">
@@ -744,14 +744,14 @@ und 900 ℳ. baar, Bau Kautionen 557 677,95 ℳ. Dokumente, 1 384,45 ℳ.</Unico
                 <Unicode>baar, Gasanſtalts Kautionen 12 109,13 ℳ., Stiftungs Kapitalien der
 unter ſtädtiſcher Verwaltung ſtehenden Stiftungen pp. 892 836,61 ℳ.,
 ſonſtige Depoſiten 45 670,64 ℳ.
-Das geſammte Kämmerei Vermögen belief ſich nach Anlage ⅠⅠⅠ
+Das geſammte Kämmerei Vermögen belief ſich nach Anlage III
 Ende März 1892 auf 25 587 525,82 ℳ. gegen 23 606 652,22 ℳ. Ende
 März 1891. Der Zuwachs beträgt mithin 1 980 873,60 ℳ. Das
 Stiftungs Vermögen beziffert ſich Ende März 1892 auf 1 692 211,61 ℳ.
 gegen 1 139 624,70 ℳ. im Vorjahre. Das Mehr von 552 586,91 ℳ.
 iſt durch den Hinzutritt des Werthes der Kayſer'ſchen Stiftung hervor⸗
 gerufen. Die Schulden der Stadtgemeinde betragen nach der be⸗
-treffenden Nachweiſung (cfr. Anlage ⅠⅤ) Ende März 1892 15 888 450 ℳ.
+treffenden Nachweiſung (cfr. Anlage IV) Ende März 1892 15 888 450 ℳ.
 gegen 12 999 250 ℳ. im Vorjahre. Das Anwachſen derſelben wird durch
 den ſchnellen Aufbrauch der Mittel der 1889er Anleihe bedingt. Von den
 12 Millionen Mark dieſer Anleihe ſind bis zum Jahresſchluß 1891/92
@@ -913,7 +913,7 @@ bereits 9 362 900 ℳ. zur Verausgabung gelangt und zwar für nach⸗
                     <Coords points="1534,1309 1534,1301 1587,1296 1618,1295 1639,1295 2122,1297 2341,1299 2478,1303 2509,1304 2509,1347 2494,1347 2430,1347 2096,1344 1998,1342 1587,1337 1535,1325 1534,1309"/>
                     <Baseline points="1541,1322 1587,1329 1657,1330 1684,1330 1741,1331 1768,1331 1904,1333 1939,1333 1991,1334 1999,1334 2227,1336 2231,1336 2261,1336 2298,1336 2333,1337 2347,1337 2509,1339"/>
                     <TextEquiv>
-                        <Unicode>7. Für den Neubau der Gasanſtalt ⅠⅠ einſchließlich</Unicode>
+                        <Unicode>7. Für den Neubau der Gasanſtalt II einſchließlich</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextLine id="TableCell_1644334304063_90l1" custom="readingOrder {index:1;}">

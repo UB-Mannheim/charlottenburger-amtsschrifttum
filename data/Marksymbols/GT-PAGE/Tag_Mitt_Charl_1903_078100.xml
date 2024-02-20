@@ -41,7 +41,7 @@
                 <Coords points="231,263 416,251 715,239 774,239 1191,244 1191,272 1028,285 583,288 454,296 398,300 231,295 231,263"/>
                 <Baseline points="231,295 416,288 452,287 457,287 471,287 530,282 548,282 715,279 763,279 774,279 788,279 1080,275 1107,274 1191,272"/>
                 <TextEquiv>
-                    <Unicode>teilung ⅠⅠ am Schluſſe des Rechnungsjahres 1902</Unicode>
+                    <Unicode>teilung II am Schluſſe des Rechnungsjahres 1902</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r2l2" custom="readingOrder {index:1;}">
@@ -55,14 +55,14 @@
                 <Coords points="241,350 459,339 1149,325 1168,325 1195,329 1195,363 707,379 403,383 311,390 241,383 241,350"/>
                 <Baseline points="241,383 403,377 459,375 526,372 556,372 646,371 675,370 996,366 1126,364 1195,363"/>
                 <TextEquiv>
-                    <Unicode>Vorjahre. In dem Kaſſenbarbeſtande — Ab⸗</Unicode>
+                    <Unicode>Vorjahre. In dem Kaſſenbarbeſtande – Ab⸗</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r2l4" custom="readingOrder {index:3;}">
                 <Coords points="240,397 280,392 312,389 560,381 1184,374 1195,374 1195,415 507,423 365,429 240,426 240,397"/>
                 <Baseline points="240,426 382,419 406,418 458,417 481,417 536,416 560,416 681,415 704,416 756,415 781,415 844,413 868,413 1055,409 1071,409 1121,408 1140,408 1195,407"/>
                 <TextEquiv>
-                    <Unicode>teilung ⅠⅠⅠ —, welcher ſich von 304396,14 ℳ. auf</Unicode>
+                    <Unicode>teilung III –, welcher ſich von 304396,14 ℳ. auf</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r2l5" custom="readingOrder {index:4;}">
@@ -90,7 +90,7 @@
                 <Coords points="326,564 438,562 610,559 1113,552 1113,552 1177,552 1198,555 1198,586 1177,593 993,597 507,604 490,604 326,598 326,564"/>
                 <Baseline points="326,598 394,597 438,596 569,594 610,593 657,593 696,592 747,591 770,591 993,588 1016,587 1066,587 1095,586 1198,585"/>
                 <TextEquiv>
-                    <Unicode>Der Abgang bei der Abteilung ⅠⅤ „Aus⸗</Unicode>
+                    <Unicode>Der Abgang bei der Abteilung IV „Aus⸗</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r2l9" custom="readingOrder {index:8;}">
@@ -118,7 +118,7 @@
                 <Coords points="240,744 280,742 880,733 1151,731 1151,731 1177,731 1199,740 1199,764 1177,772 533,784 280,784 240,777 240,744"/>
                 <Baseline points="240,777 533,773 571,772 655,770 692,770 752,770 773,770 824,769 859,769 1063,765 1078,765 1116,765 1132,764 1199,763"/>
                 <TextEquiv>
-                    <Unicode>Rechnungsjahres 1902 bei der Abteilung Ⅴ ein</Unicode>
+                    <Unicode>Rechnungsjahres 1902 bei der Abteilung V ein</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r2l13" custom="readingOrder {index:12;}">
@@ -146,7 +146,7 @@
                 <Coords points="301,921 647,915 1152,910 1163,910 1201,920 1201,943 1056,954 505,961 488,961 238,958 238,924"/>
                 <Baseline points="243,956 505,952 523,952 571,951 586,951 630,950 647,950 766,948 777,948 885,947 909,947 960,946 982,946 1201,943"/>
                 <TextEquiv>
-                    <Unicode>— Abteilung ⅤⅠ — werden neben der prozentualen</Unicode>
+                    <Unicode>– Abteilung VI – werden neben der prozentualen</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r2l17" custom="readingOrder {index:16;}">
@@ -160,7 +160,7 @@
                 <Coords points="245,1016 457,1008 1168,997 1204,997 1204,1039 1168,1039 378,1046 267,1043 245,1042 245,1016"/>
                 <Baseline points="245,1035 430,1042 457,1042 480,1041 510,1041 556,1041 573,1041 640,1040 657,1039 881,1037 900,1037 951,1036 968,1036 1168,1033 1203,1032 1204,1032"/>
                 <TextEquiv>
-                    <Unicode>500020,09 ℳ. bei dem Neubaukonto der Gasanſtalt ⅠⅠ</Unicode>
+                    <Unicode>500020,09 ℳ. bei dem Neubaukonto der Gasanſtalt II</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r2l19" custom="readingOrder {index:18;}">
@@ -195,7 +195,7 @@
                 <Coords points="245,1242 277,1233 410,1231 802,1226 802,1226 1045,1226 1203,1234 1203,1258 1170,1267 577,1273 363,1275 304,1275 245,1267 245,1242"/>
                 <Baseline points="245,1267 363,1266 410,1265 483,1264 508,1264 680,1262 715,1261 767,1261 802,1261 970,1259 995,1259 1045,1258 1068,1258 1131,1258 1155,1257 1203,1257"/>
                 <TextEquiv>
-                    <Unicode>wieſen. Den Abgängen der Abteilung ⅤⅠ von zu⸗</Unicode>
+                    <Unicode>wieſen. Den Abgängen der Abteilung VI von zu⸗</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r2l24" custom="readingOrder {index:23;}">
@@ -216,7 +216,7 @@
                 <Coords points="427,1393 630,1381 1004,1381 1026,1395 1026,1418 975,1429 712,1431 427,1425 427,1393"/>
                 <Baseline points="427,1425 473,1425 498,1424 581,1423 607,1423 814,1421 823,1421 1026,1418"/>
                 <TextEquiv>
-                    <Unicode>ⅠⅠ. Das Stiftungsvermögen.</Unicode>
+                    <Unicode>II. Das Stiftungsvermögen.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r2l27" custom="readingOrder {index:26;}">
@@ -230,21 +230,21 @@
                 <Coords points="250,1483 516,1470 540,1470 1171,1474 1204,1482 1204,1506 1187,1507 760,1522 540,1526 515,1523 250,1516 250,1483"/>
                 <Baseline points="250,1507 296,1516 319,1516 516,1513 528,1513 540,1513 554,1513 788,1510 819,1510 981,1509 1004,1509 1057,1510 1084,1508 1129,1507 1152,1507 1204,1506"/>
                 <TextEquiv>
-                    <Unicode>bei Abteilung Ⅰ „Grundbeſitz“ 16869,— ℳ., bei der</Unicode>
+                    <Unicode>bei Abteilung I „Grundbeſitz“ 16869,– ℳ., bei der</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r2l29" custom="readingOrder {index:28;}">
                 <Coords points="247,1527 567,1522 756,1521 1163,1519 1163,1519 1207,1519 1207,1553 942,1564 419,1570 403,1570 247,1561 247,1527"/>
                 <Baseline points="247,1558 419,1561 442,1559 480,1563 506,1562 733,1555 756,1555 952,1554 982,1553 1146,1552 1163,1552 1207,1552"/>
                 <TextEquiv>
-                    <Unicode>Abteilung ⅠⅠ „Ausſtehende Kapitalien“ 10268,54 ℳ.</Unicode>
+                    <Unicode>Abteilung II „Ausſtehende Kapitalien“ 10268,54 ℳ.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r2l30" custom="readingOrder {index:29;}">
                 <Coords points="228,1614 248,1581 284,1573 350,1571 515,1568 858,1564 858,1564 1125,1564 1206,1573 1206,1597 1125,1606 232,1616 228,1616 228,1614"/>
                 <Baseline points="228,1615 313,1605 350,1604 396,1603 430,1603 480,1603 515,1603 681,1600 706,1600 767,1599 800,1599 1125,1597 1155,1596 1206,1596"/>
                 <TextEquiv>
-                    <Unicode>und bei der Abteilung ⅠⅠⅠ „Kaſſenbarbeſtände am</Unicode>
+                    <Unicode>und bei der Abteilung III „Kaſſenbarbeſtände am</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r2l31" custom="readingOrder {index:30;}">
@@ -258,7 +258,7 @@
                 <Coords points="332,1661 332,1659 746,1654 866,1653 1130,1651 1130,1651 1172,1651 1208,1660 1208,1684 1192,1693 1150,1694 708,1699 687,1699 519,1698 339,1692 332,1661"/>
                 <Baseline points="398,1692 422,1692 473,1691 498,1691 666,1689 687,1688 708,1688 732,1688 767,1688 791,1687 843,1687 866,1687 997,1686 1023,1686 1086,1685 1110,1685 1208,1684"/>
                 <TextEquiv>
-                    <Unicode>Bei der Abteilung Ⅰ iſt der Zugang eine Folge</Unicode>
+                    <Unicode>Bei der Abteilung I iſt der Zugang eine Folge</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r2l33" custom="readingOrder {index:32;}">
@@ -279,7 +279,7 @@
                 <Coords points="251,1795 271,1794 660,1788 960,1786 1114,1785 1114,1785 1152,1785 1210,1787 1210,1818 896,1830 420,1836 271,1836 251,1829 251,1795"/>
                 <Baseline points="251,1829 420,1826 448,1826 496,1825 520,1825 616,1824 640,1824 936,1820 960,1820 1007,1820 1031,1819 1088,1819 1114,1819 1210,1818"/>
                 <TextEquiv>
-                    <Unicode>Abteilung ⅠⅠ neben Kursſteigerungen bei den Wert⸗</Unicode>
+                    <Unicode>Abteilung II neben Kursſteigerungen bei den Wert⸗</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r2l36" custom="readingOrder {index:35;}">
@@ -300,7 +300,7 @@
                 <Coords points="253,1928 288,1927 935,1919 1109,1917 1109,1917 1177,1917 1209,1927 1209,1955 1042,1963 557,1967 540,1967 253,1961 253,1928"/>
                 <Baseline points="253,1961 298,1960 326,1960 373,1959 380,1959 557,1957 580,1957 633,1956 655,1956 748,1955 774,1955 852,1954 868,1954 1083,1952 1109,1951 1209,1950"/>
                 <TextEquiv>
-                    <Unicode>bei der Abteilung ⅠⅠⅠ findet ſeine Begründung darin,</Unicode>
+                    <Unicode>bei der Abteilung III findet ſeine Begründung darin,</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r2l39" custom="readingOrder {index:38;}">
@@ -339,44 +339,44 @@
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
-                <Unicode>teilung ⅠⅠ am Schluſſe des Rechnungsjahres 1902
+                <Unicode>teilung II am Schluſſe des Rechnungsjahres 1902
 118277,89 ℳ. nachgewieſen, gegen 45720,28 ℳ im
-Vorjahre. In dem Kaſſenbarbeſtande — Ab⸗
-teilung ⅠⅠⅠ —, welcher ſich von 304396,14 ℳ. auf
+Vorjahre. In dem Kaſſenbarbeſtande – Ab⸗
+teilung III –, welcher ſich von 304396,14 ℳ. auf
 606440,82 ℳ, mithin um 302044,68 ℳ. erhöht hat,
 ſind auch die von den Gasabnehmern beſtellten Sicher⸗
 heiten im Betrage von 241894,54 ℳ. enthalten.
-Der Abgang bei der Abteilung ⅠⅤ „Aus⸗
+Der Abgang bei der Abteilung IV „Aus⸗
 ſtehende Einnahmereſte am Jahresſchluß“ ergibt ſich
 aus dem Vergleich des Jahresabſchluſſes für 1902
 mit dem für 1901. Ebenſo war am Schluſſe des
-Rechnungsjahres 1902 bei der Abteilung Ⅴ ein
+Rechnungsjahres 1902 bei der Abteilung V ein
 um 153547,28 ℳ. niedrigerer Beſtand an Materialien,
 Naturalien uſw. gegen das Vorjahr vorhanden. Als
 Abgang bei den Werten des Mobiliars, Inventars
-— Abteilung ⅤⅠ — werden neben der prozentualen
+– Abteilung VI – werden neben der prozentualen
 Abſchreibung auf Apparate, Maſchinen uſw. von
-500020,09 ℳ. bei dem Neubaukonto der Gasanſtalt ⅠⅠ
+500020,09 ℳ. bei dem Neubaukonto der Gasanſtalt II
 noch 245173,59 ℳ. Koſten für diejenigen Bauten,
 welche im Laufe des Rechnungsjahres fertig geſtellt
 und auf das Gebäude⸗, Apparate⸗ und Maſchinen⸗
 uſw. Konto endgültig verbucht worden ſind, nachge⸗
-wieſen. Den Abgängen der Abteilung ⅤⅠ von zu⸗
+wieſen. Den Abgängen der Abteilung VI von zu⸗
 ſammen 745193,68 ℳ. ſtehen Zugänge im Betrage
 von 608697,70 ℳ. gegenüber.
-ⅠⅠ. Das Stiftungsvermögen.
+II. Das Stiftungsvermögen.
 Die Zugänge beim Stiftungsvermögen betragen
-bei Abteilung Ⅰ „Grundbeſitz“ 16869,— ℳ., bei der
-Abteilung ⅠⅠ „Ausſtehende Kapitalien“ 10268,54 ℳ.
-und bei der Abteilung ⅠⅠⅠ „Kaſſenbarbeſtände am
+bei Abteilung I „Grundbeſitz“ 16869,– ℳ., bei der
+Abteilung II „Ausſtehende Kapitalien“ 10268,54 ℳ.
+und bei der Abteilung III „Kaſſenbarbeſtände am
 Jahresſchluß“ 4391,18 ℳ, zuſammen 31528,72 ℳ.
-Bei der Abteilung Ⅰ iſt der Zugang eine Folge
+Bei der Abteilung I iſt der Zugang eine Folge
 der Neuabſchätzung der Stiftungsgrundſtücke durch
 die Grundeigentumsdeputation, während derſelbe bei
-Abteilung ⅠⅠ neben Kursſteigerungen bei den Wert⸗
+Abteilung II neben Kursſteigerungen bei den Wert⸗
 papieren durch den Hinzutritt des Vermächtniſſes
 der Geſchwiſter Moſer verurſacht iſt. Der Zugang
-bei der Abteilung ⅠⅠⅠ findet ſeine Begründung darin,
+bei der Abteilung III findet ſeine Begründung darin,
 daß der Beſtand der einzelnen Stiftungen ſich gegen
 das Vorjahr um 4391,18 ℳ. erhöht hat.
 B. Das Schuldlagerbuch.
@@ -590,7 +590,7 @@ Der Abſchluß des Schuldlagerbuches vom
                     <Coords points="307,2816 872,2817 1216,2817 1219,2850 1117,2850 448,2854 324,2864 307,2864 307,2816"/>
                     <Baseline points="307,2855 345,2854 368,2854 482,2854 538,2853 582,2852 689,2851 815,2849 839,2849 902,2848 921,2848 1032,2847 1045,2846 1209,2846"/>
                     <TextEquiv>
-                        <Unicode>zu e) — in Sa. 49 497 702,86 „</Unicode>
+                        <Unicode>zu e) – in Sa. 49 497 702,86 „</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <CornerPts>0 1 3 4</CornerPts>

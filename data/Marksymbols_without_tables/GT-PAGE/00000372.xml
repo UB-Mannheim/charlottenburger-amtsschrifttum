@@ -201,7 +201,7 @@ Transkribus</Creator>
                 <Coords points="237,507 704,497 704,497 921,497 1111,502 1111,535 1095,540 357,545 237,540 237,507"/>
                 <Baseline points="237,540 306,539 320,539 496,537 509,537 568,538 581,538 921,536 933,536 975,536 988,535 1111,533"/>
                 <TextEquiv>
-                    <Unicode>Der Buchwert des Geſamtgrundſtücks— einſchl.</Unicode>
+                    <Unicode>Der Buchwert des Geſamtgrundſtücks– einſchl.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
@@ -353,7 +353,7 @@ Transkribus</Creator>
                 <Coords points="1140,1445 1228,1444 1606,1441 1930,1440 1930,1440 2067,1440 2105,1447 2105,1470 2021,1480 1993,1481 1543,1484 1276,1485 1228,1485 1140,1475 1140,1445"/>
                 <Baseline points="1140,1475 1169,1477 1212,1477 1329,1476 1356,1476 1413,1476 1440,1476 1577,1475 1606,1475 1709,1474 1737,1474 1790,1473 1819,1473 2021,1471 2049,1471 2105,1464"/>
                 <TextEquiv>
-                    <Unicode>Ⅰ. Koſten der eigenen Regie bei Vergebung der</Unicode>
+                    <Unicode>I. Koſten der eigenen Regie bei Vergebung der</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r9l2" custom="readingOrder {index:1;}">
@@ -490,7 +490,7 @@ Transkribus</Creator>
                 <Coords points="148,552 723,544 723,544 742,544 811,548 811,580 570,590 148,590 148,552"/>
                 <Baseline points="148,584 363,582 387,581 430,582 453,582 570,581 594,581 650,581 678,581 706,581 723,580 753,580 769,580 811,580"/>
                 <TextEquiv>
-                    <Unicode>Hypotheken — betrug am 1. 4. 08</Unicode>
+                    <Unicode>Hypotheken – betrug am 1. 4. 08</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
@@ -1078,7 +1078,7 @@ Transkribus</Creator>
                 <Coords points="309,3036 510,3034 585,3034 655,3044 656,3077 640,3082 312,3061 309,3036"/>
                 <Baseline points="309,3068 396,3068 411,3068 491,3068 510,3068 655,3068"/>
                 <TextEquiv>
-                    <Unicode>3 — 4 qbm Faſſung</Unicode>
+                    <Unicode>3 – 4 qbm Faſſung</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r45l4" custom="readingOrder {index:3;}">
@@ -1151,7 +1151,7 @@ Transkribus</Creator>
                 <Coords points="691,2621 872,2621 872,2655 840,2663 745,2663 691,2655 691,2621"/>
                 <Baseline points="691,2655 786,2655 811,2655 816,2655 835,2655 872,2655"/>
                 <TextEquiv>
-                    <Unicode>300, — ℳ</Unicode>
+                    <Unicode>300, – ℳ</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
@@ -1164,7 +1164,7 @@ Transkribus</Creator>
                 <Coords points="669,2713 689,2712 876,2708 876,2750 710,2753 669,2745 669,2713"/>
                 <Baseline points="669,2745 873,2744"/>
                 <TextEquiv>
-                    <Unicode>1360, — ℳ</Unicode>
+                    <Unicode>1360, – ℳ</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
@@ -1177,7 +1177,7 @@ Transkribus</Creator>
                 <Coords points="689,2802 872,2802 872,2833 781,2839 755,2839 689,2833 689,2802"/>
                 <Baseline points="689,2833 809,2833 833,2833 872,2833"/>
                 <TextEquiv>
-                    <Unicode>930, — ℳ</Unicode>
+                    <Unicode>930, – ℳ</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextEquiv>

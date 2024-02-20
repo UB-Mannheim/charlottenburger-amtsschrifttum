@@ -159,7 +159,7 @@
                 <Coords points="302,1127 368,1127 562,1128 1126,1132 1147,1143 1147,1168 765,1171 718,1171 511,1170 345,1168 302,1158 302,1127"/>
                 <Baseline points="302,1158 397,1160 434,1160 479,1161 511,1161 616,1163 650,1163 765,1163 801,1163 845,1165 875,1165 950,1166 981,1166 1147,1168"/>
                 <TextEquiv>
-                    <Unicode>2,7 % — bisher 1,55 % — vom Gebäude⸗</Unicode>
+                    <Unicode>2,7 % – bisher 1,55 % – vom Gebäude⸗</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r2l19" custom="readingOrder {index:18;}">
@@ -243,7 +243,7 @@ um 234 650 ℳ verſtärkt.&#13;
 Jahresſatz der Gebühren für die Benutzung&#13;
 der ſtädtiſchen Kanaliſation für das letzte&#13;
 Vierteljahr des Rechnungsjahres 1919 auf&#13;
-2,7 % — bisher 1,55 % — vom Gebäude⸗&#13;
+2,7 % – bisher 1,55 % – vom Gebäude⸗&#13;
 nutzungswert erhöht.&#13;
 Zu 1. Infolge des Steigens der Löhne und&#13;
 der Materialpreiſe, ſowie auch infolge von Repara⸗&#13;
@@ -353,7 +353,7 @@ Löhne muß verſtärkt werden:</Unicode>
                     <Coords points="223,1917 261,1917 650,1922 779,1924 865,1926 885,1929 885,1958 779,1964 715,1964 544,1963 241,1961 223,1951 223,1917"/>
                     <Baseline points="226,1950 319,1953 336,1953 391,1954 407,1954 469,1955 486,1955 677,1957 694,1957 728,1957 750,1957 817,1958 835,1958 885,1958"/>
                     <TextEquiv>
-                        <Unicode>Kraft für das Pumpwerk Ⅰ) ſind als</Unicode>
+                        <Unicode>Kraft für das Pumpwerk I) ſind als</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextLine id="TableCell_1644338460293_2177l3" custom="readingOrder {index:3;}">
@@ -494,7 +494,7 @@ Löhne muß verſtärkt werden:</Unicode>
                     <Coords points="209,2760 655,2760 797,2764 860,2775 872,2782 872,2793 860,2799 797,2806 783,2806 430,2804 209,2793 209,2760"/>
                     <Baseline points="209,2793 301,2794 329,2794 385,2794 411,2795 716,2798 743,2798 797,2799 824,2799 871,2798"/>
                     <TextEquiv>
-                        <Unicode>toren des Hilfspumpwerkes ⅠⅠ) er⸗</Unicode>
+                        <Unicode>toren des Hilfspumpwerkes II) er⸗</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextLine id="TableCell_1644338460302_2181l3" custom="readingOrder {index:3;}">
@@ -806,7 +806,7 @@ Löhne muß verſtärkt werden:</Unicode>
                     <Coords points="1219,1313 1327,1313 1665,1315 1840,1320 1880,1330 1880,1354 1665,1357 1496,1357 1439,1356 1219,1347 1219,1313"/>
                     <Baseline points="1219,1347 1327,1348 1355,1348 1413,1349 1439,1349 1665,1352 1693,1353 1723,1354 1748,1353 1796,1352 1822,1353 1880,1354"/>
                     <TextEquiv>
-                        <Unicode>kolben des Pumpwerkes Ⅰ, an den</Unicode>
+                        <Unicode>kolben des Pumpwerkes I, an den</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextLine id="TableCell_1644338547261_2217l15" custom="readingOrder {index:15;}">
