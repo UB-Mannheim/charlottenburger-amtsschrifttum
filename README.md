@@ -1,4 +1,6 @@
 # Charlottenburger Amtsschrifttum
+[![DOI 10.5281/zenodo.10686500](https://zenodo.org/badge/DOI/10.5281/zenodo.10686500.svg)](https://zenodo.org/doi/10.5281/zenodo.10686500)
+
 This repository contains 26 pages of ground truth from the collection "Charlottenburger Amtsschrifttum" (1879–1919), which can be used for training or validation of OCR models.
 
 #### Typeface:
