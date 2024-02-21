@@ -8,7 +8,7 @@ Fraktur
 German
 
 #### Special characters:
-Roman numerals, long s (ſ), German Mark (ℳ), double oblique hyphen (⸗), fractions.
+Long s (ſ), German Mark (ℳ), double oblique hyphen (⸗), fractions.
 
 #### Transcription guidelines:
 The transcription rules are based on the [OCR-D transcription guidelines Level 2](https://ocr-d.de/en/gt-guidelines/trans/level_2_2.html). Since the data is also used for generating synthetic ground truth data, no normalization was performed.
