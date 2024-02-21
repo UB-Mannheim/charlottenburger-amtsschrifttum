@@ -1,7 +1,7 @@
 # Charlottenburger Amtsschrifttum
 This repository contains 26 pages of ground truth from the collection "Charlottenburger Amtsschrifttum" (1879–1919), which can be used for training or validation of OCR models.
 
-#### Typeface class:
+#### Typeface:
 Fraktur
 
 #### Languages:
